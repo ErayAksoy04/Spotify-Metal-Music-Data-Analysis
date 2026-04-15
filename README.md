@@ -1,4 +1,4 @@
-Hey! This is the repository for a data analysis project I worked on during the Fall 2025 semester.
+Hello! This is the source code repository for a data analysis project I worked on during the fall 2025 semester of my third year in computer engineering.
 
 I've always been curious about the actual differences between metal music subgenres (like Folk, Death, Black, Gothic, etc.), so I decided to analyze their acoustic features on Spotify to see how they differ and if those technical features actually affect a track's popularity.
 
