@@ -1,0 +1,994 @@
+track_id,track_name,artist_id,artist_name,album_id,album_name,release_date,popularity,genre_query
+4xDwCYhobDehSBGUmd5H6Y,FEEL NOTHING,1cJ5tVoeAEFcZBAwSZ0CtF,The Plot In You,7BNY7JDC9CtfXMOQARmuWP,DISPOSE,2018-02-16,71,Metal
+1fLlRApgzxWweF1JTf8yM5,Given Up,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,2tlTBLz2w52rpGCLBGyGw6,Minutes to Midnight,2007-05-14,80,Metal
+4Uiw0Sl9yskBaC6P4DcdVD,Be Quiet and Drive (Far Away),6Ghvu1VvMGScGpOUJBAHNH,Deftones,7o4UsmV37Sg5It2Eb7vHzu,Around the Fur,1997-10-27,80,Metal
+5rAxhWcgFng3s570sGO2F8,A Place for My Head,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,6hPkbAV3ZXpGZBGUvL6jVM,Hybrid Theory (Bonus Edition),2000-10-24,75,Metal
+5anCkDvJ17aznvK5TED5uo,Hail to the King,0nmQIMXWTXfhgOBdNzhGOs,Avenged Sevenfold,0ks45m1bsP2JsZpM5D2FFA,Hail to the King,2013-08-23,78,Metal
+2bPGTMB5sFfFYQ2YvSmup0,Deutschland,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1LoyJQVHPLHE3fCCS8Juek,Rammstein,2019-05-17,77,Metal
+2avKuMN2QXkaG9vvHa2JLt,Take A Look Around,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,5mi7FKaWE5CtcOjdyxScA7,Chocolate Starfish And The Hot Dog Flavored Water,2000-10-17,80,Metal
+2wXSx9UxsNIYidGi5r0SZ4,Ending Credits,0ybFZ2Ab08V8hueghSXm6E,Opeth,4FmI0F5GvvR1M9RURWnJV9,Damnation,2003-04-22,52,Metal
+1EryAkZ0VHstC6haIxVBiE,Sextape,6Ghvu1VvMGScGpOUJBAHNH,Deftones,1GjjBpY2iDwSQs5bykQI5e,Diamond Eyes,2010-04-30,80,Metal
+18lR4BzEs7e3qzc0KVkTpU,What I've Done,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,2tlTBLz2w52rpGCLBGyGw6,Minutes to Midnight,2007-05-14,85,Metal
+0WSa1sucoNRcEeULlZVQXj,Can You Feel My Heart,1Ffb6ejR6Fe5IamqA5oRUF,Bring Me The Horizon,6IYPmM3xsOPL2XPSvf1ZAz,Sempiternal (Expanded Edition),2013-04-01,78,Metal
+0UFDKFqW2oGspYeYqo9wjA,Bleed It Out,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,2tlTBLz2w52rpGCLBGyGw6,Minutes to Midnight,2007-05-14,81,Metal
+3RAFcUBrCNaboRXoP3S5t1,Psychosocial,05fG473iIaoy82BF1aGhL8,Slipknot,2ISXjEm0D4chvU2IDNvUqk,All Hope Is Gone (10th Anniversary),2008-08-20,78,Metal
+5cZqsjVs6MevCnAkasbEOX,Break Stuff,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,3HCCUaRSjHSFOe4fqE0BiP,Significant Other,1999,84,Metal
+28WmNsclKsrVmdv3tDmoYU,Seek & Destroy - Remastered,2ye2Wgw4gimLv2eAKyk1NB,Metallica,1aGapZGHBovnmhwqVNI6JZ,Kill 'Em All (Remastered),1983-07-24,72,Metal
+1Vej0qeQ3ioKwpI6FUbRv1,Papercut,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,6hPkbAV3ZXpGZBGUvL6jVM,Hybrid Theory (Bonus Edition),2000-10-24,80,Metal
+4OROzZUy6gOWN4UGQVaZMF,The Trooper - 2015 Remaster,6mdiAmATAx73kdxrNrnlao,Iron Maiden,7I9Wh2IgvI3Nnr8Z1ZSWby,Piece of Mind (2015 Remaster),1983,74,Metal
+6FUwPb4mGlUDbx42uspXaZ,Fuel,2ye2Wgw4gimLv2eAKyk1NB,Metallica,0Ip2GlQPoAIgdkqCO2YkMa,Reload,1997-01-01,73,Metal
+7w6PJe5KBPyvuRYxFkPssC,No More Tears,6ZLTlhejhndI4Rh53vYhrY,Ozzy Osbourne,6eh82ojicL8RSJF7GkYTh7,No More Tears (Expanded Edition),1991-09-17,79,Metal
+5W8YXBz9MTIDyrpYaCg2Ky,Last Resort,4RddZ3iHvSpGV4dvATac9X,Papa Roach,0BHa0ePkvGAVKymB4FU58m,Infest,2000-04-25,82,Metal
+3K4HG9evC7dg3N0R9cYqk4,One Step Closer,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,6hPkbAV3ZXpGZBGUvL6jVM,Hybrid Theory (Bonus Edition),2000-10-24,83,Metal
+1158ckiB5S4cpsdYHDB9IF,My Own Summer (Shove It),6Ghvu1VvMGScGpOUJBAHNH,Deftones,7o4UsmV37Sg5It2Eb7vHzu,Around the Fur,1997-10-27,82,Metal
+5ArNGisLzrNOIVwWajRRdt,Mein Herz brennt,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1CtTTpKbHU8KbHRB4LmBbv,Mutter,2001-04-02,69,Metal
+3X0K6fII7VIwL1URPrp8Ko,Ich will,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1CtTTpKbHU8KbHRB4LmBbv,Mutter,2001-04-02,70,Metal
+3UygY7qW2cvG9Llkay6i1i,Going Under,5nGIFgo0shDenQYSE0Sn7c,Evanescence,02w1xMzzdF2OJxTeh1basm,Fallen,2003-03-04,79,Metal
+3IV4swNduIRunHREK80owz,Rollin' (Air Raid Vehicle),165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,5mi7FKaWE5CtcOjdyxScA7,Chocolate Starfish And The Hot Dog Flavored Water,2000-10-17,83,Metal
+60a0Rd6pjrkxjPbaKzXjfq,In the End,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,6hPkbAV3ZXpGZBGUvL6jVM,Hybrid Theory (Bonus Edition),2000-10-24,89,Metal
+5nekfiTN45vlxG0eNJQQye,Fade To Black - Remastered,2ye2Wgw4gimLv2eAKyk1NB,Metallica,4K5E5mWQbECn9aThu6Xnkx,Ride The Lightning (Deluxe / Remastered),1984-07-26,70,Metal
+4e9eGQYsOiBcftrWXwsVco,Aerials,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,6jWde94ln40epKIQCd8XUh,Toxicity,2001-09-04,83,Metal
+57BrRMwf9LrcmuOsyGilwr,Crawling,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,6hPkbAV3ZXpGZBGUvL6jVM,Hybrid Theory (Bonus Edition),2000-10-24,81,Metal
+5ltXoDLlI0rFZAmOXbAp5T,Sad But True - Remastered 2021,2ye2Wgw4gimLv2eAKyk1NB,Metallica,7h5xn0Olvx2p0eQcSt1Osy,Metallica (Remastered Deluxe Box Set),2021-09-10,74,Metal
+51c94ac31swyDQj9B3Lzs3,Change (In the House of Flies),6Ghvu1VvMGScGpOUJBAHNH,Deftones,5LEXck3kfixFaA3CqVE7bC,White Pony,2000,81,Metal
+2DlHlPMa4M17kufBvI2lEN,Chop Suey!,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,6jWde94ln40epKIQCd8XUh,Toxicity,2001-09-04,85,Metal
+61mWefnWQOLf90gepjOCb3,Duality,05fG473iIaoy82BF1aGhL8,Slipknot,4ZDBQSIDIZRUBOG2OHcN3T,Vol. 3: The Subliminal Verses (Special Edition),2004,82,Metal
+6q7p4AczMoOVzw95GDXz1x,Flying,0ZXKT0FCsLWkSLCjoBJgBX,Anathema,6rAcqvF8bsczcbpmCAIfZN,Original Album Classics,2011,57,Metal
+0snQkGI5qnAmohLE7jTsTn,Toxicity,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,6jWde94ln40epKIQCd8XUh,Toxicity,2001-09-04,84,Metal
+3gVhsZtseYtY1fMuyYq06F,Sonne,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1CtTTpKbHU8KbHRB4LmBbv,Mutter,2001-04-02,78,Metal
+3fjmSxt0PskST13CSdBUFx,Somewhere I Belong,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,0f7R0jf0pcTb6K6IVVPcMD,Meteora (Bonus Edition),2003-03-25,82,Metal
+1VNWaY3uNfoeWqb5U8x2QX,Lonely Day,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,3QxX3NbWyLlLG6lP1xveL3,Hypnotize,2005-11-22,83,Metal
+5Osd2BWeCNtA6EMLY0Dsil,Flying - Remastered,0ZXKT0FCsLWkSLCjoBJgBX,Anathema,2u9kFU66dEBxvvw23QPujf,A Natural Disaster (Remastered),2003,58,Metal
+3DwQ7AH3xGD9h65ezslm6q,Enter Sandman - Remastered 2021,2ye2Wgw4gimLv2eAKyk1NB,Metallica,7h5xn0Olvx2p0eQcSt1Osy,Metallica (Remastered Deluxe Box Set),2021-09-10,84,Metal
+2MuWTIM3b0YEAskbeeFE1i,Master Of Puppets,2ye2Wgw4gimLv2eAKyk1NB,Metallica,2Lq2qX3hYhiuPckC8Flj21,Master Of Puppets (Remastered),1986-03-03,78,Metal
+02xhLoVqpGmOqvolgrwM8w,One,2ye2Wgw4gimLv2eAKyk1NB,Metallica,6jZ1z25PyF4Yd3kHxt9rl1,…And Justice for All (Remastered),1988-08-25,76,Metal
+4Yf5bqU3NK4kNOypcrLYwU,Faint,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4Gfnly5CzMJQqkUFfoHaP3,Meteora,2003-03-25,83,Metal
+2nLtzopw4rPReszdYBJU6h,Numb,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4Gfnly5CzMJQqkUFfoHaP3,Meteora,2003-03-25,87,Metal
+6QAsrXPnMSXIbV0yEJHlEX,Nothing Else Matters - Remastered 2021,2ye2Wgw4gimLv2eAKyk1NB,Metallica,7h5xn0Olvx2p0eQcSt1Osy,Metallica (Remastered Deluxe Box Set),2021-09-10,82,Metal
+1EDPVGbyPKJPeGqATwXZvN,The Emptiness Machine,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4R6FV9NSzhPihHR0h4pI93,From Zero,2024-11-15,80,Metal
+5Zuboc3Cj9Ldnc8HyUnNUK,Engel,6wWVKhxIU2cEi0K81v7HvP,Rammstein,6hh5ax5BomINXGoi4q7FDP,Sehnsucht (Anniversary Edition - Remastered),1997-08-22,72,Metal
+6XcoiOYiNbIxzpt8WRxq8Z,Du hast,6wWVKhxIU2cEi0K81v7HvP,Rammstein,6hh5ax5BomINXGoi4q7FDP,Sehnsucht (Anniversary Edition - Remastered),1997-08-22,75,Metal
+5lqyqPU3JkpCbUbLmTVQPW,The Unforgiven - Remastered 2021,2ye2Wgw4gimLv2eAKyk1NB,Metallica,3dck2tBxGfxj9m3CguDgjb,Metallica (Remastered 2021),2021-09-10,74,Metal
+2Ap6ZjicxxcWvit5ZRYQxk,She's Gone,0ecbvwhuhiEAWOLHlRXpqD,STEELHEART,5w6EjgZMLmZm7Z0EJJZ7PZ,Steelheart,1990-01-01,63,Metal
+0rPTPahzhGx9LSzI8XX5OM,Figure.09,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,0f7R0jf0pcTb6K6IVVPcMD,Meteora (Bonus Edition),2003-03-25,72,Metal
+5mc6EyF1OIEOhAkD0Gg9Lc,Closer,0X380XXQSNBYuleKzav5UO,Nine Inch Nails,5I7lLu8xXJfGRdFUqHaLQU,The Downward Spiral (Deluxe Edition),1994-03-08,76,Metal
+0d510tdfPL5wEdjUDe9CjH,Join Me - Razorblade Mix,74aLweE8FHHf4yN5TWv1GM,HIM,36tz5XLSdscEvXvzWQwSXv,Razorblade Romance,1999-11-15,61,Metal
+7CpbhqKUedOIrcvc94p60Y,Bodies,1E4r4z7ivGUcSAnCbINJ9v,Drowning Pool,089oyV5caclve3ap934iRw,Sinner,2001-01-01,78,Metal
+4Yqy0GpeDEXLibWJCZyQew,Kickstart My Heart,0cc6vw3VN8YlIcvr1v7tBL,Mötley Crüe,4MDYr65P5RQb6VHt80T3o8,Dr. Feelgood,1989-09-02,80,Metal
+2PnlsTsOTLE5jnBnNe2K0A,The Emptiness Machine,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,6W0Gabv5f3ugnckc6YgfJQ,The Emptiness Machine,2024-09-05,78,Metal
+4fPrxIohi60EZfNy2TlD44,Rein raus,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1CtTTpKbHU8KbHRB4LmBbv,Mutter,2001-04-02,68,Metal
+1MTQHCpraD4S8g5PAFKzoj,Behind Blue Eyes,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,3oUoQ0UH7Rv06x1kpSjS36,Results May Vary,2003-01-01,78,Metal
+5awDvzxWfd53SSrsRZ8pXO,Du hast,6wWVKhxIU2cEi0K81v7HvP,Rammstein,2w6Vy8qZLU4niyQAHyu0Ag,Sehnsucht,1997-08-25,68,Metal
+4FEr6dIdH6EqLKR0jB560J,Rosemary,6Ghvu1VvMGScGpOUJBAHNH,Deftones,4PIVdqvL1Rc7T7Vfsr8n8Q,Koi No Yokan,2012-11-09,75,Metal
+0EYOdF5FCkgOJJla8DI2Md,B.Y.O.B.,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,0cn6MHyx4YuZauaB7Pb66o,Mezmerize,2005-05-17,79,Metal
+1r1fPuhj9H4VdXr7OK6FL5,CASTLE OF GLASS,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4XHIjbhjRmqWlosjj5rqSI,LIVING THINGS,2012-06-19,76,Metal
+37ZJ0p5Jm13JPevGcx4SkF,Livin' On A Prayer,58lV9VcRSjABbAbfWS6skp,Bon Jovi,0kBfgEilUFCMIQY5IOjG4t,Slippery When Wet,1986-08-16,80,Metal
+7fcfNW0XxTWlwVlftzfDOR,Walk,14pVkFUHDL207LzLHtSA18,Pantera,7kW0cpKgSVsEqcc8xgbSb0,Vulgar Display of Power,1992-02-21,77,Metal
+3GiJq4AQK7324mfIQbpiTf,Custer,05fG473iIaoy82BF1aGhL8,Slipknot,0ApKaazNHf0gzjAYZauexq,.5: The Gray Chapter (Special Edition),2014-10-15,74,Metal
+697M5JB8FDIyRXEXgl1pBZ,From the Inside,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,0f7R0jf0pcTb6K6IVVPcMD,Meteora (Bonus Edition),2003-03-25,72,Metal
+0rmGAIH9LNJewFw7nKzZnc,You Give Love A Bad Name,58lV9VcRSjABbAbfWS6skp,Bon Jovi,0kBfgEilUFCMIQY5IOjG4t,Slippery When Wet,1986-08-16,76,Metal
+1pr9TZGOXeJUggIal1Wq3R,Blind,3RNrq3jvMZxD9ZyoOZbQOD,Korn,7D3XFJlfZIkmGWqZXm2X8z,Korn,1994-10-11,75,Metal
+7xPGvZaG9W7UOrCgEwbONe,The Bard's Song - In the Forest - Remastered 2007,7jxJ25p0pPjk0MStloN6o6,Blind Guardian,4oruHZSLyTDKPNY2VQIlCS,Somewhere Far Beyond (Remastered 2007),1992-06-30,56,Metal
+5aNH8inF5BsbThDeOLs7zs,Feuer frei!,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1CtTTpKbHU8KbHRB4LmBbv,Mutter,2001-04-02,69,Metal
+7j43FohbLVulScL7S9sQZk,Ausländer,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1LoyJQVHPLHE3fCCS8Juek,Rammstein,2019-05-17,70,Metal
+6olS0TmHmsGr0hXtcBsiVM,A Tout Le Monde - Remastered 2004,1Yox196W7bzVNZI7RBaPnf,Megadeth,5UvUjC3G4UKSrwOeBA0qob,Youthanasia (Expanded Edition - Remastered),1994-10-28,66,Metal
+40rvBMQizxkIqnjPdEWY1v,Down with the Sickness,3TOqt5oJwL9BE2NG9MEwDa,Disturbed,6IvosVciDOQ9NAPaKwhtLY,The Sickness,2000-03-07,78,Metal
+6wqJeItl3Vc3az4ZicSQAB,Before I Forget,05fG473iIaoy82BF1aGhL8,Slipknot,4ZDBQSIDIZRUBOG2OHcN3T,Vol. 3: The Subliminal Verses (Special Edition),2004,78,Metal
+2302lUwfZ4S4dVyPOCDFnQ,Sweet Dreams (Are Made Of This),2VYQTNDsvvKN9wmU5W7xpj,Marilyn Manson,6nCgYzfYRa3SPmL0AW8is1,Smells Like Children,1995-01-01,71,Metal
+5LyRtsQLhcXmy50VXhQXXS,Holy Wars...The Punishment Due - 2004 Remix,1Yox196W7bzVNZI7RBaPnf,Megadeth,0qaLL09EtF1hiUis7PRvaJ,Rust In Peace (2004 Remix / Expanded Edition),1990-10-04,69,Metal
+2SgbR6ttzoNlCRGQOKjrop,Cowboys from Hell,14pVkFUHDL207LzLHtSA18,Pantera,5szY4sBOSD6IFjFN1RtWTe,Cowboys from Hell,1990-07-20,75,Metal
+4eGHEHqoDMMejzPhRFTc7p,I Don't Wanna Be Me,0blJzvevdXrp21YeI2vbco,Type O Negative,4AdGr92Z6Ff2WbKP5Ja2QC,Life Is Killing Me,2003-06-09,74,Metal
+1a8JpAL3vbAdXYrEABvOtb,Amerika,6wWVKhxIU2cEi0K81v7HvP,Rammstein,74ydDCcXTco741y42ceRJ5,"Reise, Reise",2004-09-27,69,Metal
+2R6UrJ8uWbSIiHWmvRQvN8,Whiskey In The Jar,2ye2Wgw4gimLv2eAKyk1NB,Metallica,0vshXZYhBkbIoqxyC2fXcF,Garage Inc.,1998-01-01,74,Metal
+3GAqddcV0nwMHQI5RfMXoI,"Afterlife (from the Netflix Series ""Devil May Cry"")",5nGIFgo0shDenQYSE0Sn7c,Evanescence,4pwZVViuVYftrIiZa0ROjY,"Afterlife (from the Netflix Series ""Devil May Cry"")",2025-03-28,73,Metal
+4E5xVW505akJX0wcKj8Mpd,Tornado Of Souls - 2004 Remix,1Yox196W7bzVNZI7RBaPnf,Megadeth,0qaLL09EtF1hiUis7PRvaJ,Rust In Peace (2004 Remix / Expanded Edition),1990-10-04,65,Metal
+7oVEtyuv9NBmnytsCIsY5I,BURN IT DOWN,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4XHIjbhjRmqWlosjj5rqSI,LIVING THINGS,2012-06-19,80,Metal
+70L6nHORQsblY813yNqUR3,Cherry Waves,6Ghvu1VvMGScGpOUJBAHNH,Deftones,4ilqDlqD37nilewk9x8tyZ,Saturday Night Wrist,2006-10-25,79,Metal
+1aXFBWnnPFRKUN7vuIA5h0,Turn The Page,2ye2Wgw4gimLv2eAKyk1NB,Metallica,0vshXZYhBkbIoqxyC2fXcF,Garage Inc.,1998-01-01,66,Metal
+6p8eFfPw3nQkf37aT3AkmK,Fear of the Dark - 2015 Remaster,6mdiAmATAx73kdxrNrnlao,Iron Maiden,16Su3EUFLPqWVyrwN1q5wO,Fear of the Dark (2015 Remaster),1992,72,Metal
+6W21LNLz9Sw7sUSNWMSHRu,Freak On a Leash,3RNrq3jvMZxD9ZyoOZbQOD,Korn,0gsiszk6JWYwAyGvaTTud4,Follow The Leader,1998-08-18,80,Metal
+4qVR3CF8FuFvHN4L6vXlB1,Lying from You,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,0f7R0jf0pcTb6K6IVVPcMD,Meteora (Bonus Edition),2003-03-25,75,Metal
+6nswV1Lz3OZkaiCJfmVUOa,The Unforgiven II,2ye2Wgw4gimLv2eAKyk1NB,Metallica,0Ip2GlQPoAIgdkqCO2YkMa,Reload,1997-01-01,68,Metal
+0tWEB6BxbI48XN79QE1JbT,Everybody's Fool,5nGIFgo0shDenQYSE0Sn7c,Evanescence,02w1xMzzdF2OJxTeh1basm,Fallen,2003-03-04,71,Metal
+4cLdpErILMO8Db8pQVAVcZ,Mascara,6Ghvu1VvMGScGpOUJBAHNH,Deftones,7o4UsmV37Sg5It2Eb7vHzu,Around the Fur,1997-10-27,74,Metal
+3quYoE7KgIIaqVXPd7MpX0,Wherever I May Roam - Remastered 2021,2ye2Wgw4gimLv2eAKyk1NB,Metallica,3dck2tBxGfxj9m3CguDgjb,Metallica (Remastered 2021),2021-09-10,67,Metal
+5mR858YsHYG761aUqZoGkD,Symphony Of Destruction - Remastered 2012,1Yox196W7bzVNZI7RBaPnf,Megadeth,0fWLW9j35eQTrOb8mHcnyX,Countdown To Extinction (Deluxe Edition - Remastered),1992-06-14,69,Metal
+3dxiWIBVJRlqh9xk144rf4,Breaking the Habit,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,0f7R0jf0pcTb6K6IVVPcMD,Meteora (Bonus Edition),2003-03-25,75,Metal
+755bvJDSA3LNcNuFgBT9LK,Iron Man - 2009 Remaster,5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,4kA2o0L3tz9vFKJetiFUJI,Paranoid,1970-09-18,74,Metal
+2HBBM75Xv3o2Mqdyh1NcM0,Heavy Is the Crown,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4R6FV9NSzhPihHR0h4pI93,From Zero,2024-11-15,77,Metal
+2TofEeQobQ9YoK7EFds698,You Give Love A Bad Name,58lV9VcRSjABbAbfWS6skp,Bon Jovi,2PRGSft6sBpJewkx16FrJG,Slippery When Wet (Deluxe Edition),1986,78,Metal
+3LpHzQU2CZzZJGdUWV79SI,For Whom The Bell Tolls - Remastered,2ye2Wgw4gimLv2eAKyk1NB,Metallica,4K5E5mWQbECn9aThu6Xnkx,Ride The Lightning (Deluxe / Remastered),1984-07-26,72,Metal
+5ooqCHqs4axSJbWqIHfKfB,Join Me - Razorblade Mix,74aLweE8FHHf4yN5TWv1GM,HIM,4TGbiYOokXYDtgnw7yKC5N,Razorblade Romance,1991-09-17,62,Metal
+6jhxeGvYuGY6KHHmUDj8Sv,Tipping Point,1Yox196W7bzVNZI7RBaPnf,Megadeth,09fWUtFj5UY5gEJapwj0xa,Tipping Point,2025-10-03,65,Metal
+69Yia3qCLw6N9U80WhLwLn,Voice of the Soul,4f5V3PQ66nIrBCqugJtaGn,Death,0p6DxsQOhQ5qiBnUu9G1PB,The Sound of Perseverance - Reissue,1998,57,Metal
+0jY829pCMnstlNtaE72vSB,Decadence,3TOqt5oJwL9BE2NG9MEwDa,Disturbed,0Te7OvzuUMnbsqCneIDUm6,Ten Thousand Fists,2005-09-19,68,Metal
+0Yfpc5zHc9pElVCQ1bPlF4,This Love,14pVkFUHDL207LzLHtSA18,Pantera,7kW0cpKgSVsEqcc8xgbSb0,Vulgar Display of Power,1992-02-21,72,Metal
+1L2ZkXbRX00ZiaUDuMMgf7,Floods,14pVkFUHDL207LzLHtSA18,Pantera,4LdquqwQoyu1pE6Vq8PIha,The Great Southern Trendkill,1996-05-03,69,Metal
+5mpUKTdskZea0gStWzeHUZ,Unsainted,05fG473iIaoy82BF1aGhL8,Slipknot,754RY5WpZ2LTUZsk8kDBju,We Are Not Your Kind,2019-08-09,73,Metal
+3fgehc497TFqKH1zBL2YNK,Heavy Is the Crown,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,3Su6Sgi0YjcUFuCzjLKYYq,Heavy Is the Crown,2024-09-24,73,Metal
+2dXsILW8gzkosqleHAvl0v,For Whom The Bell Tolls - Remastered,2ye2Wgw4gimLv2eAKyk1NB,Metallica,05DePtm7oQMdL3Uzw2Jmsc,Ride The Lightning (Remastered),1984-07-27,68,Metal
+13Uvqll8OQDjw3wDweIK9y,The Day That Never Comes,2ye2Wgw4gimLv2eAKyk1NB,Metallica,3bK58rVcWBh3V3vxMLzi0V,Death Magnetic,2008-01-01,66,Metal
+658I1uDnmLSiltFCf98AWE,RIP Roach,15UsOTVnJzReFVN1VCnxy4,XXXTENTACION,3vpXJ54S3MXLyzysw8qq7c,Revenge,2017-05-16,68,Metal
+1AzMYJm6qTAullM3UKuPY9,Y'all Want a Single,3RNrq3jvMZxD9ZyoOZbQOD,Korn,3XbcvPX7hEupPOxPx7EVdh,Take A Look In The Mirror,2003-11-21,70,Metal
+4yUcHLkHUwAPpKN0Uvdo8I,Du riechst so gut,6wWVKhxIU2cEi0K81v7HvP,Rammstein,6HlDm9fzYxk4vkkr3YEvSv,Herzeleid (XXV Anniversary Edition – Remastered),1995-09-24,68,Metal
+3RptaQ5Xb8WvtpItZ2f9Hi,Snuff,05fG473iIaoy82BF1aGhL8,Slipknot,0hFWapnP7orzXCMwNU5DuA,All Hope Is Gone,2008-08-22,67,Metal
+51TG9W3y9qyO8BY5RXKgnZ,Symphony Of Destruction,1Yox196W7bzVNZI7RBaPnf,Megadeth,1w9opfGdFtR3ulNHxnnO1e,Countdown To Extinction (Expanded Edition - Remastered),1992-07-14,67,Metal
+769cLRTw2y6KRdkFWFkxtu,Domination,14pVkFUHDL207LzLHtSA18,Pantera,5szY4sBOSD6IFjFN1RtWTe,Cowboys from Hell,1990-07-20,69,Metal
+0UuNO0yYvsMPlyLF7RfQlg,Angst,6wWVKhxIU2cEi0K81v7HvP,Rammstein,75OE7M0wduJyffbffehHuR,Zeit,2022-04-29,65,Metal
+06WUUNf7q18NZfjIsQFsfa,Delusions of Saviour,1IQ2e1buppatiN1bxUVkrk,Slayer,5QTGKCuJbyViaQQXjHOvjL,Repentless,2015-09-11,64,Metal
+1d3iQh4fTm5D6iRtgrZPZ9,Megalomaniac,3V4IvzRQYP5mzuVtkcHgVa,KMFDM,6g99frcxtUThvTjTwo9LfC,Symbols,1997,67,Metal
+0HSqXHUdHUbDjWxYIClohv,Angel,2tRsMl4eGxwoNabM08Dm4I,Judas Priest,12rTdEhRhwPpV0XJvZW9u1,Angel Of Retribution,2005-02-28,52,Metal
+3RgDvs9Jpvn3kUuaTek1R5,I-E-A-I-A-I-O,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,6lA1sGw7eCv27bcpd5E0wT,Steal This Album!,2002-11-26,74,Metal
+6holGuk1jKHTdWyWBOZi8l,My Generation,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,5mi7FKaWE5CtcOjdyxScA7,Chocolate Starfish And The Hot Dog Flavored Water,2000-10-17,75,Metal
+2RaA6kIcvomt77qlIgGhCT,Breaking the Law,2tRsMl4eGxwoNabM08Dm4I,Judas Priest,5bqtZRbUZUxUps8mrO9tGY,British Steel,1980,71,Metal
+4bLCPfBLKlqiONo6TALTh5,Entombed,6Ghvu1VvMGScGpOUJBAHNH,Deftones,4PIVdqvL1Rc7T7Vfsr8n8Q,Koi No Yokan,2012-11-09,76,Metal
+4uJSCrI7r0usNJ3aaHAuC6,Windowpane,0ybFZ2Ab08V8hueghSXm6E,Opeth,4FmI0F5GvvR1M9RURWnJV9,Damnation,2003-04-22,55,Metal
+2gSVKxPDww9Eep5rdvtdem,My Way,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,5mi7FKaWE5CtcOjdyxScA7,Chocolate Starfish And The Hot Dog Flavored Water,2000-10-17,78,Metal
+1TEZWG1FdjzDdercCguTwj,Nookie,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,3HCCUaRSjHSFOe4fqE0BiP,Significant Other,1999,76,Metal
+4aFC7Mes7CW5vHcb8ZApAx,Ohne dich,6wWVKhxIU2cEi0K81v7HvP,Rammstein,74ydDCcXTco741y42ceRJ5,"Reise, Reise",2004-09-27,63,Metal
+1Ym3JWJG8HFJU2NbXavZ6a,Sugar,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,4T0mAffZnPKUW2QTcSX5zG,System Of A Down,1998-06-30,72,Metal
+60fUDmIWuKhngaeBIVhqIV,Stranded,0GDGKpJFhVpcjIGF8N6Ewt,Gojira,7D7V6M05UIOTjLdqbwRX0w,Magma,2016-06-17,66,Metal
+1L8c08ueO8ag3vBQFXwbjc,Until It Sleeps - Remastered,2ye2Wgw4gimLv2eAKyk1NB,Metallica,1LupC8p6zU5mDyrLvvWEuV,Load (Remastered Deluxe Box Set),1996-06-04,66,Metal
+5hheGdf1cb4rK0FNiedCfK,The Devil in I,05fG473iIaoy82BF1aGhL8,Slipknot,0ApKaazNHf0gzjAYZauexq,.5: The Gray Chapter (Special Edition),2014-10-15,74,Metal
+7EqkvBTdhYPTd91mN2DmcA,Burden,0ybFZ2Ab08V8hueghSXm6E,Opeth,0fayDgcekIaW0yQtUQ8CDm,Watershed (Special Edition),2008-06-03,52,Metal
+2KKLuHN6zDxVnWtFKO8vo4,Wasting Love - 2015 Remaster,6mdiAmATAx73kdxrNrnlao,Iron Maiden,16Su3EUFLPqWVyrwN1q5wO,Fear of the Dark (2015 Remaster),1992,64,Metal
+6RbC38oDCIXD8V2AOU1Tjr,The Memory Remains,2ye2Wgw4gimLv2eAKyk1NB,Metallica,0Ip2GlQPoAIgdkqCO2YkMa,Reload,1997-01-01,65,Metal
+2F6FfZ4w8z3eJpSxPotVO5,Falling Away from Me,3RNrq3jvMZxD9ZyoOZbQOD,Korn,5U0pevIOTrPoDsN8YsBCBh,Issues,1999-11-09,76,Metal
+5qxN63QA4Hk1zgdLCsZFE2,Heaven and Hell,5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,46gHYWaRr052RGEiL5Dg7T,Heaven & Hell,1980-04-25,67,Metal
+3WtsQAngIkmcNeqVeK3fXQ,In My Time of Need,0ybFZ2Ab08V8hueghSXm6E,Opeth,4FmI0F5GvvR1M9RURWnJV9,Damnation,2003-04-22,54,Metal
+3o7TMr6RmIusYH7Kkg7ujR,Coming Undone,3RNrq3jvMZxD9ZyoOZbQOD,Korn,2c7ynrgZP08xNtkJi9MhjF,See You On the Other Side,2005-12-06,77,Metal
+54yLLvpezvPO1lA3GspiZj,Holy Diver,4CYeVo5iZbtYGBN4Isc3n6,Dio,1QJmLRcuIMMjZ49elafR3K,Holy Diver,1983,66,Metal
+3XclwoQxz4p6Dl7VUf90KW,N.I.B. - 2009 Remaster,5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,3OmnatFgQ8o1DlYLp9EpNJ,Black Sabbath,1970-02-13,69,Metal
+15DLl1r2zi07Ssq5RT1yT0,Wait and Bleed,05fG473iIaoy82BF1aGhL8,Slipknot,5lOFvOWAdy9G6p44noRILU,Slipknot,1999,76,Metal
+0M3adYbGtyRHACP86dey1H,Throne,1Ffb6ejR6Fe5IamqA5oRUF,Bring Me The Horizon,7FqHuAvmREiIwVXVpZ9ooP,That's The Spirit,2015-09-11,77,Metal
+5qFxuUIAwJlzO60vqOiL7y,Rainbow In The Dark,4CYeVo5iZbtYGBN4Isc3n6,Dio,1QJmLRcuIMMjZ49elafR3K,Holy Diver,1983,65,Metal
+6VS4C2HnOQPivcjcAAlUMj,Sonne,6wWVKhxIU2cEi0K81v7HvP,Rammstein,20mEbRzpqGIWyLtUO6LbjB,Made In Germany 1995 - 2011 (Special Edition),2011-12-02,60,Metal
+3CIOopLwvyMvXk97ZEksKO,Ace of Spades,1DFr97A9HnbV3SKTJFu62M,Motörhead,619d4uJE3h2rOlw7kmSlD6,Ace of Spades (Expanded Edition),1980-11-08,73,Metal
+4IDa0iTKk77YDJLczURA20,The Zoo - 2015 - Remaster,27T030eWyCQRmDyuvr1kxY,Scorpions,49C8yGAU4o4k9wC0MnHECA,From The First Sting,2025-10-17,29,Metal
+0lts4KdrQAks3PlKN71dZ9,Big City Nights - 2015 - Remaster,27T030eWyCQRmDyuvr1kxY,Scorpions,49C8yGAU4o4k9wC0MnHECA,From The First Sting,2025-10-17,27,Metal
+2yYX7KbfWZrezWVW1vN3iz,Eyeless,05fG473iIaoy82BF1aGhL8,Slipknot,5lOFvOWAdy9G6p44noRILU,Slipknot,1999,71,Metal
+4BNRlHGnSrHXg7cHFF7O0I,Gone With The Sin,74aLweE8FHHf4yN5TWv1GM,HIM,4TGbiYOokXYDtgnw7yKC5N,Razorblade Romance,1991-09-17,52,Metal
+0ee1DiZF94NSqqpG0XHUzH,Livin' On A Prayer,58lV9VcRSjABbAbfWS6skp,Bon Jovi,2PRGSft6sBpJewkx16FrJG,Slippery When Wet (Deluxe Edition),1986,79,Metal
+0O7lENhqOySbsL743G7PqD,"Vermilion, Pt. 2",05fG473iIaoy82BF1aGhL8,Slipknot,4ZDBQSIDIZRUBOG2OHcN3T,Vol. 3: The Subliminal Verses (Special Edition),2004,68,Metal
+0xrkyEMkG4dVa5OMLQZOX8,Engel,6wWVKhxIU2cEi0K81v7HvP,Rammstein,2w6Vy8qZLU4niyQAHyu0Ag,Sehnsucht,1997-08-25,64,Metal
+7IoK6jZBxY7NMoQPoPXZCF,Passenger,6Ghvu1VvMGScGpOUJBAHNH,Deftones,5LEXck3kfixFaA3CqVE7bC,White Pony,2000,71,Metal
+4GMQOjbWshf4Mzphkjg0DJ,Tornado Of Souls,1Yox196W7bzVNZI7RBaPnf,Megadeth,4e6ML9RBhDyyKTaTwbiRZv,Rust In Peace,1990-01-01,61,Metal
+0PsFsv5xUyX06ZhIEtFkeA,End of You,5mlbvTfWUOfDrUIK6dkNzv,Poppy,7heJiiZpgQXmqVIoz2Fra1,End of You,2025-09-04,75,Metal
+56fiFTRrSiHHH3gBeaTg2P,Nero Forte,05fG473iIaoy82BF1aGhL8,Slipknot,754RY5WpZ2LTUZsk8kDBju,We Are Not Your Kind,2019-08-09,71,Metal
+1vxu8vMNshg5J8z3oA7QJZ,Parabola,2yEwvVSSSUkcLeSTNyHKh8,TOOL,5l5m1hnH4punS1GQXgEi3T,Lateralus,2001-05-15,67,Metal
+6Wx88Mv6b9ofjKMKkdwOJd,New Divide,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,1fqibtpI0bwD73uQGeEnhn,Transformers: Revenge Of The Fallen The Album,2009-06-12,71,Metal
+3620P9KJS2PDebJ9ABFitc,18 and Life,4opTS86dN9uO313J9CE8xg,Skid Row,0L5J7BLU1AKDuSewTMpw7E,Skid Row,1989-01-24,73,Metal
+6gCVA6ja6g0foIsWv0RuSZ,ATWA,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,6jWde94ln40epKIQCd8XUh,Toxicity,2001-09-04,73,Metal
+1HM7Vp84E4SMzdrZONg6bH,Wasted Years - 2015 Remaster,6mdiAmATAx73kdxrNrnlao,Iron Maiden,0OEg65hPhgP7B0Dy9TqP2L,Somewhere in Time (2015 Remaster),1986,67,Metal
+3r3KRYYOFjNGD4OJB5ddam,"While Your Lips Are Still Red - Theme from the Movie ""Lieksa!""",2NPduAUeLVsfIauhRwuft1,Nightwish,4A8TYBcOB8B2lIOlpU4k30,The Sound of Nightwish Reborn,2008-09-05,53,Metal
+7CAbF0By0Fpnbiu6Xn5ZF7,Kingslayer (feat. BABYMETAL),1Ffb6ejR6Fe5IamqA5oRUF,Bring Me The Horizon,0e1WaSNDZnoPixaxDNdWo4,POST HUMAN: SURVIVAL HORROR,2020-10-30,74,Metal
+5Cdt8J09LxpqmhKmOZ0fZr,Gone With The Sin,74aLweE8FHHf4yN5TWv1GM,HIM,2xt9mUWN1UbwPiVY1uWHxK,And Love Said No - Greatest Hits 1997 - 2004,2004,42,Metal
+2yss0n7KmvmSr4EHvjfFpn,Don't Stay,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,0f7R0jf0pcTb6K6IVVPcMD,Meteora (Bonus Edition),2003-03-25,68,Metal
+46fyLy4W9HhAkcb67kLaAV,Tourniquet,5nGIFgo0shDenQYSE0Sn7c,Evanescence,02w1xMzzdF2OJxTeh1basm,Fallen,2003-03-04,66,Metal
+50LmbBKCBeDRKYvpR7ApjG,Rosenrot,6wWVKhxIU2cEi0K81v7HvP,Rammstein,3PrS5X3QNdDUlBIE4bz6J2,Rosenrot,2005-10-27,63,Metal
+0sp00HSXkQyqTa6QqM0O8V,Leave Out All The Rest,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,2tlTBLz2w52rpGCLBGyGw6,Minutes to Midnight,2007-05-14,74,Metal
+0dlTGl67UFWcKupzkxZYOn,You Could Be Mine,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,00eiw4KOJZ7eC3NBEpmH4C,Use Your Illusion II,1991-09-18,72,Metal
+5egqKwgK5r5rvGD1LrtR7J,Points of Authority,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,6hPkbAV3ZXpGZBGUvL6jVM,Hybrid Theory (Bonus Edition),2000-10-24,71,Metal
+2oNYsdCasRRlz1shXFAz7D,LOST IN THE ECHO,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4XHIjbhjRmqWlosjj5rqSI,LIVING THINGS,2012-06-19,71,Metal
+5a2hIQWInPjqkkFiUEgxoX,Peace Sells - Remastered,1Yox196W7bzVNZI7RBaPnf,Megadeth,4PqSk2iBHnsYQK0ecXjS9k,Peace Sells...But Who's Buying (Deluxe Edition - Remastered),1986,62,Metal
+6oO7WMjD6kEvCITLbVj0mu,Hypnotize,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,3QxX3NbWyLlLG6lP1xveL3,Hypnotize,2005-11-22,74,Metal
+0t7LcUic4qolMCysPrKeAd,"Die, Die My Darling",2ye2Wgw4gimLv2eAKyk1NB,Metallica,0vshXZYhBkbIoqxyC2fXcF,Garage Inc.,1998-01-01,60,Metal
+4fiOTntQKr24p07FvQDHZE,Raining Blood,1IQ2e1buppatiN1bxUVkrk,Slayer,5v5BfkxWDAKTkzrXl3H0mU,Reign In Blood (Expanded),1986-01-01,69,Metal
+2O7UGwJPVlix15Wn4sa5vw,Ride The Lightning - Remastered,2ye2Wgw4gimLv2eAKyk1NB,Metallica,4K5E5mWQbECn9aThu6Xnkx,Ride The Lightning (Deluxe / Remastered),1984-07-26,63,Metal
+07xFWwKPOApMS56ildsV0G,Twist,3RNrq3jvMZxD9ZyoOZbQOD,Korn,2b813fSxxzp9lcOfnLrrTH,Life Is Peachy,1996-10-15,67,Metal
+0qbV4e18lWrTTxlswVoLbI,The Unforgiven III,2ye2Wgw4gimLv2eAKyk1NB,Metallica,3bK58rVcWBh3V3vxMLzi0V,Death Magnetic,2008-01-01,60,Metal
+6nJPHXRpKYv2yqtalEjKy5,Got the Life,3RNrq3jvMZxD9ZyoOZbQOD,Korn,0gsiszk6JWYwAyGvaTTud4,Follow The Leader,1998-08-18,75,Metal
+5P13mfqn9o3ToFPTxowEgO,This Is The New Shit,2VYQTNDsvvKN9wmU5W7xpj,Marilyn Manson,3KExM8E3KgpsS2bHVSJzTc,The Golden Age Of Grotesque,2003-01-01,63,Metal
+2ov8L95QD25TLpZAZPYWXL,Mr. Crowley,6ZLTlhejhndI4Rh53vYhrY,Ozzy Osbourne,4qUMByJ3Pk94BFnCmGaUPS,Blizzard Of Ozz (40th Anniversary Expanded Edition),2020-09-18,72,Metal
+4HpIh5wWfkq5sSuCLLSwYR,Please Please Please Let Me Get What I Want - 2005 Remaster,6Ghvu1VvMGScGpOUJBAHNH,Deftones,7rLUzHOq0d0mRGGEIqKfli,Covers,2011-04-16,66,Metal
+1BrgjqSg9du0lj3TUMLluL,To Hell and Back,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,5TdhTTvwtD0ekZBYve97r7,Heroes,2014-05-16,68,Metal
+6xtQ23d8GEXgcxyUKPtwc5,Runaway,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,6hPkbAV3ZXpGZBGUvL6jVM,Hybrid Theory (Bonus Edition),2000-10-24,72,Metal
+3CI1JP2ooMBSFjIy1u6Yrc,Angry Again,1Yox196W7bzVNZI7RBaPnf,Megadeth,3jfeL3OUh2Kimx9ZKja8fY,Hidden Treasures,1995,64,Metal
+6UB9mShVLbMm0W4e6vud4C,Battery,2ye2Wgw4gimLv2eAKyk1NB,Metallica,2Lq2qX3hYhiuPckC8Flj21,Master Of Puppets (Remastered),1986-03-03,65,Metal
+5uuXtfqM7Wp3idCxyHeOll,With You,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,6hPkbAV3ZXpGZBGUvL6jVM,Hybrid Theory (Bonus Edition),2000-10-24,70,Metal
+4vJr55lngvhSM8WIh9CjQc,Cemetery Gates,14pVkFUHDL207LzLHtSA18,Pantera,5szY4sBOSD6IFjFN1RtWTe,Cowboys from Hell,1990-07-20,70,Metal
+4Zc7TCHzuNwL0AFBlyLdyr,Run to the Hills - 2015 Remaster,6mdiAmATAx73kdxrNrnlao,Iron Maiden,5S3gls8Kjn8KVmqlIDEBbO,The Number of the Beast (2015 Remaster),1982,71,Metal
+3d3k8g4GTVx9EFIFlOZOEX,Zeig dich,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1LoyJQVHPLHE3fCCS8Juek,Rammstein,2019-05-17,65,Metal
+6Zj3YsYfj8YTY9aGMDnpn8,Hot Dog,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,5mi7FKaWE5CtcOjdyxScA7,Chocolate Starfish And The Hot Dog Flavored Water,2000-10-17,73,Metal
+5vZ4IeUenK2cHub2d7yfWk,Radio,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1LoyJQVHPLHE3fCCS8Juek,Rammstein,2019-05-17,68,Metal
+5uunXHE4kIW6uS4HWAXaOQ,Silvera,0GDGKpJFhVpcjIGF8N6Ewt,Gojira,7D7V6M05UIOTjLdqbwRX0w,Magma,2016-06-17,63,Metal
+0X1sqQ652p1sceKM2nJlIJ,Runaway,58lV9VcRSjABbAbfWS6skp,Bon Jovi,1UUOBzIHw0noiRGRpbt3sz,Bon Jovi,1984-01-23,74,Metal
+469rBLYJUZHMJLtq2Wch3h,Hallowed Be Thy Name - 2015 Remaster,6mdiAmATAx73kdxrNrnlao,Iron Maiden,5S3gls8Kjn8KVmqlIDEBbO,The Number of the Beast (2015 Remaster),1982,67,Metal
+0BV0AYGLVlu2SdjN3J9twp,Fed Up,3uL4UpqShC4p2x1dJutoRW,Ghostemane,3gEv1vpsDgaEo4TLuu0Lwz,ANTI-ICON,2020-10-21,65,Metal
+0L7zm6afBEtrNKo6C6Gj08,Painkiller,2tRsMl4eGxwoNabM08Dm4I,Judas Priest,7LgrhuKnAXpNEv8qzcVd2t,Painkiller,1990-09-26,67,Metal
+6i5qhmmF9UNUBRyrPSGn4m,Two Faced,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4R6FV9NSzhPihHR0h4pI93,From Zero,2024-11-15,71,Metal
+05lem7bHWxyo98HOwPmils,Hope Leaves,0ybFZ2Ab08V8hueghSXm6E,Opeth,4FmI0F5GvvR1M9RURWnJV9,Damnation,2003-04-22,51,Metal
+2vPZ4Lklyu75zBR3SgbFNI,Snuff,05fG473iIaoy82BF1aGhL8,Slipknot,2ISXjEm0D4chvU2IDNvUqk,All Hope Is Gone (10th Anniversary),2008-08-20,70,Metal
+5vVKkF3xih38Vcoo4HgAo8,Engine No. 9,6Ghvu1VvMGScGpOUJBAHNH,Deftones,30YN03R4Bjl8Qwz8wPRoXG,Adrenaline,1995,69,Metal
+03sEzk1VyrUZSgyhoQR0LZ,Pneuma,2yEwvVSSSUkcLeSTNyHKh8,TOOL,7acEciVtnuTzmwKptkjth5,Fear Inoculum,2019-08-30,67,Metal
+5MhNgheI9IjDxQS5XQ3Ojo,She-Wolf - Remastered 2004 / Remixed,1Yox196W7bzVNZI7RBaPnf,Megadeth,208z3e7R5PgavBMdEZQcvL,Cryptic Writings (Expanded Edition - Remastered),1997-06-17,56,Metal
+412LyfktkgWKEn8kmKiyQe,Comfortable Liar,56dO9zeHKuU5Gvfc2kxHNw,Chevelle,481JiVXZYUlTtqlv9ewJXV,Wonder What's Next (Expanded Edition),2002,74,Metal
+7Ki2fTfTdDhqY2AY8muY5z,Making Love to Morgan Wallen,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,5gnSTqbBS89Ekjl6urNeyM,Making Love to Morgan Wallen,2025-09-12,73,Metal
+7MEHTWzEi3z7P2jEWAcdHZ,Eyeless,05fG473iIaoy82BF1aGhL8,Slipknot,2dL9Q5AtIv4Rw1L6lKcIUc,Slipknot (10th Anniversary Edition),2009-09-09,64,Metal
+0Y2i84QWPFiFHQfEQDgHya,People = Shit,05fG473iIaoy82BF1aGhL8,Slipknot,5Zs0mNCTs73CqPKbZPWFX9,Iowa (10th Anniversary Edition),2001,68,Metal
+58RDwkonFMOkoytBtIQetc,Love You to Death,0blJzvevdXrp21YeI2vbco,Type O Negative,6BkeUWI72Lssc077AxqQek,October Rust (Special Edition),1996-08-19,65,Metal
+5krhWYmWIKJhI96deUujm8,Specter,3Ri4H12KFyu98LMjSoij5V,Bad Omens,3fYDQx9Lr6QC9uikAPx6H4,Specter,2025-08-09,76,Metal
+7AB0cUXnzuSlAnyHOqmrZr,Faint,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,0f7R0jf0pcTb6K6IVVPcMD,Meteora (Bonus Edition),2003-03-25,70,Metal
+2aIB1CdRRG7YLBu9hNw9nR,The Beautiful People,2VYQTNDsvvKN9wmU5W7xpj,Marilyn Manson,7APnZJwayR3lH9aUDPDYQB,Antichrist Superstar,1996,74,Metal
+5bU4KX47KqtDKKaLM4QCzh,Die MF Die,7fWgqc4HJi3pcHhK8hKg2p,Dope,7lRvSWMUCTIjkvZQLy4yBx,Life,2001-12-16,65,Metal
+3jjU4Pky1ja5J1onU6ei4T,The Vengeful One,3TOqt5oJwL9BE2NG9MEwDa,Disturbed,1ROVEUk4lc2vD4a0IN1TWS,Immortalized (Deluxe Edition),2015-08-14,66,Metal
+2ooF4088y5L72c4YTEJQoB,YuNg BrAtZ,15UsOTVnJzReFVN1VCnxy4,XXXTENTACION,3vpXJ54S3MXLyzysw8qq7c,Revenge,2017-05-16,68,Metal
+2M5WTwqnkyz7bW6P1CiD6q,I'm Broken,14pVkFUHDL207LzLHtSA18,Pantera,70GAqt2avSiKBJ2IEymou1,Far Beyond Driven,1994,68,Metal
+4otwFzkVBdVNTBu7gxJA4A,THE DEATH OF PEACE OF MIND,3Ri4H12KFyu98LMjSoij5V,Bad Omens,1x6eC7V3NYQmscUnF9AK6T,THE DEATH OF PEACE OF MIND,2022-02-25,72,Metal
+6DoXuH326aAYEN8CnlLmhP,7 Words,6Ghvu1VvMGScGpOUJBAHNH,Deftones,30YN03R4Bjl8Qwz8wPRoXG,Adrenaline,1995,70,Metal
+2pFg7eERlKmCcdI3FlEuAc,Mama Said - Remastered,2ye2Wgw4gimLv2eAKyk1NB,Metallica,1LupC8p6zU5mDyrLvvWEuV,Load (Remastered Deluxe Box Set),1996-06-04,57,Metal
+514GW1c9Jn21KgZmO6mZIE,Armee der Tristen,6wWVKhxIU2cEi0K81v7HvP,Rammstein,75OE7M0wduJyffbffehHuR,Zeit,2022-04-29,64,Metal
+1NiPI7ATyw4ZwI2b858XrT,Saccharine,298H8XdYsBHii98wfAZT1S,VIOLENT VIRA,4JKSFwpmyXKYnSdplEcKXz,Saccharine,2025-01-24,65,Metal
+0M5NH22uVXHSXjSi5SXTXM,i think about you all the time,6Ghvu1VvMGScGpOUJBAHNH,Deftones,1gmWnG5TeRj91Tdm2lpEvJ,private music,2025-08-22,72,Metal
+1gAaRSN57UYVRI4eWRyAvP,Pushing Me Away,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,6hPkbAV3ZXpGZBGUvL6jVM,Hybrid Theory (Bonus Edition),2000-10-24,68,Metal
+0bUgTRe5st6TMbRCEjKezX,The Last Stand,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,14OgR04PHXULz1svvsol8L,The Last Stand,2016-08-19,69,Metal
+7eeDeUM9E7b0vkDfRz20Zt,Keine Lust,6wWVKhxIU2cEi0K81v7HvP,Rammstein,74ydDCcXTco741y42ceRJ5,"Reise, Reise",2004-09-27,62,Metal
+6i7IXg8j7ZngiEOgBYjkhw,Sweating Bullets - Remastered 2004,1Yox196W7bzVNZI7RBaPnf,Megadeth,1w9opfGdFtR3ulNHxnnO1e,Countdown To Extinction (Expanded Edition - Remastered),1992-07-14,61,Metal
+1lATXTBJDHwawvT1UfxWu3,The Pot,2yEwvVSSSUkcLeSTNyHKh8,TOOL,1fvWYcbjuycyHpzNPH1Vfk,"10,000 Days",2006-04-28,71,Metal
+66iX4HzM7YnmxmUZOSCG2F,"Cry for the Moon (The Embrace That Smothers , Pt. 4)",5HA5aLY3jJV7eimXWkRBBp,Epica,5qBmY4zyWEYP8bNJsq9Xjf,The Phantom Agony (Expanded Edition),2003,56,Metal
+5OjCsHeByDYEGxMrb1z8KQ,Flying Whales,0GDGKpJFhVpcjIGF8N6Ewt,Gojira,0AvFF0HlQYvYKHaRURGZBs,From Mars to Sirius,2005-09-27,62,Metal
+5WLjSDWo1VxEQzmsKpcBRe,Wings of a Butterfly,74aLweE8FHHf4yN5TWv1GM,HIM,1ggF3549NUNFgnjVvU2Dze,Dark Light,2005-09-26,59,Metal
+7jfZybgHr6yzp4iuMS2K8u,Mutter,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1CtTTpKbHU8KbHRB4LmBbv,Mutter,2001-04-02,60,Metal
+0UKzG4fJ1LXf6DInew5vcV,Mercury: Retrograde,3uL4UpqShC4p2x1dJutoRW,Ghostemane,2dWmvG2E6QqISPn80Nrs65,Hexada,2017-09-05,68,Metal
+7kxM3UJwN6rHAW5kwdlAHK,Forgotten,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,6hPkbAV3ZXpGZBGUvL6jVM,Hybrid Theory (Bonus Edition),2000-10-24,67,Metal
+2Y6k2RbPc83mh3C7mgIB37,Join Me In Death - Strongroom Mix,74aLweE8FHHf4yN5TWv1GM,HIM,2DrFrDcm9a9owwAZNjVClf,Uneasy Listening Vol.1,2006-10-20,60,Metal
+05NpeTQWnzXS1d8ZqL4YFZ,Twisted Transistor,3RNrq3jvMZxD9ZyoOZbQOD,Korn,2c7ynrgZP08xNtkJi9MhjF,See You On the Other Side,2005-12-06,72,Metal
+0lqHgjNrXmtFroWDqwV1iQ,Risk,6Ghvu1VvMGScGpOUJBAHNH,Deftones,1GjjBpY2iDwSQs5bykQI5e,Diamond Eyes,2010-04-30,71,Metal
+3txlvthoUa9vWvG1zr2Lnr,infinite source,6Ghvu1VvMGScGpOUJBAHNH,Deftones,1gmWnG5TeRj91Tdm2lpEvJ,private music,2025-08-22,73,Metal
+39RKlCfLoqb8o2aXfpVfjW,Mein Teil,6wWVKhxIU2cEi0K81v7HvP,Rammstein,74ydDCcXTco741y42ceRJ5,"Reise, Reise",2004-09-27,62,Metal
+5CPXR6lDTvngxtmMZxnWmC,Pull Me Under,2aaLAng2L2aWD2FClzwiep,Dream Theater,2QgGoL5VSQhPHudTObS7zK,Images and Words,1992-06-30,62,Metal
+3Fwe3XoPOiyWUPYdBKMTqV,Around the Fur,6Ghvu1VvMGScGpOUJBAHNH,Deftones,7o4UsmV37Sg5It2Eb7vHzu,Around the Fur,1997-10-27,70,Metal
+0ElAcOj8tudMA6X6KZ7SMO,Children of the Grave (2009 Remaster),5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,24fNwoIq4NLDf4ARJYAFN9,Master of Reality,1971-07-21,68,Metal
+2ASygm7048ssav4ekbehPS,Beware,6Ghvu1VvMGScGpOUJBAHNH,Deftones,4ilqDlqD37nilewk9x8tyZ,Saturday Night Wrist,2006-10-25,69,Metal
+2jSJm3Gv6GLxduWLenmjKS,Digital Bath,6Ghvu1VvMGScGpOUJBAHNH,Deftones,5LEXck3kfixFaA3CqVE7bC,White Pony,2000,71,Metal
+3FbECTR21fmMDoMfYUq7ji,Please Please Please Let Me Get What I Want - 2005 Remaster,6Ghvu1VvMGScGpOUJBAHNH,Deftones,6lYtFcxdbPrdFAg6UUoc5W,B-Sides & Rarities,2005,51,Metal
+6UzeOH4bRPzKTo2wCXMZmC,By Myself,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,6hPkbAV3ZXpGZBGUvL6jVM,Hybrid Theory (Bonus Edition),2000-10-24,70,Metal
+3njyXewwWLp3B0p6rSMeyw,Spiders,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,7p5mnxLTjbvs4kInkK8za9,System Of A Down,1998-06-30,69,Metal
+1odk70HBNbdk4wU0Ja9JR7,Blackened,2ye2Wgw4gimLv2eAKyk1NB,Metallica,6jZ1z25PyF4Yd3kHxt9rl1,…And Justice for All (Remastered),1988-08-25,62,Metal
+6b6uLZsoGhObYexIxnRbIb,Hangar 18 - 2004 Remix,1Yox196W7bzVNZI7RBaPnf,Megadeth,0qaLL09EtF1hiUis7PRvaJ,Rust In Peace (2004 Remix / Expanded Edition),1990-10-04,61,Metal
+10ASBwZsp7oUUDsJEYz3uS,Dance With The Devil,5BtHciL0e0zOP7prIHn3pP,Breaking Benjamin,6yJdQMlMkfYJFiSsL6764c,Phobia (Explicit Version),2006-01-01,70,Metal
+2yTnWN1R5j6grXC8YLf5mc,Spit It Out,05fG473iIaoy82BF1aGhL8,Slipknot,5lOFvOWAdy9G6p44noRILU,Slipknot,1999,70,Metal
+0DMU0QiSypeYxL6BYdxjcy,my mind is a mountain,6Ghvu1VvMGScGpOUJBAHNH,Deftones,1gmWnG5TeRj91Tdm2lpEvJ,private music,2025-08-22,71,Metal
+23yZnQJXXBeQ2ah4pArrfA,I (Heart) You,3V4IvzRQYP5mzuVtkcHgVa,KMFDM,0WLWAE1tb53NWqQ9fLsOmS,Amnesia,2012-05-22,65,Metal
+78m5YarfdWeMtlVyMVC2Mm,Wherever I May Roam - Remastered 2021,2ye2Wgw4gimLv2eAKyk1NB,Metallica,7h5xn0Olvx2p0eQcSt1Osy,Metallica (Remastered Deluxe Box Set),2021-09-10,56,Metal
+4CLRLdxUDPNeO1xCW0U2zC,Creeping Death - Remastered,2ye2Wgw4gimLv2eAKyk1NB,Metallica,05DePtm7oQMdL3Uzw2Jmsc,Ride The Lightning (Remastered),1984-07-27,58,Metal
+5hxcxipGOjgTzrPOkfsyyS,Xerces,6Ghvu1VvMGScGpOUJBAHNH,Deftones,4ilqDlqD37nilewk9x8tyZ,Saturday Night Wrist,2006-10-25,67,Metal
+3kMc83bWNdcaX1dmARQIII,Impose,3Ri4H12KFyu98LMjSoij5V,Bad Omens,0WGyY2UCxFPryMrmYYVIzR,Impose,2025-09-10,73,Metal
+0pwObEOHolQZSldJ2q1wpy,Stinkfist,2yEwvVSSSUkcLeSTNyHKh8,TOOL,6yWMN087PgSimbcVmHLEwG,Ænima,1996-09-17,70,Metal
+6bvTzuFABmFnAAmVZ3nlMh,"Reise, Reise",6wWVKhxIU2cEi0K81v7HvP,Rammstein,74ydDCcXTco741y42ceRJ5,"Reise, Reise",2004-09-27,60,Metal
+5z6xHjCZr7a7AIcy8sPBKy,Smooth Criminal,6TZdvF1kFzwnQLgHQynzsO,Alien Ant Farm,5klPnHQ5dy6Qm2Ul7h1lp5,Anthology,2001-01-01,75,Metal
+1rDzUqMRA9VdGCIwzgfeh9,Born in Winter,0GDGKpJFhVpcjIGF8N6Ewt,Gojira,5dxqD5Kc6cRRi3rErmDfXG,L'Enfant Sauvage (Special Edition),2012-06-26,59,Metal
+6r7ULK6c5CLVvImjTIztl1,Floor 555,15UsOTVnJzReFVN1VCnxy4,XXXTENTACION,2Ti79nwTsont5ZHfdxIzAm,?,2018-03-16,63,Metal
+2UIuYNBg8r5pkoG2MjdLZT,No Leaf Clover - Live,2ye2Wgw4gimLv2eAKyk1NB,Metallica,1OZaosC2RtsE2TEqLziwAD,S&M,1999-01-01,55,Metal
+7CBFRsUz1pz1cS12soVhih,Nightrain,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,28yHV3Gdg30AiB8h8em1eW,Appetite For Destruction,1987-07-21,68,Metal
+7ritPWOWvsthxFDxOz1OjH,Ich tu dir weh,6wWVKhxIU2cEi0K81v7HvP,Rammstein,29J0MchD0OWNeiMNbPDwfa,Liebe ist für alle da (Special Edition),2009-10-16,61,Metal
+42ZVk59gT4tMlrZmd8Ijxf,Indestructible,3TOqt5oJwL9BE2NG9MEwDa,Disturbed,6hz9f6H7URtoigU517WjD6,Indestructible (Deluxe Edition),2008-04-29,69,Metal
+5KTBaWu8IOczQ0sPWzZ7MY,Dicke Titten,6wWVKhxIU2cEi0K81v7HvP,Rammstein,75OE7M0wduJyffbffehHuR,Zeit,2022-04-29,66,Metal
+0fX9KPa0i9RGDI59gI90i9,Vermilion,05fG473iIaoy82BF1aGhL8,Slipknot,4ZDBQSIDIZRUBOG2OHcN3T,Vol. 3: The Subliminal Verses (Special Edition),2004,66,Metal
+5JHNg1hxZFT7TDEphhM4wj,Waiting for the End,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,5uvXx5ZQswNRFCdHR521YZ,A Thousand Suns,2010-09-08,69,Metal
+373gDROnujxNTFa1FojYIl,Lost,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,7bN4OM5mtWq0UrAxdN6qMC,Lost,2023-02-10,69,Metal
+4AFjPeecGnS3999PV5iOSK,Mea Culpa (Ah! Ça ira!),0GDGKpJFhVpcjIGF8N6Ewt,Gojira,4k6UKb3mWQcQ5yEiyi43DT,Mea Culpa (Ah! Ça ira!),2024-08-30,60,Metal
+407eqFGqQc40KPf43YrQ44,Asche zu Asche,6wWVKhxIU2cEi0K81v7HvP,Rammstein,6HlDm9fzYxk4vkkr3YEvSv,Herzeleid (XXV Anniversary Edition – Remastered),1995-09-24,64,Metal
+41pOIT2t1rvr2Trg1HQChZ,Radio/Video,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,0cn6MHyx4YuZauaB7Pb66o,Mezmerize,2005-05-17,71,Metal
+5TNhjanmvwvmjCz2WYwSAv,Square Hammer,1Qp56T7n950O3EGMsSl81D,Ghost,2uaQ1K2eSqaWeVQRXeuGdN,Meliora (Deluxe Edition),2016-09-16,65,Metal
+7p9fJOQJJFzE8pkQ99v6yb,When Love and Death Embrace,74aLweE8FHHf4yN5TWv1GM,HIM,2p7iWrYivSiCScrpNI4qiD,Greatest Love Songs Vol. 666,1997-03-09,53,Metal
+1lM1ZHTvfKi5CMRjsZ4Sg9,Hollow,14pVkFUHDL207LzLHtSA18,Pantera,7kW0cpKgSVsEqcc8xgbSb0,Vulgar Display of Power,1992-02-21,64,Metal
+3U9gogDStAfWxSm91PJuxb,South Of Heaven,1IQ2e1buppatiN1bxUVkrk,Slayer,2UqJjz5eMYRzbbKToD3Peh,South Of Heaven,1988-01-01,62,Metal
+0QepvU0N2fC2B5uIPafO1q,Livin' It Up,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,5mi7FKaWE5CtcOjdyxScA7,Chocolate Starfish And The Hot Dog Flavored Water,2000-10-17,69,Metal
+6Z77oDcn6iI1MHFCBPjl24,Haunted,5nGIFgo0shDenQYSE0Sn7c,Evanescence,02w1xMzzdF2OJxTeh1basm,Fallen,2003-03-04,63,Metal
+31dqpLUModJWNbxrXu6TWd,Shot in the Dark,6ZLTlhejhndI4Rh53vYhrY,Ozzy Osbourne,2IPIumpbhrtBvjyzIgGE9j,The Ultimate Sin,1986-02-22,70,Metal
+0Qc9Bd7qzA8Vx3aSIf1t8B,King Nothing - Remastered,2ye2Wgw4gimLv2eAKyk1NB,Metallica,1LupC8p6zU5mDyrLvvWEuV,Load (Remastered Deluxe Box Set),1996-06-04,58,Metal
+3nlGByvetDcS1uomAoiBmy,The Number of the Beast - 2015 Remaster,6mdiAmATAx73kdxrNrnlao,Iron Maiden,5S3gls8Kjn8KVmqlIDEBbO,The Number of the Beast (2015 Remaster),1982,68,Metal
+0QV3swr7L8MZr72lL2izV1,Hardwired,2ye2Wgw4gimLv2eAKyk1NB,Metallica,4bcUiX49wpmDRhrC8TvDWV,Hardwired…To Self-Destruct (Deluxe),2016-11-18,62,Metal
+4wHktoSf6C0C0fAO8IIWqs,Hit the Floor,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,0f7R0jf0pcTb6K6IVVPcMD,Meteora (Bonus Edition),2003-03-25,65,Metal
+6ppPNxdwG8A5Ed8DlNLV6I,Don't Talk To Strangers,4CYeVo5iZbtYGBN4Isc3n6,Dio,1QJmLRcuIMMjZ49elafR3K,Holy Diver,1983,57,Metal
+38fIaph07Kd8ZIN6l17ZJs,Whiplash - Remastered,2ye2Wgw4gimLv2eAKyk1NB,Metallica,1aGapZGHBovnmhwqVNI6JZ,Kill 'Em All (Remastered),1983-07-24,61,Metal
+0ppdt8zRZOHIKh4ZDB0Zp9,Ghost of Perdition,0ybFZ2Ab08V8hueghSXm6E,Opeth,74QPd1WqK8kTsVNtHdBzJ8,Ghost Reveries,2005-08-30,54,Metal
+6qgYe6noMKsElSoPg9yS91,Harvester of Sorrow,2ye2Wgw4gimLv2eAKyk1NB,Metallica,6jZ1z25PyF4Yd3kHxt9rl1,…And Justice for All (Remastered),1988-08-25,59,Metal
+5ohfpKB5tt275f4Y4lQ9F7,Angel Of Death,1IQ2e1buppatiN1bxUVkrk,Slayer,5v5BfkxWDAKTkzrXl3H0mU,Reign In Blood (Expanded),1986-01-01,65,Metal
+6VOxRb9IAJQDDyHBlyEdPF,The Phantom Of The Opera,2NPduAUeLVsfIauhRwuft1,Nightwish,2fmfAN3tCHMIU8WZuG35ZK,Century Child,2002-01-01,60,Metal
+5qG4mrKUlmGce1FA4wGrr7,10's,14pVkFUHDL207LzLHtSA18,Pantera,4LdquqwQoyu1pE6Vq8PIha,The Great Southern Trendkill,1996-05-03,66,Metal
+4CWhc9FaMMfBTt4ANjfbOf,No More Sorrow,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,2tlTBLz2w52rpGCLBGyGw6,Minutes to Midnight,2007-05-14,69,Metal
+0gchQwxmBWj5no8NJ8b2yH,Sleepwalking,1Ffb6ejR6Fe5IamqA5oRUF,Bring Me The Horizon,6IYPmM3xsOPL2XPSvf1ZAz,Sempiternal (Expanded Edition),2013-04-01,73,Metal
+6nmDEbjMZru5j55HIkX2yZ,Diamond Eyes,6Ghvu1VvMGScGpOUJBAHNH,Deftones,1GjjBpY2iDwSQs5bykQI5e,Diamond Eyes,2010-04-30,68,Metal
+4a47TNOfJ9vbpbmU31wpgT,...And Justice for All,2ye2Wgw4gimLv2eAKyk1NB,Metallica,6jZ1z25PyF4Yd3kHxt9rl1,…And Justice for All (Remastered),1988-08-25,59,Metal
+3CZDkpmq245kzvCe44P2hM,"I, Emperor",3o2dn2O0FCVsWDFSh8qxgG,Sabaton,1jjx7U3tayhJTytJVBj0WY,Legends,2025-10-17,59,Metal
+52XYwQKlXp7scE7KrBBCID,Links 2 3 4,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1CtTTpKbHU8KbHRB4LmBbv,Mutter,2001-04-02,64,Metal
+2naBVHNHinneXOYmczG7xE,Killing Strangers,2VYQTNDsvvKN9wmU5W7xpj,Marilyn Manson,2PIsq4w9i5pinYSvE7rXFn,The Pale Emperor,2015-01-19,60,Metal
+0ZeKQudydO2uQJpfr6gNC8,Tainted Love,2VYQTNDsvvKN9wmU5W7xpj,Marilyn Manson,3KExM8E3KgpsS2bHVSJzTc,The Golden Age Of Grotesque,2003-01-01,63,Metal
+7mczLeiFeYKRb7vtiPjuMb,DArkSide,1Ffb6ejR6Fe5IamqA5oRUF,Bring Me The Horizon,1k7OXnGQPV4zF3seDwRroD,POST HUMAN: NeX GEn,2024-05-24,72,Metal
+249Z7XT6mf8B2zuI0RaeS0,Violent Pornography,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,0cn6MHyx4YuZauaB7Pb66o,Mezmerize,2005-05-17,72,Metal
+5yHcSY32tXKLRwEubzn0hA,Bury me deep inside,74aLweE8FHHf4yN5TWv1GM,HIM,4TGbiYOokXYDtgnw7yKC5N,Razorblade Romance,1991-09-17,50,Metal
+31rneVrsMC6jefCoDyQKam,Just Pretend,3Ri4H12KFyu98LMjSoij5V,Bad Omens,1x6eC7V3NYQmscUnF9AK6T,THE DEATH OF PEACE OF MIND,2022-02-25,73,Metal
+6Dg1VW25HQVh6dDPm3WGH0,Gimme a Second,1a7xjqgtH0LtzVv80S9kVx,Saliva Grey,2i7C7uOEoECwp6O1CjKrcE,Desperate (For) Humanity,2020-07-24,63,Metal
+1xBRGN41DWx2vwNFY5CvGe,Night Witches,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,5TdhTTvwtD0ekZBYve97r7,Heroes,2014-05-16,63,Metal
+2qiNfSncVqWp4Do6D4a3Le,Waidmanns Heil,6wWVKhxIU2cEi0K81v7HvP,Rammstein,29J0MchD0OWNeiMNbPDwfa,Liebe ist für alle da (Special Edition),2009-10-16,61,Metal
+0tZ3mElWcr74OOhKEiNz1x,Bulls On Parade,2d0hyoQ5ynDBnkvAbJKORj,Rage Against The Machine,24E6rDvGDuYFjlGewp4ntF,Evil Empire,1996-04-16,74,Metal
+3aYBjxTMvrEOP0A0UXg9ER,Final Masquerade,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,3XB2yloP7l00tEUmaODtVi,The Hunting Party,2014-06-09,68,Metal
+2gscB6kDOmrv1P6qs2KXE3,Wait and Bleed,05fG473iIaoy82BF1aGhL8,Slipknot,2dL9Q5AtIv4Rw1L6lKcIUc,Slipknot (10th Anniversary Edition),2009-09-09,67,Metal
+0PicuPCfXDJyyRtOR1ukGW,Bored,6Ghvu1VvMGScGpOUJBAHNH,Deftones,30YN03R4Bjl8Qwz8wPRoXG,Adrenaline,1995,66,Metal
+6pAIZfkNBQh4RAiOliPo4t,The Unforgiven - Remastered 2021,2ye2Wgw4gimLv2eAKyk1NB,Metallica,7h5xn0Olvx2p0eQcSt1Osy,Metallica (Remastered Deluxe Box Set),2021-09-10,56,Metal
+00KfIFi2TpAaQGPbRbFbKJ,IN MY REMAINS,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4XHIjbhjRmqWlosjj5rqSI,LIVING THINGS,2012-06-19,66,Metal
+50KnnCScF28RF7eZzrJwp3,For You,74aLweE8FHHf4yN5TWv1GM,HIM,2p7iWrYivSiCScrpNI4qiD,Greatest Love Songs Vol. 666,1997-03-09,51,Metal
+3zodQoSA9p2jwSlFrYkzHF,Tanz mit mir,2wPOgnQ6eW3X73uIJZ4YFE,Faun,3H6faUWQ2xDJBchfJdCAQ9,Von den Elben,2013-01-01,56,Metal
+05A9GC5OxmgvvRji2SCVzh,In a Darkened Room,4opTS86dN9uO313J9CE8xg,Skid Row,35XOihxzj9XxmK4j1DFW3E,Slave to the Grind,1991-06-11,62,Metal
+2iFgHPoa7FNHwgLnjXzu7F,Puppe,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1LoyJQVHPLHE3fCCS8Juek,Rammstein,2019-05-17,60,Metal
+1aDNYyeU62BuQsBAY18i48,Stargazer,6SLAMfhOi7UJI0fMztaK0m,Rainbow,3uIT4I4Dy7Pq1j0aSjzPW9,Rising,1976-01-01,57,Metal
+1dYw8HTRJnFpeEeMtXj99a,ROADS UNTRAVELED,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4XHIjbhjRmqWlosjj5rqSI,LIVING THINGS,2012-06-19,68,Metal
+1FPSkRkDlthbAceSIIWc4C,Welcome Home (Sanitarium) - Remastered,2ye2Wgw4gimLv2eAKyk1NB,Metallica,5rFZcoCvmCaJ1gxTMU4JTm,Master Of Puppets (Deluxe Box Set / Remastered),1986-03-03,59,Metal
+5mFZipkX1HZ4Idz5LOWpzq,Cut the Bridge,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4R6FV9NSzhPihHR0h4pI93,From Zero,2024-11-15,69,Metal
+3vhKrSxe3fRuS5Ogis76VO,Flight of Icarus - 2015 Remaster,6mdiAmATAx73kdxrNrnlao,Iron Maiden,7I9Wh2IgvI3Nnr8Z1ZSWby,Piece of Mind (2015 Remaster),1983,62,Metal
+2YTwVDQOSGclX2N3AKetOP,The Four Horsemen - Remastered,2ye2Wgw4gimLv2eAKyk1NB,Metallica,3m69LQokz6DaKB3yw4BH6n,Kill 'Em All (Deluxe / Remastered),1983-07-24,59,Metal
+6uBO5ou5gJy8kDBUZrK9nR,Sleeping (In The Fire),3BVkDHWRvLJEyKdvhLbjsq,W.A.S.P.,25pbI5TFqt2tzGS4XSMnog,W.A.S.P.,1984,52,Metal
+02zclmxRto3GAUBdtV7D8i,Warriors of the World United,4CzUzn54Cp9TQr6a7JIlMZ,Manowar,4ncHBqf9da4Y3qosIxnrnJ,Warriors of the World,2002-06-02,60,Metal
+5axOkQnmQmwtjr4bv1Xt7i,I Don't Wanna Stop,6ZLTlhejhndI4Rh53vYhrY,Ozzy Osbourne,6wiS0vTk9GfsiUKJEOav8Z,Black Rain (Expanded Edition),2007-05-18,70,Metal
+0EtzpDX05udzfLcGntGbGU,Eat You Alive,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,3oUoQ0UH7Rv06x1kpSjS36,Results May Vary,2003-01-01,66,Metal
+4L9UGREMQBfYLmGwlACgTV,Moskau,6wWVKhxIU2cEi0K81v7HvP,Rammstein,74ydDCcXTco741y42ceRJ5,"Reise, Reise",2004-09-27,59,Metal
+2SrVGpjv0mqCR6j9EZPSm2,2 Minutes to Midnight - 2015 Remaster,6mdiAmATAx73kdxrNrnlao,Iron Maiden,309KOMEivisMmBuzk09635,Powerslave (2015 Remaster),1984,65,Metal
+3JjZq20Kv6UphyyirAaY9A,Moth Into Flame,2ye2Wgw4gimLv2eAKyk1NB,Metallica,7LwifLL1anaEd9eIIfIkx7,Hardwired…To Self-Destruct,2016-11-18,58,Metal
+5cxp9kjCFyJwzv3lzeX7ku,Inside the Fire,3TOqt5oJwL9BE2NG9MEwDa,Disturbed,6hz9f6H7URtoigU517WjD6,Indestructible (Deluxe Edition),2008-04-29,68,Metal
+0vJYFKg9z1IvZiQUyX19cD,Iron Man (2012 Remaster),5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,7LGVdC9fFwgWYaIrZwsSv6,Paranoid,1970-09-18,62,Metal
+4nvYDy427VvA1TcEkdgZII,Hellraiser,6ZLTlhejhndI4Rh53vYhrY,Ozzy Osbourne,6eh82ojicL8RSJF7GkYTh7,No More Tears (Expanded Edition),1991-09-17,67,Metal
+6aCBjSb87RizdH8lVBIRW7,Good Things Go,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4R6FV9NSzhPihHR0h4pI93,From Zero,2024-11-15,65,Metal
+3090goAxG6IlpCifA8m9xB,Peace Sells - 2004 Remaster,1Yox196W7bzVNZI7RBaPnf,Megadeth,4U8ZF5zDIRy4lBnnXBN2uO,Peace Sells...But Who's Buying? (Expanded Edition - Remastered),1986,59,Metal
+1GWtUkDQk7XC35r7kTPfqx,Amazonia,0GDGKpJFhVpcjIGF8N6Ewt,Gojira,3bmdzJRZ4DLRTiA6yBBQcI,Fortitude,2021-04-30,59,Metal
+3wFGRek61NIF330UwJCI52,Aces High - 2015 Remaster,6mdiAmATAx73kdxrNrnlao,Iron Maiden,309KOMEivisMmBuzk09635,Powerslave (2015 Remaster),1984,64,Metal
+4JtlSNG23w7WbMCekGUJak,Forever and One (Neverland) (2024 Remaster),4pQN0GB0fNEEOfQCaWotsY,Helloween,21xU9rq3nBa0VmQ8WX2JIu,The Time of the Oath (2024 Remaster),1994-01-01,55,Metal
+0PCdU8zgdDz0O9HgA7zrg3,Poison girl,74aLweE8FHHf4yN5TWv1GM,HIM,4TGbiYOokXYDtgnw7yKC5N,Razorblade Romance,1991-09-17,50,Metal
+2mz3lcK6rYGTlNUtkgZm4f,The Duelist,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,1jjx7U3tayhJTytJVBj0WY,Legends,2025-10-17,52,Metal
+5DbAOJ5dYW5A9xBhkeb33t,Primo Victoria,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,0XUH04WpLqnB0Q7Hep3aR0,Primo Victoria (Re-Armed),2010-09-24,64,Metal
+4R6ixj4SsrNjxZz6uCwYlg,Right Here In My Arms,74aLweE8FHHf4yN5TWv1GM,HIM,4TGbiYOokXYDtgnw7yKC5N,Razorblade Romance,1991-09-17,52,Metal
+5j7gLuOsBOyqooruGxX4nx,Taking Over Me,5nGIFgo0shDenQYSE0Sn7c,Evanescence,02w1xMzzdF2OJxTeh1basm,Fallen,2003-03-04,61,Metal
+4upSkMUkdiXaSz3sQKy34W,Lightning at the Gates,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,1jjx7U3tayhJTytJVBj0WY,Legends,2025-10-17,52,Metal
+7xrNu3NxSQ0zAnB8ZSqUgq,Till Seger,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,1jjx7U3tayhJTytJVBj0WY,Legends,2025-10-17,53,Metal
+0MxqiUhIbMwIEOYTgdNbxb,Templars,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,1jjx7U3tayhJTytJVBj0WY,Legends,2025-10-17,54,Metal
+275EXSVi2oyj4S5SPMo9qx,Hordes of Khan,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,1jjx7U3tayhJTytJVBj0WY,Legends,2025-10-17,53,Metal
+2BCSABdmxlLx0hJwuvcRBj,The Cycle of Songs,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,1jjx7U3tayhJTytJVBj0WY,Legends,2025-10-17,53,Metal
+170Q9dEUIPy8imNb9p5DYu,Impaler,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,1jjx7U3tayhJTytJVBj0WY,Legends,2025-10-17,55,Metal
+1RNwniZkJqdw9LMkkyynjx,Nemo,2NPduAUeLVsfIauhRwuft1,Nightwish,2wM6svkNOCsYP8sr9gP2zc,Once,2004-06-07,64,Metal
+34EZIGTN4CqPd2CqAfEIzz,A Tiger Among Dragons,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,1jjx7U3tayhJTytJVBj0WY,Legends,2025-10-17,55,Metal
+1t1g8mx2GQLX2UUk5azWAu,Maid of Steel,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,1jjx7U3tayhJTytJVBj0WY,Legends,2025-10-17,55,Metal
+6WyfybAgLz1EceoumvVSun,Crossing the Rubicon,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,1jjx7U3tayhJTytJVBj0WY,Legends,2025-10-17,54,Metal
+37Z94qnpJdzff7n86hBcqb,Bury me deep inside,74aLweE8FHHf4yN5TWv1GM,HIM,36tz5XLSdscEvXvzWQwSXv,Razorblade Romance,1999-11-15,50,Metal
+0GxIAMtKFYTQZpR1avO6HB,Mann gegen Mann,6wWVKhxIU2cEi0K81v7HvP,Rammstein,3PrS5X3QNdDUlBIE4bz6J2,Rosenrot,2005-10-27,59,Metal
+3EEur887pYePiTyu1XUjYY,Gone With The Sin,74aLweE8FHHf4yN5TWv1GM,HIM,36tz5XLSdscEvXvzWQwSXv,Razorblade Romance,1999-11-15,50,Metal
+5JAnXx5BBES4FEf4d4t4CC,St. Anger,2ye2Wgw4gimLv2eAKyk1NB,Metallica,0HKpzK9ZoJ0oVA43E5gewM,St. Anger,2003-01-01,60,Metal
+32fEW4jygJjjnZh2iBa5IR,Easier to Run,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,0f7R0jf0pcTb6K6IVVPcMD,Meteora (Bonus Edition),2003-03-25,63,Metal
+39m87lOMd5ccENPVvAT7gH,Bismarck,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,3RIq2tHWbtfYMZmd6tPTwY,Bismarck,2019-05-17,63,Metal
+5X79VgaOn8pDTpTKu3PixN,We're Not Gonna Take It,7b85ve82Sh36a3UAx74wut,Twisted Sister,7LEgf3IOaVyBExG9rdU2wl,Stay Hungry,1984-05-10,73,Metal
+5SAEMjVQbmin3g7b0RG6me,5 Minutes Alone,14pVkFUHDL207LzLHtSA18,Pantera,70GAqt2avSiKBJ2IEymou1,Far Beyond Driven,1994,65,Metal
+1wsRitfRRtWyEapl0q22o8,Guerrilla Radio,2d0hyoQ5ynDBnkvAbJKORj,Rage Against The Machine,2eia0myWFgoHuttJytCxgX,The Battle Of Los Angeles,1999-11-02,71,Metal
+6hz6lrQtLcxOOjflnYjF9o,As I Am,2aaLAng2L2aWD2FClzwiep,Dream Theater,1yAbzShRcY4muLKsX8UWxj,Train of Thought,2003-11-10,56,Metal
+6AAZigYqOch79lKcrSBOv0,Killpop,05fG473iIaoy82BF1aGhL8,Slipknot,0ApKaazNHf0gzjAYZauexq,.5: The Gray Chapter (Special Edition),2014-10-15,64,Metal
+2ipYQ6pcabz1NovVrr9LKH,Fighting Myself,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,3Q9wXhEAX7NYCPP0hxIuDz,Meteora 20th Anniversary Edition,2023-04-07,67,Metal
+65ShmiE5aLBdcIGr7tHX35,Vicarious,2yEwvVSSSUkcLeSTNyHKh8,TOOL,1fvWYcbjuycyHpzNPH1Vfk,"10,000 Days",2006-04-28,66,Metal
+1UMdbkqX19OiwfExH7gzYA,Through The Fire And Flames,2pH3wEn4eYlMMIIQyKPbVR,DragonForce,0v2dlZrkVAjKdkwpjoKzPG,Inhuman Rampage,2006-09-01,66,Metal
+7tvuLLroI0n6uYBWuFig5d,Lateralus,2yEwvVSSSUkcLeSTNyHKh8,TOOL,5l5m1hnH4punS1GQXgEi3T,Lateralus,2001-05-15,65,Metal
+1Cssm6TMieYSFz8gQyPzxa,Mein Land,6wWVKhxIU2cEi0K81v7HvP,Rammstein,20mEbRzpqGIWyLtUO6LbjB,Made In Germany 1995 - 2011 (Special Edition),2011-12-02,58,Metal
+6y2DHyCYf6azhUfXmnuH6w,Question!,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,0cn6MHyx4YuZauaB7Pb66o,Mezmerize,2005-05-17,69,Metal
+3439OLNIeD3y68kVuoZUO5,"Girls, Girls, Girls",0cc6vw3VN8YlIcvr1v7tBL,Mötley Crüe,0vPZhR1KpbRNBOQBsDScS8,"Girls, Girls, Girls (Deluxe Version)",1987-05-15,72,Metal
+4VFNyv0nVew5C878WDsPvE,Shout at the Devil,0cc6vw3VN8YlIcvr1v7tBL,Mötley Crüe,61tegsknhtO0WKmkyPqvly,Shout At The Devil,1983-09-26,68,Metal
+7q6CybWAg3uYLgS5tDWqmd,Imaginary,5nGIFgo0shDenQYSE0Sn7c,Evanescence,02w1xMzzdF2OJxTeh1basm,Fallen,2003-03-04,60,Metal
+710B9xFjNOisQtKtppZE9p,Black No. 1 (Little Miss Scare -All),0blJzvevdXrp21YeI2vbco,Type O Negative,22PP61GmfGKAhIQo2ZSRxG,Bloody Kisses (Top Shelf Edition),1994-05-10,63,Metal
+1ez4uWPnJwYufNhYTLVsJr,Soldier Side,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,3QxX3NbWyLlLG6lP1xveL3,Hypnotize,2005-11-22,67,Metal
+5NVwniYeZBaN8kgi4jObRy,Miss Construction Theme,40m16kE896yRgrr1bVeDi9,Miss Construction,603jWfAFPn4s2TDaeyAXL1,Kunstprodukt,2008-04-25,62,Metal
+6ursmCnbc9oDRGa2yHKkoZ,Roots Bloody Roots,6JW8wliOEwaDZ231ZY7cf4,Sepultura,5JjnPCfpp6redrkKpXZAs8,Roots,1996-02-20,65,Metal
+0Zfh4uDmJz3D44Qy9nYMqu,Rammstein,6wWVKhxIU2cEi0K81v7HvP,Rammstein,6HlDm9fzYxk4vkkr3YEvSv,Herzeleid (XXV Anniversary Edition – Remastered),1995-09-24,59,Metal
+6LsMmm02qu6SOmp9JeaIyC,To Whom It May Concern,3uL4UpqShC4p2x1dJutoRW,Ghostemane,5CUBWdPcLPRctBuUY04boT,HUMAN ERR0R,2019-06-19,65,Metal
+47EqCQZG5v4o0WFMufGf5S,Cigaro,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,0cn6MHyx4YuZauaB7Pb66o,Mezmerize,2005-05-17,68,Metal
+4PWxt9Fy949kUtkEi2GI5V,L'enfant sauvage,0GDGKpJFhVpcjIGF8N6Ewt,Gojira,5dxqD5Kc6cRRi3rErmDfXG,L'Enfant Sauvage (Special Edition),2012-06-26,58,Metal
+64ywvJE5j3PmRHzuah2WKR,I Wanna Rock,7b85ve82Sh36a3UAx74wut,Twisted Sister,7LEgf3IOaVyBExG9rdU2wl,Stay Hungry,1984-05-10,70,Metal
+5uMTA9SIe0sE4dnHHSHaYz,Vicinity Of Obscenity,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,3QxX3NbWyLlLG6lP1xveL3,Hypnotize,2005-11-22,68,Metal
+52s05aBQd2LVc6EWIQCQI1,Are You Dead Yet?,1xUhNgw4eJDZfvumIpcz1B,Children Of Bodom,79DzJ47LPkstBgi1Hu5Opm,Are You Dead Yet?,2005-01-01,58,Metal
+1WZVnw0YWc7OLkVijEargx,Redneck,3JFsVIxOn7STeilPICkkB2,Lamb of God,1PJtQrmYNraIeTjapfuYcf,Sacrament (15th Anniversary Edition),2006-08-22,63,Metal
+2K2NeVnP853rkR5ese8ZLP,The Attack of the Dead Men,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,7FtCDX4COLE3HR2vBv7411,The Great War,2019-07-19,61,Metal
+7cUHFTxJhxtZ5tpY34SMRw,Stormtroopers,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,3kB4VjXKKCY7l5xeH113Da,The War to End All Wars,2022-03-04,65,Metal
+1s70cjkrdj9lpEeQQlmS9l,Die a King,26JloX1vHxGGrGUVeMItFJ,iamjakehill,60tzyfHtJFQxHBS4So4t8J,Spectrum,2017-10-26,58,Metal
+4anzVbFPUuZTw0KQeZ0qnu,Was ich liebe,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1LoyJQVHPLHE3fCCS8Juek,Rammstein,2019-05-17,60,Metal
+3IKJNHnVZ2bXGjAFBJiUYo,God Is Dead?,5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,5WXL9YjbNd4GIqWc9mZOOq,13,2013-01-01,59,Metal
+0S38Oso3I9vpDXcTb7kYt9,The Summoning,2n2RSaZqBuUUukhbLlpnE6,Sleep Token,1gjugH97doz3HktiEjx2vY,Take Me Back To Eden,2023-05-19,75,Metal
+2pZsQqXFgcY03vRyZxSQhU,The Heaviest Matter of the Universe,0GDGKpJFhVpcjIGF8N6Ewt,Gojira,0AvFF0HlQYvYKHaRURGZBs,From Mars to Sirius,2005-09-27,60,Metal
+5sUCU4eiyf0pplIJ7OGEoc,Beauty School,6Ghvu1VvMGScGpOUJBAHNH,Deftones,1GjjBpY2iDwSQs5bykQI5e,Diamond Eyes,2010-04-30,68,Metal
+2aUuMeSbt2aEv94MdG2BYS,My Last Breath,5nGIFgo0shDenQYSE0Sn7c,Evanescence,02w1xMzzdF2OJxTeh1basm,Fallen,2003-03-04,60,Metal
+24z528iI9kZu5LbkLainjI,Between Angels And Insects,4RddZ3iHvSpGV4dvATac9X,Papa Roach,0BHa0ePkvGAVKymB4FU58m,Infest,2000-04-25,69,Metal
+5Bpc360LNUScK53FrM8nvB,Hole in the Earth,6Ghvu1VvMGScGpOUJBAHNH,Deftones,4ilqDlqD37nilewk9x8tyZ,Saturday Night Wrist,2006-10-25,68,Metal
+3AUGhZ8AlFRcvDf0LWhlYf,Rivers Between Us,1TX9g1uSl0B0DQIE9lBqmU,Draconian,2qHw1dSeotZhiAByDAOpCD,Sovran,2015-10-30,43,Metal
+3zbLtkeCoU5LutGs8728c6,Don't Tread on Me - Remastered 2021,2ye2Wgw4gimLv2eAKyk1NB,Metallica,3dck2tBxGfxj9m3CguDgjb,Metallica (Remastered 2021),2021-09-10,60,Metal
+2463q6UN8BIDfeVI379qFz,milk of the madonna,6Ghvu1VvMGScGpOUJBAHNH,Deftones,1gmWnG5TeRj91Tdm2lpEvJ,private music,2025-08-22,69,Metal
+3AA50LilsWIK5HstsdUa0I,The Emptiness Machine,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,5QfFvOMOJ0CrIDmu33RmSJ,From Zero (Deluxe Edition),2025-05-16,67,Metal
+0J1IJsMbKWb5g2sJArTkGF,Stained,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4R6FV9NSzhPihHR0h4pI93,From Zero,2024-11-15,68,Metal
+7eRG7KNDIgjIk3nvykmhOT,Dead Memories,05fG473iIaoy82BF1aGhL8,Slipknot,2ISXjEm0D4chvU2IDNvUqk,All Hope Is Gone (10th Anniversary),2008-08-20,65,Metal
+1Gn1FeIYUMZ2a7PrbaaQhl,Creeping Death - Creeping Death EP Version / Remastered,2ye2Wgw4gimLv2eAKyk1NB,Metallica,4K5E5mWQbECn9aThu6Xnkx,Ride The Lightning (Deluxe / Remastered),1984-07-26,58,Metal
+6dRAAG4sB71NAtVCHJep7s,Send the Pain Below,56dO9zeHKuU5Gvfc2kxHNw,Chevelle,481JiVXZYUlTtqlv9ewJXV,Wonder What's Next (Expanded Edition),2002,75,Metal
+2w7Ca8DNYXBCgA6Bht7o0N,Zick Zack,6wWVKhxIU2cEi0K81v7HvP,Rammstein,75OE7M0wduJyffbffehHuR,Zeit,2022-04-29,61,Metal
+6LHhaWs0HzuPhflDWiVtp1,I duckinf hatw you,3uL4UpqShC4p2x1dJutoRW,Ghostemane,5CUBWdPcLPRctBuUY04boT,HUMAN ERR0R,2019-06-19,61,Metal
+2cN7qiHMJflO91pkG9HoO1,Dai the Flu,6Ghvu1VvMGScGpOUJBAHNH,Deftones,7o4UsmV37Sg5It2Eb7vHzu,Around the Fur,1997-10-27,64,Metal
+1x8sna2LV8WQ38NEtN5X46,The Nobodies,2VYQTNDsvvKN9wmU5W7xpj,Marilyn Manson,3stFLIWyYH4a8u0bdxDopt,Holy Wood,2000-11-11,62,Metal
+0xgsyoVvRFSYvV5cdtYhX1,A.D.I.D.A.S.,3RNrq3jvMZxD9ZyoOZbQOD,Korn,2b813fSxxzp9lcOfnLrrTH,Life Is Peachy,1996-10-15,67,Metal
+66LT15XEqCaWiMG44NGQRE,Here To Stay,3RNrq3jvMZxD9ZyoOZbQOD,Korn,32H8ZczfX12FWWODVVr6NQ,Untouchables,2002,59,Metal
+2biZJ6YK8Pz1bUby8VDV3Q,MISA MISA!,7yntSJ6uojO3z6GFUVwhAW,CORPSE,140flQ7ktV8ptZM0WmHfvV,MISA MISA!,2022-08-26,61,Metal
+47VSmPTydr0saGjbQGwCeg,Disasterpiece,05fG473iIaoy82BF1aGhL8,Slipknot,5Zs0mNCTs73CqPKbZPWFX9,Iowa (10th Anniversary Edition),2001,61,Metal
+3634aKisKlGdUfD9V3MOY5,Christian Woman,0blJzvevdXrp21YeI2vbco,Type O Negative,22PP61GmfGKAhIQo2ZSRxG,Bloody Kisses (Top Shelf Edition),1994-05-10,61,Metal
+7iMQChXFK33TS49QWhE4tt,The art of dying,0GDGKpJFhVpcjIGF8N6Ewt,Gojira,4J79cxsmRqZbI0BKmNFDy2,The way of all flesh,2008-10-13,57,Metal
+6IKk2Z7LO59UDnVEw8JCBj,Wish I Had an Angel,2NPduAUeLVsfIauhRwuft1,Nightwish,2wM6svkNOCsYP8sr9gP2zc,Once,2004-06-07,63,Metal
+4JV3BjszeEUD1bTTcx9hdx,ecdysis,6Ghvu1VvMGScGpOUJBAHNH,Deftones,1gmWnG5TeRj91Tdm2lpEvJ,private music,2025-08-22,68,Metal
+0JBQnLKfLXmlkquabLtAgd,Only for the Weak,57ylwQTnFnIhJh4nu4rxCs,In Flames,1hVhTWO9hlpPr7T8ORczRd,Clayman,2000-07-03,61,Metal
+0WTc2jsUgF4Y2MOz0aYvsR,Paranoid,1Yox196W7bzVNZI7RBaPnf,Megadeth,3jfeL3OUh2Kimx9ZKja8fY,Hidden Treasures,1995,55,Metal
+5v3TSHYm8BzbON2u6QBEG7,Dunkelheit,7L6u6TyhjuwubrcojPeNgf,Burzum,2XQwZUu0MM9ECgwHbcc8qR,Filosofem,1996,54,Metal
+6Aw2CjqeNqXZX1FBJoaOIE,The Funeral Of Hearts,74aLweE8FHHf4yN5TWv1GM,HIM,6XcCLlJnHqCy0znK4AVzkF,Love Metal,2003-04-14,51,Metal
+68osIGtVjM7QWVe6pazLHj,Shadow Moses,1Ffb6ejR6Fe5IamqA5oRUF,Bring Me The Horizon,6IYPmM3xsOPL2XPSvf1ZAz,Sempiternal (Expanded Edition),2013-04-01,71,Metal
+5bvgRxco3jgSZ3SP8rueDA,The Catalyst,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,5uvXx5ZQswNRFCdHR521YZ,A Thousand Suns,2010-09-08,66,Metal
+2SpGXD7EbexndFmmThrnsy,Deer Dance,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,6jWde94ln40epKIQCd8XUh,Toxicity,2001-09-04,70,Metal
+1XanLfYUUBB6bLbnSh1KyU,Benzin,6wWVKhxIU2cEi0K81v7HvP,Rammstein,3PrS5X3QNdDUlBIE4bz6J2,Rosenrot,2005-10-27,58,Metal
+5yDJpu0xh0d1w13gXaE3lS,The Heart from Your Hate,278ZYwGhdK6QTzE3MFePnP,Trivium,3qq44o8Qqvz5JQ7b5AevLT,The Sin and the Sentence,2017-10-20,64,Metal
+3AwLxSqo1jOOMpNsgxqRNE,Prison Song,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,6jWde94ln40epKIQCd8XUh,Toxicity,2001-09-04,70,Metal
+5u2qiqQGUBy8fvXTvs9i2X,(sic),05fG473iIaoy82BF1aGhL8,Slipknot,5lOFvOWAdy9G6p44noRILU,Slipknot,1999,67,Metal
+42Kv1RoTAm09FeytxiuZIB,Knife Prty,6Ghvu1VvMGScGpOUJBAHNH,Deftones,5LEXck3kfixFaA3CqVE7bC,White Pony,2000,65,Metal
+6eXWc7irALyENtbAD2TTOT,Lux Æterna,2ye2Wgw4gimLv2eAKyk1NB,Metallica,6UwjRSX9RQyNgJ3LwYhr9i,72 Seasons,2023-04-14,58,Metal
+4m8wPzkI1y0sUdqEh4A7fq,Kimdracula,6Ghvu1VvMGScGpOUJBAHNH,Deftones,4ilqDlqD37nilewk9x8tyZ,Saturday Night Wrist,2006-10-25,64,Metal
+0lh9SN28AiSNGLZFz4KBF0,Shapeshifter (feat. Styles of Beyond),4BKyei61gtyDFxlKhcvBJJ,Celldweller,4NvgNR8QhQKNvsjangqMcT,Celldweller (Definitive Edition),2003-02-11,56,Metal
+5dnwXK73BDZ0H2L06ZrKcE,Dr. Feelgood,0cc6vw3VN8YlIcvr1v7tBL,Mötley Crüe,4MDYr65P5RQb6VHt80T3o8,Dr. Feelgood,1989-09-02,70,Metal
+0Xmbtw7NhNiDnL4BWy5wDh,Innervision,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,6lA1sGw7eCv27bcpd5E0wT,Steal This Album!,2002-11-26,66,Metal
+6zKF4293k44ItKWJJgrhXv,My Curse,37394IP6uhnjIpsawpMu4l,Killswitch Engage,6iJEtgHTEbVlSS5isIS71z,As Daylight Dies (Special Edition),2007-02-06,70,Metal
+1pHPpLVH2XEN0xYRoQs4wq,Word Up!,3RNrq3jvMZxD9ZyoOZbQOD,Korn,1L9iPuSu8FZFaFzzqHQarF,Word Up! (The Remixes),2004-11-16,68,Metal
+0oerlffJSzhRVvtDfLcp3N,Wanted Dead Or Alive,58lV9VcRSjABbAbfWS6skp,Bon Jovi,0kBfgEilUFCMIQY5IOjG4t,Slippery When Wet,1986-08-16,70,Metal
+6W2KBpMMXW17r7dPyqi8Iu,Repentless,1IQ2e1buppatiN1bxUVkrk,Slayer,5QTGKCuJbyViaQQXjHOvjL,Repentless,2015-09-11,61,Metal
+3GZt2N9dSfNCL6ArCFDpOc,Let You Fade,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,5QfFvOMOJ0CrIDmu33RmSJ,From Zero (Deluxe Edition),2025-05-16,68,Metal
+0MNwV4sXm2AljohIXBRgpj,To Live is to Die,2ye2Wgw4gimLv2eAKyk1NB,Metallica,6jZ1z25PyF4Yd3kHxt9rl1,…And Justice for All (Remastered),1988-08-25,53,Metal
+5I29F9GR0OkaU1nuxp9hU8,Memento Mori,3JFsVIxOn7STeilPICkkB2,Lamb of God,34Y9ZcZ4b3WGbhx66zS0QV,Lamb of God,2020-06-19,58,Metal
+4XBtYPGMAYJkuJu2w4pmYl,Faster,3hE8S8ohRErocpkY7uJW4a,Within Temptation,1EvpTfBqlDzPwDYzWTgTw3,The Unforgiving,2011-03-25,63,Metal
+0Fd4oSOZ2nHtdHOkgyI4qz,Heavy Is the Crown,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,5QfFvOMOJ0CrIDmu33RmSJ,From Zero (Deluxe Edition),2025-05-16,65,Metal
+0RsOUnm1wNpbXxZ8a4abOP,Amaranth,2NPduAUeLVsfIauhRwuft1,Nightwish,33knvUBRR5ekNBrtLqQVTD,Dark Passion Play,2007-09-26,63,Metal
+3jagGO7eHHuaD53ibehkux,Blood and Thunder,1Dvfqq39HxvCJ3GvfeIFuT,Mastodon,6khFoLWnJZDQvZ7Pijym3b,Leviathan,2004-08-31,62,Metal
+5wmkQbOUTLjnDsdLeNgtO3,New Divide,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,1X472EvsSqH09RyrqbtyXU,Papercuts,2024-04-12,67,Metal
+2QiqwOVUctPRVggO9G1Zs5,Wake Up,2d0hyoQ5ynDBnkvAbJKORj,Rage Against The Machine,4Io5vWtmV1rFj4yirKb4y4,Rage Against The Machine - XX (20th Anniversary Special Edition),1992,65,Metal
+1Ej0xptDBpBxUM1dIPcHlm,My Heart Is Broken,5nGIFgo0shDenQYSE0Sn7c,Evanescence,3U85Q4GtR0I3VwgDOKHttO,Evanescence,2011-01-01,61,Metal
+1jBL8PB3CqDYjR0luCpX00,Rammlied,6wWVKhxIU2cEi0K81v7HvP,Rammstein,29J0MchD0OWNeiMNbPDwfa,Liebe ist für alle da (Special Edition),2009-10-16,57,Metal
+64WA9NLkZDyIFRcnqfJTu3,is that love?,1QXwIgp7aA3JT7WIyaAcur,cloudyfield,2bFXwjODnimAxRSeLcS8h2,is that love?,2025-03-28,61,Metal
+18XBoS4OTPBL3m9otvRnCI,A Tale That Wasn't Right - 2024 Remaster,4pQN0GB0fNEEOfQCaWotsY,Helloween,6cVCvMPFJDMSByLFfHtn4U,"Keeper of the Seven Keys, Pt. 1 (2024 Remaster)",1987-01-01,55,Metal
+1T8IRUJBga0JXioJZvxjBR,Deutschland,6wWVKhxIU2cEi0K81v7HvP,Rammstein,3R7mUm3SZhV3BIIY7FMrU1,Deutschland,2019-03-28,56,Metal
+3Ye7vnZdrO2Gq5IyyH3cOp,Giftig,6wWVKhxIU2cEi0K81v7HvP,Rammstein,75OE7M0wduJyffbffehHuR,Zeit,2022-04-29,61,Metal
+03rHMIaoIsrQ3Elkp0KLUk,I Died For You,3KEixcRfBS5K3E91Vn1Kdy,Iced Earth,0bGhZHGL1hrkLSn354mB8W,The Dark Saga,1996-06-03,47,Metal
+3thCp5S3lfRDikpfhXsuil,Loneliness,1q4hWErLtwYQIca9js6NgP,Decalius,1m3AHQKDZW9wPyIsMbt5jb,Dehumanizing Loneliness,2023-10-13,53,Metal
+5Hh2VJj7bOWGsN0Jw6smwt,Two Faced,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4kksZlvAqineklmhltdTFe,Two Faced,2024-11-13,61,Metal
+1kvq7ksGQWSyRysYYNd6lu,Home Sweet Home,0cc6vw3VN8YlIcvr1v7tBL,Mötley Crüe,3QyCjcfNt3S5wiWGEH0h7D,Theatre of Pain (Deluxe Version),1985-06-21,72,Metal
+72hcFp4tYkd3dbNA9dZ3Pv,Bad Medicine,58lV9VcRSjABbAbfWS6skp,Bon Jovi,3mcKOl0KNe65BqiBa40WxR,New Jersey (Deluxe Edition),1988-09-13,69,Metal
+35ZmCVnfYRdK1iLGCxNhMa,The Only,7JDSHlDdVTo7aZKdQZ53Vf,Static-X,6ArsYtEDpoPxrCQXG4rHw3,Shadow Zone,2003-10-07,64,Metal
+5JrajjztyjvkuUB8ZqzUML,Good God,3RNrq3jvMZxD9ZyoOZbQOD,Korn,2b813fSxxzp9lcOfnLrrTH,Life Is Peachy,1996-10-15,63,Metal
+3ENHpbTuY72FukZbwGP6bc,Tear Away,1E4r4z7ivGUcSAnCbINJ9v,Drowning Pool,089oyV5caclve3ap934iRw,Sinner,2001-01-01,66,Metal
+6YU556RBcA4js0poLlP8Cu,Full Nelson,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,5mi7FKaWE5CtcOjdyxScA7,Chocolate Starfish And The Hot Dog Flavored Water,2000-10-17,64,Metal
+3z9e5b0P7zoIeV6I3iyX8O,Orion - Remastered,2ye2Wgw4gimLv2eAKyk1NB,Metallica,5rFZcoCvmCaJ1gxTMU4JTm,Master Of Puppets (Deluxe Box Set / Remastered),1986-03-03,54,Metal
+2KsHzM4L7ThhNJB6MHXkPx,Zeit,6wWVKhxIU2cEi0K81v7HvP,Rammstein,75OE7M0wduJyffbffehHuR,Zeit,2022-04-29,61,Metal
+1gzWd0ILFaCoHUfQSkCIvl,Minerva,6Ghvu1VvMGScGpOUJBAHNH,Deftones,6252G7bGCVijXlqAjtjeDP,Deftones,2003,65,Metal
+5lGk2d6vYXSv5RiLMHLsCZ,Halleluja,6wWVKhxIU2cEi0K81v7HvP,Rammstein,0o0QM3HLgDRQQslL2ott2a,Raritäten (1994 - 2012),2015-04-23,59,Metal
+28TcG73tbc4iGrGBFjiBnR,Kings of Metal,4CzUzn54Cp9TQr6a7JIlMZ,Manowar,7lZkD6ntnGAhmWowltbOYB,Kings of Metal,1988-11-01,55,Metal
+2EVeVyXH9mQ5IIGi9b3smP,Crossing the Rubicon (feat. NOTHING MORE),3o2dn2O0FCVsWDFSh8qxgG,Sabaton,1wSTkIeWrOhenv55gnRIFI,Crossing the Rubicon (feat. NOTHING MORE),2025-09-12,66,Metal
+3OYZWMm5m2DEwq2Tc1ukTh,The Heretic Anthem,05fG473iIaoy82BF1aGhL8,Slipknot,5Zs0mNCTs73CqPKbZPWFX9,Iowa (10th Anniversary Edition),2001,64,Metal
+2CGDxXXYbkPOyRXHzQbqkT,Click Click Boom,5S6hjAxgxjsLylsTtMIimO,Saliva,6gF0b1XROfpwz5bLHM1dRe,Every Six Seconds,2001-03-27,73,Metal
+3w9zHVKI28aUPZTxq8oDC6,Electric Eye,2tRsMl4eGxwoNabM08Dm4I,Judas Priest,55MZQrenomrTq0aQneC7Pi,Screaming For Vengeance (Expanded Edition),1982,60,Metal
+1FguwxMCoE37NIU7Du6qHH,Misanthrope,6Wis5wVztZEytwCmF1OX2k,Blade and Bath,7ovbdbcj7WKHQQfvn1TOMx,Rotten in Loneliness,2024-04-19,45,Metal
+29KYPEsbcMcVKnd6iyu6Q5,Sabbath Bloody Sabbath (2009 Remaster),5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,6tjx1ACkf4cYyFuhkyqz2A,Sabbath Bloody Sabbath,1973-12-01,64,Metal
+581mukhDjta60CCwpvnjL9,Nobody,3jTlKw98Ql1jGRPYqhqHap,Skindred,32QHWyKkZykhjHXzgRaZyg,Babylon (Revised Online Music),2004-08-31,64,Metal
+3EeoMkZF8NhX9FdCSxG8MB,Parabol,2yEwvVSSSUkcLeSTNyHKh8,TOOL,5l5m1hnH4punS1GQXgEi3T,Lateralus,2001-05-15,60,Metal
+1anIy4FRJbu7N8ASed1bcE,I Just Want You,6ZLTlhejhndI4Rh53vYhrY,Ozzy Osbourne,5m8Fj0thHTE4CBGJTdF6s9,Ozzmosis (Expanded Edition),1995-10-23,59,Metal
+0xv6NzfBHZhbZ5MWLzdh3T,Stirb nicht vor mir (Don't Die Before I Do),6wWVKhxIU2cEi0K81v7HvP,Rammstein,3PrS5X3QNdDUlBIE4bz6J2,Rosenrot,2005-10-27,56,Metal
+1TU3KOnNwSERgNbF2Yzl7N,Whisper,5nGIFgo0shDenQYSE0Sn7c,Evanescence,02w1xMzzdF2OJxTeh1basm,Fallen,2003-03-04,58,Metal
+0KFwkmCpsFqUs09Bs8iVFP,Spieluhr,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1CtTTpKbHU8KbHRB4LmBbv,Mutter,2001-04-02,57,Metal
+4oNXsQxJS726q1CALwlIzc,Eye of the Beholder,2ye2Wgw4gimLv2eAKyk1NB,Metallica,6jZ1z25PyF4Yd3kHxt9rl1,…And Justice for All (Remastered),1988-08-25,56,Metal
+5392GpKmAP3UvIAfHC8LAW,Haifisch,6wWVKhxIU2cEi0K81v7HvP,Rammstein,29J0MchD0OWNeiMNbPDwfa,Liebe ist für alle da (Special Edition),2009-10-16,59,Metal
+7yvUwUbPeQBtf3313SNw85,The End (feat. BABYMETAL) - 2025 VERSION,5t28BP42x2axFnqOOMg3CM,Five Finger Death Punch,70Z0xKqSdEYNN43FLs7aTO,The End (feat. BABYMETAL) [2025 VERSION],2025-09-05,66,Metal
+7h2EZbGSzzIGgAFzJXHz99,Like A Villain,3Ri4H12KFyu98LMjSoij5V,Bad Omens,1x6eC7V3NYQmscUnF9AK6T,THE DEATH OF PEACE OF MIND,2022-02-25,69,Metal
+6vQT1Y3MTGCpc31VIF5Ela,Army of the Night,5HFkc3t0HYETL4JeEbDB1v,Powerwolf,3Mm2pcqW8ZGdl4aKJi4ocm,Blessed & Possessed,2015-07-17,62,Metal
+6SyutgkQfLKfcsWvmh02k2,Personal Jesus,2VYQTNDsvvKN9wmU5W7xpj,Marilyn Manson,6LXoHFaHZlHl8TmUF4MnXj,Personal Jesus,2004-01-01,60,Metal
+3ICYxVhwVsp8FYI3IT2dDV,locked club,6Ghvu1VvMGScGpOUJBAHNH,Deftones,1gmWnG5TeRj91Tdm2lpEvJ,private music,2025-08-22,67,Metal
+3e7wv9TChjWrnXHrk5NyBU,All Nightmare Long,2ye2Wgw4gimLv2eAKyk1NB,Metallica,3bK58rVcWBh3V3vxMLzi0V,Death Magnetic,2008-01-01,58,Metal
+5BXmnj6Qglm67cEQ3dOi20,Rocket,2JvDmwhrBiIlSwUI7QHvqe,Bearded Legend,78mE3XmvNzocqHLzFj5CCG,Sogno,2019-07-21,58,Metal
+6rkeaQRCWZxwkjhyqgxjXi,Mouth for War,14pVkFUHDL207LzLHtSA18,Pantera,7kW0cpKgSVsEqcc8xgbSb0,Vulgar Display of Power,1992-02-21,63,Metal
+0dpFb4qv92TE9R00Lq4SAW,Symbolic,4f5V3PQ66nIrBCqugJtaGn,Death,1QgFthItpbxvMXlgGjvhBR,Symbolic (Remastered Version),1995-03-19,55,Metal
+50AB24h51HlBrp6PqOg50k,Pussy,6wWVKhxIU2cEi0K81v7HvP,Rammstein,29J0MchD0OWNeiMNbPDwfa,Liebe ist für alle da (Special Edition),2009-10-16,58,Metal
+3RQHAFkEHiFHQ7qmMpKRdv,Lost,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,3Q9wXhEAX7NYCPP0hxIuDz,Meteora 20th Anniversary Edition,2023-04-07,66,Metal
+6vZI7ju4Bg0Ui7HRidqlp4,Straight Outta Flames,3FCo1sUkVbwKnO2m0Z7Bp9,REDZED,3d4bAPQ6K4IHG7NRs17HRS,Bohemian Psycho,2019-03-31,58,Metal
+6r2JE3s7XVnGfwiWCymyWf,Unshatter,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,5QfFvOMOJ0CrIDmu33RmSJ,From Zero (Deluxe Edition),2025-05-16,67,Metal
+5wBLDkxVvclanSitx5jq8e,Undead,0CEFCo8288kQU7mJi25s6E,Hollywood Undead,2UYxjXHKm1JDT6JA7OSeR6,Swan Songs,2008-09-02,68,Metal
+1y1sChqjzdNWzwdHQADMrR,Numb,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,0f7R0jf0pcTb6K6IVVPcMD,Meteora (Bonus Edition),2003-03-25,61,Metal
+1EcFqCwlaXfg5E5uhrrlZy,My Friend of Misery - Remastered 2021,2ye2Wgw4gimLv2eAKyk1NB,Metallica,3dck2tBxGfxj9m3CguDgjb,Metallica (Remastered 2021),2021-09-10,54,Metal
+0UoGxTum73Mmvk9UuCqakG,Cut the Bridge,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,5QfFvOMOJ0CrIDmu33RmSJ,From Zero (Deluxe Edition),2025-05-16,65,Metal
+6R3jzxmUp5OSDlHsv6vyAg,Killing Loneliness,74aLweE8FHHf4yN5TWv1GM,HIM,1ggF3549NUNFgnjVvU2Dze,Dark Light,2005-09-26,54,Metal
+6SUS59EDam0USXk05d9ZAH,The God That Failed - Remastered 2021,2ye2Wgw4gimLv2eAKyk1NB,Metallica,3dck2tBxGfxj9m3CguDgjb,Metallica (Remastered 2021),2021-09-10,55,Metal
+3bxHy4sUXEWjI9kXG1DH5K,Of Wolf and Man - Remastered 2021,2ye2Wgw4gimLv2eAKyk1NB,Metallica,3dck2tBxGfxj9m3CguDgjb,Metallica (Remastered 2021),2021-09-10,57,Metal
+0PdM2a6oIjqepoEfcJo0RO,Pour Some Sugar On Me - Remastered 2017,6H1RjVyNruCmrBEWRbD0VZ,Def Leppard,31oeDyCOLhgeZyktfxo0pE,Hysteria (Super Deluxe),1987-08-03,74,Metal
+6pfdW2NouUI3ZnugM7r0G0,The Fight Song,2VYQTNDsvvKN9wmU5W7xpj,Marilyn Manson,3stFLIWyYH4a8u0bdxDopt,Holy Wood,2000-11-11,64,Metal
+1ckta9xwbEcxLaGClreVRf,Sulfur,05fG473iIaoy82BF1aGhL8,Slipknot,2ISXjEm0D4chvU2IDNvUqk,All Hope Is Gone (10th Anniversary),2008-08-20,63,Metal
+2PDdjoIa7fHriNPkqu055e,Gold Cobra,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,5SWyjakBNg9n0JpnHaQQSI,Gold Cobra (Deluxe),2011-01-01,63,Metal
+09EQqFGUTJW6X4NksMPM0O,Into the Void (2009 Remaster),5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,24fNwoIq4NLDf4ARJYAFN9,Master of Reality,1971-07-21,60,Metal
+0ItAcLSkUiePOmFGun3cSe,Crystal Mountain,4f5V3PQ66nIrBCqugJtaGn,Death,1QgFthItpbxvMXlgGjvhBR,Symbolic (Remastered Version),1995-03-19,54,Metal
+3vV3cr2TpPqFk07zxYUbla,Cum on Feel the Noize,1dLWg6m8RRhizsdqJbhyj3,Quiet Riot,3Q3rQ8FK1e9Fd9Gv9xm3CK,Metal Health,1983,70,Metal
+4ZCLM74MYhUy80TPiaAuee,When the Children Cry,3nLYJvqbEzs5kg2TlprxIG,White Lion,571UdIx8tcDmBPgLSW8KG2,Pride,1987,58,Metal
+4f3RDq9nYPBeR1yMSgnmBm,You've Got Another Thing Coming,2tRsMl4eGxwoNabM08Dm4I,Judas Priest,55MZQrenomrTq0aQneC7Pi,Screaming For Vengeance (Expanded Edition),1982,66,Metal
+65G4Ib3w7tgLjUkO5GseN0,Mr. Brownstone,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,28yHV3Gdg30AiB8h8em1eW,Appetite For Destruction,1987-07-21,66,Metal
+1MoEyYsa9Y0FvApwLskO1l,Ghost Division,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,0ByHC8GAef76h66JrvigzE,The Art of War (Re-Armed),2010-09-24,61,Metal
+4l3Vmsw0KO8HJqFtnbqaqu,Left Behind,05fG473iIaoy82BF1aGhL8,Slipknot,5Zs0mNCTs73CqPKbZPWFX9,Iowa (10th Anniversary Edition),2001,65,Metal
+7zVpUAOuXY7pHHSm21jFEq,Wild Side,0cc6vw3VN8YlIcvr1v7tBL,Mötley Crüe,0vPZhR1KpbRNBOQBsDScS8,"Girls, Girls, Girls (Deluxe Version)",1987-05-15,69,Metal
+3c02RAbOojbCSXQebk6Sf1,Weisses Fleisch,6wWVKhxIU2cEi0K81v7HvP,Rammstein,6HlDm9fzYxk4vkkr3YEvSv,Herzeleid (XXV Anniversary Edition – Remastered),1995-09-24,59,Metal
+0KwqP13BnZMIycfxnqWtK1,Te quiero puta!,6wWVKhxIU2cEi0K81v7HvP,Rammstein,3PrS5X3QNdDUlBIE4bz6J2,Rosenrot,2005-10-27,58,Metal
+1bJ5FuncHc6wyDHBvJ0xF6,Sweet Leaf (2009 Remaster),5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,24fNwoIq4NLDf4ARJYAFN9,Master of Reality,1971-07-21,62,Metal
+0Aq5S8Did22z1YrpO7MJIG,Walk with Me In Hell,3JFsVIxOn7STeilPICkkB2,Lamb of God,1PJtQrmYNraIeTjapfuYcf,Sacrament (15th Anniversary Edition),2006-08-22,59,Metal
+4sM7v7wyRAuV6ZTO2dvnCA,Roulette,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,6lA1sGw7eCv27bcpd5E0wT,Steal This Album!,2002-11-26,65,Metal
+3sSonVXqDeoEFj2lM7mpYT,Spirit Crusher,4f5V3PQ66nIrBCqugJtaGn,Death,0p6DxsQOhQ5qiBnUu9G1PB,The Sound of Perseverance - Reissue,1998,53,Metal
+5Q916vqrwfON21qlJiXpSz,Alone Again,09hNSPPOxDop4FRdr6UEnq,Dokken,68bOQyF7s918K2nUIXSGWo,Tooth and Nail,1984-09-14,60,Metal
+2MC5MLUdhrVUWGHUFHvaLF,Wollt ihr das Bett in Flammen sehen,6wWVKhxIU2cEi0K81v7HvP,Rammstein,6HlDm9fzYxk4vkkr3YEvSv,Herzeleid (XXV Anniversary Edition – Remastered),1995-09-24,59,Metal
+1lytJzFHNjsjDuMIJKOf6y,Don't Fear The Reaper,74aLweE8FHHf4yN5TWv1GM,HIM,2p7iWrYivSiCScrpNI4qiD,Greatest Love Songs Vol. 666,1997-03-09,48,Metal
+6KmJMlyPp0rPR7LloToCaF,Black Sabbath - 2009 Remaster,5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,3OmnatFgQ8o1DlYLp9EpNJ,Black Sabbath,1970-02-13,60,Metal
+0aYUqsvZG7bAslrUkd9Z0g,Hello,5nGIFgo0shDenQYSE0Sn7c,Evanescence,02w1xMzzdF2OJxTeh1basm,Fallen,2003-03-04,59,Metal
+7slyp653Si99N4yQcJ2E9T,Passive,4DFhHyjvGYa9wxdHUjtDkc,A Perfect Circle,2UAin9VEGxiZRfe9Q7SKg4,eMOTIVe,2004-01-01,59,Metal
+0GrHWVTDsaWcD4nrCGr7VE,Lost In Hollywood,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,0cn6MHyx4YuZauaB7Pb66o,Mezmerize,2005-05-17,67,Metal
+2gbPu2QNqhnnqtfK3yyeZ0,Jambi,2yEwvVSSSUkcLeSTNyHKh8,TOOL,1fvWYcbjuycyHpzNPH1Vfk,"10,000 Days",2006-04-28,64,Metal
+1EU3VuKGZOvd1HTkxLPUXK,Nobody's Listening,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,0f7R0jf0pcTb6K6IVVPcMD,Meteora (Bonus Edition),2003-03-25,59,Metal
+4mj2UMyJTBTaO7pffAK29j,Holy Mountains,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,3QxX3NbWyLlLG6lP1xveL3,Hypnotize,2005-11-22,63,Metal
+0xaNdYwK8ZF3cHSjraQGC0,Rocket Queen,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,28yHV3Gdg30AiB8h8em1eW,Appetite For Destruction,1987-07-21,62,Metal
+4tPHBRIPsB55nssjvKDbjj,Disposable Heroes,2ye2Wgw4gimLv2eAKyk1NB,Metallica,2Lq2qX3hYhiuPckC8Flj21,Master Of Puppets (Remastered),1986-03-03,57,Metal
+2uXxooVssBJB8Llk2dB5kf,departing the body,6Ghvu1VvMGScGpOUJBAHNH,Deftones,1gmWnG5TeRj91Tdm2lpEvJ,private music,2025-08-22,65,Metal
+5MYsvAONqcsIVOwu2HTQ3p,Faith,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,3I34EprFC0rlAO4pKNeX1t,"Three Dollar Bill, Y'all $",1997-01-01,67,Metal
+07SNyTzawbbC81CQivr2N0,Dial Tone,2fqPOGxG12nEERj8YG7p22,Catch Your Breath,4Rs8FkCMRVYg9CtpKODlVN,Shame On Me,2023-10-20,71,Metal
+5HkvAtKEPDLmchWYmepqYB,Hail and Kill,4CzUzn54Cp9TQr6a7JIlMZ,Manowar,7lZkD6ntnGAhmWowltbOYB,Kings of Metal,1988-11-01,51,Metal
+3IOTNKbDiyk8OpVrQZq838,Your Sweet 666,74aLweE8FHHf4yN5TWv1GM,HIM,2p7iWrYivSiCScrpNI4qiD,Greatest Love Songs Vol. 666,1997-03-09,50,Metal
+2lp0PO2D90zcFWy8toVqgn,I Want Out - 2024 Remaster,4pQN0GB0fNEEOfQCaWotsY,Helloween,1Z2srVrfTUpqnLLxPcuj2K,"Keeper of the Seven Keys, Pt. 2 (2024 Remaster)",1988-01-01,63,Metal
+5cPUx7ewpmApiGQ8CUryXL,Saccharine,298H8XdYsBHii98wfAZT1S,VIOLENT VIRA,16NeEIneghdC5FKPkDDbtw,Common Decency,2025-10-15,41,Metal
+7ilvmUhG4jmCuJV4ZvjkKT,Surfacing,05fG473iIaoy82BF1aGhL8,Slipknot,5lOFvOWAdy9G6p44noRILU,Slipknot,1999,65,Metal
+1HuuFLjgjIfzMFgGuZjv4Z,~metal dream,6Ghvu1VvMGScGpOUJBAHNH,Deftones,1gmWnG5TeRj91Tdm2lpEvJ,private music,2025-08-22,65,Metal
+7iiULg8Kmbnh1vWbh9rnBA,Lotion,6Ghvu1VvMGScGpOUJBAHNH,Deftones,7o4UsmV37Sg5It2Eb7vHzu,Around the Fur,1997-10-27,62,Metal
+5Souga96S54RLFk30XrEJP,Sensorium,5HA5aLY3jJV7eimXWkRBBp,Epica,5qBmY4zyWEYP8bNJsq9Xjf,The Phantom Agony (Expanded Edition),2003,52,Metal
+3NiHREOAU07SizAdSTMOFX,souvenir,6Ghvu1VvMGScGpOUJBAHNH,Deftones,1gmWnG5TeRj91Tdm2lpEvJ,private music,2025-08-22,66,Metal
+1B13vdk6J2A567rKDYFiMp,Primal,38uWD5h115pdz278q4rwZW,Soen,4DAMApjf5wRPOmXGede9fW,Primal,2025-09-16,52,Metal
+6c5Ft6sEfLjVxL2wkgxBtv,Holier Than Thou - Remastered 2021,2ye2Wgw4gimLv2eAKyk1NB,Metallica,3dck2tBxGfxj9m3CguDgjb,Metallica (Remastered 2021),2021-09-10,58,Metal
+4j7GkwzZTidryYlrgvzY6u,Big City Nights - 2015 - Remaster,27T030eWyCQRmDyuvr1kxY,Scorpions,5eiWWiHKC7Elfml59PORlF,Love At First Sting,1984-03-27,56,Metal
+2fiabxMbdC8AX3iY6zbYRZ,Two Faced,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,5QfFvOMOJ0CrIDmu33RmSJ,From Zero (Deluxe Edition),2025-05-16,64,Metal
+7MuPOXU2vjEe3Kh9LfbM5v,Only Pain,0GDGKpJFhVpcjIGF8N6Ewt,Gojira,7D7V6M05UIOTjLdqbwRX0w,Magma,2016-06-17,53,Metal
+4HLcqGelHzQY7nAhxhh1hO,Zerstören,6wWVKhxIU2cEi0K81v7HvP,Rammstein,3PrS5X3QNdDUlBIE4bz6J2,Rosenrot,2005-10-27,50,Metal
+7DBW4qp2XCNAbWFMsrqao3,Sehnsucht,6wWVKhxIU2cEi0K81v7HvP,Rammstein,6hh5ax5BomINXGoi4q7FDP,Sehnsucht (Anniversary Edition - Remastered),1997-08-22,59,Metal
+0tw2Cs19cFS98t1VzLD7tJ,A New Level - 2012 Remaster,14pVkFUHDL207LzLHtSA18,Pantera,1x09hOE124v9jMuQZRYqWN,Vulgar Display of Power (Expanded),1992,63,Metal
+12eL1mBChRkGAMhsFeQsgH,The Sun Is Still out of Sight,7oBiHmzfoAYKAFU5uO65Jc,Psychonaut 4,1LXOECdgQnEXwEkRvqU67q,Scrapes from the Past,2022-12-28,39,Metal
+52m7IQitPjIy1PrULHhS9F,Wanted Dead Or Alive,58lV9VcRSjABbAbfWS6skp,Bon Jovi,2PRGSft6sBpJewkx16FrJG,Slippery When Wet (Deluxe Edition),1986,69,Metal
+4hYNZvsCnAOZP0lADhpmgC,(L)MIRL,6Ghvu1VvMGScGpOUJBAHNH,Deftones,3tsXyEbUQehXPaRFCS8K1n,Gore,2016-04-08,63,Metal
+6IPJ7LeWIOhxPW8Sq3nIGc,Re-Arranged,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,3HCCUaRSjHSFOe4fqE0BiP,Significant Other,1999,66,Metal
+6UIo6YbaXihIZ72MWUpcGb,KILL4ME,2VYQTNDsvvKN9wmU5W7xpj,Marilyn Manson,6kbfR3NJmBGlgsTPAYmezz,Heaven Upside Down,2017-10-06,58,Metal
+6vBRAhaSk91csuuWtttPf8,my mind is a mountain,6Ghvu1VvMGScGpOUJBAHNH,Deftones,0cysnMmyD2V1SK3JRhCfnG,my mind is a mountain,2025-07-10,65,Metal
+11i33j50Gsr90pRoDJBrEA,Chic 'N' Stu,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,6lA1sGw7eCv27bcpd5E0wT,Steal This Album!,2002-11-26,65,Metal
+4HVuyLPE90zk19NYv55dzX,Winged Hussars,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,14OgR04PHXULz1svvsol8L,The Last Stand,2016-08-19,61,Metal
+286ek1kspX7VFaheXFSvPk,Make Me Bad,3RNrq3jvMZxD9ZyoOZbQOD,Korn,5U0pevIOTrPoDsN8YsBCBh,Issues,1999-11-09,66,Metal
+58YL9Jo1T0wyijCOZWRmyL,It's So Easy,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,28yHV3Gdg30AiB8h8em1eW,Appetite For Destruction,1987-07-21,64,Metal
+1xqVri47rxr9oRpUgJa8rf,I Remember You,4opTS86dN9uO313J9CE8xg,Skid Row,0L5J7BLU1AKDuSewTMpw7E,Skid Row,1989-01-24,69,Metal
+3cXiUuiGpFmZ8OdAWKk8Ck,Lick It Up,07XSN3sPlIlB2L2XNcTwJw,KISS,0dD1SMOKBDV1qBadcovw30,Lick It Up,1983-09-18,65,Metal
+78YknDXAOrz0E9ves11vnK,Planet Caravan,14pVkFUHDL207LzLHtSA18,Pantera,70GAqt2avSiKBJ2IEymou1,Far Beyond Driven,1994,60,Metal
+4V78u7Pbx6G33eej60wwOK,Somebody Someone,3RNrq3jvMZxD9ZyoOZbQOD,Korn,5U0pevIOTrPoDsN8YsBCBh,Issues,1999-11-09,64,Metal
+5OwsHxswu8tqOJ9jWlSD6E,LIKE YXU WXULD KNXW (AUTUMN TREES),2W6WP4pHQTFlbr2z9S4n54,Kordhell,7GjyuDC6hZNicG8Gj7cR8R,PSYCHX,2022-10-28,57,Metal
+0WZZENH0kt3O2cBE8q5IRq,War Eternal,0DCw6lHkzh9t7f8Hb4Z0Sx,Arch Enemy,3qzrNVuUyOJxfzMYRCh5qN,War Eternal,2014-06-10,59,Metal
+5j3iBuHq6vv7VcBo4Y2QrK,Cirice,1Qp56T7n950O3EGMsSl81D,Ghost,7wcMxzlZFIxccoeiSix0O2,Meliora,2015-01-01,58,Metal
+2c03eSv5IkwbDty49pKg1L,Soldier of Heaven,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,3kB4VjXKKCY7l5xeH113Da,The War to End All Wars,2022-03-04,63,Metal
+297d7PwfSFHQXCjqqDXQT2,Scream,0nmQIMXWTXfhgOBdNzhGOs,Avenged Sevenfold,3Id3VUk9jSKBD1guNo1buF,Avenged Sevenfold,2007-10-26,62,Metal
+4ipF5IU2iu6np2qltPs1Sl,Squeeze,3uL4UpqShC4p2x1dJutoRW,Ghostemane,2dWmvG2E6QqISPn80Nrs65,Hexada,2017-09-05,64,Metal
+4XvvR8F6qOcnzgChO1uTIO,Overkill,1DFr97A9HnbV3SKTJFu62M,Motörhead,6rfGeD9P5kyZTSwif5tOJb,Overkill (Expanded Edition),1979-03-24,59,Metal
+2VS1jveuhfU7Latlgfh62T,Fields of Verdun,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,7FtCDX4COLE3HR2vBv7411,The Great War,2019-07-19,60,Metal
+0vTEksNDRuJxDMLOOgn0fA,The Call of the Mountains,5X0N2k3qMnI8kSrGJT3kfT,Eluveitie,5hY8AfvL9ZoJPkluEvee9w,Origins,2014-08-01,57,Metal
+7M8eZBRTD9QNasEVReEM0H,IGYEIH,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4R6FV9NSzhPihHR0h4pI93,From Zero,2024-11-15,63,Metal
+6ckozbGmOusAnLT2LEbERy,Fight Fire With Fire - Remastered,2ye2Wgw4gimLv2eAKyk1NB,Metallica,05DePtm7oQMdL3Uzw2Jmsc,Ride The Lightning (Remastered),1984-07-27,56,Metal
+0B4YX3OMtZSmPm9KpiZKl2,Alkaline,2n2RSaZqBuUUukhbLlpnE6,Sleep Token,4SD2UxRO9OgeSCQK0PN7cC,This Place Will Become Your Tomb,2021-09-24,72,Metal
+5fIZDuxfuM4tANRHZ8Btju,The Last In Line,4CYeVo5iZbtYGBN4Isc3n6,Dio,0FBCDPcLk2iVKttn1uqHQW,The Last In Line (Deluxe Edition),1984,55,Metal
+1Jrt2fqQm5JEKlAPMYG2nD,Live Wire,0cc6vw3VN8YlIcvr1v7tBL,Mötley Crüe,0UcyqmHNn536yy8boNihhb,Too Fast For Love (Deluxe Version),1981-11-10,67,Metal
+33qrQEXQJg4uk6k8fZgoOa,Phantom Bride,6Ghvu1VvMGScGpOUJBAHNH,Deftones,3tsXyEbUQehXPaRFCS8K1n,Gore,2016-04-08,62,Metal
+0CpTNItafURRFujw9WAKfR,Panzerkampf,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,0ByHC8GAef76h66JrvigzE,The Art of War (Re-Armed),2010-09-24,56,Metal
+7yYvvOB7CuzdVldb6zOk1m,All In the Family (feat. Fred Durst),3RNrq3jvMZxD9ZyoOZbQOD,Korn,0gsiszk6JWYwAyGvaTTud4,Follow The Leader,1998-08-18,65,Metal
+2HD5BWFthrNf2uFyEhi53d,Orion,2ye2Wgw4gimLv2eAKyk1NB,Metallica,2Lq2qX3hYhiuPckC8Flj21,Master Of Puppets (Remastered),1986-03-03,55,Metal
+0c03LEUpwW0O2tmt0dfktG,Anesthesia,0blJzvevdXrp21YeI2vbco,Type O Negative,4AdGr92Z6Ff2WbKP5Ja2QC,Life Is Killing Me,2003-06-09,57,Metal
+5u3l2TONYacJgmRPQVaF9y,Twilight Of The Thunder God,3pulcT2wt7FEG10lQlqDJL,Amon Amarth,3j0GCUTDz53x9Mzl8L1Fwz,Twilight Of The Thunder God,2008-09-30,59,Metal
+1oTKnx7AgEhA5wUs3Z8rrr,Needles and Pins,6Ghvu1VvMGScGpOUJBAHNH,Deftones,6252G7bGCVijXlqAjtjeDP,Deftones,2003,63,Metal
+6Q1m1GyNxyOwZ2ud3p7XoS,Gasoline,3Uobr6LgQpBbk6k4QGAb3V,I Prevail,2QRU8jGOJHDMrCTPKIHVik,TRAUMA,2019-03-29,67,Metal
+5fXQmRFO1CDN04HtUVNCUh,Life Eternal,1Qp56T7n950O3EGMsSl81D,Ghost,6128JCa2uBqHWia5AzJOKV,Prequelle,2018-06-01,57,Metal
+2cwwUYTPOEfz0pam6tiVZz,Steh auf,65A714FqhSPjoFZeffQbTv,Lindemann,7vTIPNCT9nCHw8hhskPYj1,F & M (Deluxe),2019-11-22,57,Metal
+3Ky8IzV8IVSwijtaTWB2SK,Seasons In The Abyss,1IQ2e1buppatiN1bxUVkrk,Slayer,49QJ9TAWNqZGbFUvadXPgT,Seasons In The Abyss,1990-01-01,60,Metal
+6Nd6ntkzr4t8o1FKPGOSMt,Here I Go Again - 2018 Remaster,3UbyYnvNIT5DFXU4WgiGpP,Whitesnake,70uPhkIhXTXM6MNNsMjAHx,Whitesnake (2018 Remaster),1987,69,Metal
+3uSATa7xWXVJrMhJJSnGGk,72 Seasons,2ye2Wgw4gimLv2eAKyk1NB,Metallica,6UwjRSX9RQyNgJ3LwYhr9i,72 Seasons,2023-04-14,55,Metal
+37Vzad7uGm0I9zJIFXlT4b,Youth Gone Wild,4opTS86dN9uO313J9CE8xg,Skid Row,0L5J7BLU1AKDuSewTMpw7E,Skid Row,1989-01-24,66,Metal
+3crIa21lfjekujCQuGjlJT,Teutonic Terror,3JDIAtVrJdQ7GFOX26LYpv,Accept,0sUtCw0dDv0KC8zrnxlmY4,Blood of the Nations,2010-08-20,53,Metal
+7tUXZgLbOCvRJ9FBlairoU,Venom,3uL4UpqShC4p2x1dJutoRW,Ghostemane,0DdnuauBuHPfG8Y1pAmYVf,Blackmage,2016-07-03,63,Metal
+7k5VJYlD6tMDN1i4yz2WOS,iCARUS,3v0QTRruILayLe5VsaYdvk,HAARPER,6oFkC3CfRPaTDg8rzr2YtF,iCARUS,2022-04-07,61,Metal
+6RqEJvpEzzlwj8g0wKG1ln,Motorbreath - Remastered,2ye2Wgw4gimLv2eAKyk1NB,Metallica,1aGapZGHBovnmhwqVNI6JZ,Kill 'Em All (Remastered),1983-07-24,56,Metal
+5pPYLYTIBVJAz7iZRPufqw,Through the Never - Remastered 2021,2ye2Wgw4gimLv2eAKyk1NB,Metallica,3dck2tBxGfxj9m3CguDgjb,Metallica (Remastered 2021),2021-09-10,57,Metal
+4oONLfYN4mYYWnnQNW0tap,cut hands,6Ghvu1VvMGScGpOUJBAHNH,Deftones,1gmWnG5TeRj91Tdm2lpEvJ,private music,2025-08-22,66,Metal
+1WWq2DUV0UbO4XJda2usuv,512,3JFsVIxOn7STeilPICkkB2,Lamb of God,3MnHIi1Nbk2TaHSE2dMVM0,VII: Sturm und Drang,2015-07-24,54,Metal
+4d50VgYqfw1Rd0knRRL3qv,Ride The Lightning - Remastered,2ye2Wgw4gimLv2eAKyk1NB,Metallica,05DePtm7oQMdL3Uzw2Jmsc,Ride The Lightning (Remastered),1984-07-27,55,Metal
+7866E49sLyI938dEqxi8a4,Fade To Black - Remastered,2ye2Wgw4gimLv2eAKyk1NB,Metallica,05DePtm7oQMdL3Uzw2Jmsc,Ride The Lightning (Remastered),1984-07-27,55,Metal
+7DpST9rI4qjUiRTvfU9ErN,Dead Without You,3o4qS8tQbXzvhqYXxgK0cv,Reflexion,7eFIPVRpSSDvi4F8WJ1Jce,"Dead to the Past, Blind for Tomorrow",2008-03-19,49,Metal
+3hb4W4FUPjyWUbYY2Sfih5,976-EVIL,6Ghvu1VvMGScGpOUJBAHNH,Deftones,1GjjBpY2iDwSQs5bykQI5e,Diamond Eyes,2010-04-30,63,Metal
+3ScIZdvkqGTrhW4hZDIL00,Sepsis,3JFsVIxOn7STeilPICkkB2,Lamb of God,3M2vuwAY3UtNNvGiclTR7V,Sepsis,2025-10-02,60,Metal
+3k6iqqVUBSBFXP8WLuoiCv,Resist and Bite,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,5TdhTTvwtD0ekZBYve97r7,Heroes,2014-05-16,60,Metal
+3lPn81PFyKvXiyHhlkwkQ4,Doomed,1Ffb6ejR6Fe5IamqA5oRUF,Bring Me The Horizon,7FqHuAvmREiIwVXVpZ9ooP,That's The Spirit,2015-09-11,67,Metal
+0ePmfd8y7g4zs3E6ew7pDB,The Red Baron,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,7FtCDX4COLE3HR2vBv7411,The Great War,2019-07-19,60,Metal
+4h7KTxO9eS389M2qG3jm6O,Coma White,2VYQTNDsvvKN9wmU5W7xpj,Marilyn Manson,69ACUmut0hbGOSonmU4kNS,Mechanical Animals,1998-09-14,59,Metal
+4hDxks1OWDJ2R7rpwLQ5sx,Prostitution,2a5G7JLmVJNjfFNg8rwLcP,Till Lindemann,5LbNzPH6EUnBPl0E2up8FN,Zunge 2025,2025-09-26,58,Metal
+08zvzy2FD1V0wFn8mhiQaH,Too Young to Fall in Love,0cc6vw3VN8YlIcvr1v7tBL,Mötley Crüe,61tegsknhtO0WKmkyPqvly,Shout At The Devil,1983-09-26,61,Metal
+56SLMIzWKrEOWIQ5LCzKXV,Adieu,6wWVKhxIU2cEi0K81v7HvP,Rammstein,75OE7M0wduJyffbffehHuR,Zeit,2022-04-29,59,Metal
+5VNMlLgQdpo2ksrYzD9ANy,Nobody Like You,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,3HCCUaRSjHSFOe4fqE0BiP,Significant Other,1999,63,Metal
+1KmeyQfVjX1odybN9aEfWt,Inis Mona,5X0N2k3qMnI8kSrGJT3kfT,Eluveitie,4UEyHAjtjEs3JNjR4NyyMJ,Slania,2008-02-15,55,Metal
+6QKhecJ2JuajCTPTtYkKUQ,Afraid to Shoot Strangers - 2015 Remaster,6mdiAmATAx73kdxrNrnlao,Iron Maiden,16Su3EUFLPqWVyrwN1q5wO,Fear of the Dark (2015 Remaster),1992,54,Metal
+3s7ClWpUeQH4B30r2N64Y2,Bleed,3ggwAqZD3lyT2sbovlmfQY,Meshuggah,3XIgSzrNeDVXVc8LwP7axB,Obzen,2008-03-07,59,Metal
+27uDL5cAoMijxbDLfaz9Xv,Bloodline,1IQ2e1buppatiN1bxUVkrk,Slayer,3MuaoZgcAFuanhg04e75LK,God Hates Us All,2001-01-01,55,Metal
+4pADXqX5x76fDS8RmyvgwO,The Night,3TOqt5oJwL9BE2NG9MEwDa,Disturbed,6hz9f6H7URtoigU517WjD6,Indestructible (Deluxe Edition),2008-04-29,60,Metal
+1OtLNenkGkCDsVLGCgMtpj,Templars,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,3WnVO32cbBRfKynknZ5XcI,Templars,2025-04-25,64,Metal
+7ex3AmxCTBz3zXLx6hWy5q,Suicide Messiah,0zfT626RwO6zN3RDYeRit5,Black Label Society,0yFCaaNOKgZVhDxZ0mNFeg,Mafia,2018-09-21,60,Metal
+7diOv6wm3ngF7Vt6ubK0Sf,Overflow,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4R6FV9NSzhPihHR0h4pI93,From Zero,2024-11-15,62,Metal
+4uOSpJxcpzeNCWXYoXGJM1,Painkiller,4f5V3PQ66nIrBCqugJtaGn,Death,0p6DxsQOhQ5qiBnUu9G1PB,The Sound of Perseverance - Reissue,1998,50,Metal
+5nRBTzF9dLIlNqnl0xWo9g,Wash It All Away,5t28BP42x2axFnqOOMg3CM,Five Finger Death Punch,4KXYNMizBHgXUFM1UOUhoJ,Got Your Six,2015-09-04,64,Metal
+7pS3O75hJnthHr64tlpqPn,Danger Line,0nmQIMXWTXfhgOBdNzhGOs,Avenged Sevenfold,7vfuTRXIAYJz5Uc8SddnTr,Nightmare,2010-07-25,64,Metal
+7vFC68CBMKu99p4tIz6yzx,The Thing That Should Not Be,2ye2Wgw4gimLv2eAKyk1NB,Metallica,2Lq2qX3hYhiuPckC8Flj21,Master Of Puppets (Remastered),1986-03-03,56,Metal
+1parffUcsk8pfGbyMtGnmW,Tempest,6Ghvu1VvMGScGpOUJBAHNH,Deftones,4PIVdqvL1Rc7T7Vfsr8n8Q,Koi No Yokan,2012-11-09,62,Metal
+3q7GKmKaiktt57PVIxKOm8,The Blister Exists,05fG473iIaoy82BF1aGhL8,Slipknot,4ZDBQSIDIZRUBOG2OHcN3T,Vol. 3: The Subliminal Verses (Special Edition),2004,61,Metal
+08TvXzt1TIVVQyIoQphndN,Oxygen,5v2WhpA59TJSdPh7LCx1lN,BONES,1hlFht5cBS8MEeLvNGTN1W,NoRedeemingQualities,2017-06-16,59,Metal
+4hvo7eCLfhs7dFr0mpk3zi,The Shortest Straw,2ye2Wgw4gimLv2eAKyk1NB,Metallica,6jZ1z25PyF4Yd3kHxt9rl1,…And Justice for All (Remastered),1988-08-25,54,Metal
+2OUR8g12h5qsGDs1v5lqvp,Swerve City,6Ghvu1VvMGScGpOUJBAHNH,Deftones,4PIVdqvL1Rc7T7Vfsr8n8Q,Koi No Yokan,2012-11-09,66,Metal
+6CqYhhUPJORx1vvdTNc8jv,The Outsider,4DFhHyjvGYa9wxdHUjtDkc,A Perfect Circle,49K6hYDEr5M3GxIBBxlPf9,Thirteenth Step,2003-01-01,65,Metal
+19fYhk0wzXqUOoBqkPsYCP,Right Now,3RNrq3jvMZxD9ZyoOZbQOD,Korn,3XbcvPX7hEupPOxPx7EVdh,Take A Look In The Mirror,2003-11-21,62,Metal
+2TNPagu8Z4zvDOpmnktF00,Warrior,3TOqt5oJwL9BE2NG9MEwDa,Disturbed,23Kf2cl3kz7pFNKhl4iMp9,Asylum (Deluxe Edition),2010-08-27,61,Metal
+0nB11Yb0wGnGcoQ26cyoc4,Hero of the Day - Remastered,2ye2Wgw4gimLv2eAKyk1NB,Metallica,1LupC8p6zU5mDyrLvvWEuV,Load (Remastered Deluxe Box Set),1996-06-04,58,Metal
+7BkzAHnNW7WfrT4NcLaUDx,Casualty,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4R6FV9NSzhPihHR0h4pI93,From Zero,2024-11-15,62,Metal
+5awljpWNO5TpXCyjpvCBbs,Return to Serenity,28hJdGN1Awf7u3ifk2lVkg,Testament,6YXf0vbjFhURCPUewYhVWE,The Ritual,1992-04-28,53,Metal
+7xa3dJQMzBVzsrZ81tNcHP,Be Quick or Be Dead - 2015 Remaster,6mdiAmATAx73kdxrNrnlao,Iron Maiden,16Su3EUFLPqWVyrwN1q5wO,Fear of the Dark (2015 Remaster),1992,58,Metal
+1YVuJrfHHmD4ilULhAVqPW,mOBSCENE,2VYQTNDsvvKN9wmU5W7xpj,Marilyn Manson,3KExM8E3KgpsS2bHVSJzTc,The Golden Age Of Grotesque,2003-01-01,56,Metal
+02VKxjok07ypt3oFlGRjmH,The Wizard - 2009 Remaster,5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,3OmnatFgQ8o1DlYLp9EpNJ,Black Sabbath,1970-02-13,61,Metal
+3pi5DteeniOsDzonEx5qpg,Bück dich,6wWVKhxIU2cEi0K81v7HvP,Rammstein,6hh5ax5BomINXGoi4q7FDP,Sehnsucht (Anniversary Edition - Remastered),1997-08-22,59,Metal
+15f16lrsDzFeNpHYBTzHLI,Sex,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1LoyJQVHPLHE3fCCS8Juek,Rammstein,2019-05-17,55,Metal
+07HqIg8BnB1lJElnw2ZiSR,I'll Be There For You,58lV9VcRSjABbAbfWS6skp,Bon Jovi,3mcKOl0KNe65BqiBa40WxR,New Jersey (Deluxe Edition),1988-09-13,70,Metal
+0INUE1K7cEiE8VH63Rv5RJ,Happy?,2Pfv2w8a20xzC7Dr7QXRqM,Mudvayne,0dCRu5tVhx9fvbVZSxfjfP,Lost and Found,2005,68,Metal
+3yubyWatnRRLHkIsN1ZI2Q,My Girlfriend's Girlfriend,0blJzvevdXrp21YeI2vbco,Type O Negative,6BkeUWI72Lssc077AxqQek,October Rust (Special Edition),1996-08-19,59,Metal
+02oW7CYWjfiCs1rZs7GNes,All I Need,3hE8S8ohRErocpkY7uJW4a,Within Temptation,4jE1uyxDWwHuSGQmbsusLM,The Heart Of Everything,2007-03-09,55,Metal
+6VzV6RI7641o57TuqfGRpj,Psycho,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,6jWde94ln40epKIQCd8XUh,Toxicity,2001-09-04,64,Metal
+1kVwz8atnxOcbTjuYTKc2t,Jealous,6Wis5wVztZEytwCmF1OX2k,Blade and Bath,7ovbdbcj7WKHQQfvn1TOMx,Rotten in Loneliness,2024-04-19,52,Metal
+3pWvRhml43vlUrGYlIzLM6,We Drink Your Blood,5HFkc3t0HYETL4JeEbDB1v,Powerwolf,1MSxQKpaZ2nPubMVQi9V3N,Blood of the Saints,2011-08-02,59,Metal
+7AtwQRLPdttsxcLM5tPL0t,Still of the Night - 2018 Remaster,3UbyYnvNIT5DFXU4WgiGpP,Whitesnake,70uPhkIhXTXM6MNNsMjAHx,Whitesnake (2018 Remaster),1987,62,Metal
+3pKsUMqpVr4ZJ13Mm91Xig,Down for Life,28hJdGN1Awf7u3ifk2lVkg,Testament,0dYgfOuAerUldWRodoOR6J,The Gathering,1999-06-08,57,Metal
+14H2fE4WEdkEem0kjVeODT,Phantom of the Opera - 2015 Remaster,6mdiAmATAx73kdxrNrnlao,Iron Maiden,3DNeMApEMCo4IDXNMYnlFi,Iron Maiden (2015 Remaster),1980,58,Metal
+1IiIU0r2LShFKOP609LVpI,So Low,0NbQe5CNgh4YApOCDuHSjb,The Devil Wears Prada,2Frybhx9bxmVPIjnEbfQhf,So Low,2025-09-11,63,Metal
+2hj5jPswD3hOSuk7ovr7Cg,Yakuza,0QRp7CyL31iErUn6cX0YU3,do not resurrect,0WIeSPL67RtCRaKGtF6tV6,Yakuza,2020-09-25,58,Metal
+5GLVGmkxy7Mc8Ruif5dmSG,Monster,0Nkyv1Zj8Xh7Lux3KzIQCl,Reckless Love,14VYrKC729AMNfi6p5wR6T,InVader,2016-03-04,61,Metal
+5fYzuUxtcaJaRRaxMoM2DT,H.,2yEwvVSSSUkcLeSTNyHKh8,TOOL,6yWMN087PgSimbcVmHLEwG,Ænima,1996-09-17,64,Metal
+7jeI6EdY0elPSNz80mAKS8,In Pieces,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,2tlTBLz2w52rpGCLBGyGw6,Minutes to Midnight,2007-05-14,61,Metal
+23ZfYXdy2deoaf4u1XObHZ,Romantic Dreams,6Ghvu1VvMGScGpOUJBAHNH,Deftones,4PIVdqvL1Rc7T7Vfsr8n8Q,Koi No Yokan,2012-11-09,62,Metal
+2xKDKtJBLDPd7BF3VmSQQO,Invincible,2yEwvVSSSUkcLeSTNyHKh8,TOOL,7acEciVtnuTzmwKptkjth5,Fear Inoculum,2019-08-30,61,Metal
+1NQPc9znr56Ci6f02HoLpg,My Michelle,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,28yHV3Gdg30AiB8h8em1eW,Appetite For Destruction,1987-07-21,61,Metal
+1Cznl5CD5aaEYMfJq1l9Hd,Looks That Kill,0cc6vw3VN8YlIcvr1v7tBL,Mötley Crüe,61tegsknhtO0WKmkyPqvly,Shout At The Devil,1983-09-26,66,Metal
+27sTzAelgljD6Uxp88BqA3,Nemesis,0DCw6lHkzh9t7f8Hb4Z0Sx,Arch Enemy,7gesblPNpHD2mhMQyKd6MS,Doomsday Machine,2005-07-13,56,Metal
+28TReO2Mxk9Q3GA4K98YSz,Kill Rock 'n Roll,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,3QxX3NbWyLlLG6lP1xveL3,Hypnotize,2005-11-22,63,Metal
+1pOkWIJCshtoREcAcXmYSk,Amour,6wWVKhxIU2cEi0K81v7HvP,Rammstein,74ydDCcXTco741y42ceRJ5,"Reise, Reise",2004-09-27,53,Metal
+2rBHnIxbhkMGLpqmsNX91M,Bombtrack,2d0hyoQ5ynDBnkvAbJKORj,Rage Against The Machine,4Io5vWtmV1rFj4yirKb4y4,Rage Against The Machine - XX (20th Anniversary Special Edition),1992,67,Metal
+5oxpT46KeiEuckYnChgFFT,Open Your Eyes,4whxX965DKKqYkXmk33b4E,Guano Apes,1N5L209IqXQ6cqV2HFJU4G,Proud Like a God,1997,67,Metal
+35bgx24EQeW7IiA4nFXivH,WWE: The Game (Triple H),0spHbv2fw49lDMkbOAdaqX,WWE,2WeboHEKaX6Z6hLo4aGHFK,WWE: The Game (Triple H),2011-06-01,58,Metal
+3iC3Numiy9P3AkF7iioKmx,Wild Child,3BVkDHWRvLJEyKdvhLbjsq,W.A.S.P.,6208JTIcyn2wSRjiRXMTUv,The Last Command,1985,57,Metal
+0H5fgOZ8nHUkVR0mJzPSgp,In Joy And Sorrow,74aLweE8FHHf4yN5TWv1GM,HIM,5cIDQKCRHFOEOj20FlmCRr,Deep Shadows And Brilliant Highlights,2001-07-16,46,Metal
+5oAvb7LpUBwQfBtQ6hmS4Q,Élan,2NPduAUeLVsfIauhRwuft1,Nightwish,1tVEWlyn2nsAke3Lp7HoZ0,Endless Forms Most Beautiful (Deluxe Version),2015-03-27,58,Metal
+6sIbv1oWOuma2qV907MUbk,1x1 (feat. Nova Twins),1Ffb6ejR6Fe5IamqA5oRUF,Bring Me The Horizon,0e1WaSNDZnoPixaxDNdWo4,POST HUMAN: SURVIVAL HORROR,2020-10-30,66,Metal
+2D9BrlpeyjXF0vli2dYQ5V,Angels Fall,5BtHciL0e0zOP7prIHn3pP,Breaking Benjamin,09asAAZJ7rXedp9J8wqvBR,Dark Before Dawn,2015-06-23,68,Metal
+04yjYHGB3aoyS3q7D7LiKy,Blackhole,3ZztVuWxHzNpl0THurTFCv,Architects,2W82VyyIFAXigJEiLm5TT1,"The Sky, The Earth & All Between",2025-02-28,66,Metal
+1liSJuUBSJ7x5k0pYl48gM,Funeral Bell,0zfT626RwO6zN3RDYeRit5,Black Label Society,2xeT6RXRKJqGS1MLNDJPVc,The Blessed Hellride,2018-09-21,61,Metal
+0Qrb3L8JgreLBW8g4qyan9,Back to School (Mini Maggit),6Ghvu1VvMGScGpOUJBAHNH,Deftones,5LEXck3kfixFaA3CqVE7bC,White Pony,2000,63,Metal
+4iT5ZZbuYIuKSt9BoCY8VX,Vampire Heart,74aLweE8FHHf4yN5TWv1GM,HIM,1ggF3549NUNFgnjVvU2Dze,Dark Light,2005-09-26,51,Metal
+1a3RarhRdrNSTEEERYEFJn,Boiler,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,5mi7FKaWE5CtcOjdyxScA7,Chocolate Starfish And The Hot Dog Flavored Water,2000-10-17,61,Metal
+4YXhOackOMOlQTMAwsDHo6,Heart of Steel,4CzUzn54Cp9TQr6a7JIlMZ,Manowar,7lZkD6ntnGAhmWowltbOYB,Kings of Metal,1988-11-01,51,Metal
+1nxbn0COjeyH7MQZ27T3CR,Glass Heart,2XIbOWDT5vZPW7jNyzdfcK,Caskets,1Rty2CL0UZeJWeCcCiXmhg,Lost Souls,2021-08-13,64,Metal
+0RLhtEt50QUwKXNwKI4dSJ,Leathers,6Ghvu1VvMGScGpOUJBAHNH,Deftones,4PIVdqvL1Rc7T7Vfsr8n8Q,Koi No Yokan,2012-11-09,62,Metal
+5uOmSJuVqiwa5Aia6Vu976,Meth Phonk,3FCo1sUkVbwKnO2m0Z7Bp9,REDZED,2PP8oxU9RoRHKuXJV63oOY,Drugs = Magic,2020-10-04,58,Metal
+4dfvPFbLEa6JzZV4dZTWt7,Headup,6Ghvu1VvMGScGpOUJBAHNH,Deftones,7o4UsmV37Sg5It2Eb7vHzu,Around the Fur,1997-10-27,61,Metal
+6ypKaenmVXMCXvlkfYOpjf,Raise Your Horns,3pulcT2wt7FEG10lQlqDJL,Amon Amarth,5LlHYLimFw8u8SPzbNAUhG,Jomsviking,2016-03-25,57,Metal
+1nB6VmrPybx4xwkL80OqdA,Nihil,3uL4UpqShC4p2x1dJutoRW,Ghostemane,2W5rUof3EANdwzqAMtAWhF,N / O / I / S / E,2018-10-10,58,Metal
+33LTCp3HM36k7KuB7M3IHd,Heirate mich,6wWVKhxIU2cEi0K81v7HvP,Rammstein,6HlDm9fzYxk4vkkr3YEvSv,Herzeleid (XXV Anniversary Edition – Remastered),1995-09-24,56,Metal
+36xBFaVGjqm7le8CTHytUj,Parasite Eve,1Ffb6ejR6Fe5IamqA5oRUF,Bring Me The Horizon,0e1WaSNDZnoPixaxDNdWo4,POST HUMAN: SURVIVAL HORROR,2020-10-30,65,Metal
+1B5Y9I5wPfvD3C2A81A36C,Forest,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,6jWde94ln40epKIQCd8XUh,Toxicity,2001-09-04,65,Metal
+46tSt69Xw10Ej8Rn7wJmFt,I Disappear,2ye2Wgw4gimLv2eAKyk1NB,Metallica,7cJ4oRwyJ5BU1oj29AquOM,I Disappear,2008-01-01,58,Metal
+0hpWmAB3L0OJ3VBeMkOQUu,Kool-Aid,1Ffb6ejR6Fe5IamqA5oRUF,Bring Me The Horizon,1k7OXnGQPV4zF3seDwRroD,POST HUMAN: NeX GEn,2024-05-24,68,Metal
+0gf9HMeZDXRexbuM5CihZg,Morgenstern,6wWVKhxIU2cEi0K81v7HvP,Rammstein,74ydDCcXTco741y42ceRJ5,"Reise, Reise",2004-09-27,54,Metal
+7iMsm86etNshj6IUgMnpuO,Casualty,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,5QfFvOMOJ0CrIDmu33RmSJ,From Zero (Deluxe Edition),2025-05-16,62,Metal
+2mZ7SXzf5mZkohPfDFIUET,Wo bist du,6wWVKhxIU2cEi0K81v7HvP,Rammstein,3PrS5X3QNdDUlBIE4bz6J2,Rosenrot,2005-10-27,53,Metal
+6xXlurslWqFuyqTCBlErzX,Awake,6gZq1Q6bdOxsUPUG1TaFbF,Godsmack,4uNwpYU5QyX2u0kkkEFLR4,Awake,2000-10-31,67,Metal
+3qBYUrus14rQyljtbiZfi8,For the Love of Pain,28hJdGN1Awf7u3ifk2lVkg,Testament,0ea7kKW9urApKz2E5MIgPW,Para Bellum,2025-10-10,54,Metal
+3egJPsm8iPwtrQ5U3VqNCS,Und die Engel singen,2a5G7JLmVJNjfFNg8rwLcP,Till Lindemann,3XGBLits7rW4XngEyzjTJF,Und die Engel singen,2025-06-11,55,Metal
+68mv3vzBHpK3JzLYyGHXgQ,Megalomaniac (Single Mix),3V4IvzRQYP5mzuVtkcHgVa,KMFDM,6A7vPi7Za2S0NZHw04DCzP,EXTRA Volume 3,2008-10-07,55,Metal
+50jyxHSIHAz7N5jIzODvs4,More the Victim,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,3Q9wXhEAX7NYCPP0hxIuDz,Meteora 20th Anniversary Edition,2023-04-07,62,Metal
+3Lkm8fyUksuC8hr9I35nio,Purity,05fG473iIaoy82BF1aGhL8,Slipknot,2dL9Q5AtIv4Rw1L6lKcIUc,Slipknot (10th Anniversary Edition),2009-09-09,61,Metal
+06j7eVHrgRSt9eQSWhH3zK,Left Behind,1cJ5tVoeAEFcZBAwSZ0CtF,The Plot In You,6wurDqEmcCcIoria5SRmom,Vol. 1,2024-01-12,69,Metal
+1KCDsPKFISNM2YZFFAoI7s,Demons Are a Girl's Best Friend,5HFkc3t0HYETL4JeEbDB1v,Powerwolf,2t3dociTSaDTmqIlN21rmC,The Sacrament of Sin,2018-07-20,60,Metal
+4ImIJRZNJhNQLLdUFSYJoS,Down with the Sickness,3TOqt5oJwL9BE2NG9MEwDa,Disturbed,07w0hGS9XUdFsPBvDHy16y,The Sickness (10th Anniversary Edition),2010-03-22,63,Metal
+7on45JTbuUgroAC4DXwBqQ,Just Like This,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,3HCCUaRSjHSFOe4fqE0BiP,Significant Other,1999,64,Metal
+5z3vP51vxtwwCaAwym4z3z,Stained,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,5QfFvOMOJ0CrIDmu33RmSJ,From Zero (Deluxe Edition),2025-05-16,63,Metal
+28q0pUwcJRS2tGZsYH6xL5,Lhabia,6Ghvu1VvMGScGpOUJBAHNH,Deftones,7o4UsmV37Sg5It2Eb7vHzu,Around the Fur,1997-10-27,61,Metal
+1F0S2kbZhHAw19f9ihA3FH,Did My Time,3RNrq3jvMZxD9ZyoOZbQOD,Korn,3XbcvPX7hEupPOxPx7EVdh,Take A Look In The Mirror,2003-11-21,59,Metal
+0eV3PB3T0OxW4feG1DlOjQ,Hearts on Fire,2o18h28enlHxj887tATc58,HammerFall,2uehY2zRsh0h6ZmJt8LLQi,Crimson Thunder,2002-10-28,61,Metal
+7Cq27Qc3WRyQ3ddwVslpVZ,Heart Attack,6rYogEVj60BCIsLukpAnwr,Scarlxrd,3KqA7GS5ruZN70yBP2jFMJ,Chaxsthexry,2017-04-01,55,Metal
+2gcxuSpWOOGR0z0JGsPB7B,milk of the madonna,6Ghvu1VvMGScGpOUJBAHNH,Deftones,3IZLumOOvTChaGYODcMuen,milk of the madonna,2025-08-08,63,Metal
+1XTGyfJeMiZXrZ1W3NolcB,Know Your Enemy,2d0hyoQ5ynDBnkvAbJKORj,Rage Against The Machine,4Io5vWtmV1rFj4yirKb4y4,Rage Against The Machine - XX (20th Anniversary Special Edition),1992,65,Metal
+6LhUsJiXAuxoalUz01evh0,Revolution Is My Name,14pVkFUHDL207LzLHtSA18,Pantera,7sEY94y1wQACVwMgeE62hd,Reinventing the Steel,2000-01-01,58,Metal
+6ZsZxNP4Iwdyp3kd5oFFQN,The Grudge,2yEwvVSSSUkcLeSTNyHKh8,TOOL,5l5m1hnH4punS1GQXgEi3T,Lateralus,2001-05-15,60,Metal
+3TZuUaGjEtyAiUM9iM89ff,Clown,3RNrq3jvMZxD9ZyoOZbQOD,Korn,7D3XFJlfZIkmGWqZXm2X8z,Korn,1994-10-11,61,Metal
+2OoS1aZFAFscH1cUiKlazH,Refuse / Resist,6JW8wliOEwaDZ231ZY7cf4,Sepultura,5r4qa5AIQUVypFRXQzjaiu,Chaos A.D.,1993-09-02,60,Metal
+0MifhDugHOql4oMAea1Ont,Wasted Time,4opTS86dN9uO313J9CE8xg,Skid Row,48BCVjId3c06exwZ5jc4zm,Slave to the Grind,1991-06-11,58,Metal
+0fxGA5lxrdYNYoE7yJxTNZ,My December,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,6hPkbAV3ZXpGZBGUvL6jVM,Hybrid Theory (Bonus Edition),2000-10-24,60,Metal
+4QWLhGVitrCCysR3ugX9Xw,Angels,3hE8S8ohRErocpkY7uJW4a,Within Temptation,1sxSd1h4vEICnl5Q3scnGI,The Silent Force,2004-11-12,58,Metal
+1yYr4D1KjhhyDD5bZIiFQy,In Waves,278ZYwGhdK6QTzE3MFePnP,Trivium,2p1voQHdNSdy596VRDtdji,In Waves (Special Edition),2011-08-03,59,Metal
+0nLOl4fSiBZKGFla5pLUtf,Ænema,2yEwvVSSSUkcLeSTNyHKh8,TOOL,6yWMN087PgSimbcVmHLEwG,Ænima,1996-09-17,64,Metal
+0NLDZzVke3Qu7vDhWyGzRk,Right In Two,2yEwvVSSSUkcLeSTNyHKh8,TOOL,1fvWYcbjuycyHpzNPH1Vfk,"10,000 Days",2006-04-28,61,Metal
+6O7pihLJgeqxUnG7u9oYL2,Push It,7JDSHlDdVTo7aZKdQZ53Vf,Static-X,2WRLwr5MIIXr9gAWOOQ6J5,Wisconsin Death Trip,1999,66,Metal
+2KlKLcZPU4CptMCQ3TY5ls,"Turn It Up, Bitch",165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,2lZ9RqGnGXH8gtH3DK02tJ,STILL SUCKS,2021-10-31,60,Metal
+27msmgcdSRniJHfocEf6EH,Pet,4DFhHyjvGYa9wxdHUjtDkc,A Perfect Circle,49K6hYDEr5M3GxIBBxlPf9,Thirteenth Step,2003-01-01,63,Metal
+2W2eaLVKv9NObcLXlYRZZo,Spit It Out,05fG473iIaoy82BF1aGhL8,Slipknot,2dL9Q5AtIv4Rw1L6lKcIUc,Slipknot (10th Anniversary Edition),2009-09-09,60,Metal
+6X5zsgjDlssIkv0sVYZgx1,Tattoo,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1LoyJQVHPLHE3fCCS8Juek,Rammstein,2019-05-17,59,Metal
+0pLS9mButO9qmqcNgoFthv,This Fire Burns (CM Punk),0spHbv2fw49lDMkbOAdaqX,WWE,2m4KqjduGuZ3Vd4xdCnwMc,WWE: Wreckless Intent,2006-05-23,55,Metal
+4PaPZk1Ozg0TfDTBnbXX38,Evolution,3RNrq3jvMZxD9ZyoOZbQOD,Korn,6uW0nLS4wNsobOLoHvUhAi,Untitled,2007-07-31,58,Metal
+0CwhgYudd5HzMC9K2vqGMu,Everytime I Die,1xUhNgw4eJDZfvumIpcz1B,Children Of Bodom,6NA0J6jgJVHjmCnCMBwKH7,Follow The Reaper,2000-10-30,50,Metal
+0t1lDXmMWBzF6mfnQ6KwqZ,Dead Skin Mask,1IQ2e1buppatiN1bxUVkrk,Slayer,49QJ9TAWNqZGbFUvadXPgT,Seasons In The Abyss,1990-01-01,57,Metal
+6KnNDix4Owr4vNmsPhLmxD,Feel So Numb,3HVdAiMNjYrQIKlOGxoGh5,Rob Zombie,2ExOcLFwyExzkXK0ea180I,The Sinister Urge,2001-01-01,65,Metal
+0QRxtcxL31dRAeiUUuENPu,Territory,6JW8wliOEwaDZ231ZY7cf4,Sepultura,5r4qa5AIQUVypFRXQzjaiu,Chaos A.D.,1993-09-02,59,Metal
+7smscq05iWstwxPxZgN0rl,Good Things Go,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,5QfFvOMOJ0CrIDmu33RmSJ,From Zero (Deluxe Edition),2025-05-16,62,Metal
+3iUJrkMilUVkUKtYZK7Th4,Blacklist,76S65NHJHrNy4JTrXHP2BH,Exodus,3sNPwtcV7Xv9CixCk0PpqP,Tempo of the Damned,2004-02-02,55,Metal
+3agtg0x11wPvLIWkYR39nZ,Somewhere I Belong,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4Gfnly5CzMJQqkUFfoHaP3,Meteora,2003-03-25,77,Metal
+5aZ9mfnT8jp3ZdrMQaF76j,Gimme That Boom,3jTlKw98Ql1jGRPYqhqHap,Skindred,7bS1WGyOPaE03hEBzwyZHm,Smile,2023-08-04,63,Metal
+69ZEgPX0hxWXJIqkTlYz41,Iridescent,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,5uvXx5ZQswNRFCdHR521YZ,A Thousand Suns,2010-09-08,64,Metal
+6rsoBvxrlxdmqJyGPPciyq,The Dying Song (Time To Sing),05fG473iIaoy82BF1aGhL8,Slipknot,3hWTXO0w02D6YpVRyLRmQz,"The End, So Far",2022-09-30,61,Metal
+7MDBR4dEvtOGNyOBKNmP8n,Children of the Sea,5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,46gHYWaRr052RGEiL5Dg7T,Heaven & Hell,1980-04-25,54,Metal
+0S90LE5Z8FOdbui3tLak6t,The Evil That Men Do - 2015 Remaster,6mdiAmATAx73kdxrNrnlao,Iron Maiden,1rG6IgNdwE1IGFuIKuYosz,Seventh Son of a Seventh Son (2015 Remaster),1988,59,Metal
+6tVahG14lCjexVQnYWKgwF,liMOusIne (feat. AURORA),1Ffb6ejR6Fe5IamqA5oRUF,Bring Me The Horizon,1k7OXnGQPV4zF3seDwRroD,POST HUMAN: NeX GEn,2024-05-24,66,Metal
+1x0AirtLjfVquI0A9iBVep,Getting Away With Murder,4RddZ3iHvSpGV4dvATac9X,Papa Roach,25wlsi7SWD8mFKxaEWGYuL,Getting Away With Murder,2004-01-01,63,Metal
+7lL7AgPCYvDHz8AI4nergA,Laichzeit,6wWVKhxIU2cEi0K81v7HvP,Rammstein,6HlDm9fzYxk4vkkr3YEvSv,Herzeleid (XXV Anniversary Edition – Remastered),1995-09-24,54,Metal
+2PFIZFcGry0po3ZfRZkzKc,Hysteria,6H1RjVyNruCmrBEWRbD0VZ,Def Leppard,1ja2qzCrh6bZykcojbZs82,Hysteria,1987-08-03,74,Metal
+7tcaQvBbSpNN0P2UF6WXxB,Children of the Damned - 2015 Remaster,6mdiAmATAx73kdxrNrnlao,Iron Maiden,5S3gls8Kjn8KVmqlIDEBbO,The Number of the Beast (2015 Remaster),1982,57,Metal
+3GO5e4FrArjjmjViEsrtrD,cXz,6Ghvu1VvMGScGpOUJBAHNH,Deftones,1gmWnG5TeRj91Tdm2lpEvJ,private music,2025-08-22,64,Metal
+0rx7n9QiP8lURcfdNWoBym,Tier,6wWVKhxIU2cEi0K81v7HvP,Rammstein,6hh5ax5BomINXGoi4q7FDP,Sehnsucht (Anniversary Edition - Remastered),1997-08-22,56,Metal
+1WjcX541kITk0ACPf5K6Bp,Rats,1Qp56T7n950O3EGMsSl81D,Ghost,6128JCa2uBqHWia5AzJOKV,Prequelle,2018-06-01,59,Metal
+1Qb2KRdSyk4UtRsbUAW6IG,IGYEIH,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,5QfFvOMOJ0CrIDmu33RmSJ,From Zero (Deluxe Edition),2025-05-16,62,Metal
+7GVqIMb6OdMY5mG7fUrtOq,High Voltage,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,6hPkbAV3ZXpGZBGUvL6jVM,Hybrid Theory (Bonus Edition),2000-10-24,58,Metal
+1wfDvLRSQVFEWC7nfE6C4L,Poison girl,74aLweE8FHHf4yN5TWv1GM,HIM,36tz5XLSdscEvXvzWQwSXv,Razorblade Romance,1999-11-15,46,Metal
+3V3brSzPO4pr4ioNqK61mw,Dyers Eve,2ye2Wgw4gimLv2eAKyk1NB,Metallica,6jZ1z25PyF4Yd3kHxt9rl1,…And Justice for All (Remastered),1988-08-25,53,Metal
+2Yh356WJoVcWleiWRFoLUa,Overflow,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,5QfFvOMOJ0CrIDmu33RmSJ,From Zero (Deluxe Edition),2025-05-16,62,Metal
+2XvVueul226rT8g4DQuKSK,Killed by Death,1DFr97A9HnbV3SKTJFu62M,Motörhead,13NfYO9kPsulhr0QpklkHF,All the Aces,2022-04-15,57,Metal
+4Gr9pPieF9ZVUxBB8vF1gy,2077,0QRp7CyL31iErUn6cX0YU3,do not resurrect,4aGax9S99B53Pm8oxwzHR0,2077,2022-01-06,58,Metal
+79lis8wwDG0LynDpdOJQi7,Hate & 808s - DIRTY SOUTH VERSION,4GhzKK7mFY2Sg6F6enFBRg,fiftyfive,5riAmZbUne06y58ce9RhpJ,Hate & 808s (DIRTY SOUTH VERSION),2024-05-24,60,Metal
+5Tdx85q8KQIcIZJ9XoHblt,A New Level,14pVkFUHDL207LzLHtSA18,Pantera,7kW0cpKgSVsEqcc8xgbSb0,Vulgar Display of Power,1992-02-21,59,Metal
+6WuqJLVZcyJklg7lIozAO8,Nymphetamine Fix,0NTSMFFapnyZfvmCwzcYPd,Cradle Of Filth,0e5cBxKWQYe52fyu23P01P,Nymphetamine Special Edition,2004-09-20,54,Metal
+0l3kMJXLcw4yaSOIU39Sq6,Stairs,3U09lzgkM9iGAHE1ESbRO8,Design19,7o5z9uEOAZkfZJAV26Lv1j,Trigger,2002-01-01,60,Metal
+0UrWr7Jnu1heq1o99ZwUd0,Youth of the Nation,6KO6G41BBLTDNYOLefWTMU,P.O.D.,4eUmncMYQRg0Ot29KKqbuk,Satellite (U.S. Version),2001-09-11,71,Metal
+06wKZYu5dpve2WRS5O34MI,Oops!...I Did It Again,1xUhNgw4eJDZfvumIpcz1B,Children Of Bodom,24kO281Ejj7HwIJKibKwpd,Skeletons in the Closet (Japan Edition),2009-01-01,49,Metal
+14M0JWFCnsKNGSvzDn0j6q,War Pigs - Charity Version,2tRsMl4eGxwoNabM08Dm4I,Judas Priest,4YeoFXF8LyFRSHm6LhUHGf,War Pigs (Charity Version),2025-09-26,61,Metal
+2t1G0rDxUY9zjML3f5mObb,I Am Above,57ylwQTnFnIhJh4nu4rxCs,In Flames,3nE97EZ0zIx760XlDczMo7,"I, the Mask",2019-03-01,57,Metal
+77AbmFudFBhF5a4Vcmwqtu,Lonely World,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,3oUoQ0UH7Rv06x1kpSjS36,Results May Vary,2003-01-01,57,Metal
+7bwtPl2Ihn4YElAvYA2Ljq,Too Late to Call an Ambulance,7oBiHmzfoAYKAFU5uO65Jc,Psychonaut 4,4iq6JVtnNQI3VmjnPlENKV,Neurasthenia,2016-10-07,45,Metal
+1yYE8EyuIV0rrvQ1bA2Fyf,Happy Song,1Ffb6ejR6Fe5IamqA5oRUF,Bring Me The Horizon,7FqHuAvmREiIwVXVpZ9ooP,That's The Spirit,2015-09-11,67,Metal
+3secztBJPt3Y4ocRiQhBMP,M/s salmonella,1MVngxYrcAvKqx3os2rrRE,Lifelover,0ytRKpLzlk4FgryJLUPunu,Pulver,2006,48,Metal
+3yiyZW5sYNg3VvIejh10sK,Year Zero,1Qp56T7n950O3EGMsSl81D,Ghost,32CbQps06lUasiux6N8tP3,Infestissumam,2013-01-01,58,Metal
+725NSbIej5lP3GfhLC7So3,115,6BlZkvGwQyo011poQEhQ1J,Elena Siegman,5iIo9PaIwnmuhKWVaoU2WY,Call of Duty: Black Ops – Zombies (Original Game Soundtrack),2011-01-25,66,Metal
+5znZ4aN1j49w2Oel8tdmgG,Brackish,0ImEDe9tW5n4pxHOK39zIc,Kittie,5PyNZ5DIu4UNWYfIgJwqXH,Spit,2000-01-11,61,Metal
+3yC1soClolbb2jFH7XIPqd,Everything Ends,3ZztVuWxHzNpl0THurTFCv,Architects,2W82VyyIFAXigJEiLm5TT1,"The Sky, The Earth & All Between",2025-02-28,68,Metal
+4reyAmWUdNFX6F70rX3ZoS,Scream of the Butterfly,3n5jeTRWZEbTPJWyHSYUqn,Acid Bath,7GFYpb7GvKZZcPTze1uAp8,When the Kite String Pops,1994,56,Metal
+5wXYuaDpzueI27xvHhM9nl,Take Me To The Top,0cc6vw3VN8YlIcvr1v7tBL,Mötley Crüe,0UcyqmHNn536yy8boNihhb,Too Fast For Love (Deluxe Version),1981-11-10,64,Metal
+7u93rCmIM9mBoT4mvfUBTZ,Had Enough,5BtHciL0e0zOP7prIHn3pP,Breaking Benjamin,6yJdQMlMkfYJFiSsL6764c,Phobia (Explicit Version),2006-01-01,62,Metal
+1linrfCmITmQHs4enAxTUY,Welcome To The Circus,5t28BP42x2axFnqOOMg3CM,Five Finger Death Punch,2xO5zlCGNyap7Jx1ED3HgG,AfterLife,2022-08-19,64,Metal
+2MvIMgtWyK88OiPi0J8Dg3,Psychosocial,05fG473iIaoy82BF1aGhL8,Slipknot,0hFWapnP7orzXCMwNU5DuA,All Hope Is Gone,2008-08-22,63,Metal
+6WCkyaVmut83CtBFEUhDo4,Solway Firth,05fG473iIaoy82BF1aGhL8,Slipknot,754RY5WpZ2LTUZsk8kDBju,We Are Not Your Kind,2019-08-09,59,Metal
+6vAQtUlYrzolE6SS9QCTs5,All Out Life,05fG473iIaoy82BF1aGhL8,Slipknot,65QFxYBGGQGGvAcW0YNMXa,All Out Life,2018-10-31,61,Metal
+577mOFb1LAvSANIUZ4mbQ7,Revenga,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,0cn6MHyx4YuZauaB7Pb66o,Mezmerize,2005-05-17,63,Metal
+0VfXQxbM0doaDw2fMI8Ima,Snowblind - 2009 Remaster,5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,61j7phQkxuKzcoFsi0XtkQ,Vol. 4,1972-09-25,59,Metal
+2ycBQEEwZGrGdm5FgUcHIv,1000 Rounds,4nXOZlYoAD67hF9aUEncMY,Pouya,5it4GUpboLHPCP1shs7aLz,1000 Rounds,2017-03-20,62,Metal
+6HgrJfzfj9WRBABdussy8z,Rx Queen,6Ghvu1VvMGScGpOUJBAHNH,Deftones,5LEXck3kfixFaA3CqVE7bC,White Pony,2000,62,Metal
+4B8aMSI3d7IOgAFHwkrp4o,A Rose for Epona,5X0N2k3qMnI8kSrGJT3kfT,Eluveitie,6Xo3icopNx9jX1NcDLjF5Q,Helvetios,2012-02-10,52,Metal
+2nUy0ifVE7UwtOK4rugFsP,The End of Heartache,37394IP6uhnjIpsawpMu4l,Killswitch Engage,6NrMjaGIZAKZLMzVnkNY4V,The End of Heartache (Special Edition),2004,65,Metal
+6w8dBm5KlXxWejYrbGS1EJ,I Wanna Be Somebody,3BVkDHWRvLJEyKdvhLbjsq,W.A.S.P.,25pbI5TFqt2tzGS4XSMnog,W.A.S.P.,1984,57,Metal
+2kxAHDqcVvD3qYetBLCdZC,Life Is Killing Me,0blJzvevdXrp21YeI2vbco,Type O Negative,4AdGr92Z6Ff2WbKP5Ja2QC,Life Is Killing Me,2003-06-09,55,Metal
+1SeMnyEb5dwCBLU3QUC0K2,Hearts / Wires,6Ghvu1VvMGScGpOUJBAHNH,Deftones,3tsXyEbUQehXPaRFCS8K1n,Gore,2016-04-08,60,Metal
+16m8dqnXoAmu40eCp1BESe,IYDKMIGTHTKY (Gimme That),0blJzvevdXrp21YeI2vbco,Type O Negative,4AdGr92Z6Ff2WbKP5Ja2QC,Life Is Killing Me,2003-06-09,57,Metal
+3WATWS2Ywo5HeHtG0bE2iZ,Teardrops,1Ffb6ejR6Fe5IamqA5oRUF,Bring Me The Horizon,0e1WaSNDZnoPixaxDNdWo4,POST HUMAN: SURVIVAL HORROR,2020-10-30,67,Metal
+4dbveKUpOx62SiwXQCALQH,Across the Line,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4JtIVJRA342O0YoAchen5Q,Minutes to Midnight (Deluxe Edition),2007-05-14,58,Metal
+7qPmNp4XgiLFjjzrkkL9iM,Shadow People,28hJdGN1Awf7u3ifk2lVkg,Testament,0ea7kKW9urApKz2E5MIgPW,Para Bellum,2025-10-10,52,Metal
+7ncorg0DpV9mQ1zCZp8Ydk,Meant to Be,28hJdGN1Awf7u3ifk2lVkg,Testament,0ea7kKW9urApKz2E5MIgPW,Para Bellum,2025-10-10,52,Metal
+3Q70zeuBGJzhCOtzeBXoPS,Zwitter,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1CtTTpKbHU8KbHRB4LmBbv,Mutter,2001-04-02,54,Metal
+7ox7vxy21ttBt1o7xIp1Si,Ghost Walking,3JFsVIxOn7STeilPICkkB2,Lamb of God,5rMKS2tqK818wfwr4zWQzX,Resolution,2012-01-24,53,Metal
+0NbJHO5WoFcFMSaPOD4LLP,Infanticide A.I.,28hJdGN1Awf7u3ifk2lVkg,Testament,0ea7kKW9urApKz2E5MIgPW,Para Bellum,2025-10-10,52,Metal
+6zsJjey6gAb8wVo3Rx4DVt,High Noon,28hJdGN1Awf7u3ifk2lVkg,Testament,0ea7kKW9urApKz2E5MIgPW,Para Bellum,2025-10-10,53,Metal
+2jkZB94i573H134wKmsw2y,Root,6Ghvu1VvMGScGpOUJBAHNH,Deftones,30YN03R4Bjl8Qwz8wPRoXG,Adrenaline,1995,60,Metal
+2n1jBz26dVBtSbMvJNjGsu,Until It's Gone,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,3XB2yloP7l00tEUmaODtVi,The Hunting Party,2014-06-09,59,Metal
+615iuBYd1ztlCb8pZAtSBg,Cosmic Humility Interlude,0QRp7CyL31iErUn6cX0YU3,do not resurrect,59Grt87N5tvB698akuFC5d,Blüdhaven,2024-05-23,59,Metal
+3a9urnht8HvfFzPwd0ipx6,Holy Diver,37394IP6uhnjIpsawpMu4l,Killswitch Engage,6iJEtgHTEbVlSS5isIS71z,As Daylight Dies (Special Edition),2007-02-06,64,Metal
+37gJgdjcyAIeeAeWzEIawU,Electric Funeral - 2009 Remaster,5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,4kA2o0L3tz9vFKJetiFUJI,Paranoid,1970-09-18,56,Metal
+6IUhPMJf4iJQ3Go1CkHDsa,Los,6wWVKhxIU2cEi0K81v7HvP,Rammstein,74ydDCcXTco741y42ceRJ5,"Reise, Reise",2004-09-27,52,Metal
+6gfUOprNMeD8amncMOSFl0,Misery,7cNNNhdJDrt3vgQjwSavNf,Memphis May Fire,1Uf494OVdGpxqdUgzdrVDv,Remade In Misery,2022-06-03,64,Metal
+4kF5GADt85FeD8Y26RRyLY,Platz Eins,65A714FqhSPjoFZeffQbTv,Lindemann,7vTIPNCT9nCHw8hhskPYj1,F & M (Deluxe),2019-11-22,54,Metal
+4TjCaQsPQhGZUk0Hls4O3Y,Lachryma,1Qp56T7n950O3EGMsSl81D,Ghost,2PFJKjBqXpYrRcdClhfcnX,Skeletá,2025-04-25,66,Metal
+6MK4FbbYR71obIQQHMxKXs,I FEEL ALIVE,2W6WP4pHQTFlbr2z9S4n54,Kordhell,7GjyuDC6hZNicG8Gj7cR8R,PSYCHX,2022-10-28,54,Metal
+1UZs9dauJnxrqYxMIzxnwC,Diamant,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1LoyJQVHPLHE3fCCS8Juek,Rammstein,2019-05-17,57,Metal
+5QYwIidpvmcqBWYx6hy8AT,It'll Be OK,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,5mi7FKaWE5CtcOjdyxScA7,Chocolate Starfish And The Hot Dog Flavored Water,2000-10-17,61,Metal
+6ihJQUpNPvjAa07pqOyeW5,Right Here In My Arms,74aLweE8FHHf4yN5TWv1GM,HIM,36tz5XLSdscEvXvzWQwSXv,Razorblade Romance,1999-11-15,48,Metal
+3ns1Hn52RB28zGVHiFvz7W,A Different World (feat. Corey Taylor),3RNrq3jvMZxD9ZyoOZbQOD,Korn,0UGqqYIWXAD1FgrDI1zOjh,The Serenity of Suffering,2016-10-21,61,Metal
+611WshW3yQKLCQ2pTCOii4,Screaming,4G9wSdX0klmoHfjm9i6DLd,Loathe,6nUUV3haj8ug8okTmOyIU2,I Let It in and It Took Everything,2020-02-07,65,Metal
+0FrT8a39eo6siL1yIxVGTP,Pink Maggit,6Ghvu1VvMGScGpOUJBAHNH,Deftones,5LEXck3kfixFaA3CqVE7bC,White Pony,2000,59,Metal
+3iQLR1D3L0iremvqRF0HXE,The Duelist,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,4OgDOuY3NUpKbG0YSYl2kv,The Duelist,2025-07-25,60,Metal
+2ZUUturolW3VpzXWzPEy2X,Sanctified with Dynamite,5HFkc3t0HYETL4JeEbDB1v,Powerwolf,1MSxQKpaZ2nPubMVQi9V3N,Blood of the Saints,2011-08-02,57,Metal
+2ppAkaBj4vaL0qsFm1TOKI,Dad Vibes,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,2lZ9RqGnGXH8gtH3DK02tJ,STILL SUCKS,2021-10-31,58,Metal
+7iD5t0YgWvIIrvZtw6IIxQ,Hellraiser - 30th Anniversary Edition,6ZLTlhejhndI4Rh53vYhrY,Ozzy Osbourne,3pn1WoMZ18F0Mn2qfWx4Cq,Hellraiser (30th Anniversary Edition),2021-09-13,58,Metal
+5ih5d9WJSI7Hxz0KIPJPY2,Yen,05fG473iIaoy82BF1aGhL8,Slipknot,3hWTXO0w02D6YpVRyLRmQz,"The End, So Far",2022-09-30,59,Metal
+7vfUhnW7qDtkFId4GJnvtA,Mein,6Ghvu1VvMGScGpOUJBAHNH,Deftones,4ilqDlqD37nilewk9x8tyZ,Saturday Night Wrist,2006-10-25,60,Metal
+7fw1s9GkS288i2HQxMMlas,Cloud Connected,57ylwQTnFnIhJh4nu4rxCs,In Flames,117ab5z5QEUV9YfvZi5Vij,Reroute To Remain,2002-09-03,57,Metal
+0HSVba6oa1QdUkco67C3e3,Bück dich,6wWVKhxIU2cEi0K81v7HvP,Rammstein,2w6Vy8qZLU4niyQAHyu0Ag,Sehnsucht,1997-08-25,52,Metal
+3oWFQPp5lL5x907hCcCRa9,Sehnsucht,6wWVKhxIU2cEi0K81v7HvP,Rammstein,2w6Vy8qZLU4niyQAHyu0Ag,Sehnsucht,1997-08-25,54,Metal
+0oHj2DHtNVWEgBqOa1bejc,You've Seen the Butcher,6Ghvu1VvMGScGpOUJBAHNH,Deftones,1GjjBpY2iDwSQs5bykQI5e,Diamond Eyes,2010-04-30,62,Metal
+33v9NERZw9Ox5PlqUZMVMC,If I Could Fly,4pQN0GB0fNEEOfQCaWotsY,Helloween,2XFrf3tNlJbE61zW3OEPwL,The Dark Ride (Special Edition),2013-12-06,50,Metal
+7xki0BmuOllyquWqjhETyr,14 Years,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,00eiw4KOJZ7eC3NBEpmH4C,Use Your Illusion II,1991-09-18,58,Metal
+5ft9yiGXI9o4bnbznZFP3U,Der Meister,6wWVKhxIU2cEi0K81v7HvP,Rammstein,6HlDm9fzYxk4vkkr3YEvSv,Herzeleid (XXV Anniversary Edition – Remastered),1995-09-24,54,Metal
+1MQTmpYOZ6fcMQc56Hdo7T,Sleep Now In the Fire,2d0hyoQ5ynDBnkvAbJKORj,Rage Against The Machine,2eia0myWFgoHuttJytCxgX,The Battle Of Los Angeles,1999-11-02,66,Metal
+3iV11AiIEDIOVjKy3kgjld,Becoming,14pVkFUHDL207LzLHtSA18,Pantera,70GAqt2avSiKBJ2IEymou1,Far Beyond Driven,1994,60,Metal
+2Uq8o3398JlRbWdpvObYii,God Fearing Man,7rqJQQxuUOCk052MK5kLsH,Imminence,5WxVgcugX1HZj8ARMfGnmK,The Return of The Black,2025-03-07,61,Metal
+6doZryBQYC5hQJdx1lyc2W,Skinnyman,7JDSHlDdVTo7aZKdQZ53Vf,Static-X,71j3INQJXy1sSQPkPiYxIO,Start a War,2005-06-14,53,Metal
+11sSvwrDX5BBUhbBZRKUxy,Every Day Is Exactly The Same,0X380XXQSNBYuleKzav5UO,Nine Inch Nails,1PuCoaLQNyCeaLBgGtNyW3,With Teeth (Bonus Tracks),2005-05-03,57,Metal
+01Q4wU19hamqnhNjtuvTyI,Nobody's Fool,7HL4id2U7FSDJtfKQHMgQx,Cinderella,6Af1uU7Di8q9oHyXpgvrmY,Night Songs,1986,62,Metal
+6XnPopwCZ6odHVVqMsllL5,The Reckoning,3hE8S8ohRErocpkY7uJW4a,Within Temptation,1SL2IdaCrXDtv695Px6AXR,Resist (Extended Deluxe),2019-02-01,58,Metal
+2KuGuEVhHoQ0F1PVupQovc,Gimme The Mic,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,3oUoQ0UH7Rv06x1kpSjS36,Results May Vary,2003-01-01,60,Metal
+6B1uhU0w4fk7nNeylg41Xq,Liar,3RNrq3jvMZxD9ZyoOZbQOD,Korn,2c7ynrgZP08xNtkJi9MhjF,See You On the Other Side,2005-12-06,58,Metal
+4QaxyJsbo5AR3bnEB7ko8h,Heartless Madness,5deRBvKxJssHVa9n6B7tWV,Dynazty,44k8riSJcKxQH5hIX2s1G7,The Dark Delight,2020-04-03,60,Metal
+4HlVUapocBDBqkPtET2knz,Atoma,5EHvXKnNz78jkAVgTQLQ5O,Dark Tranquillity,3N5vYy8vIFgpvtrIbFtvvG,Atoma,2016-11-04,51,Metal
+65qBr6ToDUjTD1RiE1H4Gl,Seeing Red,3ZztVuWxHzNpl0THurTFCv,Architects,2W82VyyIFAXigJEiLm5TT1,"The Sky, The Earth & All Between",2025-02-28,66,Metal
+7pugmRsHRy1fnug9NqH5cA,can u see me in the dark?,6om12Ev5ppgoMy3OYSoech,Halestorm,7mrNcgAQuzS3XF3db20WIe,can u see me in the dark?,2024-06-06,65,Metal
+0qGZkkxnyfGrUBLflKwBQG,Meine Tränen,6wWVKhxIU2cEi0K81v7HvP,Rammstein,75OE7M0wduJyffbffehHuR,Zeit,2022-04-29,56,Metal
+5SEBSAio1N77Vbrj1cAEGb,N 2 Gether Now,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,3HCCUaRSjHSFOe4fqE0BiP,Significant Other,1999,65,Metal
+2D0nHpEE4mKXpGw7SRGTPm,MISS ME?,2W6WP4pHQTFlbr2z9S4n54,Kordhell,7GjyuDC6hZNicG8Gj7cR8R,PSYCHX,2022-10-28,53,Metal
+5IhtaTempjlVlPmSgI0FQS,Storytime,2NPduAUeLVsfIauhRwuft1,Nightwish,7lUxbRgHGomu4raRe59qTK,Imaginaerum,2011-12-02,59,Metal
+4DEYwr2SLpvj6plN2ngIfB,Trash,3RNrq3jvMZxD9ZyoOZbQOD,Korn,5U0pevIOTrPoDsN8YsBCBh,Issues,1999-11-09,60,Metal
+3zPvL6ZCSVAHvSZXNoAbkl,Adios,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1CtTTpKbHU8KbHRB4LmBbv,Mutter,2001-04-02,53,Metal
+57P8gH8rjt4OqEoqzut1bL,Round and Round,3tufWJzpCiAGleBt5TkmTn,Ratt,0zhBC0ytIvsL8Kvf0xtPMp,The Essentials: Ratt,1984,68,Metal
+1guE0YwpEttyyIt0OQnMgN,Heaven tonight,74aLweE8FHHf4yN5TWv1GM,HIM,36tz5XLSdscEvXvzWQwSXv,Razorblade Romance,1999-11-15,43,Metal
+3tSmXSxaAnU1EPGKa6NytH,In the End,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,2pKw6GERJVAD61449B1EEM,Hybrid Theory,2000-10-24,66,Metal
+1KUdAOiViMZeSQKYCkGeUv,Bungee Gum,3v0QTRruILayLe5VsaYdvk,HAARPER,0kDqB0LUALzvYRFJMU3l5l,Bungee Gum,2020-07-08,56,Metal
+6n8TMVyFKoUmDc4apxceRD,Breaking the Habit,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4Gfnly5CzMJQqkUFfoHaP3,Meteora,2003-03-25,69,Metal
+6qxi41lmbH35MT29bqlL4k,We Rock,4CYeVo5iZbtYGBN4Isc3n6,Dio,2Oc6mL1VEuNPUEkbVeN1P0,The Last In Line,1984,53,Metal
+6qfhEaDclQ4LY2njxWQ3pv,Creatures of Chaos (feat. Tyler Connolly of Theory of a Deadman),76ptJV8617638xrpeoUtzl,The Rasmus,0k3uzU6fHFYok6YZsIxAaL,Creatures of Chaos (feat. Tyler Connolly of Theory of a Deadman),2025-10-10,53,Metal
+2B2r9ZYdlvntDcwmYydnsx,The Laugh Track,52qKfVcIV4GS8A8Vay2xtt,Ice Nine Kills,6uo9LWc5MS8CZ2QWFMEyrz,The Laugh Track,2025-10-09,69,Metal
+0eEJrthp6PcMd33xs2NLrc,Debonaire,7fWgqc4HJi3pcHhK8hKg2p,Dope,70qlX6W0tE04QAwKQuv1db,Felons and Revolutionaries,1999-09-06,61,Metal
+5t8sFMJ2aQaHqLnrAd4Q40,Drag the Waters,14pVkFUHDL207LzLHtSA18,Pantera,4LdquqwQoyu1pE6Vq8PIha,The Great Southern Trendkill,1996-05-03,58,Metal
+3qHlBxD3acw5nrl7Padt0v,Davidian,0lVlNsuGaOr9vMHCZIAKMt,Machine Head,4S4WHsBRNEIha796lnU8NJ,Burn My Eyes,1994-08-08,57,Metal
+7HG0J5pblRBXV1weLaNeMr,Blood Oceans (How Many?),3uL4UpqShC4p2x1dJutoRW,Ghostemane,5btlL9UCJuwk2pAZ6SUabF,Blood Oceans (How Many?),2018-05-03,52,Metal
+11VGhd5i7deLL0YB0ayicY,Yesterdays,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,00eiw4KOJZ7eC3NBEpmH4C,Use Your Illusion II,1991-09-18,64,Metal
+6ApFw0KmCRA0X0p2Vbqm0U,Gauze,6Ghvu1VvMGScGpOUJBAHNH,Deftones,4PIVdqvL1Rc7T7Vfsr8n8Q,Koi No Yokan,2012-11-09,59,Metal
+3aK2ctwWDXDMZCNGEKwcKg,Punks And Demons,3HVdAiMNjYrQIKlOGxoGh5,Rob Zombie,7bV9YJBYC6BAVkyzDA9gFP,Punks And Demons,2025-10-10,56,Metal
+2YGwSRjcY4Hjz6fktW9619,Tourniquet,2VYQTNDsvvKN9wmU5W7xpj,Marilyn Manson,7APnZJwayR3lH9aUDPDYQB,Antichrist Superstar,1996,59,Metal
+4EyPadLFhtWojU7mkT5hqT,Avalanche,1Ffb6ejR6Fe5IamqA5oRUF,Bring Me The Horizon,7FqHuAvmREiIwVXVpZ9ooP,That's The Spirit,2015-09-11,63,Metal
+3Tg8JctqoeIwZ3Rue8BjaI,Ratamahatta,6JW8wliOEwaDZ231ZY7cf4,Sepultura,5JjnPCfpp6redrkKpXZAs8,Roots,1996-02-20,58,Metal
+2nMN06ZdkOyGrhSDt9CKah,Counterfeit,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,3I34EprFC0rlAO4pKNeX1t,"Three Dollar Bill, Y'all $",1997-01-01,60,Metal
+0ZZCltcOacjI1kY4BnVDjt,Forgotten,1cJ5tVoeAEFcZBAwSZ0CtF,The Plot In You,6wurDqEmcCcIoria5SRmom,Vol. 1,2024-01-12,67,Metal
+0e06Zwd1027jFtmrRbXAjl,It's On!,3RNrq3jvMZxD9ZyoOZbQOD,Korn,0gsiszk6JWYwAyGvaTTud4,Follow The Leader,1998-08-18,62,Metal
+1hrfvLgEC9lci0kB89QEQ0,Carry On,0nmQIMXWTXfhgOBdNzhGOs,Avenged Sevenfold,74n2zwxeFpTANK5e9z3LsK,Carry On,2012-09-24,62,Metal
+7gDVjl5fEw2OPAtjbW4LzR,Weak And Powerless,4DFhHyjvGYa9wxdHUjtDkc,A Perfect Circle,49K6hYDEr5M3GxIBBxlPf9,Thirteenth Step,2003-01-01,62,Metal
+5r95yxmemjPfVSjCoSeAP4,Without You,5BtHciL0e0zOP7prIHn3pP,Breaking Benjamin,0mBvlBWI6TMDrWvQ8bKOKV,Dear Agony,2009-01-01,62,Metal
+0h6vLT1rLneoc5I4sOxvB1,Ohms,6Ghvu1VvMGScGpOUJBAHNH,Deftones,0VEFy5MsBiq0u2lWL0OwOd,Ohms,2020-09-25,61,Metal
+74WIE2htPZwxx4HgGhpf8i,My Plague,05fG473iIaoy82BF1aGhL8,Slipknot,5Zs0mNCTs73CqPKbZPWFX9,Iowa (10th Anniversary Edition),2001,62,Metal
+6DLaYITCfzaNEAj0ZyGRad,Curse,3ZztVuWxHzNpl0THurTFCv,Architects,2W82VyyIFAXigJEiLm5TT1,"The Sky, The Earth & All Between",2025-02-28,64,Metal
+20sXcaJkWP0DdzA58Colw3,The Writing on the Wall,6mdiAmATAx73kdxrNrnlao,Iron Maiden,3TymcPWXqsCRA5oSL0TkPU,Senjutsu,2021-09-03,54,Metal
+5JpbpsjhJeNwixBzbobklV,Shot in the Dark,3hE8S8ohRErocpkY7uJW4a,Within Temptation,1EvpTfBqlDzPwDYzWTgTw3,The Unforgiving,2011-03-25,57,Metal
+6R9j9XEisGCoIE8r8UtbiS,Last Ride of the Day,2NPduAUeLVsfIauhRwuft1,Nightwish,7lUxbRgHGomu4raRe59qTK,Imaginaerum,2011-12-02,58,Metal
+7xDAU9IAMyWjl7ia3hRxs7,Blvd. Nights,6CwDvApcRshxhEVMP30Sq7,Team Sleep,7BORauiIbjPkOVRzSq38DP,Team Sleep (U.S. Release),2005-05-09,59,Metal
+4AaZtoVREGSOTMzdzLoCGK,Sinner,1E4r4z7ivGUcSAnCbINJ9v,Drowning Pool,089oyV5caclve3ap934iRw,Sinner,2001-01-01,60,Metal
+50ZpPgU81payZxI2H7QXNM,Born To Be My Baby,58lV9VcRSjABbAbfWS6skp,Bon Jovi,3mcKOl0KNe65BqiBa40WxR,New Jersey (Deluxe Edition),1988-09-13,63,Metal
+2EO2MCzUHcZ1L8NWx2vYSJ,Unleashed,5HA5aLY3jJV7eimXWkRBBp,Epica,4vqXD8pLD66LZm7p4Y7K05,Design Your Universe,2009-10-16,49,Metal
+1oCQLSGSiHozdyx7lOqkIt,If Darkness Had a Son,2ye2Wgw4gimLv2eAKyk1NB,Metallica,6UwjRSX9RQyNgJ3LwYhr9i,72 Seasons,2023-04-14,51,Metal
+39zWYYZStDgWi32sOU9AX4,Fear Inoculum,2yEwvVSSSUkcLeSTNyHKh8,TOOL,7acEciVtnuTzmwKptkjth5,Fear Inoculum,2019-08-30,59,Metal
+1gUq6SezLS3lc7KxBZaA3A,Shut Your Mouth,0hGpZy6ws8FofByMkt0CV1,PAIN,1OBpoK7wgRl2ORh3phctrt,Nothing Remains The Same,2002-01-01,56,Metal
+5jAz81P8Aq1wIIcCkIDq57,Führe mich,6wWVKhxIU2cEi0K81v7HvP,Rammstein,29J0MchD0OWNeiMNbPDwfa,Liebe ist für alle da (Special Edition),2009-10-16,49,Metal
+6V8oQXzymTzpEZOsiBiyJT,Needles,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,6jWde94ln40epKIQCd8XUh,Toxicity,2001-09-04,63,Metal
+2lIdeuctEzKKMr2tmr6lZ9,Para Bellum,28hJdGN1Awf7u3ifk2lVkg,Testament,0ea7kKW9urApKz2E5MIgPW,Para Bellum,2025-10-10,48,Metal
+2UK4qw712yzFh8vYYJGv2B,Schwarz,6wWVKhxIU2cEi0K81v7HvP,Rammstein,75OE7M0wduJyffbffehHuR,Zeit,2022-04-29,55,Metal
+1tlV3yxXlFHFFlnER8BWm6,Harakiri,6ODBnKbicdw1rDq8P2lBzO,MAKAVELIGODD,5nK947LA6BAXnjLXS4birK,Harakiri,2019-08-17,60,Metal
+22NDkUPSCwVbC3qtTV5JdA,Ich weiß es nicht,65A714FqhSPjoFZeffQbTv,Lindemann,7vTIPNCT9nCHw8hhskPYj1,F & M (Deluxe),2019-11-22,54,Metal
+2lRhq1ZfHNiaVNHkTWeXUv,Long Live Rock N Roll,6SLAMfhOi7UJI0fMztaK0m,Rainbow,56JX1fNOjTa7Bj7G18nxSq,Long Live Rock N Roll (Deluxe Edition),1978,52,Metal
+1KQxH1Z1BiSo3MMukVpRfl,The Dope Show,2VYQTNDsvvKN9wmU5W7xpj,Marilyn Manson,69ACUmut0hbGOSonmU4kNS,Mechanical Animals,1998-09-14,63,Metal
+2tjb6V24kf6sDUdEFNf3m9,Fighting the World,4CzUzn54Cp9TQr6a7JIlMZ,Manowar,2Bju49iO98LXuJsY2vKEqg,Fighting the World,1987-01-01,52,Metal
+18ESXa5mEm1V4Pkt5GSXWx,Cherry Pie,7HLvzuM9p11k9lUQfSM4Rq,Warrant,5TMMmKdys49eu6QSPC9sdB,Cherry Pie (Expanded Edition),1990-05-01,63,Metal
+7DaLKhSP0YlBa3z3fp6xTq,Song 3,630wzNP2OL7fl4Xl0GnMWq,BABYMETAL,7JAioi7aQOS0VenAg3xfrp,METAL FORTH,2025-08-08,62,Metal
+6K03JHEberhdFjgZvFYcfs,Bye Bye Beautiful,2NPduAUeLVsfIauhRwuft1,Nightwish,33knvUBRR5ekNBrtLqQVTD,Dark Passion Play,2007-09-26,57,Metal
+5R5mJezbWNqlVvRip6oEfd,Donaukinder,6wWVKhxIU2cEi0K81v7HvP,Rammstein,29J0MchD0OWNeiMNbPDwfa,Liebe ist für alle da (Special Edition),2009-10-16,53,Metal
+0sMmtnF7by7WPNeRXCam9H,Weit weg,6wWVKhxIU2cEi0K81v7HvP,Rammstein,1LoyJQVHPLHE3fCCS8Juek,Rammstein,2019-05-17,54,Metal
+1cjmRILhViKKivAVI7HRKx,I Make the Mistake,2sWjvNPEMH9YAmDKNLFqR5,Mortal Love,5098EGa4YjopqW5QPXTkFi,Forever Will Be Gone,2006-01-01,41,Metal
+19DXrs7rMsqiUdAFLmHGOs,Suite-Pee,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,4T0mAffZnPKUW2QTcSX5zG,System Of A Down,1998-06-30,60,Metal
+70wXUzmg3tk3Ci2Ixg1YwO,Powerslave - 2015 Remaster,6mdiAmATAx73kdxrNrnlao,Iron Maiden,309KOMEivisMmBuzk09635,Powerslave (2015 Remaster),1984,57,Metal
+2tSyGmqhFvYongMdFaQNe3,Live or Die (feat. Joakim Brodén),4Lm0pUvmisUHMdoky5ch2I,Apocalyptica,6dksdceqBM8roInjffIaZw,Live Or Die (feat. Joakim Brodén),2020-03-06,57,Metal
+1231CoP069lmsDsBkHN2kc,Personal Forest,7oBiHmzfoAYKAFU5uO65Jc,Psychonaut 4,5olgO4nI8iEO9Lh8dXnqRE,Dipsomania,2015-04-23,42,Metal
+7fL0Tc5DGA7wLeXzkckiLW,Dalai Lama,6wWVKhxIU2cEi0K81v7HvP,Rammstein,74ydDCcXTco741y42ceRJ5,"Reise, Reise",2004-09-27,50,Metal
+43thLwzSasUUZEYjYPeJh3,Close My Eyes Forever,77tBvvyd6SD4Y9Um1xcbxP,Lita Ford,5nfd1bXqze24U3EZXP1Qlk,Lita,1988-02-01,65,Metal
+35aYLuIWeFd7iM7rY3x5GB,Under and Over It,5t28BP42x2axFnqOOMg3CM,Five Finger Death Punch,23Zi1sfUFkw4L4TC1vrLdy,American Capitalist (Deluxe),2011-10-11,58,Metal
+1EoN7hqAsyuTUrBjJPzWJF,Black Diamond,1O8CSXsPwEqxcoBE360PPO,Stratovarius,55qNkmFdL2xRZ728GIQcc1,Visions,1997-08-29,56,Metal
+20Ov4hI7Z5xh9NkLMMf0db,21 Gun Salute,2fqPOGxG12nEERj8YG7p22,Catch Your Breath,4Rs8FkCMRVYg9CtpKODlVN,Shame On Me,2023-10-20,64,Metal
+0Koh9yED8UuaXvg9p5lQdB,"Go to Hell, for Heaven's Sake",1Ffb6ejR6Fe5IamqA5oRUF,Bring Me The Horizon,6IYPmM3xsOPL2XPSvf1ZAz,Sempiternal (Expanded Edition),2013-04-01,61,Metal
+64v7AaXu9qmbefvFwOtbvm,Sleeping Sun,2NPduAUeLVsfIauhRwuft1,Nightwish,1lv3jeWOa1sKHdns4gAt3q,Oceanborn,1998-01-01,56,Metal
+0D8l86LXxKcgKAO17DfQsl,Rosetta Stoned,2yEwvVSSSUkcLeSTNyHKh8,TOOL,1fvWYcbjuycyHpzNPH1Vfk,"10,000 Days",2006-04-28,58,Metal
+5hjKYe3NOmWx2NVzVAeIGF,Fuck the System,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,6lA1sGw7eCv27bcpd5E0wT,Steal This Album!,2002-11-26,61,Metal
+0D7RVmTlKkmRchqKA4zJht,Unshatter,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,56zX5d4lPMLS5dkjLXpOd7,Unshatter,2025-04-25,59,Metal
+0FpYnuKYFJXHAmHbS1CycY,Feiticeira,6Ghvu1VvMGScGpOUJBAHNH,Deftones,5LEXck3kfixFaA3CqVE7bC,White Pony,2000,60,Metal
+0Klbxk3g96Qae4DbCnUNcT,The Patient,2yEwvVSSSUkcLeSTNyHKh8,TOOL,5l5m1hnH4punS1GQXgEi3T,Lateralus,2001-05-15,59,Metal
+14bsZ0VIilE9EnF4FxoL6p,Leech - Demo Version,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,3I34EprFC0rlAO4pKNeX1t,"Three Dollar Bill, Y'all $",1997-01-01,57,Metal
+7hVivPlFPhtiLU2uli9j66,Kill The King,6SLAMfhOi7UJI0fMztaK0m,Rainbow,56JX1fNOjTa7Bj7G18nxSq,Long Live Rock N Roll (Deluxe Edition),1978,50,Metal
+7KoWRwwVUgZV5D0zmrr25s,The Eagle Flies Alone - edit,0DCw6lHkzh9t7f8Hb4Z0Sx,Arch Enemy,1HimPrGurKic1hNOSidwF2,Will To Power,2017-09-08,53,Metal
+2ggqfj97qyiORmXoVFzP5j,Andromeda,3uL4UpqShC4p2x1dJutoRW,Ghostemane,0LioZXqkOOQV0JZLY1jyoZ,Plagues,2016-11-14,59,Metal
+4bINqmqxF9EUNcRvA0TZqi,Monkey Business,4opTS86dN9uO313J9CE8xg,Skid Row,35XOihxzj9XxmK4j1DFW3E,Slave to the Grind,1991-06-11,59,Metal
+5JCZHWdFLg2rXtg684rTHt,Psycho Holiday,14pVkFUHDL207LzLHtSA18,Pantera,5szY4sBOSD6IFjFN1RtWTe,Cowboys from Hell,1990-07-20,55,Metal
+4CbHM5bpfOfMNxNgVDHJRw,Pushit,2yEwvVSSSUkcLeSTNyHKh8,TOOL,6yWMN087PgSimbcVmHLEwG,Ænima,1996-09-17,58,Metal
+0Z8q59waoxGjcRZDC3ffhH,Spring,6wWVKhxIU2cEi0K81v7HvP,Rammstein,3PrS5X3QNdDUlBIE4bz6J2,Rosenrot,2005-10-27,51,Metal
+4uCfGqrF2OHcav71k0bk9D,Dreaming,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,3QxX3NbWyLlLG6lP1xveL3,Hypnotize,2005-11-22,60,Metal
+13YWByXibBltt3T5u3IcT7,Lost in Echoes,2XIbOWDT5vZPW7jNyzdfcK,Caskets,1Rty2CL0UZeJWeCcCiXmhg,Lost Souls,2021-08-13,62,Metal
+1Ae2QJGUPtnCzdA4XYn1NF,Flesh,3uL4UpqShC4p2x1dJutoRW,Ghostemane,2W5rUof3EANdwzqAMtAWhF,N / O / I / S / E,2018-10-10,57,Metal
+4QgrmawwnTaHnK3Hbcg3Aa,Kunst,3V4IvzRQYP5mzuVtkcHgVa,KMFDM,5DYHEmxnKl1yIb3pvkJS4s,Kunst,2013-02-26,55,Metal
+3Pv3UtJWZ8E3V0CG7LFFnY,Loneliness,1q4hWErLtwYQIca9js6NgP,Decalius,2OvCtDkglhYMnHIZufGDRV,Dehumanizing Loneliness,2023-10-12,48,Metal
+5qD3Qv8Wu3r5uRD0DahcZy,Bow Down,3Uobr6LgQpBbk6k4QGAb3V,I Prevail,2QRU8jGOJHDMrCTPKIHVik,TRAUMA,2019-03-29,65,Metal
+4wh0E9OwMCxcaIKTg0Mts9,Failure,5BtHciL0e0zOP7prIHn3pP,Breaking Benjamin,09asAAZJ7rXedp9J8wqvBR,Dark Before Dawn,2015-06-23,65,Metal
+1qdXodVqWyuzRKMDzAz1Xe,Sabbra Cadabra (2009 Remaster),5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,6tjx1ACkf4cYyFuhkyqz2A,Sabbath Bloody Sabbath,1973-12-01,56,Metal
+7vrLphPq4yjaX7jiDdd2Nc,Dig,2Pfv2w8a20xzC7Dr7QXRqM,Mudvayne,79cxLehm2WE9NMIRcJaqK9,L.D. 50,2000-08-13,64,Metal
+75R95k0ICuZBFVEjBauOtt,Doomsday,3ZztVuWxHzNpl0THurTFCv,Architects,3gh9LlHXtUEPkqsWj60Qy7,Holy Hell,2018-11-09,62,Metal
+71Rgf3kRwb7ReVASnkNAkz,Moths,0DCw6lHkzh9t7f8Hb4Z0Sx,Arch Enemy,1fRRVExZOrOXIdu0RgUGtY,Blood Dynasty (Expanded Deluxe Edition),2025-10-10,53,Metal
+18S33odAheWBHbVAefiRLM,Last Man Standing,2o18h28enlHxj887tATc58,HammerFall,19B8sBoHytS1ntvmy2QVju,Any Means Necessary,2009-02-06,58,Metal
+0iKl4lIShzrEV904iGjIfE,Hordes of Khan,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,52Cnp3vBqtODAZlXD3p8jy,Hordes of Khan,2025-06-06,58,Metal
+1bPStrIRZk0kEwwKURQAJE,Quicksand Jesus,4opTS86dN9uO313J9CE8xg,Skid Row,35XOihxzj9XxmK4j1DFW3E,Slave to the Grind,1991-06-11,55,Metal
+65eohvrL4ttjA7EfFkQOhX,Points of Authority / 99 Problems / One Step Closer,3nFkdlSjzX9mRTtwJOzDYB,JAY-Z,5NH94cATqx5fjBE794xZLy,Collision Course,2004,63,Metal
+2XLfNFUKxi1er33lMTa34m,Break the Spell,0DCw6lHkzh9t7f8Hb4Z0Sx,Arch Enemy,3Fjjxc5rAZr8xw0gl25crI,Break the Spell,2025-09-17,57,Metal
+0p9dEwFFw14hWTvS9v5NLU,Fairies Wear Boots - 2009 Remaster,5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,4kA2o0L3tz9vFKJetiFUJI,Paranoid,1970-09-18,57,Metal
+7sRUmONaPHMzkMjfy8EZc4,The Sacrament,74aLweE8FHHf4yN5TWv1GM,HIM,6XcCLlJnHqCy0znK4AVzkF,Love Metal,2003-04-14,45,Metal
+1g5Jqwo02PuitYfv19B6Jn,Black Hole,6qO6LhD6FuXK5e2PtfAIMz,We Came As Romans,15q7078X1sRf9ivhEnv1tm,Darkbloom,2022-10-14,65,Metal
+6WoBce395jFYNVq54HkpUC,One Good Reason,4BKyei61gtyDFxlKhcvBJJ,Celldweller,4NvgNR8QhQKNvsjangqMcT,Celldweller (Definitive Edition),2003-02-11,50,Metal
+4WvX69qstX6F3rOHfpTymz,Darkness,1ugmCkxd2MSyvkVA9puoff,SWEET SPINE,5CsUVchP2wvLtcWYPbYk97,Darkness,2023-07-17,59,Metal
+0kRyUkotwMM5ElAXCwqoVe,Sweet Decadance,7oBiHmzfoAYKAFU5uO65Jc,Psychonaut 4,4iq6JVtnNQI3VmjnPlENKV,Neurasthenia,2016-10-07,44,Metal
+06RKqktximm0kH8NVvxTyN,Cherry Waves,6Ghvu1VvMGScGpOUJBAHNH,Deftones,4o1KnoVpzXZceJxyjELEQB,Saturday Night Wrist,2006-10-25,65,Metal
+6gCCanQYC6OTcW2OGRnoeP,"Sana Sana Sana, Cura Cura Cura",7oBiHmzfoAYKAFU5uO65Jc,Psychonaut 4,4Lxmk0xdEdLyxgplinLS7z,Beautyfall,2020-10-31,39,Metal
+20hfLWeQSJnJ2CiPxmjzsj,Stein um Stein,6wWVKhxIU2cEi0K81v7HvP,Rammstein,74ydDCcXTco741y42ceRJ5,"Reise, Reise",2004-09-27,49,Metal
+556JR8TWeOKA0OH9MJKb6B,THE ONE YOU LOVED,1cJ5tVoeAEFcZBAwSZ0CtF,The Plot In You,7BNY7JDC9CtfXMOQARmuWP,DISPOSE,2018-02-16,62,Metal
+69InBLmrz7Cu0jBJk1dAgw,Allesfresser,65A714FqhSPjoFZeffQbTv,Lindemann,7vTIPNCT9nCHw8hhskPYj1,F & M (Deluxe),2019-11-22,52,Metal
+37O8ZOTOcwTAb42shN3IJ7,Break These Chains (feat. Niko Vilhelm of Blind Channel),76ptJV8617638xrpeoUtzl,The Rasmus,0k3uzU6fHFYok6YZsIxAaL,Creatures of Chaos (feat. Tyler Connolly of Theory of a Deadman),2025-10-10,31,Metal
+6RLM1w82rrT9tKsQVEa5Yr,Satanized,1Qp56T7n950O3EGMsSl81D,Ghost,2PFJKjBqXpYrRcdClhfcnX,Skeletá,2025-04-25,65,Metal
+0LaoxSSzKFhhbBQ9fGKxsc,Echoes,2vd2HnNh4pdYa9gDVHFjEu,As I Lay Dying,0eZVWhcjULemVSblWXjqnV,Echoes,2025-10-08,60,Metal
+3V417nSM4Ilh0Tt5CqustV,Yggdrasil,0WPCPYm5IDNtQjuJOGNPcy,Brothers of Metal,3hkZ5FWUJ23YKAMotqbTm0,Prophecy of Ragnarök,2017-04-01,60,Metal
+0Api4AdCfRrGYhj8AeSjNp,Dark,2fqPOGxG12nEERj8YG7p22,Catch Your Breath,19T9dCuDC2IumQmi6OB1xa,Dark,2025-09-26,65,Metal
+46SpVyZY00Nlpn6c8HNatm,Frühling in Paris,6wWVKhxIU2cEi0K81v7HvP,Rammstein,29J0MchD0OWNeiMNbPDwfa,Liebe ist für alle da (Special Edition),2009-10-16,52,Metal
+45R6DmpsaoqLujIn6qPTPH,Wait,6eeYhqOX2cpsiHY6gVuvPA,Earshot,0LRzUvkIwBzRFDjKCo2cfe,Two,2004-06-22,59,Metal
+1diuZVsxD74xvtUSABRUoF,The Wicker Man - 2015 Remaster,6mdiAmATAx73kdxrNrnlao,Iron Maiden,1hDF0QPIHVTnSJtxyQVguB,Brave New World (2015 Remaster),2000,58,Metal
+0U6yXM24WIntZO8HUUMXuj,Superstar,5S6hjAxgxjsLylsTtMIimO,Saliva,6gF0b1XROfpwz5bLHM1dRe,Every Six Seconds,2001-03-27,60,Metal
+1aKrYw2i1mWRPMOUUe3dT8,Needled 24 / 7,1xUhNgw4eJDZfvumIpcz1B,Children Of Bodom,29Ge8PsI0Qshm3q3NCS7Uu,Hate Crew Deathroll,2004-01-01,51,Metal
+1ycz5DvATLtmn2pOU8u38C,Be My Druidess,0blJzvevdXrp21YeI2vbco,Type O Negative,6BkeUWI72Lssc077AxqQek,October Rust (Special Edition),1996-08-19,57,Metal
+0gGfmw4csswZmFPj9YK8GW,7empest,2yEwvVSSSUkcLeSTNyHKh8,TOOL,7acEciVtnuTzmwKptkjth5,Fear Inoculum,2019-08-30,57,Metal
+5kHkaBN8OEQlmXfQkACxSt,3 Libras,4DFhHyjvGYa9wxdHUjtDkc,A Perfect Circle,0GeWd0yUKXHbCXVag1mJvO,Mer De Noms,2000-01-01,64,Metal
+3J9NEWkd9Cx1MwSSvDySkL,Rock the Night,7Js6Lde8thlIHXggv2SCBz,Europe,5Jkd47JEaCU1g4DcGBnHm3,The Final Countdown (Expanded Edition),1986,60,Metal
+4R6Rh75hGceh7bymGlL81D,The Grey,3Ri4H12KFyu98LMjSoij5V,Bad Omens,1x6eC7V3NYQmscUnF9AK6T,THE DEATH OF PEACE OF MIND,2022-02-25,62,Metal
+2aL4Dr516WsEswstjfnyYr,Shiroyama,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,14OgR04PHXULz1svvsol8L,The Last Stand,2016-08-19,59,Metal
+20eY1iHCeGknUmolCjYFoG,Limits,3Ri4H12KFyu98LMjSoij5V,Bad Omens,7bIxSpg8yIgVF6aS09HvWs,Finding God Before God Finds Me (Deluxe),2020-01-17,65,Metal
+7nAfXgeHfDO50upcOjJOaq,Talking to Myself,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,5Eevxp2BCbWq25ZdiXRwYd,One More Light,2017-05-19,60,Metal
+5cDS0AxJMZkAHjuwfUomJI,Summer Breeze,0blJzvevdXrp21YeI2vbco,Type O Negative,127mCJhPsHAB33rOYybK04,Bloody Kisses,1994-05-10,57,Metal
+53h1ZSLWi8hVWF9DWKNXVh,Die By The Blade,0rEuaTPLMhlViNCJrg3NEH,Beast In Black,3aT1PLgA6MomsX7MMlNRHr,From Hell With Love,2019-02-08,61,Metal
+2ciYYljvXw3vJdWi6hkEfS,Divide,1cJ5tVoeAEFcZBAwSZ0CtF,The Plot In You,6wurDqEmcCcIoria5SRmom,Vol. 1,2024-01-12,66,Metal
+1IQA1li1Io3D5WY6RNekD6,Pale Moonlight,5FjQVp1Lb0kltmwIuu5kfj,Dayseeker,5ad8oCDDBwNymZEBEBNDJs,Pale Moonlight,2025-04-23,69,Metal
+6L5QMBrydoaapTDMQ0Anui,Guilty All the Same (feat. Rakim),6XyY86QOPPrYVGvF9ch6wz,Linkin Park,3XB2yloP7l00tEUmaODtVi,The Hunting Party,2014-06-09,58,Metal
+4OhqsmPMreC0EFCo3OmDSm,"10,000 Days (Wings Pt 2)",2yEwvVSSSUkcLeSTNyHKh8,TOOL,1fvWYcbjuycyHpzNPH1Vfk,"10,000 Days",2006-04-28,56,Metal
+3ykD76bDGfeLUaCiQ7GtJE,LIFE SUCKS SO WE FUCK (feat. ZillaKami),2y246nnP9pQT0E6v3ZMMOO,Night Lovell,4o38S5wL449A2Ny1iPbP6p,I HOPE YOU'RE HAPPY,2023-12-08,56,Metal
+4fmr8c3rh0dUKjw14UGfaH,Great War,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,7FtCDX4COLE3HR2vBv7411,The Great War,2019-07-19,56,Metal
+6vXceKic4ACImU0bC3oecd,Darkness At The Heart Of My Love,1Qp56T7n950O3EGMsSl81D,Ghost,3fn4HfVz5dhmE0PG24rh6h,IMPERA,2022-03-11,63,Metal
+6GCusUym0CAdFS2g1qG79Y,The Nameless,05fG473iIaoy82BF1aGhL8,Slipknot,4ZDBQSIDIZRUBOG2OHcN3T,Vol. 3: The Subliminal Verses (Special Edition),2004,57,Metal
+7hr0WyhqQxrK3SQ9ZQxjTu,Awaken,5BtHciL0e0zOP7prIHn3pP,Breaking Benjamin,1vmuokjeEWukuNChZWHC5Y,Awaken,2024-10-16,66,Metal
+5RBWMYMSe6ihNb0hC8ro8v,Killing Me Slowly,0eI3X5rAzHRZVe5FPk4MN1,Bad Wolves,6yMblFoGadj25t99DryfSv,N.A.T.I.O.N.,2019-10-25,66,Metal
+605hJIiMrdsUjr4Vx4BFD6,Demon Speeding,3HVdAiMNjYrQIKlOGxoGh5,Rob Zombie,2ExOcLFwyExzkXK0ea180I,The Sinister Urge,2001-01-01,61,Metal
+2Gle7uL36Pg0FZKuNtW30v,Pollution,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,3I34EprFC0rlAO4pKNeX1t,"Three Dollar Bill, Y'all $",1997-01-01,57,Metal
+0WHtcCpZnoyFlQg3Mf2cdN,Spillways,1Qp56T7n950O3EGMsSl81D,Ghost,3fn4HfVz5dhmE0PG24rh6h,IMPERA,2022-03-11,64,Metal
+2cyJkqB2OYHwWWvKGtrJ0r,Sweet True Lies,0rEuaTPLMhlViNCJrg3NEH,Beast In Black,3aT1PLgA6MomsX7MMlNRHr,From Hell With Love,2019-02-08,59,Metal
+2cbVKthU34RR6W8gDs0k1Z,FERRYMAN,0bjge4G51zwpPyhAtcvUUo,DELIRIUM,12PRu3oaCMFiNm1EztrXMO,FERRYMAN,2025-07-25,57,Metal
+2DrMcGNKEY0FZqjMovGaCm,Figure.09,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,4Gfnly5CzMJQqkUFfoHaP3,Meteora,2003-03-25,58,Metal
+0vCzjgcBEujkrqizp2LYdq,War?,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,7p5mnxLTjbvs4kInkK8za9,System Of A Down,1998-06-30,61,Metal
+04X9rHdufZOZ9ahTb739kd,Myspys,1MVngxYrcAvKqx3os2rrRE,Lifelover,4VdkvQG7rqRiY17F36fjUk,Dekadens,2009-10-08,46,Metal
+00VKR5XH5jid1AgUdFz4bs,Session,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,0f7R0jf0pcTb6K6IVVPcMD,Meteora (Bonus Edition),2003-03-25,53,Metal
+1IlTIBL6w7hWIwwATueb45,next to nothing,1QXwIgp7aA3JT7WIyaAcur,cloudyfield,0ugwnhSdyZCC1ll1IoronS,next to nothing,2024-09-20,54,Metal
+6lvNLD1XRU5paMwWH0RGRI,The Noose,4DFhHyjvGYa9wxdHUjtDkc,A Perfect Circle,49K6hYDEr5M3GxIBBxlPf9,Thirteenth Step,2003-01-01,59,Metal
+4VcN84ZdC7doe4yoIarJUA,Brotherhood of the Snake,28hJdGN1Awf7u3ifk2lVkg,Testament,70oAOzrUemHFWB8VKToEtu,Brotherhood of the Snake,2016-10-28,52,Metal
+5kQWVteP4yTNL7xZWFE5CJ,My Queen (feat. Spiritbox),630wzNP2OL7fl4Xl0GnMWq,BABYMETAL,7JAioi7aQOS0VenAg3xfrp,METAL FORTH,2025-08-08,61,Metal
+5LA5Qhk8UYBHBaqjwqtHDz,Peacefield,1Qp56T7n950O3EGMsSl81D,Ghost,2PFJKjBqXpYrRcdClhfcnX,Skeletá,2025-04-25,64,Metal
+3nRwDWuop6A8uaBmf4V73J,The Worst In Me,3Ri4H12KFyu98LMjSoij5V,Bad Omens,55KcyCewbjn0QTiof5jxs0,Bad Omens,2016-08-19,62,Metal
+7nqgVLMje8RzKrmNH2D6dg,Black Thunder (feat. Serj Tankian and DL of Bad Wolves),0b2B3PwcYzQAhuJacmcYgc,The HU,1WmySyMyPGVPlCpKQGQaEp,Rumble of Thunder (Deluxe),2023-06-30,57,Metal
+47SJcoi329tD5TwD6m9CJ4,Dirt Off Your Shoulder / Lying From You,3nFkdlSjzX9mRTtwJOzDYB,JAY-Z,53wRDX5pmI3WAXfDvTiZ2L,Dirt Off Your Shoulde r/ Lying From You: MTV Ultimate Mash-Ups Presents Collision Course,2004-11-23,61,Metal
+43GS3mtezoIFiuIZCLLiDY,Every Rose Has Its Thorn - 2003 Remaster,1fBCIkoPOPCDLUxGuWNvyo,Poison,2AMWVB3FWknjcMeb6hMZnd,Open Up And Say...Ahh! (20th Anniversary Edition),1988-03-21,70,Metal
+4Z6e88z4yPI3oYBAUicQ1b,Liberate,05fG473iIaoy82BF1aGhL8,Slipknot,5lOFvOWAdy9G6p44noRILU,Slipknot,1999,59,Metal
+0rWOPkJHuxUvT4jSu0qA1d,No One There,5jQPKWBobu6cJwGSbbqgCk,Sentenced,2UUrCWkWqrFDuJJ5qr8dw6,The Cold White Light,2002-07-13,37,Metal
+1LvyuaK3gMkd4MLxSEf9MO,Lügen,6wWVKhxIU2cEi0K81v7HvP,Rammstein,75OE7M0wduJyffbffehHuR,Zeit,2022-04-29,54,Metal
+1fBiJCg13AJ3EiD9sHs957,Moonwok,7kjqkL4lIUyxO4HLzpRYo9,99zed,2VcF4A2T4tydYubNNcLiwb,TALEZ FROM THA STANK,2021-06-11,59,Metal

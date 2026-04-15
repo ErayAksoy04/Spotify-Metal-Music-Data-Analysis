@@ -1,0 +1,55 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:             popularity   R-squared:                       0.386
+Model:                            OLS   Adj. R-squared:                  0.379
+Method:                 Least Squares   F-statistic:                     57.17
+Date:                Sun, 14 Dec 2025   Prob (F-statistic):          6.16e-254
+Time:                        15:19:05   Log-Likelihood:                -10673.
+No. Observations:                2672   AIC:                         2.141e+04
+Df Residuals:                    2642   BIC:                         2.158e+04
+Df Model:                          29                                         
+Covariance Type:            nonrobust                                         
+=======================================================================================================
+                                          coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------------------
+Intercept                              70.4356      3.096     22.754      0.000      64.366      76.505
+C(main_genre)[T.Avantgarde Metal]     -18.7074      1.990     -9.401      0.000     -22.609     -14.805
+C(main_genre)[T.Black Metal]          -17.2247      1.440    -11.961      0.000     -20.048     -14.401
+C(main_genre)[T.Christian Metal]      -27.8952      2.583    -10.798      0.000     -32.961     -22.830
+C(main_genre)[T.Death Metal]          -18.7142      1.208    -15.494      0.000     -21.083     -16.346
+C(main_genre)[T.Doom Metal]           -19.7215      1.592    -12.392      0.000     -22.842     -16.601
+C(main_genre)[T.Folk Metal]           -29.9563      1.455    -20.590      0.000     -32.809     -27.103
+C(main_genre)[T.Glam Metal]            -5.7625      1.512     -3.811      0.000      -8.727      -2.798
+C(main_genre)[T.Gothic Metal]         -17.7438      1.627    -10.908      0.000     -20.934     -14.554
+C(main_genre)[T.Grindcore]            -23.4397      2.020    -11.602      0.000     -27.401     -19.478
+C(main_genre)[T.Hard Rock]              9.6091      1.464      6.566      0.000       6.739      12.479
+C(main_genre)[T.Heavy Metal]          -14.3372      1.421    -10.090      0.000     -17.123     -11.551
+C(main_genre)[T.Industrial Metal]     -12.0125      1.568     -7.663      0.000     -15.086      -8.939
+C(main_genre)[T.Metalcore]            -11.8726      1.175    -10.108      0.000     -14.176      -9.569
+C(main_genre)[T.Neoclassical Metal]   -21.5343      2.657     -8.104      0.000     -26.745     -16.324
+C(main_genre)[T.Post-metal]           -29.8988      3.338     -8.957      0.000     -36.444     -23.353
+C(main_genre)[T.Power Metal]           -7.7759      1.624     -4.788      0.000     -10.961      -4.591
+C(main_genre)[T.Progressive Metal]    -11.5330      1.390     -8.295      0.000     -14.259      -8.807
+C(main_genre)[T.Speed Metal]          -12.2684      3.080     -3.984      0.000     -18.307      -6.230
+C(main_genre)[T.Symphonic Metal]      -10.7901      1.942     -5.555      0.000     -14.599      -6.981
+C(main_genre)[T.Thrash Metal]          -5.8679      1.248     -4.702      0.000      -8.315      -3.421
+acousticness                           -0.3310      2.606     -0.127      0.899      -5.441       4.779
+danceability                            3.1364      2.409      1.302      0.193      -1.587       7.859
+energy                                 -5.2670      2.584     -2.039      0.042     -10.333      -0.201
+instrumentalness                       -2.9464      0.951     -3.099      0.002      -4.811      -1.082
+liveness                                0.4745      1.700      0.279      0.780      -2.859       3.808
+loudness                                1.1985      0.113     10.571      0.000       0.976       1.421
+speechiness                           -20.5117      5.466     -3.753      0.000     -31.230      -9.794
+tempo                                  -0.0075      0.009     -0.820      0.412      -0.026       0.010
+valence                                -0.6345      1.600     -0.397      0.692      -3.772       2.503
+==============================================================================
+Omnibus:                       23.164   Durbin-Watson:                   0.398
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               23.803
+Skew:                          -0.212   Prob(JB):                     6.78e-06
+Kurtosis:                       3.184   Cond. No.                     2.83e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.83e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.

@@ -1,0 +1,913 @@
+track_id,track_name,artist_id,artist_name,album_id,album_name,release_date,popularity,genre_query
+7gSOX8XYeLnOQxRr0OZkC0,SAGARA!,4MXCYuRQoxheUGWw5K0GbU,İsmail Kaksal,3EPAywx6mwefn44i5qP2yR,SAGARA!,2025-03-14,7,Latin Metal
+7rDbGMiBAcEhUc0ebFNJkb,Tangled Weeds,7aGjQszELP21q6dzYN3Q6H,Broken Toys,2t68VPrDUvdzjWyavn2Byg,Tangled Weeds,2025-02-17,10,Latin Metal
+7HP9PzWnBH6R1YE5KFZMrP,Crashing Down,7aGjQszELP21q6dzYN3Q6H,Broken Toys,4x2RbFKNnZfJdXO48bNCfW,Crashing Down,2024-12-06,10,Latin Metal
+4Dcmqd6TxCGyyvDnwvMrGY,Shadows Over Victory,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0X8KIcYPBD9iwuEw6F39MS,Echoes of the Fallen,2024-06-29,10,Latin Metal
+4iz9JP47hEAYW1kvFkwf5e,Dawn of Deliverance,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0TetsupUfHzdaU9BPg5Unj,From Ashes to Victory,2024-06-29,11,Latin Metal
+2Yf7Ht6jnL2uLZe82UNvy7,Pawns in Their Game,7aGjQszELP21q6dzYN3Q6H,Broken Toys,561zL6rNX29v05sMKPJUfE,Pawns in Their Game,2024-12-06,10,Latin Metal
+6aByx2gCxwnNmDQf54f2jT,Anthem of the Afire,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0TetsupUfHzdaU9BPg5Unj,From Ashes to Victory,2024-06-29,11,Latin Metal
+01OikDkz9WMraxAovbKHH3,Dos bestias,5pqBoA8bULuRIYkmA5lqL6,Richard Peccator,6mbnq0JmoaTRhHiKQyxJLw,Dos bestias,2025-08-26,12,Latin Metal
+7MEXRBV6rM8AwMJ5XKSvFb,Dusk of the Defiant,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0X8KIcYPBD9iwuEw6F39MS,Echoes of the Fallen,2024-06-29,11,Latin Metal
+7Il4uhW7qG5BI2yfZhAoSZ,Vias E Transições Ars Longa Vita Brevis,2xhKDkkirFHJlpls7Zt3Ii,Ottavio Lourenço,0kqvfLykOL2RZnRfIxbeok,Vidas Transitórias,2025-03-31,12,Latin Metal
+4xqUzcjudKwfnO4HFOUvXE,Fractured Mirror,7aGjQszELP21q6dzYN3Q6H,Broken Toys,3ct1ndU7qheQ5KHc8YDCUr,Fractured Mirror,2024-12-06,12,Latin Metal
+2wcCYBOCrLuH7YAJeeWc1g,Mudança Subjetiva,2xhKDkkirFHJlpls7Zt3Ii,Ottavio Lourenço,0kqvfLykOL2RZnRfIxbeok,Vidas Transitórias,2025-03-31,12,Latin Metal
+58gLVQ1dIw7pGtA6aOHojL,"Bossa Nova, Futebol E Sangue",2xhKDkkirFHJlpls7Zt3Ii,Ottavio Lourenço,0kqvfLykOL2RZnRfIxbeok,Vidas Transitórias,2025-03-31,12,Latin Metal
+5iRpWOj8ncGjk9y39EYu8T,Conto Triste,2xhKDkkirFHJlpls7Zt3Ii,Ottavio Lourenço,0kqvfLykOL2RZnRfIxbeok,Vidas Transitórias,2025-03-31,12,Latin Metal
+5VyP9bysR8KVGMionEb53N,Disque M Para Mudar,2xhKDkkirFHJlpls7Zt3Ii,Ottavio Lourenço,0kqvfLykOL2RZnRfIxbeok,Vidas Transitórias,2025-03-31,12,Latin Metal
+69J2fywEh6FyMyUFeUUD22,Conexão South Austrália,2xhKDkkirFHJlpls7Zt3Ii,Ottavio Lourenço,0kqvfLykOL2RZnRfIxbeok,Vidas Transitórias,2025-03-31,12,Latin Metal
+7LyuNUxjIFUp12CFfn1xGb,Tears of Triumph,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,3iKkRApdF3n7Q6iVdn9UtM,Cries of the Conquered,2024-06-29,11,Latin Metal
+3fRwF6CMy9cF9VocnzZd9Z,Igualdade Contigente,2xhKDkkirFHJlpls7Zt3Ii,Ottavio Lourenço,0kqvfLykOL2RZnRfIxbeok,Vidas Transitórias,2025-03-31,12,Latin Metal
+1aDG5xwkNjRBYXXWadfmiJ,CHA CHA CHA,180Rv5adp0TxkQUawZM0wG,Brojob,77iuj2nll5YwBTRGxVUOV9,CHA CHA CHA,2023-05-19,13,Latin Metal
+1cmSVWqM75YKgd20izZuuh,Sorrow's Battalion,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0X8KIcYPBD9iwuEw6F39MS,Echoes of the Fallen,2024-06-29,9,Latin Metal
+2kml1R2JK6NX8aR8FmOpgR,Absurdo Em Ação,2xhKDkkirFHJlpls7Zt3Ii,Ottavio Lourenço,0kqvfLykOL2RZnRfIxbeok,Vidas Transitórias,2025-03-31,12,Latin Metal
+5IaPbxXgenomNNIJQWRate,Hoje,2xhKDkkirFHJlpls7Zt3Ii,Ottavio Lourenço,0kqvfLykOL2RZnRfIxbeok,Vidas Transitórias,2025-03-31,13,Latin Metal
+6x6rAXmAc67lbmgYPcGJrK,Robotrix Revolution,2xhKDkkirFHJlpls7Zt3Ii,Ottavio Lourenço,68fj9E6CHtU9DgIkhflmUc,Metrópolys 2026,2025-07-17,14,Latin Metal
+2GVG0iRxpRoeq9XtX4ib7U,Sophia Civitas,2xhKDkkirFHJlpls7Zt3Ii,Ottavio Lourenço,68fj9E6CHtU9DgIkhflmUc,Metrópolys 2026,2025-07-17,14,Latin Metal
+7bwmp2T4BD07dBGXDVjNX9,Endless Night,2f7Zw48Gl88h5Eeslhbcnl,David Correa,6uFltLACZjC4XfYGmRnYmN,Endless Night,2025-08-29,14,Latin Metal
+3CK1pTx4kHTReIX7fOGhAB,Justicia y Ley,3pXERhndNlLkgNkrVXS45l,Dios Revólver,1ywVyYjnThFmIG76i0p3x5,Entre los Insectos,2009-05-05,14,Latin Metal
+4WRTL2pJAcTWi2nsXtgUHu,Systematized Cathedrals,2xhKDkkirFHJlpls7Zt3Ii,Ottavio Lourenço,68fj9E6CHtU9DgIkhflmUc,Metrópolys 2026,2025-07-17,14,Latin Metal
+6W9tXBKVdTs8GllbDQllg6,Impulso,2xhKDkkirFHJlpls7Zt3Ii,Ottavio Lourenço,0kqvfLykOL2RZnRfIxbeok,Vidas Transitórias,2025-03-31,14,Latin Metal
+0DJm6ufBqch9N8RBOtBQyI,LIBRE,36063pPc3jIiXS2uyiwGCk,bgp,6W8UUbOOMcf6ckeGB54iId,LA CONSTRUCCIÓN DEL MILAGRO,2025-10-07,11,Latin Metal
+5naIS3uYpu8zK0zWsIxZ1U,Indelével,2xhKDkkirFHJlpls7Zt3Ii,Ottavio Lourenço,0kqvfLykOL2RZnRfIxbeok,Vidas Transitórias,2025-03-31,16,Latin Metal
+2PPFVRcARcRJr5ICsWYac8,Metrópolys 1927,2xhKDkkirFHJlpls7Zt3Ii,Ottavio Lourenço,68fj9E6CHtU9DgIkhflmUc,Metrópolys 2026,2025-07-17,17,Latin Metal
+1LbBI9Wiozxl7zOXlJwb8h,Cadenas,7oYWWttOyiltgT19mfoUWi,Love Ghost,7dTBYO9X9iEnRwQ50apI6L,Cadenas,2022-01-21,3,Latin Metal
+2P9LD5KBIUunyJ7wEZy8B6,Sucessivamente Penso,2xhKDkkirFHJlpls7Zt3Ii,Ottavio Lourenço,0kqvfLykOL2RZnRfIxbeok,Vidas Transitórias,2025-03-31,17,Latin Metal
+4ayFT8U5TREFSkcyjqmbnt,El Eco de los Cañones,608gdoM3tWIFE8dUp00QkP,JAMASNUNCA,6SjobabDZliOdzRxYN0rJm,El Eco de los Cañones,2025-10-10,1,Latin Metal
+0M6tvMelJfTfbEsW7l51Rw,Adiós,1obT81mXhaBMJDMZlopWjD,Omar Loredo,5HeTpriqMVwv2cUHpfbp6n,Adiós,2023-07-16,20,Latin Metal
+3nm9dyWhWeWkQ5c451vYei,Sombrío y Tropical,2xhKDkkirFHJlpls7Zt3Ii,Ottavio Lourenço,6fiTPdPgpsq5riIVXxlXh6,Sombrío y Tropical,2025-07-19,16,Latin Metal
+4fGaty0PMfmbRsrTUIqAe1,Nostalgia,1obT81mXhaBMJDMZlopWjD,Omar Loredo,2cxuC7SwRYiniQncEvwFtk,Nostalgia,2020-12-30,20,Latin Metal
+6Scf0rNyLbBSMgjgu0x9XX,Demoliendo Hoteles,36063pPc3jIiXS2uyiwGCk,bgp,6W8UUbOOMcf6ckeGB54iId,LA CONSTRUCCIÓN DEL MILAGRO,2025-10-07,8,Latin Metal
+1G1ZKRadZYvGl17iSSW1Ht,Hymns of the Haunted,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,3iKkRApdF3n7Q6iVdn9UtM,Cries of the Conquered,2024-06-29,9,Latin Metal
+1vu2UG7wAsgNRrFjhORfKj,NA NA NA,4DK9qkoS3lFjf2zX3h4ds7,RauG,63AfzvxLtH7NB0pIB8k3Ek,NA NA NA,2025-08-15,20,Latin Metal
+4qwAkVyuxRqNJ27MA7bKkh,Capo,5CjSfZN385ZURm90nUeGsN,Sen Dog,0QCgIzfISfz2cpH3ZqcA2k,Diary Of A Mad Dog,2008-09-30,21,Latin Metal
+14VINykrmFni4RRX3dzQgg,"Fallen, Not Forgotten",57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0X8KIcYPBD9iwuEw6F39MS,Echoes of the Fallen,2024-06-29,12,Latin Metal
+0pglSg4IkLzW6BuNPyxJzl,El Rock del Gato,36063pPc3jIiXS2uyiwGCk,bgp,6W8UUbOOMcf6ckeGB54iId,LA CONSTRUCCIÓN DEL MILAGRO,2025-10-07,7,Latin Metal
+5I2YZdZHEnf21KBC7SNh4b,Soledad,1obT81mXhaBMJDMZlopWjD,Omar Loredo,2QZye5CG2GgERDX2GO8inS,Soledad,2021-02-01,20,Latin Metal
+4qVp7HL2Nfs6hSsaFMLkkL,Verte Arder,1obT81mXhaBMJDMZlopWjD,Omar Loredo,7J2Bnq5coNHoVxvTwR9Be6,Verte Arder,2021-03-28,21,Latin Metal
+4eO4Ydu9clVtJvwMo5jJSg,Notas Rojas,1obT81mXhaBMJDMZlopWjD,Omar Loredo,3aeSeAC8aJF1cL3rB9l0DO,Notas Rojas,2022-07-24,21,Latin Metal
+0X3wRC0L5JzG47k2exZ08P,Otra Vez,1obT81mXhaBMJDMZlopWjD,Omar Loredo,2r4bFVSb2po1xJuzi1HBti,Otra Vez,2024-09-20,23,Latin Metal
+28pyD6dlgzHPtJ1gkyGCKH,Megalodón - versión extendida,3KOlCmE3rKb6iuEjaAfurz,Howdytoons,2YF9eFEaKXg8KlPH36pPPy,"Prehistórica, Volumen 1",2025-05-30,8,Latin Metal
+6k9hzvz5ODRXOa1YgF0KVp,Souls of the Survivors,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0TetsupUfHzdaU9BPg5Unj,From Ashes to Victory,2024-06-29,11,Latin Metal
+5202CtS2OlFGdtZi3XQY1z,Deibi 70 El Comisario_ Rapero Por Vocacion,03dhpRAhfL5ErAUul7AytA,Stone Beatz,3NWgp3532LGCRxZojr60iZ,Deibi 70 El Comisario_ Rapero Por Vocacion,2025-06-18,26,Latin Metal
+6QLBf3DmY9DNHxn8Izvfqr,Victory at a Vale,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,3iKkRApdF3n7Q6iVdn9UtM,Cries of the Conquered,2024-06-29,9,Latin Metal
+52c7BRvqDmtkhaGaoDxmCP,Eternal Victory,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,4SseQd3vcok1o4iU7l9JUR,Dominus Invictus,2025-03-31,9,Latin Metal
+4RAKKZYhMi60SthgLqdU3i,The Forsaken Oath,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,4SseQd3vcok1o4iU7l9JUR,Dominus Invictus,2025-03-31,9,Latin Metal
+3aHlzSF6HKw6SIBy0uK1Ln,Vertigo,1ZqeU75x2rVrcsb9XemiX4,FirstWave Music,51DL3abSEGjomoBD96ydnr,Vertigo,2023-02-17,8,Latin Metal
+69jCKuEEGB9S66QDxaDHr9,Seraphim,6Xq017KWg86COIq9vwmtvY,Abismo Ónix,3RK61OcWqnerJKO2VDDZ3A,Seraphim,2024-11-06,9,Latin Metal
+4RMC05BvhTSvVNOiCWQF3k,Heart of Light,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,4SseQd3vcok1o4iU7l9JUR,Dominus Invictus,2025-03-31,9,Latin Metal
+2TsKSB9sXMgIGXHGcalA43,Eclipse of Fate,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,4SseQd3vcok1o4iU7l9JUR,Dominus Invictus,2025-03-31,8,Latin Metal
+1zd1jZVWWny570OvxsFGPi,Embers of Hope,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0TetsupUfHzdaU9BPg5Unj,From Ashes to Victory,2024-06-29,9,Latin Metal
+7k5ecL58XYQnLG8kYeT6T2,The Eternal Flame,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,4SseQd3vcok1o4iU7l9JUR,Dominus Invictus,2025-03-31,9,Latin Metal
+1ALk1q3l5euvyC39nAUZR0,Señales,2E1XBV7QnEPz6ZGz4Zuwpp,Instante,1VgZOlX8wNka1kvjtGLwQF,Señales,2025-07-29,8,Latin Metal
+0H3roBVlTvpvYL3YDiqtta,Hymns of the Heroic,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0TetsupUfHzdaU9BPg5Unj,From Ashes to Victory,2024-06-29,9,Latin Metal
+6x6qI97paT2cT0St4nNtBO,Unconquered Fate,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,4SseQd3vcok1o4iU7l9JUR,Dominus Invictus,2025-03-31,9,Latin Metal
+36exDQlQHftucepr2jHZ7A,Throne of Fire,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,4SseQd3vcok1o4iU7l9JUR,Dominus Invictus,2025-03-31,8,Latin Metal
+2MISpsF31jkCTwv2bg4O0h,Ballad of the Betrayed,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0X8KIcYPBD9iwuEw6F39MS,Echoes of the Fallen,2024-06-29,9,Latin Metal
+6zVXaNOTcbDCGfm0mbVuVX,Battle's Bitter End,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,3iKkRApdF3n7Q6iVdn9UtM,Cries of the Conquered,2024-06-29,9,Latin Metal
+5HjrjeSdv4WE5apMkZoolT,The Lost Prophecy,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,4SseQd3vcok1o4iU7l9JUR,Dominus Invictus,2025-03-31,9,Latin Metal
+5pwIMW4Yi9cjyYQl2bhQCP,Last Stand Serenade,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,3iKkRApdF3n7Q6iVdn9UtM,Cries of the Conquered,2024-06-29,9,Latin Metal
+7pwBSEIPjWgeJipKxbkKRc,Rise from Ruin,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0TetsupUfHzdaU9BPg5Unj,From Ashes to Victory,2024-06-29,9,Latin Metal
+2sYvnPNA8xPD4CjWb5edYh,Ghosts of Glory,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0X8KIcYPBD9iwuEw6F39MS,Echoes of the Fallen,2024-06-29,9,Latin Metal
+5MleLN13Ei7cy7qf83SWuB,Resurgence Requiem,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,3iKkRApdF3n7Q6iVdn9UtM,Cries of the Conquered,2024-06-29,9,Latin Metal
+6nVQhJ1c14haCYaEKL50hx,Anthem of the Ashes,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,3iKkRApdF3n7Q6iVdn9UtM,Cries of the Conquered,2024-06-29,9,Latin Metal
+466yZiqCDao5F7sxV9AXxu,Ashes of the Fallen,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,4SseQd3vcok1o4iU7l9JUR,Dominus Invictus,2025-03-31,9,Latin Metal
+1ePn8vD7h0jK6O1Cuakfxv,Unconquered Spirit,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,4SseQd3vcok1o4iU7l9JUR,Dominus Invictus,2025-03-31,9,Latin Metal
+5q6RnjkJUQjB4TSIEJtL5E,Legends of the Liberated,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0TetsupUfHzdaU9BPg5Unj,From Ashes to Victory,2024-06-29,9,Latin Metal
+4arhK522bJimaH2uz2wxUV,March of the Mournful,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,3iKkRApdF3n7Q6iVdn9UtM,Cries of the Conquered,2024-06-29,10,Latin Metal
+4v5ah2sJPkrGoDpn3s7C4p,Light and Darkness,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,4SseQd3vcok1o4iU7l9JUR,Dominus Invictus,2025-03-31,9,Latin Metal
+2IjzI4lvNLUvZe3ktPMqkG,Shadows of Surrender,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0X8KIcYPBD9iwuEw6F39MS,Echoes of the Fallen,2024-06-29,9,Latin Metal
+1VLt8hHyIwNLkMEOP8HpWo,Echoes of the Forgotten,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,4SseQd3vcok1o4iU7l9JUR,Dominus Invictus,2025-03-31,9,Latin Metal
+6pOmnyzdwHZRiH3L00xJuM,March of the Unbroken,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0TetsupUfHzdaU9BPg5Unj,From Ashes to Victory,2024-06-29,9,Latin Metal
+4CQzZvE3jVCED59V40Gza9,Resonance of Resilience,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0TetsupUfHzdaU9BPg5Unj,From Ashes to Victory,2024-06-29,9,Latin Metal
+5mGdJtSOADleNtVZm6zr1u,Lament of the Lost Legion,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0X8KIcYPBD9iwuEw6F39MS,Echoes of the Fallen,2024-06-29,9,Latin Metal
+3YTjo6ecKxW1GyhvRweHKn,Veil of the Vanquished,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,3iKkRApdF3n7Q6iVdn9UtM,Cries of the Conquered,2024-06-29,8,Latin Metal
+56EdvUVyxz79tkdTzUteMQ,Crescendo of the Conquered,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,3iKkRApdF3n7Q6iVdn9UtM,Cries of the Conquered,2024-06-29,9,Latin Metal
+4KXbeyNEeBDjY9HLy7iMCa,The Final Oath,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,4SseQd3vcok1o4iU7l9JUR,Dominus Invictus,2025-03-31,9,Latin Metal
+5ZtoBHKZ42coRzkqUaUukf,Echoes from the Underworld,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,3iKkRApdF3n7Q6iVdn9UtM,Cries of the Conquered,2024-06-29,9,Latin Metal
+0lgqena6XJ2DyheUD1wsqa,Echoes of Empowerment,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0TetsupUfHzdaU9BPg5Unj,From Ashes to Victory,2024-06-29,9,Latin Metal
+1edElFt1K5KOiMTgKMuogH,Echoes of Valor,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0X8KIcYPBD9iwuEw6F39MS,Echoes of the Fallen,2024-06-29,9,Latin Metal
+7xiuJ4N2UXf8tHPmVnMx6g,Last Song,7aGjQszELP21q6dzYN3Q6H,Broken Toys,2Lu4buWY29jZEgJQB1iz7z,Last Song,2024-12-06,11,Latin Metal
+7jzGuIymfmPMhaP5J5YgsY,Enemy,7aGjQszELP21q6dzYN3Q6H,Broken Toys,2GevPGahISKEIFIS03FiKH,Enemy,2024-12-06,10,Latin Metal
+6F054enEuROInDNWcOsZ6C,The Phoenix Procession,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0TetsupUfHzdaU9BPg5Unj,From Ashes to Victory,2024-06-29,11,Latin Metal
+3vJD7OocffFcxkDRenbwGw,Whispers of the Defeated,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,3iKkRApdF3n7Q6iVdn9UtM,Cries of the Conquered,2024-06-29,10,Latin Metal
+4VseC5A2u0jciOSsvsLDXf,Soy un Borracho,06y3uhjobOijypwjPfztq5,Kei B,1kN2h1jf5JrhV2pmb5KQRi,Soy un Borracho,2022-10-03,10,Latin Metal
+0Ml22YwQjxuVced1dYIp53,Let the rain fall,7aGjQszELP21q6dzYN3Q6H,Broken Toys,6b8ENIQcfhg9HhWzEAC9Q2,Let the rain fall,2024-12-06,11,Latin Metal
+5e5wxdcwel5tT0RrxUwZ5Y,Still Laughing in my Memory - acoustic demo,7aGjQszELP21q6dzYN3Q6H,Broken Toys,6dKQuCcwxmcZiu2fHCKNR0,Still Laughing in my Memory (acoustic demo),2025-02-16,11,Latin Metal
+7EW7niw4hTmneVLALERPWE,In the Shadows,7aGjQszELP21q6dzYN3Q6H,Broken Toys,6jeMbB2QpYxQqmjTmxuw4R,In the Shadows,2024-12-06,11,Latin Metal
+42C9Cxu56gOhKGa4wz5Mic,Ode to the Overcome,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,3iKkRApdF3n7Q6iVdn9UtM,Cries of the Conquered,2024-06-29,11,Latin Metal
+5G5v9vCfTb5PBJ1JvhrevA,Chorus of the Conquered,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0X8KIcYPBD9iwuEw6F39MS,Echoes of the Fallen,2024-06-29,11,Latin Metal
+0z6ffhUXZESrKZFjjdFFg3,10 Thousand mles away,7aGjQszELP21q6dzYN3Q6H,Broken Toys,65PEPWAmeXl4QU0x1BRClN,10 Thousand mles away,2024-12-21,11,Latin Metal
+6g7g9UdWlgCUzH7ARGDYNN,Am I dreaming,7aGjQszELP21q6dzYN3Q6H,Broken Toys,4as8275Xl0rJgXRmUCNzIo,Am I dreaming,2024-12-06,11,Latin Metal
+3IQmKhpdPWkUq1A0k3RB1j,Walking around awake (inside a dream),7aGjQszELP21q6dzYN3Q6H,Broken Toys,0GgX6QhSFibAPC7PtyGFLw,Walking around awake (inside a dream),2024-12-15,11,Latin Metal
+4HnSsrNZf2AQ3awbkO8xyW,Es Mejor (Seattle Session),7Gl3ogpbkaflnEzj4npfen,Overhead,6D1W9Zm7sZ9WuMzhIhb9aM,Overhead,2006-04-01,0,Latin Metal
+5SvZDe1DgCq4JnTxztq8U3,King of Sorrow,4LucP9AY3BM4MaWsOfePNU,CLAVEL Project,6iI4UQiZC5Nn3qtfqlYmd5,King of Sorrow,2021-12-10,0,Latin Metal
+1YuvJLdeWhGQsKxj317XFZ,Aferrarce - (Freestyle),2emHZPvpJ1c5Qd7gKdPdnR,Gared,5OovwvbZjMn2rO9wTjGVC9,Aferrarce (Freestyle),2022-02-14,0,Latin Metal
+6qb497XsUIrShBK8DcJ78G,Río Abajo,1P6TrUarZEMhlR2c097X3I,Pájaro Negro,5uXLmOhCfbPmXQJRHWK1FA,Haciendo Camino,2022-08-01,0,Latin Metal
+5JEO7bL9EREPGA9k74kAMX,Soldado del Tiempo (Puro Heavy Live Session),2kZ6KRGWdw5R7tHwGPDvKJ,Misticfire,4NhGotBuPiD0E1dAC24C3k,Puro Heavy (Live Session),2022-11-05,0,Latin Metal
+6A5Ueegvs6ZPeIlwvjVt8X,Atardecer,4hHYK5rmy78Yzv2Mbl618z,Cahlis,4xNh2amO9QiH7NSg5hI5XO,Historia de las Ideas,2022-08-17,0,Latin Metal
+0RNql3qweutPoylDcmAeGp,Essa Voz,3NpbDFdyK9PBXM86eKRhZw,Epífora,3mmK9HsuYml3zeUplFpaw4,Essa Voz,2024-12-10,0,Latin Metal
+3O9pW2tBtHVeju917ghxZM,Sunday Morning Stomp (To The Wolfman),3FTfvRKTu0C5cfBWBRFl0p,Mudo,4NPJ3VY7TSu3sewjTLxA7t,Álbum Mudo,2009-12-31,0,Latin Metal
+1Vujcm2NtNTH7wVCagoqC5,Water Bird - Instrumental,2cqkhRAy47cpoBD4ocDzbb,Off Silence,1Cljtaf9x2G3sQjd7Iczx4,Water Bird (Instrumental),2023-06-18,0,Latin Metal
+711uepS3qn4JFICqMr7unI,Pillow Talking,19TKNUURKupxWWqN5XBYaS,Möney,4uklbdxdLIbEqf5GV89bES,Mma 4 Life,2018-11-29,0,Latin Metal
+4AHEiBsHZFNbN7CX3squC8,Intro,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,0xnz9O74R8wfBNQ2cvQPm9,Disdained Grace,2022-01-05,0,Latin Metal
+4hY0HXu92b6IGhkOzaWqhW,Pós Coma,56ztr0qVjdCw7kyYNjLE0a,diaTrês,0XnrwQUXdv2n0MoNwOVS5D,Quem Realmente Sou,2021-06-04,0,Latin Metal
+4oEMNaloJRw0RHss4OPa6a,Breathe the Thrash,6iV80l5bCfqn0H1dVb5Utp,Massdestruction,4n7XsA6XKiZ8k3nvbZ8mqM,Panic Button,2019-02-22,0,Latin Metal
+5cXWqVkBulMkaWMJ4IrYas,Real Stinky,4ccDfROQihPWNkGqLPFTt0,Underschool Element,6EdX58yvg4jyeDcjoXBFVJ,Tango,2007-03-31,3,Latin Metal
+4DdWhqvBO8kPKWYMVb3KhU,Fuera de Juego (bonus),4LTwdcKstFxndHxEHkTmxn,Trauma,0CeDp6AsuGRD5RPZzfJCsh,Destino Oscuro,1994-04-01,0,Latin Metal
+4wbhtGz21Qj59ovvwOlHSh,Otra Vuelta,3oiI78GenGODRgSkN9cCvT,BUJIAS EMPASTADAS,7B7eyQDUos1HGzit00upzQ,Demo II,2019-12-13,0,Latin Metal
+5IGzprgaG4QCC9H4nILenm,Enamorado y Solo,7N2Iwc2qE3cHRxc0S3QQ3i,Leòn Draven,3Wf3olqaPvUxrReJENcGuE,Sodoom & Gomorgue,2019-10-31,0,Latin Metal
+0AtuznXBhsIHswSjY0YG4a,Yo Tengo Paz,1bludzHSBjKrlJHx7T8eQx,S.P.I.T.,2neShtdamVd2U8kT8roCJ5,S.P.I.T.,2022-02-28,0,Latin Metal
+4bD3Ogj2M2bwvjZzss3Qj3,Estación Cielo,4gnoOEsX1PpclDg8p6B0Sw,PLC,5vVlFyUinM2OK1vIj34Q2Y,Singula Videntis,2023-10-05,0,Latin Metal
+2aqNzgvK0TOqfko9d1LSDk,Presentacion (En Vivo),6LPp1ErCecDVz9VefIgEAA,Grupo Metal,6mwBHOpjaSKPDxsPaR7wYG,En Concierto,2016-01-01,0,Latin Metal
+2E97OzmIasf69f2uSybvXL,Esperando a Que Amanezca,6oBKXTFghTufYZiBcwz0GL,Nada,7r7zCzvZwwXMFWDOtwvQKE,1.5,2018-08-30,0,Latin Metal
+02uxVoKz6UhjtohbCjLOid,Nova Morada,5I4L5QYH5b5Q5q9XGrZg3k,Letargo999,43rJKrSNl0Df0M05uZ0oH0,Discursos Líricos Regidos pelo Caos,2018-08-24,0,Latin Metal
+1uldyTLubWa6m1iyZJYcZl,The Bitter Breath of Battle,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0X8KIcYPBD9iwuEw6F39MS,Echoes of the Fallen,2024-06-29,9,Latin Metal
+6XazWD042g247OzDz4wgh4,Genocide,3fnj6UvcPYJEPXZ5I2Flr8,SplatterHead,5ctZMIuedOmXWgTuzOUBny,Our Land,2022-10-31,4,Latin Metal
+2mKXBlkYJNmBjsN2tPsADM,Riot,3y3UMRpgDjqWsehUptxwO2,Only Resist,0k6Otoezf855oVjcAjylHA,Riot,2025-01-10,0,Latin Metal
+0vpwVMoij7jVatPyo86kfP,¿Cómo Te Voy a Olvidar? - Live,6tY4vvO2hJQVxclYYAOA02,Doombia,7nBp8FPTQ60xWbBcKbCN3N,Doombia: En Vivo,2024-06-07,0,Latin Metal
+48NLRWfu7KHkpBt80U0ms1,Tu Imagen,4yQXCtkOtkggcOcI8tEmH7,Xtrangers,3pRxI9WpS0sAIJtWss9MJ6,Xtrangers,2021-09-29,0,Latin Metal
+3GNy9uJNdfDEsiIa4ShMR7,Requiem for the Brave,57yLnBHSOl4KzGsY0CKBOi,Despair and Triumph,0X8KIcYPBD9iwuEw6F39MS,Echoes of the Fallen,2024-06-29,9,Latin Metal
+6FxwOUtOvjPVKPPB8ecg1y,Brutalidad,4vY9sBdSAA7h1AtMBwPPiE,Rajavana,0GDImjLUNCNU8jRzBzQ3uE,Vol. I,2014-08-01,0,Latin Metal
+2L94YXkYGnCTdlK6PheVHm,Conéctate a la Ausencia,44uHBk1RgqT6Rtc9Z87RvM,Stinkis,3eXvGdyyYgzQ7ynNZHXOoR,2016,2024-10-02,0,Latin Metal
+4K1YGijflOCuoI3Gvm6GEj,Even In Arcadia Cover,5Nc0UJX1VYyMn4Y5CesFXs,Nebulæ,49GJ5yzJ3zYPtGX1pzm4kZ,Even In Arcadia Cover,2025-05-15,5,Latin Metal
+5F5U5fS06hVoCPT1ZgiXmZ,The Dawn of Machines,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,6HZnCgUY20BPDW8aYVm3qy,Humans and Machines,2024-10-30,0,Latin Metal
+60v3riUeQWunDFJilojeEj,Passos,1ovJ0R4SaaY2NQ0toNv2xZ,Verteres,3Kos8o3i8Q4QxAx5d4brHC,Passos,2025-09-30,5,Latin Metal
+3TjTO5hEvR4ytQRjTyIDAc,Gênesis 1:27,5WpaOc2cHBJjRWNMI2dFYv,Boneca Voo Doo,6OMDjMNaklg2oEFz8OQ8Ak,A Bizarra Viagem Entre Céu e Inferno,2022-04-15,1,Latin Metal
+6SdXJUbOscJiSjPsfgdXMS,Aristóteles (Las Falacias),2rc04PUrzartth6TBrt5vk,Filosofia para seres humanos,360WMcSyTHemSYZ4v9Iypz,"Capítulo II - ""Sin música la vida sería un error""",2025-03-15,2,Latin Metal
+1FttAMji0RCMRpEnVjIPHE,Ataduras de Sangre,1qY8cTBouspEepOtYlx3vv,La Flor del Pantano,5OiZoTS7DQbSWrO4YHbkYN,Ataduras de Sangre,2025-07-21,6,Latin Metal
+1PDro0vPOcMoNnxcvcUMA1,Hogar Reflexión,2KPOGZ6AnRdTTdWEh62ps3,Old Gray,26jEDaerMAZfKshZzD7Jyg,Hogar Reflexión,2024-10-18,5,Latin Metal
+1PpXHwi7wQ4yUkaECVIuUG,Nino Cerdo,3pXERhndNlLkgNkrVXS45l,Dios Revólver,1ywVyYjnThFmIG76i0p3x5,Entre los Insectos,2009-05-05,7,Latin Metal
+44ksVqJsVqiXpgZTY0QqhC,Cha Cha Cha,5EoM47KrGNqm1FT3ESGtwY,Voutsa,2xMIhjwmZUNAtCLK2Jmu47,Cha Cha Cha,2023-03-31,7,Latin Metal
+3rbMoTrchyo5GPS1MujaMe,Tener Lo Que Quieres,38M6HVedjnRamaqXb0ekqO,Balero Tre-C,2RQFHx6sAIw1AftUdE0TmJ,No Es Tan Facil (Demo),1999-10-13,3,Latin Metal
+0NpiSfK16pF9FidUtDZndj,Intro,2kp3bh2oubtz8TNxvDTEU7,Diablo Huma Rock,0TJgneJq1M6HYcrSX9SCpv,Espíritu Danzante,2019-06-01,5,Latin Metal
+3usIPqqK4epuuacU5XeN2X,Derrotado,6tPDQUNPj5OZ76slK7TIrh,WZM.mx,1EBkSNACyZ0Ph0plT3ZuR9,El Lobo (Catarsis),2017-12-31,0,Latin Metal
+2RlTg2gPgYIFuglGSHdFbx,False Promise,6Xq017KWg86COIq9vwmtvY,Abismo Ónix,4lzyAkGuFqDCIqf6dqtIGG,False Promise,2025-07-23,6,Latin Metal
+4ARzCsDkY0CRmCfvmmlorf,Este Es el Lugar,3pXERhndNlLkgNkrVXS45l,Dios Revólver,1ywVyYjnThFmIG76i0p3x5,Entre los Insectos,2009-05-05,5,Latin Metal
+6HLllCXijFxF3lXiW31dQV,Luna Llena,2VFa1AZC5WVdW9pGyuhZa9,El Carril,6jx14Cs3mB5n9a4Kl7HMKi,Fue Mi Destino,2021-02-16,0,Latin Metal
+1wqXrlz12GFazJaCdfFlu1,Amor Fugaz,5NBjyU67YXqWTV7wpOXuGH,Kati$ha,1ak2Y66PAgIDsNtHwQSWy7,Amor Fugaz,2025-10-03,6,Latin Metal
+5lobrVaNEnngfPK2AmkdlK,Aquí Huele a Muerto,6gv7K55o2qyiGD9u84TIsW,Muro,5l4A6dLRbjpr6GVe9ZCuE0,Peligro Inminente,2018-01-26,0,Latin Metal
+6M2dLE8Ibgu8XyOIX0oK9r,Mourning Skies,5IBg13jLsdXRAG2nUFNITv,Moment of Salvation,4RdMATYMyBFMQINKGWJicG,Knightfest Sampler 2017,2017-08-25,0,Latin Metal
+3oJFQ3QEhdhOw5N9tFrpZj,Зимние холода,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,32kB96qKIKB8QQF0Hc0KRd,Discuss For Peace,2007-09-03,0,Latin Metal
+2Sv8IHICwbFqI6QDKFVNkK,Desastre Mortal,63jxdEE5ZCA0p52hIGx0Zs,Intravenoz,7CV6To9BOfYAMz4McBXPms,Primera Dosis,2014-11-30,1,Latin Metal
+4QCFFb8WPYhofdjGjzwq4I,Cuentale,2VFa1AZC5WVdW9pGyuhZa9,El Carril,6jx14Cs3mB5n9a4Kl7HMKi,Fue Mi Destino,2021-02-16,0,Latin Metal
+31I6S7lfUiSpheNhEtmvfh,Bendita Muerte,4sQ8LIYQVsdyiB4npSDuX6,HeadBangers,2FWUava4iO3P4UpkMbGR7F,Thrashing Alive 13 (En Vivo),2019-08-08,0,Latin Metal
+0s1fjwG6rRiyZ49JbADGLG,Para Que Negarlo,3SgUxNkmyZingPuUiB7KVy,Suite Anhelo,0ofBbE1je8NeIhoN70G5z7,No Tengan Miedo Mientras Volemos,2013-05-20,0,Latin Metal
+56WTflI3wpVuGYJt90Zj8F,Solo Cree en El,7mmXRhd92hbfZPEyRlDmOF,Amaduzia,0uBdI44sKq4VjKatJkz1Ho,Calle de Sueños Rotos,2025-01-02,0,Latin Metal
+2nRPCj71dxpElA8cdss9xj,Chasing the Stars,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,2skSiW5zw67Z875P7Z2Aay,Chasing the Stars,2024-08-18,0,Latin Metal
+5VCZ4YG1ReWF0oz7RtavcB,Veneno,7N2Iwc2qE3cHRxc0S3QQ3i,Leòn Draven,3xtQKsJngDt4KslT5ybobb,Veneno,2019-03-20,0,Latin Metal
+5jaSNm2nG7BgWx2E59VhHi,Ethereal Bizarre,6QW5spx6rVS6UABNU3Ro7D,Son in Curse,5CGaOhRZuHFHhkoRUINeTB,Virtus Deus Maledictus,2021-12-01,0,Latin Metal
+1pFqM0InkhqRQqsmRrOgON,Fue Mi Destino,2VFa1AZC5WVdW9pGyuhZa9,El Carril,6jx14Cs3mB5n9a4Kl7HMKi,Fue Mi Destino,2021-02-16,0,Latin Metal
+2Ezb0GiiXftYp2aoElSz2q,Reflexión,76WNrRh4xkV0FKBEIGdIhG,Ballottage,4E7FG9W3W8KBwEmBzcXnuM,Reflexión,2016-10-07,0,Latin Metal
+2aOUEuJOgDlvSItHGYqPgH,Tarantino,2TGPEqfFi020jvAraRJnUS,Electro Zop,1okuCQFAXkubOLkpjHlnnV,Astronauta,2017-03-09,0,Latin Metal
+1aEodrOnLMlvqQfX2KPbw6,Angel,1pUgWyPoILtsoFdlaegfAm,Drackma,7Aw7bYxKR0upjbAw6nRAfh,Capitulo I,2022-08-05,0,Latin Metal
+4vMYcwCmOlIKdUWilntmf2,Nietszche,2rc04PUrzartth6TBrt5vk,Filosofia para seres humanos,0QY1eg9D35pabN6rfpsqWD,Reflexiones Filosóficas,2025-03-20,0,Latin Metal
+43gn805g6tzUKEx4fCpNrm,A Skull To Drink,0jKpGGcUH0zXBLXOTkOmnl,Pablo Bellucci,4A729rv6JSMXWjJiWvGrR3,Heavy Metal City,2023-09-15,0,Latin Metal
+5mF3qdfBvRBgCCh71Bb2Yh,Hipersistolia,6VkNsFhZmMQRikmnir0oyk,Thrashammer,44hZItnV3a3UgriJWDJfgL,Potencial Humano Desperdiciado,2025-07-14,0,Latin Metal
+6OOEpzfnIjeAoh0FaqLLXv,Shangri La,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,4YUiN00FKTqEqIsecwXpOv,Reaper from Crypt,2022-01-01,0,Latin Metal
+3gVtiy8jcKcugmj0xbs3c5,Meztli,38uYobVqfeOPD3uWdliHMg,Zona 13,5BZjpi4RKewQJjYnSjPiJP,Zone Out,2004-06-05,0,Latin Metal
+1HBQlOiXq2NmAGlZyZVxQX,Boneca Voo Doo,5WpaOc2cHBJjRWNMI2dFYv,Boneca Voo Doo,2J5jkz8fQdzlye6f8ah0CI,Boneca Voo Doo,2019-10-31,0,Latin Metal
+62gQEwXsZYpJkATPy0V8WQ,Nada Que Esperar,5r3EYne36qRy6UwawD5yX4,Proyecto Roswell,4xhBaBiwYoD0bRitmkTUBM,Nada Que Esperar,2023-05-05,0,Latin Metal
+6BJ9bbv12s89mmZ94CyGsw,Presentacion,6LPp1ErCecDVz9VefIgEAA,Grupo Metal,2uRZAZKctYVqqBrdwbB1vs,En Concierto,2012,2,Latin Metal
+5OqJixsRoGpzRf2uRGFRdp,PRIMER ACTO,4WTrz9PQr8JB7lvyqQHtKI,Sombra RM,332c5VcU94HNAAjEpdZR7O,Un Año Sin Sufrir,2021-11-15,0,Latin Metal
+1ogqoePoU4XLBOcpGEXvKD,Remo - 2021,3NpbDFdyK9PBXM86eKRhZw,Epífora,1y22O7JsSGhtAL9mUcC1sS,Controvérsia,2021-01-01,0,Latin Metal
+0qZgjPwj5gSkZFy7eJtzzb,Lssl,5WpaOc2cHBJjRWNMI2dFYv,Boneca Voo Doo,2J5jkz8fQdzlye6f8ah0CI,Boneca Voo Doo,2019-10-31,1,Latin Metal
+1h7HzRneWkKs5L5FxXC7Zz,Amor a Pedacitos,2YurF3qYHPqu9LTReRlJTg,Buhonegro,6g4uUYiWpy48Ij2ofTsMgJ,Brigadoon,2024-05-08,0,Latin Metal
+3UkjlyOWjxBLE4UpiL1QkP,Volver El Tiempo Atrás,3s33dx76LwaaHU5eRybljD,Stendhal_,1DcmuutBS0guTeBhaz91z0,Volver El Tiempo Atrás,2019-05-04,0,Latin Metal
+1y7OHaXS6KV6iLWZECJqNE,Fuego Cruzado,5sSHUMD6FxnumwEBUsO1An,Cristal Magma,5WfNSe8vsAjbX2906Zd7Lr,Fuego Cruzado,2024-03-09,0,Latin Metal
+465CvrcB7gyy5LJnOhnA0n,Echoes of tomorrow,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,5sdLdcCpgc9BKlp0uMHrFM,Fragments of Static,2024-10-30,0,Latin Metal
+5BqV25WYhQSyALjwb3p2HL,Juegos De Niños,4WTrz9PQr8JB7lvyqQHtKI,Sombra RM,4XoPQjhxnpHBJyggDtQ6HX,Juegos Infantiles,2021-05-02,0,Latin Metal
+2IcW800Ut7lPEoERHuubhi,Pais generoso,0JdUad9GeW3mqcjrsT6TWq,Hrash,6fBvowtFE7gsKnLIOmMn5a,A conciencia,2015,0,Latin Metal
+7Ftp61GwpNGHf6KSUJWlXI,Sera que es distinto,4VAeVHcezQQMROwqjZn34v,WAYN̈E,0tOB0vRH8PAhmRFgti57gz,Mundo Oxidado,2025-01-18,2,Latin Metal
+01B0s45uVT6G05qsJjsVcM,Todos os Dias,0h5DxfrOZmwKuG8Ugs7WmJ,Mute/All,3ZlJ4AMtjoexul6Kkfqq6Q,Reviver,2023-09-06,0,Latin Metal
+2TY1H41mBZrnMmbdOojpLI,Principios Esclavos,689JaNPPdfhzuLFVG86ada,Sangre Heredera,2BvUml99orSdvP69epbQ7I,Principios Esclavos,2024-02-03,3,Latin Metal
+4vQw6of6fnq5K23Olibnbv,"Inheriting the Decadence, Pt. 1",6I91WSYpi7lVGNC1QfRph1,Zaderic,1lkBlj8dnQdHFeJMFzIq4l,Inheriting the Decadence,2020-01-08,0,Latin Metal
+1p5zMOL4ivN3LwC5WLDjrN,Arpía De La Vieja Escuela (Interludio),6VkNsFhZmMQRikmnir0oyk,Thrashammer,44hZItnV3a3UgriJWDJfgL,Potencial Humano Desperdiciado,2025-07-14,0,Latin Metal
+6AEt3yG5E7WXF5uWJhuAls,Sr.Wayne,4VAeVHcezQQMROwqjZn34v,WAYN̈E,0tOB0vRH8PAhmRFgti57gz,Mundo Oxidado,2025-01-18,3,Latin Metal
+49ixgI5PbuXnh9W0RXRWvu,El IneVitable Paso del Tiempo y Todo lo que Dejó Atrás,7KF3GrUdi7tm7DbvJZUEnC,Fauces Del León,5lYF5wXXmUBpLVvpkJKgyj,Ferite Aperte,2024-07-06,1,Latin Metal
+0PqBAx8BalU7wpibayxK42,Deep Inside - Radio Edit,5sYNqU4mqjhNhvPcINWXmH,kill the monkey,6ivyzdzXMJJMKxWYnWDenR,Demo 2002 (Radio Edit),2002,0,Latin Metal
+5ENCQsZb9Fc6MixLGdER1h,My Last Journey,3SnwzecN64waAXsx6PQKlA,Draconis,0bu2r5o9bsXtJxy7VuU4BV,Anthems for an Eternal Battles,2020-07-31,0,Latin Metal
+6GoOcQpDGHiA154J0KstFD,Fulton Four Eyes,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,0gNmbDzRYVAwTDnN57v8x5,The Delta Tales (Crossroads & Spirits),2024-10-30,0,Latin Metal
+2XmZqu2tlRbggk356BVVR7,Sombras,5Y6fGMF2djr6YvS4Ksn0E8,angelazul,0Qm8aeaem5YXKu4G1Cuqou,Sombras,2025-09-24,0,Latin Metal
+1lZL5hSk3j5rDol4frUxS0,"De Flores, los Colores y la Luna",7KF3GrUdi7tm7DbvJZUEnC,Fauces Del León,5lYF5wXXmUBpLVvpkJKgyj,Ferite Aperte,2024-07-06,1,Latin Metal
+2uUghtirT23nKzP5hPmbWn,Bar,74X980VHqqUvI2XfLsZFH6,Radio Mutante,6EIvQkp8xbafSOfdrm8zUu,Rock da Montanha,2025-04-25,1,Latin Metal
+5MxgOgCD6IQWlpH9zQRbEx,Confiar,2KPOGZ6AnRdTTdWEh62ps3,Old Gray,7LSy2PP4SkrPqLTzcS2VlI,Confiar,2023-07-19,2,Latin Metal
+1DqlQtnSwHm8KPvirMH0MR,El Advenimiento,3SlMszPdT5XlDNtps9Ck5N,KilJaden,0wo1NwypsV7Olgcvech20s,Dominus Umbrae,2024-10-08,1,Latin Metal
+1KwXCWZWyB1xCNeiJ7iiX2,Arthur Schopenhauer - La música,2rc04PUrzartth6TBrt5vk,Filosofia para seres humanos,0QY1eg9D35pabN6rfpsqWD,Reflexiones Filosóficas,2025-03-20,0,Latin Metal
+4ePFOZ1OFcJLMWLlLc2VIK,Tragico Siglo,6dtfad7ohFD24HcRGbtbyd,CAUDILLOS,21Du5IKt5xE4Fn97Kb61O5,ENEMIGOS DEL MAL,2025-01-13,0,Latin Metal
+42i9LjcJCUfesqigGWKW6r,Razorblade Star,7BJlOVWYvnG0xAy6VC6nBx,Razorblade,0uIGNF2bGGPVB1Ywnd0na1,Legado Metálico,2021-02-19,1,Latin Metal
+2vVlYvJhj9L612P3VEZ2lN,Sin latencia universal,0CQVVtRswkjE33Wl1UZoCm,Efecto Broken,04FPlQUKkVFjZ2US7cTw68,Nuevo Orden,2014-10-21,0,Latin Metal
+1Rk96Pil72f7XP7JCfTDro,Tierra Sangre,0mjXiTYwvyegFwHiT5OkF9,Mouth Of Hell,0rVQecVdJvNxfWhvS0LX4l,Tierra Sangre,2018-04-07,0,Latin Metal
+104ApUlLm5VA1mXZ47VZ8d,La Verdad,36BBSAGLvZBRrYaHwjFcqz,Vitius,1IgEY5AfA1hfC9vI0C36RQ,La Verdad,2022-10-11,0,Latin Metal
+12tEhzKQ3oilVgEXMtzr8M,Contra tus sombras,6dtfad7ohFD24HcRGbtbyd,CAUDILLOS,21Du5IKt5xE4Fn97Kb61O5,ENEMIGOS DEL MAL,2025-01-13,0,Latin Metal
+4cduuQm9vnfXCB9xa7YqAC,Ищу,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,5bkFumLWIT4wzIpdB9uHKF,Bambook Reggae from Basement,2022-01-01,0,Latin Metal
+0EbERit4dymNYLhOcOSedZ,Bajo Tu Sombra,3VXfADEN5jWpK6dJ4chDgo,Juanma García,5mAVXFrbfjcSTTY5re4YL4,Marzo,2025-01-31,0,Latin Metal
+5pGYHC9X6wnyInbXo69nse,Bullying,5Y6fGMF2djr6YvS4Ksn0E8,angelazul,1Y5RpFjVTVwSRWNDiZ62MU,Bullying,2025-09-13,0,Latin Metal
+7kIwpjP1EemqmRCDmuRnXl,End of Time,0bjKAnrJAxHDQyLsY3h5zH,Your Epitaph,0ZRxLcNszleZoifOFRmtsu,Chooser of the Slain,2013-12-13,0,Latin Metal
+04WILbEag84fcbAiRYZb1d,El Arcángel de la Muerte,5lOeH1LSfFwghLEOZByPuJ,Etanisis,7nL10X6SrMq1Y4vnijbh5t,Marcha Entre los Muertos,2011-01-01,0,Latin Metal
+659oqTSAlc5tJItZ5JkiMO,Intro. Fuegos del alma,20BxH6D8etfUpHKgd9rg2s,Crisandemia,7yEqna8szSHsLqvkcxCcjE,Hacia todos,2017-06-15,0,Latin Metal
+2GgJc4pzosidS5NUesEvqc,Tu Veneno,0i0Qpv0hdV3ssndktfZ95Z,"Alejandro Vargas ""Colita""",2rzISvdKagoso7rlNuclYV,"Alejandro Vargas ""Colita"" (Instrumental)",2014-10-24,0,Latin Metal
+1svCNcAwwOu07G5bDkRjeP,Tierra,38uYobVqfeOPD3uWdliHMg,Zona 13,5BZjpi4RKewQJjYnSjPiJP,Zone Out,2004-06-05,0,Latin Metal
+1I67qWyb0sFqG7iY9ElOox,Speed Metal Masacre (Black Vomit 666),3yclOfyddI2GoYWxf77PV6,Black Vomit 666,1wc5mnFCoO7TDLaGULybGE,Slaughtered Hell Vomits,2025-01-27,0,Latin Metal
+3DAt6612jp1S7jzUD1Q7GM,Reactivo,1fPx62XxS01dK3Tdtgs2mS,M-Aguila,4VvTEuEChV5gfDbMwhkGDs,Reactivo,2020-10-29,0,Latin Metal
+5BJsMGOlzipwnp09lgZDk9,Lute Como uma Garota,2Xog4NpTwU0JX0KMvb7pI8,Requesth,3GBBiRgMTe06zeCCZRJZzm,Deluxe Edition,2018-11-16,0,Latin Metal
+41skCALPYfdm5WgRRtHzv0,Rompiendo Cadenas (A la vuelta de la Esquina),1f1ozy6Fpbvy2RYId45EoS,Alas del Dragon,1I15ILt9asvue4wXhLw9kZ,Tomenlo o Dejenlo,2022-01-05,0,Latin Metal
+2j8BbT8y6PI94SA7SlFSrj,The Keeper,4rRPpI8Kvm1FSZHu9uyZ5s,GNÔ,5aJA0zAtIc7aS1XwX6GZQv,Cannibal Tango,2009-09-04,0,Latin Metal
+2SXW6ok9BRwxgVbX5SQOIV,Intro,4dyou8slmuBdXs5svBuOjs,Atroar,1B0rHS9cb2VKeF02Jg4yR7,Atroar,2014-01-31,0,Latin Metal
+1cbhaN7jYONtE6OPWj1Mpu,Dejate Querer,2VFa1AZC5WVdW9pGyuhZa9,El Carril,6jx14Cs3mB5n9a4Kl7HMKi,Fue Mi Destino,2021-02-16,0,Latin Metal
+2L45C497fGfwnvJFsoiF8B,Zumbificação,3nyz3RyAXVQvROUgHwLlFj,Assustador,1r3LsBvmaI9kNjtnfzY3y5,Assustador,2024-02-13,0,Latin Metal
+2MG1nOW9sb5LqMSemP0ZpD,Me Lloras - Banda,79NonjYTCdWIA5UL29pY9o,Claudia Leal,5wSe9YfytqtsUB0hcdW66p,Me Lloras (Banda),2023-02-03,0,Latin Metal
+4EPmhF0Uklfl9tOW8jrgRC,Battle of Titans 3,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,63ITI0WBdWEHnN0yZLceRr,Battle Of Titans,2019-12-13,0,Latin Metal
+3ZFX0c8VpVyjn5lduiYc6M,Tqg - Metal Version,2dv9l1dbPyT8YgbFHQgQGq,Yony Guti Music,26ckxOHkPDtYPkQYUo7BOf,Tqg (Metal Version),2023-03-30,0,Latin Metal
+6TnZMbv7ADckUfjTj10a1h,A.E.L.N (Andante En La Noche),15mYQhFYuA0iBceY0KwmeK,Claustro,52JFIl3JnAmWfTgQaSg8bz,H.I.S,2017-10-27,0,Latin Metal
+1Rwm5y6WI5Mxs3QGtV1AzZ,Hope You Die,0m3NplJLtEhVDIlhaiQnVl,Ampliferios,02lSouHU46M7wLjLCcKP9R,Caos Metodico,2024-07-05,0,Latin Metal
+1vxGHiLE6avjRmc5bMIhj5,Civilización,6Yp02h9moZvPXjUyMuTQug,Ferer,3UaQilMsnYPNBqlcTkGqND,Invierno Bipolar,2022-01-27,0,Latin Metal
+1kyoGIszjsEOCMObWxifTP,Você Tem Medo,1yVdUU9zryXtOd6yUkeelu,Adubada,7wkYMpzizbJntXC8uawZ9x,Você Tem Medo,2020-05-15,0,Latin Metal
+3vmMggUiDAqg6yYh92zGiF,The Edge of Time,53OPV6F9elzEqwxz0I0r7t,Ginger Red,6sHzQnoDLVl8CmssMf1MsW,Donuts and Coffee,2018-10-26,0,Latin Metal
+1A76pn6XET6JlsGSU0G0Ia,Bleed Together,3xvsIneKwYf1nVb5yKC11Q,Kymeera,0iepFpS2IUVoAai73ksUbc,Bleed Together,2025-07-12,3,Latin Metal
+0SAmkHFhiSWkQeI9XxyBwm,La santa compaña - 2015,5ZNxiPcbKgaNcBrERMpqeu,Mägo de Oz,4rRi9aaClkkOtJaX4gGyHU,Halloween Hits 2024 Vol.1,2024-09-26,0,Latin Metal
+0fJCz3FaKV6e0wJqv2vNEw,Demonios Caídos,18uJNEs33Z2aBXROL7nHBx,Shaka,0f0DA3CjhLve0mW1DEMz09,Shaka,2017-03-08,0,Latin Metal
+5bWFtQLoZvM13pI8vRpN5j,El Juego de Dios,5ltW2DJslmqjOGj5bbzqWp,Rever,4OzmzuCNWKHs04FKYTSmYo,El Juego de Dios,2023-03-08,0,Latin Metal
+1YyFgA8aEpRIfTSpr1m47P,Khaøs/Crisis,5Nc0UJX1VYyMn4Y5CesFXs,Nebulæ,1a0QTZB5o8NGuJe7jFDsgR,Khaøs,2025-03-03,0,Latin Metal
+5e5wk2XshZ9kDjuYxHpkC5,Despues de la Tormenta,1TC7Vl4ftQWLcntwfP932j,Raices del Ande,4VpnjrTMVBuPhJZ1FcqARB,Raices del Ande,2013-08-17,0,Latin Metal
+62GsF0FfuJWjb04uHj6mkH,Nightmare,3SgsWAstTUC0gdu14yl1QO,Drargurok,5aUyPafF70HQjGnNPPQBhl,Nightmare,2024-07-21,0,Latin Metal
+60MGENsSeJrC7rlu5vs9q4,Mi Equilibrio,7n0xINqeqRnQGHVkW0oHKT,TONELAJE,26Y6SF0pTYy22h3T5ABVaI,EP 2: Waken,2021-03-15,0,Latin Metal
+4k9MUE9mSgzHn2OoH9z2mt,Putakumeak,0h4yZMHDM78jl7Ib2S5FjG,NX,7c363YjmkAmpZjFTxOsdjv,NX,2012-02-20,0,Latin Metal
+58yVGTl7l0ODmNqlyMEGn1,Un optimista mas,156UZoCqWAekH8fPVqhHal,Amoladora,1OoVfvczAnL4JPUbgNzZ8F,Un optimista mas,2023-07-24,0,Latin Metal
+2Qh1JJM2uVAIrlMruMUTPW,Gherban el Madina,2EVCPrm46t32VZig1aXoOS,Mario,5i0AayErGKb8b9OvjyrtrK,Gherban el Madina,2020-04-14,0,Latin Metal
+1CSaqL5QOmaDU5vCAvWUxc,Sigue corriendo,4LDOd02pwqdWV6oHk4wQ0w,Amenttia,04ix55yZkub6MEU74afR0e,Amenttia,2022-10-03,0,Latin Metal
+7Fm8sOX4fCXCgSCSl4pN4s,Razón,3QMiK8O1DyGX1jvElqOESD,Zynthesia,37wG8DXL8YmjqBOHwqDtcn,Revolución,2022-02-01,0,Latin Metal
+2AjCAK9v8HECQbSSZ8GdeO,Enero,36befZOvif3FpTxWLMaVeo,Qué Más Da,0NVjgZoIc1SQ0NUSbZIyPA,Enero,2021-11-15,1,Latin Metal
+40cdNeAs8Qn3BxDMyk0t0K,Tu Voluntad,2H7BFc1rGUG9d6VSLqM3EM,Blauw,5dZreRmRR4FmVO4pqWWD5B,Tu Voluntad,2024-06-10,0,Latin Metal
+6IRRpyVXR8uoZSPqDyRrSG,777,3vYFv5zyotHhXJEEn28MJ7,GhostSound,53MauaCxmgLD6Z0ioaTL3a,Ciudad Fantasma,2023-01-19,0,Latin Metal
+00CHl9JpWpdAx8jDrN49gf,These Walls,1IzzOfQ71VRHbkBJtaJMUp,Solemn heart,1o3zc1iSRIGZQGB3120VyC,These Walls,2022-10-13,0,Latin Metal
+6gMa0gZIgHyWxC1WtMCckq,Aliméntame Dulcemente,1fbtqygz3PLDh7GDyEH41G,Jhon Puppet,5O2xihGpAfVOUsPaU5nWxQ,Aliméntame Dulcemente,2020-10-09,0,Latin Metal
+77ZAms634qugz5SZ5B9QRR,Al Final,1VsLvsLzVoBjPcNcnCTLO6,Quizás Mañana,31iPo8stIGNVQibIvaA5En,En Directo Desde Shamrock (Live),2024-07-25,0,Latin Metal
+1jqq1GgmwxbPpyGwpaDBVg,Miseria,2KPOGZ6AnRdTTdWEh62ps3,Old Gray,6WGfDKasgHDiew1mU0I9Tw,Miseria,2020-09-16,1,Latin Metal
+74E71Kzz7IFfI3m0zBQb97,Schuhplattler-Polka,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,6A63WGMw8ARPUkLqCw9Ino,Tanz im Biergarten,2025-10-02,0,Latin Metal
+6Qj2KP4UheHWiO9Jiqo3nr,Dirndl-Tanz,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,6A63WGMw8ARPUkLqCw9Ino,Tanz im Biergarten,2025-10-02,0,Latin Metal
+0MfdEsonIFarz0u2BNCoeT,Eclipse,2FDdlVR6RINULXII77EV8y,Metalmorfosis,2lR5rOQJLMJPLEok58nBww,Humano Industrial,2025-01-01,0,Latin Metal
+6uV1YdzrZriS7QqM7AX0RF,Enslaved to the state,2mIBfODAV711rh3lOBzC3O,Alpha Squad,1bXUQalFOGbduFLtLgJctI,Revenge,2022-07-11,0,Latin Metal
+2rCOQyGpDukyFIfZD0LFG1,Perfect Autumn,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,0xnz9O74R8wfBNQ2cvQPm9,Disdained Grace,2022-01-05,0,Latin Metal
+3l8Owv4EQcaOHtfCzTo1iM,Guerras Atuais,18HRqTRCRpgDR703MDmu0b,Pátria Refúgio,2HejfPzvLbsipHRc84zIhm,Novos Tempos,2015-11-19,0,Latin Metal
+0O2ktD5tb00u3i6SSGtUxn,Ventana a Andrómeda,6NWSstdhwB8jsF9RtN9wKh,ANGELUZ,50xSs3HtIAQXrDbvcX1lmy,Memorias (Masterizado),2010-03-10,0,Latin Metal
+48YE46zaCft0kPkO8ckcP5,We Are Not alone,4LucP9AY3BM4MaWsOfePNU,CLAVEL Project,4iA2XrwJmaCBauegyAD6JX,War Inside Me,2024-06-01,0,Latin Metal
+3BKbXg72YSprrq25sjdWRK,Tecnologia,5WpaOc2cHBJjRWNMI2dFYv,Boneca Voo Doo,2J5jkz8fQdzlye6f8ah0CI,Boneca Voo Doo,2019-10-31,1,Latin Metal
+2xvJ9WgWeGN5IdjxobnebM,Calm & Easy,6u1B4iAqVaUXSFui40TZT4,Icon X,4YiaIW835n9OvWMlqGcskr,Calm & Easy,2019-03-01,0,Latin Metal
+50aPoPXa4d3cj1njEuXn3s,Pantano,0gTzXSt7l2m2xg9LUbK5Gz,La Garza,3AjX8mIT2bRlJLyhX7OY4l,Vuelo de Fuga,2021-05-02,0,Latin Metal
+33iJUDgwQ0jrHOTeyTRUm5,Lonely Sunday,0GQDGUYG7SleDXHmgr9DUX,The Cogollians,7tWMcf93FkHu7Bh6ody9Vp,The Cogollians,2021-03-13,0,Latin Metal
+2LVlBTJuf1UeJWRVjlZ0Zv,Priorities,5cHUY2hZRhcCvecU4F8fB7,Juan Villagomez,4UzIUaqL7jlaNDUXbgSaFR,Priorities,2021-01-29,0,Latin Metal
+47BGJBWrF6t6UK06GFU3TS,Heartbeats on Fire,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,2skSiW5zw67Z875P7Z2Aay,Chasing the Stars,2024-08-18,0,Latin Metal
+46UDljNar2jpxd9ihC0hMS,Renacido,1EII9YdQSGn0PYaA8orp3D,Somnium,4oC0OHyNrs3vizf4MrVm9A,Lejos del abismo,2025-07-18,0,Latin Metal
+38ntQGKb6arell3b4IzZLc,Caminhoneiro,0AbdqXLoYFSHC2cY4pvEPT,Jose Marcos,4qncI5JyqrTtQLd7V43XUg,Um Show de Forró,2019-02-28,0,Latin Metal
+0T52EVs7zBIEr3FIKXGTvk,Amazônia,0R6eNc2WSgHlWDhOmvFDtk,CISÃO,66A7n2p6tLezt5ccMXgnhu,Cisão,2021-08-25,0,Latin Metal
+3IrFv99drpMqvMbdUlId6e,Error #9,4ekGVOaBpBdFaYZ0dlfMnn,Rubrum Nocte,0cwsc6lU7WkiXiCBIBCwu5,Skeletons Eaten By Crows,2021-11-24,0,Latin Metal
+7HtK0bDsnwnxeCLCU7ZCYP,Ángel,167dkogikmWVTAz3kaAuKf,Sublimación,3u8OJdNF7f9sWOOHU3p084,En la Oscuridad,2021-02-20,0,Latin Metal
+1D68fh6YMJKa6lVBK1A3bk,Panteón,6cFg5SFwEwwtmpA83G0GKX,Panteón,4VxfjL2j8QncYgctSqSfUO,Con Cuchillo Y Machete,2018-02-22,0,Latin Metal
+41t2meZ5RCYFYI16cINtrV,Arquitectos,38jcUjDWqyTJN7GgQVgkwZ,First Outbreak,7DNQuWn6mtIO3P44HQQYoY,Perfect Sensations,2021-07-23,0,Latin Metal
+6kxcuUJw3iJMaP7WW4XrwG,Rec 01,5TcS8Ejau7CK9Dp5Vcm6Wg,Endogeno,3Om5mQmJmnUJPK1K4qWim8,Hienas,2020-07-21,0,Latin Metal
+2YuM5ZFqw1yVooilspOBSX,Painkiller,2Yskw18mI6YXSEH7jqO5u2,Project: Nada,3dvEyY5JBju1CIpJjpgKrm,Project: Nada,2016-04-25,0,Latin Metal
+3M6gI1iyXkTa3K18RX8clN,Bridge to Neverland,4cwRlZUZ7gH0mobLpSgg69,Shadowings,6aQOLNjMoSpt0dqJC9Td9G,New Beginnings For Old Tales,2024-08-30,0,Latin Metal
+723XuRNo8WXEfX2TWYh3BH,Succesful Wheels,0jKpGGcUH0zXBLXOTkOmnl,Pablo Bellucci,2nH2TNQJMWp8aDtIS31PAB,Succesful Wheels,2023-09-08,0,Latin Metal
+5yqApHMeXxPz9orJRFMSyS,Mas allá,1Ek7LrXZC7LQ7Hzou5caTM,Infinity,4MrLKRCW1L2mwROi22ED5X,Infinity,2021-07-03,0,Latin Metal
+4rdPKXLqWFNUnQVqyACkUl,Valley of Ruins,5IBg13jLsdXRAG2nUFNITv,Moment of Salvation,2zUUzGqCzjy4LNxSWoZuLk,No World Order,2015-08-08,0,Latin Metal
+3w6siCJu3Aspl9nspfpwN9,Tiburón,36cAdlzkjNyovsqhwo1W3C,Mama Juana,2mnbWClQSTPnokEPO9SO3n,Mira Quien Atacka !,1999-11-03,2,Latin Metal
+2dCmEXN2mkjSFFP2z0h9zH,Black Eye Galaxy,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,2siQCvER5DAxdSTDolLJGq,Music of the Galaxies,2024-12-07,0,Latin Metal
+7wJYEz7aOnbfC4gdDBIziH,Presos,7sSf4bh9XGmUiJdzIU8cIR,Cuux,4Kc4pybbmXzS1R7yVr7JJF,Presos,2022-05-04,0,Latin Metal
+36sRlwZOiXnvhOgjePsm4m,Mississippi Blues,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,0xIsExLz5yfPUWcW8mjuZU,The Delta Tales -Dusty Roads,2024-10-30,0,Latin Metal
+3ceHcSuozOp4VKQ7KkmLtU,The God You Adore,0eNrwBAUapbdAHptj9myHi,Hordax,22VuZyLG6zwMTKEvY0y0Dr,Hordax,2015-06-19,0,Latin Metal
+2YuFwbsTjRbK5Q8xXprUhd,Vanish,6QW5spx6rVS6UABNU3Ro7D,Son in Curse,5CGaOhRZuHFHhkoRUINeTB,Virtus Deus Maledictus,2021-12-01,0,Latin Metal
+2rTFhhJpRZzdeBNX2x9AdP,Ángel Caído (Prueba 1.0),6EgH748kZXEGcpMNdRKaYV,Finestra,0NL6cE1chHnDYOBoBj4xUa,Ángel Caído (Prueba 1.0),2012-07-01,0,Latin Metal
+2q1a9asaK1HcfCRpeRyDBh,The Hammer and the Screw,3ZBTIAVhhICURDr6li6nts,Godhelmet,6sJNr3l1k0feKgJCYiCV2M,Poison Mind,2015,0,Latin Metal
+38cqKtQOyJ4VvlthFU06NK,Rock Around the Clock 11,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,4jKtCsFMnkn0yqs6Dxvrj4,"Rock Around the Clock, Vol. 2",2018-12-14,0,Latin Metal
+4GLJkC2iSYBB4GE2IkMHzn,All That Remains,5WFaiUuoO3OAdd1qQAqOvW,Diego Demodus,6FZhhvsJG7rwPCC8RRFUos,7even,2020-08-21,0,Latin Metal
+7Fz7cvG9qA0xERqJtqSZIx,Haciendo Lo Que Me Gusta - En Vivo,1bludzHSBjKrlJHx7T8eQx,S.P.I.T.,1V1CeqgDLyKh4jInPfFuim,Abriendo Puertas (En Vivo),2025-04-30,0,Latin Metal
+1n5V1LZcAbHVHN35DArM7v,Ode a Ignorância,5I4L5QYH5b5Q5q9XGrZg3k,Letargo999,5QLjlzwbKaNAx9L0haP6eR,Necropolítica,2020-05-07,0,Latin Metal
+5EF6gvKfjVqnC8q13abIoy,Briah,5jIt9DeVMoGuic5LPr833U,Milongeist,420mCnXKqxSGucNoesHSjY,Dunkelgeist,2022-08-10,0,Latin Metal
+4pRaCnlheHDHHNGxPrIhLT,Break All,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,4YUiN00FKTqEqIsecwXpOv,Reaper from Crypt,2022-01-01,0,Latin Metal
+4QkF5M7NibnGDpPu5q8lVG,Histeria,6tPDQUNPj5OZ76slK7TIrh,WZM.mx,4bMoM6llNFsdUmkk3ZvoXL,Diez (Edición Especial),2020-04-28,0,Latin Metal
+5rLZy7dmWguuQeaRx2RkuQ,Sacred Heart,0LeSk1qKOVc4kYwrFFU9o8,Fer Silva,6r0HQtqfZKZngmzMmcEgnZ,Electrik Love,2023-12-31,0,Latin Metal
+49AZorwpZWM6dW2Ool3f4M,La santa compaña - 2015,5ZNxiPcbKgaNcBrERMpqeu,Mägo de Oz,0tyRM1vCg9cd1HsvkmmepF,Halloween 2024,2024-08-16,0,Latin Metal
+156ex4lRRxn9Ss58DHftpC,Reject the Mirror,2XyPYXggQYBqBfQPhFcb2k,Apóstasis,3nOr8BkWEaonYUS69GGsgA,Apóstasis,2018-06-17,0,Latin Metal
+1cCCbtehlmOmcwUUGunJjt,End Of Times 2012,3AKEcuDnzOF5lEyPt44L8g,Stony Danza,2q79HFYamumHTDoFbclPD3,Lightweight Fame,2010-08-23,0,Latin Metal
+5iiOoSVeeqTFBHWxiKtl2X,Intro,6dtfad7ohFD24HcRGbtbyd,CAUDILLOS,21Du5IKt5xE4Fn97Kb61O5,ENEMIGOS DEL MAL,2025-01-13,0,Latin Metal
+2ZlMnM4KeGEyGeGEGrbFwC,Tango en blues,3m2AuAIRIEWBfDyGGSe0G8,Adrián Subotovsky,02vFoLO6kKHTiRy7ypWS98,Tango Urbano,2021-08-06,0,Latin Metal
+0ZPKac4uapqGJU239Nf4zR,Vampiros,38M6HVedjnRamaqXb0ekqO,Balero Tre-C,2RQFHx6sAIw1AftUdE0TmJ,No Es Tan Facil (Demo),1999-10-13,3,Latin Metal
+3KCziiefvywYeN0rv6nFYR,Hubieras Entendido,0m3NplJLtEhVDIlhaiQnVl,Ampliferios,02lSouHU46M7wLjLCcKP9R,Caos Metodico,2024-07-05,0,Latin Metal
+1h0D0yWwcWMPUDs0CujlH1,Humanidad Nefasta,0zIlnh65hjUbMHopLGaAn4,Fatal Morbus,45isTfAg1WZVNRsdPQ9KSZ,Parto de Fuego,2021-12-22,0,Latin Metal
+7D7RbgZcLns1GrwOOXnQbq,A Skull To Drink,0jKpGGcUH0zXBLXOTkOmnl,Pablo Bellucci,1rK08h10gGhMuLeNlvxFdu,Avenue Of Steel,2023-07-28,0,Latin Metal
+1XaiB3Ohuf3FGh23Jbm9jD,Guerrero negro,6tPDQUNPj5OZ76slK7TIrh,WZM.mx,4bMoM6llNFsdUmkk3ZvoXL,Diez (Edición Especial),2020-04-28,0,Latin Metal
+0D57cFHwRBwZEe4gzaKNjE,Cuando Me Enamoro,2VFa1AZC5WVdW9pGyuhZa9,El Carril,6jx14Cs3mB5n9a4Kl7HMKi,Fue Mi Destino,2021-02-16,0,Latin Metal
+6HK4c2PTgrDtwIUDWQcck0,La Nueva Sangre,2XaUoB6mFWvW6kMA2G4PZC,JAGVAR,7yYVxMVRuDGC3W3DHXOR1i,La Nueva Sangre,2023-06-27,0,Latin Metal
+5x1eLg0LL26uRwIVBtN2nE,A Que É Que Sabe o Poder?,2Yskw18mI6YXSEH7jqO5u2,Project: Nada,4B12C5P32EFhlGntuwpAL3,CURTOGROÇO,2021-12-24,0,Latin Metal
+40etdysjRb9svdM6M6PQpL,Anciano Blues,5vgMzrkw824o4VkCiWu2wH,Fede Di Lorenzo,6ydSt64Hb55Snpj7ghJApm,Finísimas Personas (Música Original de la Obra y Algo Más...),2018-09-21,0,Latin Metal
+6rCkkX91sd1XHB1DkpeN3m,Agonia,0YmCFpV8gHljzElU2wPFSS,Misivo,3hLAj5Cg1weBqCDLvHHByz,Millon de Millas,2022-09-11,0,Latin Metal
+3CTpkMag43SZ26kzlz2Ega,Bones Made of Lead,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,6HZnCgUY20BPDW8aYVm3qy,Humans and Machines,2024-10-30,0,Latin Metal
+4SxzPw8inX3CbfHN84Z3tg,Vacío (Versión para Orquesta),4CXEv4KVpXBrMKYUe871NW,Isaac Noé,5xrNRt1zbX7wKra8p03N9V,Vacío (Versión para Orquesta),2020-06-16,0,Latin Metal
+3896dxHyrfoV7U6lChhqDp,Missiva ao Rey,4r6E8cfEndOEctJ9yOLgfl,Gandavo,6HU8IxfQp2fgMmVRfN3U7l,Joaõ Fernandes Vieira,2017-01-30,0,Latin Metal
+4nRyzUM3tQSFl30WQbehdN,intro,6UifWVfuhLIaAV2QGcboR2,Neverghen,1fiEnpah69JxQUOiFdQZ84,Destiny Remains,2010-10-19,0,Latin Metal
+67i6r3pvbcv5KfShc6e1pE,Ruinas Desiertas - Estacion de Poder Session,2kZ6KRGWdw5R7tHwGPDvKJ,Misticfire,5oduECqGpdWzhw15Mp5m4N,Ruinas Desiertas (Estacion de Poder Session),2024-03-09,0,Latin Metal
+1mhXeju6QRb1xZOseyF9bt,Sinceridade?,1PAWwpy84NRMOxiFoGC02x,In Hate,52mWhdp7OmPd5lmR8xaRtv,Sinceridade?,2016-08-17,0,Latin Metal
+4FFniVyFb0YGjFxyUVrhad,"Je Me Suis En Perdant, Dans Le Temps",2c3eWQuIfYW17G3XM7OqS4,Nin Morn,4LNOyCFOWh3lt7dpPmDktB,The Black Box,2015-10-06,0,Latin Metal
+1qJ5Z7q615aPXYrTjj7y5o,Ilegales Aprendimos A Correr,6VkNsFhZmMQRikmnir0oyk,Thrashammer,44hZItnV3a3UgriJWDJfgL,Potencial Humano Desperdiciado,2025-07-14,0,Latin Metal
+2KmIER7eHLLuzJdY9xh4Ys,Наш догорающий август,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,2HxQLlboVboOd5Qtb0d06P,Destruction For Creation,2022-01-13,0,Latin Metal
+0w1mnh3ZzSjtuDIIE3ry68,Falak,4sLo7BpcYq3JIcDQZKJv26,Nocturnal Feelings BM,2i7wF6mbFYcs957DSLxlyA,Baarkant,2020-10-28,0,Latin Metal
+2bmMDW9YGG77XSc5ZWPPcZ,El Regreso Triunfante,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,5f7ohMhlkXN6lMYFNgiZLM,Viaje a la Luna,2024-11-13,0,Latin Metal
+4M4SJ7klijrMwBpDqeZL6Y,Santa Sangre,4Arb93WADB7ilftKogba5W,Pop Mortem,35EIYMXtnMI7Te7dKii9WX,Pop Mortem,2018-07-31,0,Latin Metal
+2cnKrDAt9i1UuRvDkelRZS,Apheliotes,6FPDXBec1BZXWGAHjUB1bz,Equivoco,1e5S9w0cJHJHzi1khgPcib,Loops VII,2020-08-07,0,Latin Metal
+3j2yyOfce0xYBtB5Vpqx1G,Conjuro Guarén - Instrumental,2fdGIzIPuvrubcT0RLpIw6,Guarenes Coquetos,0kg9xZi4AggZXpMQYFyHnG,Destructor de Cadaveres,2019-08-31,0,Latin Metal
+5QH9H0dWrZHl1CiGRXopWp,La Disco,3m2j62fUGjBXdS8hhBRwb9,Cheo,6NEGxolKY85ci14D2kUBIJ,21 Crew Reggaeton Vol. 1,2006-01-01,0,Latin Metal
+4c2wCn72cogdBqBZPbggqp,Panther - Instrumental,2cqkhRAy47cpoBD4ocDzbb,Off Silence,7h9oBANIGLoIi2GlcmQn29,Panther (Instrumental),2023-06-19,0,Latin Metal
+2iO36rncFKnF53IaE23Xx5,Inconciencia,5LTUiMwmNlQsXfD7jQxyqY,Dramen,0YshFwRM5YyyCKpxmjqkdy,Enfoque,2018-02-06,0,Latin Metal
+6IwCRxzG7mEZWPV5a2Ok00,Suelo Ajeno,6jgHQ3529nt2uuuKsrQqXX,Matheu,7IwhnO6Fa5ZODrNSynjrNf,Nacido Aca,2023-01-27,0,Latin Metal
+6TUrL0Hmnfi2lIiCz5JsxY,Florecer,5r3EYne36qRy6UwawD5yX4,Proyecto Roswell,5JWwttaweGCs7zrpNdPqRd,Florecer,2021-06-02,0,Latin Metal
+2X6Y1tx5TkGKhuO8mczKqj,La Noche Envuelve En Su Misterio,1vvqGCpXTBr4YTMjifNAVM,Deuterion,77eYsGgKX70To0cSB6Ag1q,La Noche Envuelve En Su Misterio,2023-12-05,0,Latin Metal
+7dvSX3Fvl8kKRGY4UJzXnQ,El Golfo Y El Humedal Resisten,31ZYQlkFkJuMELYyTo7zIB,Grimtotem,6uw4N1r26tkTZUSV7OVypB,El Golfo Y El Humedal Resisten,2022-01-21,0,Latin Metal
+2gv9nJzLUhjtqufoCoRI8U,Tomar Conciencia,3PO6ZJhqaKxbvZxH72NjBL,BlinDespaiR,5E39cvcKI9b0dNoOluI5Ul,Bioquímica Devastación,2023-07-06,0,Latin Metal
+2Ge8JfjgOKGHmNQ2rl14f5,Sunshine After Rain,4kTFyFT85yh0PcFw2LtLvm,Iorius,4nWeWUiWIDYTNFKYuoHtRO,What's Pulling Me Down,2022-12-28,1,Latin Metal
+2JOWE52qVu93mITdpj0cDV,Sueños,4WTrz9PQr8JB7lvyqQHtKI,Sombra RM,332c5VcU94HNAAjEpdZR7O,Un Año Sin Sufrir,2021-11-15,0,Latin Metal
+0eEMTrPTiHUDBwIOLychA2,По замкнутому кругу,50y48SoZ2ytBk53DlLcF27,Splinter,4aDbZ0KCLi9J4AMHCPx6br,По замкнутому кругу,2023-08-08,0,Latin Metal
+6G7voCI8WQjvOUdEgPW4AV,Painful Numbless,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,6rqY5ThdCJWdvwJtLE4m5Y,Black Raven,2023-09-07,0,Latin Metal
+1WqUqFmc3oWv5xi6A3m2DK,Ánima,4efnqtLfAMFEqCnDLKYvZA,Tiburón Negro,0XHdXmTKuTMVieYee59mQP,Desde el Más Allá,2024-04-02,0,Latin Metal
+0MIV3NdDqd9Qb8ganISGE9,Snowstorm in the Forest,0ht00jN83LLHqvkkdePlB7,Radio Everett,1GPjQFHgbGiip7ALXqB3CP,Busco 3: Retorne ao Passado,2021-11-01,0,Latin Metal
+6dwo8P7rdjIxEkVee1YUKM,Ratas,5sSHUMD6FxnumwEBUsO1An,Cristal Magma,51y3Xk917dVaGSFqWljlu2,Bajo Nébula Roja,2023-05-10,0,Latin Metal
+417I5sKbJra3B8khKR8IAr,Mi Linda Muñeca,2VFa1AZC5WVdW9pGyuhZa9,El Carril,6jx14Cs3mB5n9a4Kl7HMKi,Fue Mi Destino,2021-02-16,0,Latin Metal
+2sAa70rWy9q9J8JoiouCQd,Dry,726ZG1OrJINOfVCg3BqGwi,Abbyssal Swim,78f08B6pGp3fijVJ4rHzEl,Dry,2021-10-08,0,Latin Metal
+1BVMPpWZB8oM6NJ079iQbb,Vir-Us,1eiGKVXlZ0GerYdFjafp0k,Unholy Gates,5x064MpsXL8l4WuyebAqlY,Vir-Us,2021-04-09,0,Latin Metal
+2wad5ZCWhONFwVRdv14mOY,Trucker Molester,6NwXHBhZ4egu1BxUvDeX52,Cold Killer,52ySBGCBcBDY89FbCrljoH,Kill or Die,2019-02-10,0,Latin Metal
+7xjfbzl0EifBAeE2RHOgaD,Vaticinios,6NWSstdhwB8jsF9RtN9wKh,ANGELUZ,4IBEJaGzOH6LObPChIKvI8,Después de la Tormenta,2004-07-01,0,Latin Metal
+5CN0yNiqwEX05VIqCZIXR3,Oceans,2doYWEv3ajxBIkvhwJwM4I,NUWO,4MOEqYihpuROEPbnKDeNKV,Embrace The Feeling,2024-10-29,0,Latin Metal
+3lLwQWGAZQPMJ4QGWErgXC,Blackwire,5IBg13jLsdXRAG2nUFNITv,Moment of Salvation,2zUUzGqCzjy4LNxSWoZuLk,No World Order,2015-08-08,0,Latin Metal
+1MOOXEJtbL30IDtY4afzXF,O Bicho Vai Pegar - Metal Version,2dv9l1dbPyT8YgbFHQgQGq,Yony Guti Music,3tOZL2A2N3A0CasfCu00nC,O Bicho Vai Pegar (Metal Version),2024-03-07,0,Latin Metal
+5gwR2SE9ky25Pfg8QoaiJd,Desgarra tu mente,1YuWdBFjPDYo0pATObN1WL,Wotam,0DgxSDEn2DYzkXvLDsRdTx,Por tu sangre,2010-05-05,0,Latin Metal
+0NCqPPowS0dSHdfWrXBzAB,Doom,4vY9sBdSAA7h1AtMBwPPiE,Rajavana,0GDImjLUNCNU8jRzBzQ3uE,Vol. I,2014-08-01,0,Latin Metal
+1aQJfWtTdO7cqADPm22U61,The Storm from Wewelsburg,5flzXqXHpyDbS65pU8LdGQ,N.A.O.S.,0GS9Sbi2UPxeJZg040i2NW,Melancholia,2024-09-10,0,Latin Metal
+3AIn4BHLDTGZTxQvhhHDdJ,DE LA SELVA,4umquGEFbGfnt3BsklH9oO,Chifla$,7mZ2z1iUa56PpgMCBCcy3R,DE LA SELVA,2023-05-05,0,Latin Metal
+7rkMlqLMRvob0VQ4DZlo5R,Go to Hell,70CwLZn8TWjobuzftIPZM3,Bangkok Shock,3bkPsLBOJHl14W2Wf7FYXe,Back on the Streets,2024-01-17,0,Latin Metal
+0yUQV8czvTr0QCBEcmbvFv,El Detone,2FDdlVR6RINULXII77EV8y,Metalmorfosis,2lR5rOQJLMJPLEok58nBww,Humano Industrial,2025-01-01,0,Latin Metal
+0dLCzjmSKX8iB8wtpoKgTY,Reaching Out,2K1doOtz4YqG3eiNGlpo1R,Sleight of Hand,1HNm5BBRUgysKTlbNzK8Ke,Secede,1995,0,Latin Metal
+365bBAJvVzOoujIIP6Jxu3,Quem Realmente Sou,56ztr0qVjdCw7kyYNjLE0a,diaTrês,7pf9Ximc51OaqPV61ZZvc4,O Ato de Esperar,2020-05-22,0,Latin Metal
+3yybKcFDOWMQaQK3RjQlvI,Elements,00KIBrbrjrbNJ7EYQXs3ci,Pressure Theory,7gx5ONRaEUoYOONlK9sKsX,Rising,2007-01-01,0,Latin Metal
+2m0jZFkY0Zg0P975ysxXsv,Intentando,0bdx34QEsl4qum6pWxtJcy,Solo como loco malo,6yoJE7wxqOmTnaQ2Q4YhXX,Estoy intendando aprender a jugar,2021-11-01,0,Latin Metal
+3y0PNOKL3Dqjf2cvsCkByW,Con Lo Necesario,4xLl6dO32yK7VnXOd0jGnW,Zapatea Gancho,0oC8qVHKbPZPdMir9dBPLa,"Sin Rodeos, Vol. 2",2009,0,Latin Metal
+0r6vee1kVSBIoXgSUEQ13k,Tempestad,3oiI78GenGODRgSkN9cCvT,BUJIAS EMPASTADAS,6yPxkGmClL05P046LL5KjQ,Inyectando,2023-05-04,0,Latin Metal
+3smAhRGUVDFEzlCUmHXGGF,Mourning Skies,5IBg13jLsdXRAG2nUFNITv,Moment of Salvation,2zUUzGqCzjy4LNxSWoZuLk,No World Order,2015-08-08,0,Latin Metal
+6MO0wltUwmtsAGwyIeCmgz,Amor De Verdad,2H7BFc1rGUG9d6VSLqM3EM,Blauw,3FZe1OSNkXKtLnlJPgG0WL,Amar Y Odiar,2023-03-13,0,Latin Metal
+0MQiQ2BgsJZP43biZdM2Vu,El Sol Y La Luna,5YCGg0YMFJLLjFMdOSaSx5,The Fourth King,1p6VrlVIPxsaQgX4i7wV1P,LEGENDS,2022-09-04,0,Latin Metal
+48BbOyMTAzuZRJzoUzlpAB,Olvido - Instrumental,1X7MxLjKpd1czYsdAg1x3J,Aedra_CL,4xsRjUJChAiEcfJMVUgO4y,Ether (Instrumental),2020-09-03,0,Latin Metal
+6LHyhwKA34ga3WnUgEgG0a,No Voy a Caer,5Y6fGMF2djr6YvS4Ksn0E8,angelazul,6VtaZyXEeTrnKIWcfruZVn,No Voy a Caer,2025-08-09,0,Latin Metal
+35KmH37eJCiivPFWmVdVOf,Hampa - Demo,1FQ70d7FW8hFrmXlRzcScU,Missing Bodies,3HB4ScUdVftV05WNszt1Hx,Cuerpos Perdidos (Demo),2023-10-19,0,Latin Metal
+0DgO4a6gjiJQxi0jYRwyLR,La Llorona,2zjbCs7XSs1n56KgHXVY9i,Six Cord,5YjcOsMICKdUjIabhy58RC,Leyendas,2023-11-02,0,Latin Metal
+6jMwQnPEh0sr8U7N4h6cAx,Old Home 1,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,1KaBnD2A5HNF8mPdFNqCeO,Old Home,2018-09-28,0,Latin Metal
+0Tw0QRjJ8fxhrJaqZCeAvK,Don't Think I Won't,2K1doOtz4YqG3eiNGlpo1R,Sleight of Hand,1HNm5BBRUgysKTlbNzK8Ke,Secede,1995,0,Latin Metal
+742sTzuuIjEt9oEHGNaKLu,Tiempo,3QMiK8O1DyGX1jvElqOESD,Zynthesia,4fFcPRVjdauOuYIwn2qGCF,Tiempo,2022-06-04,0,Latin Metal
+5f3XvQ2zje9UvXYnKZ8mMv,Skizofrenia,0mB3Cqb6mNR8YdYioZsTAD,Skizofrenia Attack,6zAAmGYllZOOdKhoC9depp,Mundo de Perdición,2020-03-14,0,Latin Metal
+2ha4lcdvxOgUCFe17sx5gv,The Hope 1,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,63CimJAgnP5BLjnZsYJ07s,The Hope,2014-08-19,0,Latin Metal
+41KPESRD3ghy2NvLKiawD1,Te Quiero Todavia,4b5wMS6p1quNac4OtOhakX,Plan-Be,5Fa3sIYBjSLerftouzqgwd,Te Quiero Todavia,2016-09-21,0,Latin Metal
+1S79oB0mOsdV1iL9BtwgEl,La Noche Envenena,0GQDGUYG7SleDXHmgr9DUX,The Cogollians,2VLCVl0T7uqBNBM7H6xN6s,La Noche Envenena,2023-02-16,0,Latin Metal
+6YTWmrNVOFg3Wa5MJ0SeAH,Shattered Sun,5IBg13jLsdXRAG2nUFNITv,Moment of Salvation,2zUUzGqCzjy4LNxSWoZuLk,No World Order,2015-08-08,0,Latin Metal
+0jb1BnJ1dVdl6Uqbe8bo6Q,I Miss You,7Gax3MhTyir6pTpVjq49gF,Danilo Ferrantino,6uTxxrQNQmWdOsoLL6VsHP,I Promise,2022-10-28,0,Latin Metal
+2wkTJ7btTzvnl7vUviM5qG,Bosnian Rhapsody,1iJqQhVF6Px7if8jpa4X4d,Arsenik,3rZ4s5HEBc5YoY3IjYfInw,Llei Zero,2022-06-13,0,Latin Metal
+11SvgeFS7dGhCc7yImMrWy,Echoes of Tranquility,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,33uN3RCacLrXaKrRnB5oJY,Serenity In Ivory,2025-02-22,0,Latin Metal
+0fcJwtvEog0jELpO973ric,Like A Porn Star,3AKEcuDnzOF5lEyPt44L8g,Stony Danza,2q79HFYamumHTDoFbclPD3,Lightweight Fame,2010-08-23,0,Latin Metal
+0V12VgRUEOgPqls98JbBkK,La Invocación de las Tinieblas,4sLo7BpcYq3JIcDQZKJv26,Nocturnal Feelings BM,1FyYlJceMrMqUGNZL1kIgu,Nocturnal Feelings & Liturgia (Split),2025-01-15,0,Latin Metal
+4OeikPmDx6qHSI2LfciAew,Jam with Myself - Alternative Version,3FTfvRKTu0C5cfBWBRFl0p,Mudo,78cqdWXsBmxDFhn78aq6ld,"Bedroom Sessions, Vol. 2",2017-12-31,0,Latin Metal
+3hcujK5QZkZPyPclm185I6,Misinformatics,3AzH4E3aCGVjAsl5x8tHk7,Tito Villarroel,3zWSpjL9EeIlH60wIPQvVW,Misinformatics,2017-12-02,0,Latin Metal
+5J1q0GJGbl1qH4NctEE0zK,Never Control,5zkwmgm4XM5zSvEPJyS78S,Hard Rivers,34sNixGEky1oe66rHT2rVm,Never Control,2021-01-02,0,Latin Metal
+5k3iqCuGq82wQBXHL4IJb7,Somos los vecinos guays,0CQVVtRswkjE33Wl1UZoCm,Efecto Broken,04FPlQUKkVFjZ2US7cTw68,Nuevo Orden,2014-10-21,0,Latin Metal
+41nR9XiBocSeoFL21vikqG,Basta Ya,3cCy4MQUjGa1Pmzwno3780,Bella Bestia,4Z7WO6ZTFcHP7ijIQE9kOU,El Principio de las Cosas,2018-07-13,0,Latin Metal
+69yolMG4daDnwqDfo2Vf9x,Арумана,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,2HxQLlboVboOd5Qtb0d06P,Destruction For Creation,2022-01-13,0,Latin Metal
+2jUKaiVbiAjjizD1rPyqb1,Peste Humana,3yclOfyddI2GoYWxf77PV6,Black Vomit 666,04gRRjIBOOtTBDRyl6tgse,Breviario de podredumbre,2025-02-04,0,Latin Metal
+3i3EZIzPLRX1UnyrHqYhCC,Alkaline,74dJoihgzGgNPQV6zBo6xY,Midnight Calavera,4h9eZUA2CgONgKvioB2VKD,Alkaline,2025-01-25,0,Latin Metal
+1k3dN1ZKoIZzpTsAZMUzrg,Enemigo,6rjRdTqjgetkMkehPaXbFy,"Chava ""Drago"" A.H.",3SrvENJoVDQQfrcT8OApMe,Rapsodia Apocaliptica,2011-10-01,0,Latin Metal
+2CR7TzOhSRTzbkOT1VY9Lc,سكار,2EVCPrm46t32VZig1aXoOS,Mario,7xA2QUcoOPzZ4GrVeT4oJ7,سكار,2021-03-29,0,Latin Metal
+07yyBTEk0YfqxC3fyEq530,Neftis,0khlruaqru0NPIN2bfgCUl,Neftis,3BPeSBmBEL2bLQkk4pggoH,Siete Pecados,2019-12-10,0,Latin Metal
+5ZtN1ctZYXevCa67i3Qtyg,Forsaken Spawn,4AmfB6HFUfq8fr4jyaYUpP,Fixated,2vqzSo9laVANQuOMDaNoik,Forsaken Spawn,2024-09-16,0,Latin Metal
+4187ACyW6szJQFo4DEpTxO,Alucinando el Futuro,1hwCvEKH7AUM7RyGRao1mb,Huizar,29AHyQ1rvHXghBhYywtNfg,Al Final del Segundo Milenio,1990,0,Latin Metal
+5MjoLBW09QUTwsWhmRoeN9,Movediça,3JEvJfs5CGLZVd0u0YzvWJ,Vulture Bones,4JeE4MdPsanWx7boLwzfKz,Mofo,2022-04-08,0,Latin Metal
+6iI6wwthNpLuGVWrDS42eS,En Mi Pueblo,3oiI78GenGODRgSkN9cCvT,BUJIAS EMPASTADAS,61JsxFn4giK7aiJYzdnHEx,En Mi Pueblo,2022-02-06,0,Latin Metal
+5M5aEoVRLPbQZlDeRYI7Pl,Modal,0jKpGGcUH0zXBLXOTkOmnl,Pablo Bellucci,0ZVP5dhHNCqzxYrS2Vg2wd,Vuelo de 19 minutos,2023-04-21,0,Latin Metal
+1s1qZ7Ug1giTjRQPITBglZ,Escarlate,5kit2k6DU7EpPpSJRRmC67,Infinit,17CiA8amAyfrF73o1T7kIp,Arranhacéus,2017-08-01,0,Latin Metal
+35LThU8Op1907ELI9Nm8JA,Dreams of Sea,6J0XAgb4H6uN9KUMUJq1Eb,Folkrieg Techcatl,5x0P96tiSC8QPtPToMwifw,Folkrieg Techcatl,2018-08-10,0,Latin Metal
+0lSDuWenCA49tqWdybi71d,"Mais Velhos, Porém Mais Rápidos",2Xog4NpTwU0JX0KMvb7pI8,Requesth,2SjfIMxOYO0bUruUKUltSn,"Mais Velhos, Porém Mais Rápidos",2018-01-14,0,Latin Metal
+6gIvZpWFs8bX4ECULqfvZO,Houmles,6WgWnM6gahYFp51IaG5UHV,Deviant,6bPfBR7skRyoPysEWE6FyY,Co bude dál...?,2019-10-21,0,Latin Metal
+6cmucS9cfl4t77h7KXnT0X,Sale a la Vida,1bludzHSBjKrlJHx7T8eQx,S.P.I.T.,2neShtdamVd2U8kT8roCJ5,S.P.I.T.,2022-02-28,0,Latin Metal
+4NTGvf1ksZVkn6su8foOf7,Una mas,77CWcJKMc79fmKOFAYr9q2,PANIC',1M5oDM5lPNc1Gg3z4o8C1Z,Una mas,2021-09-16,1,Latin Metal
+5zjGlZ0DwpVTHf67LasUMQ,Intergalactic Voyage,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,37JCYaFBTbgoG8yg08936o,Universe Infinite,2024-12-22,0,Latin Metal
+4FVAlK5OO5kFGn1Mty6rkB,Ni un Paso Atrás,2j49gq70PAxDYsFoFl02K2,Väjrå,7o2H69mklMCkfA23s4eajd,Humano,2020-08-01,0,Latin Metal
+3yvSmOgLN5sODda35xTycy,U Gone Too Far,0olEjKeUjVAk9bdDsJ8ZPk,Officialemperor,5xvxtgoKN0jOD9ds679PBb,Without Prejudice 1.2 (Deluxe Edition),2014-03-14,0,Latin Metal
+6aXAulsHul3iBKk0FBHwt0,Guerra,2P67lOz5QRlMliJffWjzxx,Exhortum,7q2iOOHdvenSfX8yjuy4NN,Re-evolución,2023-12-27,0,Latin Metal
+1gdaF01hEO7EVtR8Jkfczv,Mountain Trails,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,5eHnGH9GJJSEOQZKOVYs7i,Waves and Mountains (Voyage Into Nature),2024-11-12,0,Latin Metal
+4HsivWaMbr2xSRygmIlSKb,Sleeper - Instrumental,2cqkhRAy47cpoBD4ocDzbb,Off Silence,4KDgXUomKAh9qqJoPczChc,Sleeper (Instrumental),2023-06-20,0,Latin Metal
+4P4dRYf8TZgk5xkDpdI1GX,Amor Es Suicidio,7N2Iwc2qE3cHRxc0S3QQ3i,Leòn Draven,7FnWuhBTwXTDK62pKFR2dL,Amor Es Suicidio,2019-03-20,0,Latin Metal
+2GXOvgvz892msxPqZc8iSp,Síguelo,0GmZ29aqNmEIjyUHQfhSqE,Sangre Azul,6zakI9ctx8mEv9xYVggUKt,Hard Rock Fire,2021-09-17,0,Latin Metal
+68Fg2KNr9Qew2nOdBjifNI,Filo Sin Empuñadura,608gdoM3tWIFE8dUp00QkP,JAMASNUNCA,0eP14p46iNofJgx7krH4cn,En La Orilla De La Luz,2021-12-24,0,Latin Metal
+1nZl2IlD8UUn27HzBB5NZI,Azul Celeste,0LeSk1qKOVc4kYwrFFU9o8,Fer Silva,50yoln6wf4ZhoXpwYgZIx4,Azul Celeste,2025-09-18,0,Latin Metal
+67zNDhB40L8EQRfQESENe3,Emptiness,2Ny3QxaDVhwVaViJGaRyIu,Low Traction Box,0x0aWaUI68lHmwVMi30Mcq,Lowtractionbox,2022-09-06,0,Latin Metal
+1wXZ3veOKBP9CUFSMYcHLT,"Ein Maß für mich, ein Maß für dich",5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,5BaAZnLR0SvifnAUSKAiIS,Ein Prosit der Gemütlichkeit,2025-10-02,0,Latin Metal
+3AV92CGDtbzUpxstBJxjUQ,Слёзы,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,32kB96qKIKB8QQF0Hc0KRd,Discuss For Peace,2007-09-03,0,Latin Metal
+2b2AKRYdeF4DPKD7OQ7ok3,Beware With the Time,6I91WSYpi7lVGNC1QfRph1,Zaderic,1lkBlj8dnQdHFeJMFzIq4l,Inheriting the Decadence,2020-01-08,0,Latin Metal
+6bQjvtNL1bK2V7ueKvxQ1F,De Principios e Incertidumbre,608gdoM3tWIFE8dUp00QkP,JAMASNUNCA,0eP14p46iNofJgx7krH4cn,En La Orilla De La Luz,2021-12-24,0,Latin Metal
+5RnDTcITgKbHkf8X75vYXb,Jaws,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,4lq8VXoaNNIF5tgH5kvxsJ,Black Raven,2023-09-06,0,Latin Metal
+0Bw80XKSgiZpbIm4yqZka7,Sedientos de sangre,4uI0QaoB03hUKm8HvvMrK0,Patron Mental,5cR1gZ8QqXq9bVCImzZApO,Criaturas sin Alma,2017-10-23,0,Latin Metal
+1tZKcBx5EegkneU1oVIc0O,Sexo Alcohol Y Rock and Roll,36BBSAGLvZBRrYaHwjFcqz,Vitius,2uZu3hI0fnBcihmkRWKvaA,Tiempos Mejores,2018-12-14,0,Latin Metal
+09LmNPQyTBOD8N1LwJjllM,Frightened Again,2K1doOtz4YqG3eiNGlpo1R,Sleight of Hand,1HNm5BBRUgysKTlbNzK8Ke,Secede,1995,0,Latin Metal
+4EmcIYWKSKLPEv8ZtKkUme,Erasmo de Rotterdam (Elogio a la locura),2rc04PUrzartth6TBrt5vk,Filosofia para seres humanos,2fnL6ZClPCcZabIcnaeUTY,"Capítulo 1 - ""Introduccion a la Filosofía""",2024-09-30,0,Latin Metal
+06H6IbgCxh9ODc45o4Xqns,Towards the Burning Empire,0eNrwBAUapbdAHptj9myHi,Hordax,22VuZyLG6zwMTKEvY0y0Dr,Hordax,2015-06-19,0,Latin Metal
+6rBkXX0W3m7YceGZWrq7o3,Feelings & Mind,7pbddSHIZwtPaS3DT3gr8D,Bring The Noise,0MEstLBECLfTGSwQ9PqXec,Beware of the Dog,2017-04-07,0,Latin Metal
+3giZ3DOuSz36gae5I5cxCW,Secretos,6Yp02h9moZvPXjUyMuTQug,Ferer,3UaQilMsnYPNBqlcTkGqND,Invierno Bipolar,2022-01-27,0,Latin Metal
+5TDBKeZXjqvCklkpdTWF6F,Gasoline,3XCtVkUbV1Q02oOvuMC73W,VANONGOR,2aDXhMEzaRJ6Qpl48Xoo2Y,Gasoline,2021-02-14,0,Latin Metal
+3U62PurQxfyvM2oMbgmMFu,Broken Trust,57eTBt92VteSqHWVeeELnr,Letargo,0qUD97EysImguFGY9cS5nM,The Power of Genetic Manipulation,2020-12-22,0,Latin Metal
+6L2BfICI0WEEqk7TgrqAQ1,Siga El Carnaval,6yxRW4Ok9ESDiZONbqjrD6,Tinieblas,36LnFmaJhKsSwIkwWdZyvP,Y La Fuerza Imparable,2000-01-01,0,Latin Metal
+6gzDZzTGp9s8vNt38SA9UN,The Closest Enemy,22tzd0YDzy6IYeTGy9ZcHm,Closer Enemy,4ysIQLOOSkV7BgsG2WoqyL,The Closest Enemy,2019-12-14,0,Latin Metal
+0DiYEqkAMxBtnrMSkKNcmN,Si Los Árboles Hablaran,6bD83tblIq7vvto5l7EGIy,Mud Crows,04Z13oe4bDR8OTfLsIp1PX,Mud Crows,2016-01-01,0,Latin Metal
+6Q8NGIVjFylSFcOn0DHsRq,14-15-40,3EiZ03OwFmzbWlzKhndp5b,Los Hacendados,5yPn9udLjSHwVUPmHOfcRG,Lo Bueno del Viejo,2017-02-05,0,Latin Metal
+5SjknJLQTL3thIXgwwpR76,Si Supieras Cariñito,6yxRW4Ok9ESDiZONbqjrD6,Tinieblas,36LnFmaJhKsSwIkwWdZyvP,Y La Fuerza Imparable,2000-01-01,0,Latin Metal
+0XNemGuf3WiOdAKMJ9V8Ic,"Y Bailamos, Pt. 1",1SbrEXWN7kTsMp5BYxpGKz,Psicofonia,3XGU1oibdY3RzWc3BBwLwX,Resistiendo,2015,0,Latin Metal
+37ZKauDT2uls4tMAmneDSR,GHO$t,2EiUsL6ltyyMiQ7qrRwvXM,Tauved,56HlGo7c6QgCL5nbTMT8PS,GHO$t,2019-05-24,0,Latin Metal
+66w3QottI3gNYaGXPExmyN,Jingle Bell Rock - Metal Version,2dv9l1dbPyT8YgbFHQgQGq,Yony Guti Music,0Qq1l8teSyY1zPMcTX4Qrz,Jingle Bell Rock (Metal Version),2025-01-03,0,Latin Metal
+6vwzFKfarXIqvSj8eHWZN1,Faithless,1RbWi7QKBLcK9vjTJlrJO5,Hymnosis,1MFiQ2m6tUr9aqVeSem9Ms,Unmasking Faces,2011-05-20,0,Latin Metal
+3YsSqN6JKDuwbV2Q0qeu5G,Más - Demo,30XqLBME9I6YRl6ugWcCUg,Yajaira,06C2CdLNWSog37eYP7YlOV,Yajaira (Reedición de Lujo 2018),2018-12-07,0,Latin Metal
+6TQWsfKikMp1WOYdT8NnPG,Soledad,4efnqtLfAMFEqCnDLKYvZA,Tiburón Negro,38PrB6dVtqyrepKD2rj1dB,Tiburón Negro,2020-01-01,0,Latin Metal
+6KnbM9IpI4xC990ljiqKiy,Entre Voces,29I9yl5yCLtaYuPXoXb6aA,Vendaval CL,3M6b0Yd3DGQGuq4wIqfps8,Trascender,2024-09-01,0,Latin Metal
+2YTgNcyRnC55EM2xUNv3o8,Make The First Move,51hrFT6oyb7gZt81wj0XVT,Dilema,1A651s5CZq51FR52nf67pE,Crime For Loving A Model,2008-03-03,0,Latin Metal
+5OfC8p9HX7ZEnaUq4oB6UJ,Dilated Incesion [Remaster V.2],5MgzyqXRsYzOla02ZxXqlZ,Sarkos,0sI9PI8hfkeBkegdMUMF3h,Dilated Incesion (Re-Issue),2021-02-12,0,Latin Metal
+2ehM3vJaFq1MoeeCZu4rkr,Aristóteles - La felicidad,2rc04PUrzartth6TBrt5vk,Filosofia para seres humanos,0QY1eg9D35pabN6rfpsqWD,Reflexiones Filosóficas,2025-03-20,1,Latin Metal
+7840fqzx8xJ81APL4KpTrq,Quatro Minutos Fora Do Sistema,3FTfvRKTu0C5cfBWBRFl0p,Mudo,1E1laLiBkeQ47Pxl4FGXwe,Bedroom Sessions,2014-12-31,0,Latin Metal
+5RNUgebNy7AoXewxsu4hRs,Inner turmoil,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,5sdLdcCpgc9BKlp0uMHrFM,Fragments of Static,2024-10-30,0,Latin Metal
+4jxphqxL1KCfaZGceRTRsi,Beat It,47nqXSCA5ZjinZJpdPTRbL,Kilotips & Warlord,6h5UxKs1pgAYC2E9I56C2C,Fullclip To The World,2009-08-03,0,Latin Metal
+46lcxQ1TROXl7LYf6KyKd2,Inquebrantable,0aK4c2b3mC5QWnL0kYmVHJ,Arrival,0M9C2EDUr0bCCok8sD81Lk,Resiliencia,2020-12-20,0,Latin Metal
+4wBsY6SvaWJN4pazqdhuKJ,Perra Maldita,6gYmQ4Vo06Xo7pFfoEUDvI,380w,6YhwK4CArwN75ez8N3TtQx,Viviendo a 380,2019-02-22,0,Latin Metal
+0TZxXk2LHcQJoWoxHmekSy,Noch ein Bier!,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,5BaAZnLR0SvifnAUSKAiIS,Ein Prosit der Gemütlichkeit,2025-10-02,0,Latin Metal
+0ewmtWS3szMdbJ0LAeUoJA,Laberinto,3f8vmfXEGgMbzmb9Vem5cf,Injuria del Ayer,1fic9YqnCjV7c55kuhPbCI,Heridas,2022-09-10,0,Latin Metal
+3XoNOhd2HWohUIdHZD3POi,Espérame,288Wy5823oo4SjvNipUIYm,Destino,4Z205LRLyRXEu1cDT7S19v,Empezar de Cero,2021-04-10,0,Latin Metal
+2Z0eNZF5HR8BMvii9yaC79,Midnight Train,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,0gNmbDzRYVAwTDnN57v8x5,The Delta Tales (Crossroads & Spirits),2024-10-30,0,Latin Metal
+4t2fwhWkGse8fEpFVet6sa,Outro Lugar,1MJ0kiw4QQ3R4jTWCN2zQf,Essence,5vk25C8hbmeoqFsX2OU7ho,Sangue Quente,2025-09-19,0,Latin Metal
+3WO1WRkAYRaRgGipWcP3yf,El Gar-K,3mJsoIanC7DI1VIaQMtI3G,Stillson,0toYywL8cyDhSks7uIctmn,Alineando los Extremos,2014,0,Latin Metal
+3qeogpOQmEyaVXOI8uy4Ar,Alive & Stronger,4xlLjXgkcLSaRCWa8EYyCb,Pit Fight Demolition,5lIPFKNCJFcyhFdNSddxHs,Quit or Die Trying,2006-10-17,0,Latin Metal
+7CqXvPpjR36fzpdBqZjDMp,La Clgarra,6S8u86T53hTy38WKqtcYf8,Los Glgantes de Trinidad,26Rx6McCl0lwDGQLLgVxoJ,Fantasma Mis Verdaderos Exitos 2006,2018-04-01,0,Latin Metal
+6O2gd21Jxk9xctRnGbHP4y,Triste Realidad,1lTugD6Lto6jxWk5GPxPLn,Adriel Baeza,7wY10crDiO3d0USedqX9dE,Vacío,2025-07-25,0,Latin Metal
+4VkZG5RqdognXwL7CYWrwD,Soul to Dance,7LIpSBZhJqcjYfgd4DTg6D,Nilo Paro,2qgNGckboo8h5BxNNTEJwy,Meeting of Incomplete Ghostly Souls,2024-09-20,0,Latin Metal
+6xQKuqabfQgasrCuXZTv7E,Centauri,5RHYJVE4qFiG6nbe31YJaD,Zolters,74WN2Q4cXadM7KU3w5az6C,Redención,2021-10-18,1,Latin Metal
+5gA8vJEr6NzNXps47JcPcy,Devotion,6QW5spx6rVS6UABNU3Ro7D,Son in Curse,5CGaOhRZuHFHhkoRUINeTB,Virtus Deus Maledictus,2021-12-01,0,Latin Metal
+4OtNvLh7wdaJrQ2GgCAPE3,The End,0FsydEiGD59s9jjqccycg1,Vartroy,4OO8Q0cm4bDpkDDFjpfbvF,A New Beginning,2021-04-20,0,Latin Metal
+29m4yZNrHJruWUaiAPbghD,Verbos,29I9yl5yCLtaYuPXoXb6aA,Vendaval CL,3ig436QKIwYsIvXfc2PPLK,Verbos,2023-05-13,0,Latin Metal
+5tc6HXwLdJ6j6aJLWLISnU,Hoaxers,77N6bCMPdsBXK7zdR6GhKb,Day After You,3kaiep7hZs8KIdfH68FXVq,Hoaxers,2018-12-07,0,Latin Metal
+0mYBXDu05Pk9OMkGkYOe5B,Holocausto,16shuBBKI2AkKjwWYIbboH,Death Craft,46eHg9V09SdY7VU0PWSbp4,Infernal,2020-02-03,0,Latin Metal
+1PLbKihzetTCg0A72o6bFB,Chuva de Fogo,51GFkBIMh5IehSD8zGJ900,Esdras,6zf6FonM1pOFaUUX28ToR9,Coletânea Inside,2017-01-01,0,Latin Metal
+0isaeeDwLPd7gfG8fKg4Yz,Amor,1lTugD6Lto6jxWk5GPxPLn,Adriel Baeza,7wY10crDiO3d0USedqX9dE,Vacío,2025-07-25,0,Latin Metal
+6hI9rdxJvwCedVKbxdQ4cV,Ya no,77CWcJKMc79fmKOFAYr9q2,PANIC',5JhZ5IIjxbi5JAUBevnbX6,Ya no,2022-02-01,1,Latin Metal
+1zcK2OaGA8HaInWEr2uXpa,Harmony of the Heart,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,1EPsK0srcC5V7gtBMRQJn9,Meditation On The Sea,2024-11-26,0,Latin Metal
+2tC04AB6WagSXWEdUi5noP,The Hope 9,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,63CimJAgnP5BLjnZsYJ07s,The Hope,2014-08-19,0,Latin Metal
+03Vd0gcIAu0vur8yFM1CJp,Digital Love,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,3AG4o5vDDid9SkHfERNjT3,Fractal Progressive Music,2024-08-18,0,Latin Metal
+0p6ur0kgIYHz0SakKWWfKU,Veo,2qcKQLFvse7ZkXDkEZg7oY,Vengator,0HCrRveCDJRL8Me6sMAreF,Vengator,2021-02-01,0,Latin Metal
+7hCLYN2dgc9wLEDmm4V2Mh,Wichsfehler Live,0lMGYvoYVZFSUbshxKVdYS,Álamo,6RzMblUfgheh7C9e9QYz4e,Álamo Live Session,2023-12-05,0,Latin Metal
+42NAag7gaqf873k5G2wOaz,Look Skysmoker,7KF3GrUdi7tm7DbvJZUEnC,Fauces Del León,5lYF5wXXmUBpLVvpkJKgyj,Ferite Aperte,2024-07-06,0,Latin Metal
+2lwHUn6AO5i89VqmAeNaFR,Hoy nos toca vivir,0bdx34QEsl4qum6pWxtJcy,Solo como loco malo,2y32cKq1CA3qYRJuzetxMN,Hoy nos toca vivir,2021-07-31,0,Latin Metal
+1sj0eHrvDN1f2vDxGVVjxF,Stuck,6XDZspdVyrtMqmsXO4OR80,Sophie Reign,45vXDNKPLTtU0xqfqTaAdK,Stuck,2019-09-01,0,Latin Metal
+7z2oZRLMxWdij9TOgdyQ0H,Dancing to the Moonlight,4Uof8izbeLUmEzu5NGl8Y0,Zenobia Salik,7cz4OOrVPDzvNx8zIZyoNJ,Mixed Emotions,2021-08-18,0,Latin Metal
+0H6mKBqd3ISDyh9MxcB0nS,Quien dirige mis sueños,2CtfK37zQCLtfik6iFmDKl,RIVO VARGAS,550SuCxEHctTMr5FcuoTdf,RIVO VARGAS,2017-06-21,0,Latin Metal
+1VuyOq5HRNUIzC6jFHThrZ,Aullando Bajo la Luna,7mmXRhd92hbfZPEyRlDmOF,Amaduzia,0uBdI44sKq4VjKatJkz1Ho,Calle de Sueños Rotos,2025-01-02,0,Latin Metal
+76QY9cn9okWq8WK6U90rYa,Gray boy,19WHCldUWdIiuxEnEoBrKX,VanパのProd&Beats,4YMoBvhwQRktSJShsOgVE2,SCHIZOBSERVER,2024-11-06,0,Latin Metal
+0DLKUrQCtEkiOiMPhM9bK6,Provocativa,0AbdqXLoYFSHC2cY4pvEPT,Jose Marcos,1xXnOkY6bIfkWxR5bhQDqw,Esta manía,2010-02-15,0,Latin Metal
+3gtAvsCucrcycqZyE7LAXi,The Hate Remains the Same,6SvXsB1qUZfv1g2ydI4wRq,Skinlepsy,3MhyBY2QFAtgo7NAfjYYKF,Dissolved,2017-05-01,0,Latin Metal
+4kT6wCT20tPtzj6B0jccQm,N0-Mda,7wt8arTfuDlwKY3puk08Zq,Roger Nomada,3lw4jzQH2X30cSA4RyYDBf,Antihéroe,2024-06-28,0,Latin Metal
+7iHDjcmApst7QsdBKoV5qd,O Tempo Cura,0R6eNc2WSgHlWDhOmvFDtk,CISÃO,3vlv1NKc7i17adWUBpaxBl,O Tempo Cura,2021-12-29,0,Latin Metal
+0jl6v644F9cCtqMKYYAGM3,El Final,6wlfK7mgyOA0l571jK053A,Vehemencia,0iEsZ5DxT8hpBShdLY0NNL,Mundo Suicida,2022-12-30,0,Latin Metal
+5HlpEdrE4hArirJ5iKUnJ0,BONUS TRACK Perversión Subdermal Vivo,0zIlnh65hjUbMHopLGaAn4,Fatal Morbus,45isTfAg1WZVNRsdPQ9KSZ,Parto de Fuego,2021-12-22,0,Latin Metal
+72yOkHHaKl5E1LoRABWJjE,Взамен,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,32kB96qKIKB8QQF0Hc0KRd,Discuss For Peace,2007-09-03,0,Latin Metal
+3ik5v2pXNruFeJJF4CuO9u,Cuando Vos Te Vas,0qy2K3V7CfqRSRCWabyQ7H,Timmy O'tool,2CMKPwtmge782wj07ofB8p,Sigo Aca de Pie,2007-12-06,0,Latin Metal
+2UPfXgv9Chse7kt0oAeQN6,Fields of Sorrow,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,0xIsExLz5yfPUWcW8mjuZU,The Delta Tales -Dusty Roads,2024-10-30,0,Latin Metal
+20oAUQ9HC75mNR7L2CLWYJ,Solitude,364xKxAXwTmUmhajgfYIuX,Primordial Idol,3Ti4M2wwFJHfVImSGs0OYM,Solitude,2020-12-11,0,Latin Metal
+2WvrRtxuIqIqvW34LMxzAz,Eu Vou Lutar,0R6eNc2WSgHlWDhOmvFDtk,CISÃO,66A7n2p6tLezt5ccMXgnhu,Cisão,2021-08-25,0,Latin Metal
+3qb6QgPblLmcIXrCudOR6g,Sacral Flow,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,6e1nyHvZut5wYffhhtq3V3,Relax Harmonic Aligment,2024-12-20,0,Latin Metal
+5kEAa3mNUFFebshtXv8c3w,Undercover 1/3,3fnj6UvcPYJEPXZ5I2Flr8,SplatterHead,5ctZMIuedOmXWgTuzOUBny,Our Land,2022-10-31,0,Latin Metal
+3P8jQqwSGJOdHJ9NiVaabY,Amar o Vivir,7usqexKIVr4xzvFMFieIXD,Seekinside,3LdXJBY4d5Adpc2FQPvnWU,Amar o Vivir,2014-06-18,0,Latin Metal
+3PgHO4cQapSQkl4tFHli8d,Night Moves,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,2zAg4FUn3wcaYSzz0sxfh7,Eternal Horizons (Virtual Trance Vol. 1),2024-12-03,0,Latin Metal
+3fcovtbQJ2pDu81scJSfNT,A sangre fría,15mYQhFYuA0iBceY0KwmeK,Claustro,6BM1R60uxgQNYo5kiZHeCf,A sangre fría,2020-01-17,0,Latin Metal
+2HHk2L186MSomM3fhDHPdh,Rock Around The Clock 14,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,5dlwZRV23W4HueKgvRxcZH,Rock Around The Clock Vol 3,2018-12-14,0,Latin Metal
+5kdsAYO7aNU1dIBTswqeDd,Lluvia Celestial,0LeSk1qKOVc4kYwrFFU9o8,Fer Silva,6r0HQtqfZKZngmzMmcEgnZ,Electrik Love,2023-12-31,0,Latin Metal
+2URZHEKUmGFfz2BuxmZxD1,Síguelo,0GmZ29aqNmEIjyUHQfhSqE,Sangre Azul,6DP7NHL83q0zFqd5jCUkr4,Metal Salvaje,2023-09-22,0,Latin Metal
+3V5iS0cHxz2r9BDFFRj3Oh,Com o Tempo,56ztr0qVjdCw7kyYNjLE0a,diaTrês,5PhdvIzFi3hIVU1loaEuza,Deus e Eu,2025-10-01,0,Latin Metal
+4nVdpDXRyhTDAoUWXAVjti,En Polvo Te Convertirás,63kHszGwGl7c2KonNEQfty,Leyenda Mística,65iXLHmc9AzwGkfhGhnDiO,Ciudad Dormida,2015-05-16,0,Latin Metal
+62J66CL4ts7MCx20hQQb5S,Väärinpäin,1q6rK3YiZplar8EzFUKgR4,Antimateria,2CLBv0okugU702OHgbx21r,Kielletty hedelmä,2017-09-29,0,Latin Metal
+5BmQZnHHnjfW8NzwALabmr,Si Pudiera,7Gl3ogpbkaflnEzj4npfen,Overhead,6D1W9Zm7sZ9WuMzhIhb9aM,Overhead,2006-04-01,0,Latin Metal
+3cviyhSTgziLS9Sw1FpZuQ,Descender al infierno,6VN6sbWTbNfiBJLoIwiWGh,Dursmilodon,4hP92e2IgMEfp0BnxvQkqp,El Bestiario,2023-06-11,0,Latin Metal
+14SbSUoPvNWOrPLUOkjLmN,Flaca,0m3NplJLtEhVDIlhaiQnVl,Ampliferios,7cJRDU9dLKccWYKxL4Rrqn,Amplificando Hemisferios,2023-09-08,0,Latin Metal
+3tT6kw5XXZ4J2dgx1sGZux,Rock Around the Clock 3,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,7rrlAessfu6XdVYuP44cB1,"Rock Around the Clock, Vol. 1",2018-12-13,0,Latin Metal
+187PFsmp0CtFVUB1ikJ80Y,Thoughts,0m3NplJLtEhVDIlhaiQnVl,Ampliferios,7cJRDU9dLKccWYKxL4Rrqn,Amplificando Hemisferios,2023-09-08,0,Latin Metal
+1t7uNipwNnqXiQsqCQQ4Uh,A Brand New Life,3Kse79kFyl9ZDvmYz29PxM,Threat Inside,5bl5bSejRG3PUQmYcUjxFt,Threat Inside,2020-06-29,0,Latin Metal
+0kIi9fgCOB71lb1wGqAnDy,La Venganza del Brujo,0Y0PQgZzze1vyaXLtgtTO0,Kien Mató a Rosero,30PzbQWn1d48uLVfWCJcaB,"A Lo Rosero, Vol. 1",2007,0,Latin Metal
+4PUZrHy9tOfK82N2de4FuI,Blackblock2,58FQRZsvW4lrNJsaNTLjqt,Nebulation,1JR7YLNAzNNRPu0kOaZ8D9,Blackblock2,2024-06-12,0,Latin Metal
+3l8k71gxlTj4m7MMuCZdPt,Amigos,5Y6fGMF2djr6YvS4Ksn0E8,angelazul,6NyrhgMNapp69tzkperjKz,Amigos,2023-10-12,0,Latin Metal
+0CduwQzb33usXzAp5T3aQx,Rasputin - Live,3KrJHWr1KhszT9QCWBeSe7,Tritipsy,1kxpWRAt5JmStCgmc1i6Fy,Rasputin (Live),2021-09-21,0,Latin Metal
+6bB5HfVnqwyQnDUe0aL15L,Change,5DwhPbSG7VkTHJ6oUtEKu1,Noiselab,07AiN8RDAJUdKX93fyN8xz,Music for the Weaks,1999,0,Latin Metal
+6R39S3QOXeKTrWbANKEt3h,Сны,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,5bkFumLWIT4wzIpdB9uHKF,Bambook Reggae from Basement,2022-01-01,0,Latin Metal
+1xEcH2KfkFW7vnSsBwnFGE,Twiligh of Shadows,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,73eZ3x2jpKW4HYzKV2iHL1,Gates of the Gods,2023-12-13,0,Latin Metal
+78ovjkUNTMgjPZEOhw4jsV,Igual O Más Que Yo,1lTugD6Lto6jxWk5GPxPLn,Adriel Baeza,7wY10crDiO3d0USedqX9dE,Vacío,2025-07-25,0,Latin Metal
+4I5UAFVKjL2MOkHPXZnBr2,Culto de Ação de Graças,0AbdqXLoYFSHC2cY4pvEPT,Jose Marcos,2WchWv4eVO05qMvlreylw2,Culto de Ação de Graças,2017-07-01,0,Latin Metal
+1TAx5w7v9X25ZV3j4nlKMU,Heartbeats in the Dark,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,3M3I0Yd6JgdsAP8Vl50hJp,Nights In Velvet,2024-11-10,0,Latin Metal
+0TYitao9KzQCk8Ct6Bj88x,Dual,4eO2ZAc36I94nlK8TsSIKR,James Manson,1HIV7xBkpxxivLCX2yHc6L,Santu Miedo,2024-12-27,0,Latin Metal
+7x7oUwph9HgdMRMS47XPzH,Por Generaciones,156UZoCqWAekH8fPVqhHal,Amoladora,4B2X2AP3k7PbSUhUyFRFE8,Uno Por Uno,2017-05-15,0,Latin Metal
+1eJ6KC219rjfxnlp5RQs4y,Outro Lugar,18XbODJBUCc2FdhQeQbKGs,Raphaa Marins,6ZstoZRYG2TBDbg1cFUrmj,Fins e Recomeços,2021-08-18,0,Latin Metal
+4kXpBisXzffg08Zxcxh7tf,Rabia Duro,5Y6fGMF2djr6YvS4Ksn0E8,angelazul,1wzivZZPW8TyIi7myLsgzw,Rabia Duro,2025-08-21,0,Latin Metal
+46Hvfiy1FTvtoFeJGCKm1a,Tu Non Sei,2EiUsL6ltyyMiQ7qrRwvXM,Tauved,4LtiP23wlJpj7inMaVcZUL,Flussi,2021-06-18,0,Latin Metal
+2iSqfytHFxOb3urKWjWbDj,Profeta - Demo,6JQenJpR3rOTRhqU6RTBNc,Slave of forgiveness,67xCrZgNWS6rHmOiMcdFaf,Slave of forgiveness (Demo),2022-11-16,2,Latin Metal
+4qzk4icJPqGkxEoIsUO1MH,Catarsis,0lMGYvoYVZFSUbshxKVdYS,Álamo,5jBWtV3IxgPjIbpctEvoNO,Catarsis,2022-01-12,0,Latin Metal
+1QcrqhsYnVMCvVbSw9riec,Vive,18uJNEs33Z2aBXROL7nHBx,Shaka,0f0DA3CjhLve0mW1DEMz09,Shaka,2017-03-08,0,Latin Metal
+4al45OaxdXglHkVhMFyZDS,Otro Día Mas,608gdoM3tWIFE8dUp00QkP,JAMASNUNCA,0eP14p46iNofJgx7krH4cn,En La Orilla De La Luz,2021-12-24,2,Latin Metal
+6dlnm5lkm19uV5VQ66L0HH,Nuestra vida cambio,2ZQTiaW6odCGrLFucrYITo,Pablo san roman,2mcBgviOPnAb0r3prQI8cP,El placer de la locura (Nacion poeta),2015-09-28,0,Latin Metal
+6U6yUg8P9pBbenXhCWTR2m,En el aire,0jKpGGcUH0zXBLXOTkOmnl,Pablo Bellucci,3NAXvGsGhfVL8jf1wx3HR1,El comienzo de los HM,2022-09-16,0,Latin Metal
+0oD0XMOCnmrZItKEVZmAcf,Qualquer Lugar,2dnvzfkL0H5Emv0UXZB6SU,Impacto 011,2tO7LyYXtgfjLH9uHMwPzX,Qualquer Lugar,2021-08-22,0,Latin Metal
+6daEK5Y0MRd05cxXFm5zI3,7 Ajíes,3TlF2wl2VSOITBacKv3uxb,Madre T Rezo,2Tu2VQEUGBKGEah1d96WLr,Cuantas Flores Tendrá Tu Tumba,2018-10-13,0,Latin Metal
+48zGuFlLcBCryWg3mgITVm,Celestial Eclipse,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,1zniMHMKS1aMyMSN9iLj6J,A Thousand Demons,2020-04-01,0,Latin Metal
+0HZ497XkyDM4c44DYWGXxT,Paradoja,0gd0zHf71fTsWv8HFT7mzY,MWORD,6lgPPoJ55jsO3vsaTEn7Vh,Intersticio,2025-06-13,0,Latin Metal
+02V30vHfMwCIsRSWm8CuES,Disfrutan Libertad,4cFjJVP2f2XQN0RkS89z7Q,Nacion Disfuncional,1OLwFpuN8OgigbP0hHOAH4,La Mafia,2017-08-07,0,Latin Metal
+3OeGaz4AYqRkpCS5Jxugbt,Arrival Of Silence,10fV4X3nFhwkrevXCCe8Vg,Dammy Housa,266VzkKvgqj42GKHHV8Tpd,Pornography,2022-11-25,0,Latin Metal
+1Da2c14mnlkrjkkCqxyDYz,Dante Alighieri (El infierno Canto III),2rc04PUrzartth6TBrt5vk,Filosofia para seres humanos,2fnL6ZClPCcZabIcnaeUTY,"Capítulo 1 - ""Introduccion a la Filosofía""",2024-09-30,0,Latin Metal
+6p0ej0UmPBqpX6Wldetuxl,Ese Invierno,2jQ7JUx0GHDxvYmcPRlFPo,A nosotros el miedo,2ibP3qQYLo0KTGSeMjy4G8,"De Luces, Flores y Carnavales",2018-12-19,0,Latin Metal
+3dnn67mkzVc003YTVDAP4Y,Escencia y fe,6tPDQUNPj5OZ76slK7TIrh,WZM.mx,4bMoM6llNFsdUmkk3ZvoXL,Diez (Edición Especial),2020-04-28,0,Latin Metal
+6fIRKaOuslexrYkAvUYxbT,Eagle Nebula,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,1nVvpsUAUwIt7Df1gtyjGT,Music of the Nebulas,2024-12-07,0,Latin Metal
+1sxoKVmEt04GGRvRWwfJdk,Hymna moravy,6WgWnM6gahYFp51IaG5UHV,Deviant,6bPfBR7skRyoPysEWE6FyY,Co bude dál...?,2019-10-21,2,Latin Metal
+1Xp79c6UmvAiLloojqxcxU,Intro,6WgWnM6gahYFp51IaG5UHV,Deviant,6bPfBR7skRyoPysEWE6FyY,Co bude dál...?,2019-10-21,1,Latin Metal
+4PQUjja0BLOAZqmKfnQks3,Dáme tu amor,0GmZ29aqNmEIjyUHQfhSqE,Sangre Azul,10jiJ0Bkr4tQMgfwTyNG0W,Clásicos del AOR,2020-09-25,0,Latin Metal
+5JvbArHL16l89eRiQOzZ03,The End Is Nigh,1Yc57EAQWEoqRkGptqXElq,Create|Destroy,68A8VHr7qOBB7Z1tYv9taM,Organic Perception,2012-10-06,0,Latin Metal
+6e9dE6saP1JRXWP9llmhaT,Moldy Cake,3FTfvRKTu0C5cfBWBRFl0p,Mudo,78cqdWXsBmxDFhn78aq6ld,"Bedroom Sessions, Vol. 2",2017-12-31,0,Latin Metal
+2bKUr9EfFUtBJTPzAP85n5,A Criança Perdida,38gams9c6rxGVcLQeBEOqb,Akaimun,3QQFhT6eICchFkHxPVFEvh,Criança Perdida / Pequeno Pirata,2023-06-15,0,Latin Metal
+5od9vPZq6InWJnunFum6d5,Deus / Diabo,3NpbDFdyK9PBXM86eKRhZw,Epífora,2lmm3Of6nTxKOiN382vDkN,Desmorona Deus/Diabo,2023-01-25,0,Latin Metal
+71zffPVW0bHUfmMCtRCha0,Desmorona,3NpbDFdyK9PBXM86eKRhZw,Epífora,2lmm3Of6nTxKOiN382vDkN,Desmorona Deus/Diabo,2023-01-25,0,Latin Metal
+2uGBIk6SBH7oimRgYnw4pK,Sorriso de Plástica,5WpaOc2cHBJjRWNMI2dFYv,Boneca Voo Doo,2J5jkz8fQdzlye6f8ah0CI,Boneca Voo Doo,2019-10-31,1,Latin Metal
+7xOYBulKA16HkZKWo98zhC,Gone Before the Whistle,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,6ansItqQPsZQIEW0xZ6htd,The Delta Tales (Ironbound Freight),2025-06-02,0,Latin Metal
+4eoIM6bGLgC2pqnx9yAg4B,Macabro Vodevil,19b53rGlYupdGQYAwYKeWH,Zhua,4W8T3JPiGHhmqNgV9WYZjP,Macabro Vodevil,2020-06-23,0,Latin Metal
+31mqz1uL529j4cZyb7wOLq,El Ángel Caído,7Gg49ACB2NCxFR3b2VznuY,Disastrous Dissonance,3ShSe5REjFQZC5tHFgR5t4,El Ángel Caído,2023-06-09,0,Latin Metal
+4JpFUCsx24IbYQRfashblQ,Adiós,3z4cR6JmgiqzQlQPx9br07,The Fucking Fingers,17yqwAkbi6kj5m1YaDaxHE,Irónicas Despedidas,2019-01-28,0,Latin Metal
+0OZaJKegvCK0izWtXZP3IH,En Nombre Del Padre,608gdoM3tWIFE8dUp00QkP,JAMASNUNCA,0eP14p46iNofJgx7krH4cn,En La Orilla De La Luz,2021-12-24,1,Latin Metal
+6msor5bE9sQgkbRb7iNRhw,Ráfagas de Fuego,4hHYK5rmy78Yzv2Mbl618z,Cahlis,3UQtYjYi7dCj6WqBHhYqn6,Ráfagas de Fuego,2021-10-16,0,Latin Metal
+3x8nzR9I2Mr5ojnjOpDJK0,Suckers,38M6HVedjnRamaqXb0ekqO,Balero Tre-C,1KucHdaU5K4JxPV5MhLxnU,Balero Tre-C,2001-11-13,3,Latin Metal
+27qV2Ehmd88oSk5A2bRyTq,Ressonância (Do Amor),4kTFyFT85yh0PcFw2LtLvm,Iorius,4nWeWUiWIDYTNFKYuoHtRO,What's Pulling Me Down,2022-12-28,1,Latin Metal
+768apjbbIkoew46ReYopdH,Ode to the King (Intro),1n9l4gf4csKXhbCdGwEsp6,Light Divine,3XCNIpEyR8HAZ4SYRWCBEM,Book of Psalms EP,2024-07-24,0,Latin Metal
+5tpyO7OPnvZoakJ71VBRk1,Resignación (Acústico),2qcKQLFvse7ZkXDkEZg7oY,Vengator,0HCrRveCDJRL8Me6sMAreF,Vengator,2021-02-01,0,Latin Metal
+4AZKtCx5fwTWBYQpX7ELgl,FYP,2rLK3FR8RRRaADzct3pSt1,Mykeru,3XyI4qAH4nqYM10zYd7ydz,FYP,2025-05-30,0,Latin Metal
+2WVlg7YF3sp14GCZahXtKE,Enamorado de ti,3OMua1AhyAcqbw2FW9ApUh,Super Gatos,7LXmF7OZRnrcVUYFbAXSCe,El Duelo del Siglo,2018-04-01,0,Latin Metal
+7fPNFkTX4oSqo5kEpuUspk,Os Bons Morrem Cedo Acoustic- Bonus Track,2CLyNpFCWTofj0yRjJusuh,LenoreRock,3PTawQxTjTsH8LHNglAwpd,Compilação de Singles,2022-09-21,0,Latin Metal
+2B07oQj6Wq9cp5IUSAPXCD,La Perrada,6jgHQ3529nt2uuuKsrQqXX,Matheu,7IwhnO6Fa5ZODrNSynjrNf,Nacido Aca,2023-01-27,0,Latin Metal
+6bYZlnjWEzMwM7Cidt5sRn,Bienvenidos a la dictocrácia,0CQVVtRswkjE33Wl1UZoCm,Efecto Broken,04FPlQUKkVFjZ2US7cTw68,Nuevo Orden,2014-10-21,0,Latin Metal
+3BUnGZ09OgND40jcOWAkbe,Viking Territory,6J0XAgb4H6uN9KUMUJq1Eb,Folkrieg Techcatl,1jxWa7hw4QLqnWcP3qa4j4,Folkrieg Techcatl,2017-02-23,0,Latin Metal
+21eOvYtMhrMSvtnpsOLQy1,Chica,2EiUsL6ltyyMiQ7qrRwvXM,Tauved,4LtiP23wlJpj7inMaVcZUL,Flussi,2021-06-18,0,Latin Metal
+5dVmBCU6zrX9MLx7t9TP0i,Counterfeits of the truth,2EdSc6xYgIgLhOfFT44v1F,Irrational Reality,5OAiImcwVdyGMmnmBqQy2H,Irrational Reality,2020-01-25,0,Latin Metal
+4rsAhR3VZlmy45GwQj20nZ,Olvidado,167dkogikmWVTAz3kaAuKf,Sublimación,3u8OJdNF7f9sWOOHU3p084,En la Oscuridad,2021-02-20,0,Latin Metal
+2LfcNsj2IZHWWQpYCDlUGt,El infierno es rutina,4YcOFINb3m0eJeA3XkNSKP,Mil Demonios,4sBAUdRWwwnXbplWGQ42Wi,Otto Studio Live Session,2023-02-20,0,Latin Metal
+1C34RA2K9YXnOGBzJjS816,Rivers of Peace,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,0U2SoUDBBEiwFOZJRh5d8M,Relaxation,2024-08-07,0,Latin Metal
+5v0YC3d1gDIMiP7VdGnTb4,The Mechanic,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,6HZnCgUY20BPDW8aYVm3qy,Humans and Machines,2024-10-30,0,Latin Metal
+6KbuqcPBF7SoFhylQ5DOWa,Cuando Caigas,6jgHQ3529nt2uuuKsrQqXX,Matheu,32XtnchWS8kQJ4zFGxDk85,En el Camino,2023-01-26,0,Latin Metal
+0OXya0SuwFS01GXP5u7ZfG,Stellar Winds,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,37JCYaFBTbgoG8yg08936o,Universe Infinite,2024-12-22,0,Latin Metal
+0wp4cPRmwwvMjbdPGXtXL1,Semmi-Automata,7ad7jJ6wh61UfknBqEKSy3,LAY,1YJU1IOAydu0v3dfmCkbyM,Laugh at Yourself,2014-10-07,0,Latin Metal
+5w7kAw90LPR9MPSswsLs2W,Mirarte otra vez,2pCPGAWEcmTwW9OFixK8nL,Arlenis Hidalgo,1RBsFWB8kcRRxDBdNTjC6h,Mirarte otra vez,2021-01-24,0,Latin Metal
+04byCT6v0HtUXxhU40NmAY,Cordillera Live,0lMGYvoYVZFSUbshxKVdYS,Álamo,6RzMblUfgheh7C9e9QYz4e,Álamo Live Session,2023-12-05,0,Latin Metal
+0HdG0JAEA1OUNzGBozE5nU,02 Corazón de Cactus,3TnazqbBrZOzXsK0Ii4XJU,Ficcionario para la Realidad,7lkQt4WwlzSUeVJRg2G9do,02 Corazón de Cactus,2022-04-10,0,Latin Metal
+6HBL02bfilfsjKeCOjoNRj,Dracoonia,1FzVzwKhpCdQEZelmUVHic,Megenex,2sphRvycAnLPfLz7x2yo8T,Necromorfo,2021-10-21,0,Latin Metal
+1EUTZSJyUoIQHYgSZfthIk,Aquí aventaron a la gata,7sSf4bh9XGmUiJdzIU8cIR,Cuux,1IFatNHx1ro4SxPRp9gTyp,Aquí aventaron a la gata,2022-12-16,0,Latin Metal
+3cVCJ8KjTPKIyWs6rujXRX,Entrevista,6LPp1ErCecDVz9VefIgEAA,Grupo Metal,1CF6d7pt8keJQBOvE6Ts4Q,En Concierto,2024-07-16,0,Latin Metal
+3Xvajmz0EaKVJ6eWRtPwfr,Princesa Inmortal,63jxdEE5ZCA0p52hIGx0Zs,Intravenoz,7CV6To9BOfYAMz4McBXPms,Primera Dosis,2014-11-30,1,Latin Metal
+0M7DZJWvEQoKw3qVo99XqQ,Under Terror,2mIBfODAV711rh3lOBzC3O,Alpha Squad,2CKGRHh392RvZVPlSJ8gCd,Endless,2023-02-20,0,Latin Metal
+4iEcKZZjfMrNsg2H5vOrqA,En La Oscuridad,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,5WcAEcjrD10DlqQ0ciMHS2,Brillos y Sombras,2024-11-11,0,Latin Metal
+3Dax54WizftrF1Lao8jDUi,Close My Eyez,3AKEcuDnzOF5lEyPt44L8g,Stony Danza,2ZMzEewcYxuI7juTOXKDsT,Stone City,2012-05-05,0,Latin Metal
+14YXedj7yQL7xcT9x236hU,Starlit Serenity,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,5lOyC2OVzRYJ5ObNX2Qqoi,Meditating At Night,2024-11-25,0,Latin Metal
+3h7tM13b2eocclRWwn4VTR,Reação,199mp224nDMIKB8RtboOvk,Panico X,429th1GTIvBpHMPNY6GRN5,A Luz,2014,0,Latin Metal
+5zBU7suwn89lbVsPUqeg6d,Poder Ancestral,0LeSk1qKOVc4kYwrFFU9o8,Fer Silva,1AKLDsLRj8sAKpVduhA0N4,Mystic Jaguar,2023-12-31,0,Latin Metal
+3BWy3zVFGGOZf7XQeUQ9A6,Arrival - Bonus Track,5IARqdcLUVrtPEqTDg5ini,SAGRA,6ia7RLPEtIMtkG6ckb44p9,Despertar,2018,0,Latin Metal
+35xePO4ziHST8H7OJTEEvB,Baarkant,4sLo7BpcYq3JIcDQZKJv26,Nocturnal Feelings BM,2i7wF6mbFYcs957DSLxlyA,Baarkant,2020-10-28,0,Latin Metal
+33ol2FagYKuuN917L90LiP,Plenty Mass,47nqXSCA5ZjinZJpdPTRbL,Kilotips & Warlord,6h5UxKs1pgAYC2E9I56C2C,Fullclip To The World,2009-08-03,0,Latin Metal
+0rXWsfHGFiz879xpXkPvpm,Llamame,5MNySc8TA0ZsXiFtsOCwZx,Yilmar La Banda,4eFV1WAizpPHMuru195n8R,Llamame,2024-06-29,0,Latin Metal
+5xNKynJYGdlbkAFEYk1kOZ,They're Not Gonna Win,4kTFyFT85yh0PcFw2LtLvm,Iorius,0owwOvN3MpXUGxdaAjj9YS,They're Not Gonna Win,2019-10-01,1,Latin Metal
+0keFx6BCQ84hz86VpbsvOO,Desarraigo De Los Caidos,6VkNsFhZmMQRikmnir0oyk,Thrashammer,44hZItnV3a3UgriJWDJfgL,Potencial Humano Desperdiciado,2025-07-14,0,Latin Metal
+53bM79leRAGBQNSsc5kFe2,Turned in By Friends,2K1doOtz4YqG3eiNGlpo1R,Sleight of Hand,7KAJxmsQMwfYvgys9jVEaN,Secede,1991,0,Latin Metal
+2XLKFG06VLa4lwSJclpPZ4,Control Judicial,3SlMszPdT5XlDNtps9Ck5N,KilJaden,0C12d7md7w258obiSFm54n,Control Judicial,2023-11-08,0,Latin Metal
+6CQeaWAssE03vyAuzMNzFj,Homem Primata Envergado,0ht00jN83LLHqvkkdePlB7,Radio Everett,4fNrvCAJd91EqMweIioGuG,Musicas Para Virar Esquisito,2021-04-11,0,Latin Metal
+7JWQxKNsQJ4KSSYdB3drb8,Crisis,2FDdlVR6RINULXII77EV8y,Metalmorfosis,2lR5rOQJLMJPLEok58nBww,Humano Industrial,2025-01-01,0,Latin Metal
+4Lm3ZqZB4nVtkNVeLkDKik,Sobreviventes do Caos,4WbdQp6mZknXTsnJTXAMKY,Frequencia 7.0,5xTTpipepbMykax9zXOMfs,Sobreviventes do Caos,2015-01-01,1,Latin Metal
+6EZsnmcBvWaZWCEkvvELpI,Kielletty hedelmä,1q6rK3YiZplar8EzFUKgR4,Antimateria,2CLBv0okugU702OHgbx21r,Kielletty hedelmä,2017-09-29,0,Latin Metal
+3t5JChZRRgOzNm2ous2rLG,Bancate El Rock,6gYmQ4Vo06Xo7pFfoEUDvI,380w,6YhwK4CArwN75ez8N3TtQx,Viviendo a 380,2019-02-22,0,Latin Metal
+5NCN3nnePYv1irLeRnZQOH,Antiheroes,1iJqQhVF6Px7if8jpa4X4d,Arsenik,7a6RT4pc6i9WXgk4bcevwl,Golpe de Remo,2022-06-10,0,Latin Metal
+3bPv6RIfvw2PyXsLsNqoMr,Hacer Fila,4cFjJVP2f2XQN0RkS89z7Q,Nacion Disfuncional,2Ha6kBv5f2ciK8c2rrZ36j,"Politica, Futbol, Religion, Pendejadas y Mas...",2013-08-17,0,Latin Metal
+0c0uZyZoYp6kLIqOqco7Zd,Quase Morte,3FTfvRKTu0C5cfBWBRFl0p,Mudo,1E1laLiBkeQ47Pxl4FGXwe,Bedroom Sessions,2014-12-31,0,Latin Metal
+6g28zO7OAEDJ40HTMtY9Gh,Стирая Границы,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,1KK5ro3alrXQ1liaGsizRg,Bambook,2021-03-21,0,Latin Metal
+2wyQ5pQlbLPOwYd4UkIYWE,Ángel destructor,1OwiDItmhbZmXu9BPSodTi,Invader,1VksM3flL2l8dkf2wsUO7L,To The Bitter End,2022-04-29,0,Latin Metal
+0r12xleM5F3QxnInmxTFAu,La Tierna,7Ics5krcvY2yfQAbhXps6o,Dkuajo,6mZVrFnMyhL43f4hpKjc1w,Tuerca de Vuelta,2011-05-05,0,Latin Metal
+4AzsuogdKDk8BDpU54HbHG,Abisal,3TlF2wl2VSOITBacKv3uxb,Madre T Rezo,2Tu2VQEUGBKGEah1d96WLr,Cuantas Flores Tendrá Tu Tumba,2018-10-13,0,Latin Metal
+4qiTMq8hOveprLvCL8TXq6,Realidad inventada,1JKfwm92miIyI0s6h1aAIE,Sinapsis21,25XWdwbVqP41yssuJTyglb,Paripé,2022-05-31,0,Latin Metal
+2wLAva5yaziiLBfWUjRioC,Guerreros,0PoT159QreyvBjiJQ5bKBn,Insan,6W7PmLpnQnoXFmX0BHnv89,Muerto en vida,2020-05-17,0,Latin Metal
+7bYgyoKBIwFVDysnXH76d3,Plan de Supervivencia,4cFjJVP2f2XQN0RkS89z7Q,Nacion Disfuncional,2Ha6kBv5f2ciK8c2rrZ36j,"Politica, Futbol, Religion, Pendejadas y Mas...",2013-08-17,0,Latin Metal
+7Fd51VUGURsT1d7Av2txkE,Intro,0JdUad9GeW3mqcjrsT6TWq,Hrash,6fBvowtFE7gsKnLIOmMn5a,A conciencia,2015,0,Latin Metal
+7aKPhNqzUyp0IP4LG7U07O,Африка - Live,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,5bkFumLWIT4wzIpdB9uHKF,Bambook Reggae from Basement,2022-01-01,0,Latin Metal
+2JM7I0w7FCxAB6PTYNazo5,Crushed Chains,3xvsIneKwYf1nVb5yKC11Q,Kymeera,6DGWXnCBi7QCeWaYWS6y01,Crushed Chains,2025-03-23,2,Latin Metal
+1GXkaOAXgwxofiRBur86DJ,Guaro En El Hotel,1GDtsvanBE0Fml7tdRxi53,Metrallo,27pMuRjhpXCryB6IuqLK0h,Guaro En El Hotel,2025-09-12,0,Latin Metal
+3u65uTcgN2g2UMW305z7wx,Firewood Lament,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,15fWPa2aPaNtzV4Zyj4EaV,The Delta Tales (Ember & Ash),2025-05-30,0,Latin Metal
+6yx6aEwcGIsQCygnjfYNJ1,Pale Maiden,4eO2ZAc36I94nlK8TsSIKR,James Manson,7Jo9ZXpGNNum6TPtmeDSRu,Broken Sky Light & Dark,2019-09-09,0,Latin Metal
+4JjPKUSWzxVLzKD67ALly5,Valhalla Road,4cwRlZUZ7gH0mobLpSgg69,Shadowings,6aQOLNjMoSpt0dqJC9Td9G,New Beginnings For Old Tales,2024-08-30,0,Latin Metal
+1ThFXVXappBQ9MO0qLEWl7,Reza tu Suerte,13zkgZYcMKyX80bogPT331,Fortunata,2iuUNUqfRx6sgOzgzNle0l,Fondo Blanco,2018,0,Latin Metal
+7gjz5GzJ3IbZgr8A963aYv,Infectado,16shuBBKI2AkKjwWYIbboH,Death Craft,46eHg9V09SdY7VU0PWSbp4,Infernal,2020-02-03,0,Latin Metal
+70CSUKIQHnN0Wjebl0MxC4,Endless,2mIBfODAV711rh3lOBzC3O,Alpha Squad,2CKGRHh392RvZVPlSJ8gCd,Endless,2023-02-20,0,Latin Metal
+5CnGSizY6mM2Ix9lMV3VZa,Anti-todo,6VkNsFhZmMQRikmnir0oyk,Thrashammer,44hZItnV3a3UgriJWDJfgL,Potencial Humano Desperdiciado,2025-07-14,0,Latin Metal
+4w74iHmTqQLvbvXgYhVElg,Your Own Demons,0VxfCkajsP3N63IDbHSCp9,Savant,71ZMcrYwm8o2JxHNNJZcBw,The Blood of the Damned,2016-08-03,0,Latin Metal
+1EslUTg3JTE2Wc5G897f46,Impío Ritual,2JQejqHx17mwrW8ATH6OpL,Obscuritas,1AcFvwuaa1sTBItxaKRFA2,Engendrado en Muerte,2022-07-25,0,Latin Metal
+1CO2slG5sMlJ4P3fcv0wfx,No Te Vayas Sin Mí,1lTugD6Lto6jxWk5GPxPLn,Adriel Baeza,7wY10crDiO3d0USedqX9dE,Vacío,2025-07-25,0,Latin Metal
+7mTBHWmD28pGLcLJslJE2e,Game over,5cuf387UtbvsR9kCOqya0i,POLYBIUS,5VpwApLufKtNyFWXdayQs2,Algoritmo de sueños,2013-02-20,0,Latin Metal
+1ROYIiWjq04lxTso0c3t1Q,Ruthless,00KIBrbrjrbNJ7EYQXs3ci,Pressure Theory,7gx5ONRaEUoYOONlK9sKsX,Rising,2007-01-01,0,Latin Metal
+3CawwOnqV0MKnPIAyR3CZN,Donuts and Coffee,53OPV6F9elzEqwxz0I0r7t,Ginger Red,6sHzQnoDLVl8CmssMf1MsW,Donuts and Coffee,2018-10-26,0,Latin Metal
+6vfmhiz2LANx4oZYroQagW,EVOLUCION,6THTzVFbhy93KE8QurI3Hu,SANGRE DE RAIZ,74PwKizA6dwyZ3ZeZBXdst,EP Singles,2021-09-28,0,Latin Metal
+5YgFEGOOBRKTjoiFrQSrs9,Inmunes,3s33dx76LwaaHU5eRybljD,Stendhal_,4MchIoLUSCHT4mE0tJkhoA,Stendhal,2014-07-19,0,Latin Metal
+53nnw6YTbsIbU3txzp1TgB,Ángel Caído (DMO 2.0),6EgH748kZXEGcpMNdRKaYV,Finestra,06vLWMLVayrykN01ZWCeDh,DMO 2.0,2013-12-01,0,Latin Metal
+7B63hxlenjMr89OpAIWp7W,Bi Bu Bop,7sSf4bh9XGmUiJdzIU8cIR,Cuux,6dIL6PAuRpKu7uGH1gl7OZ,Bi Bu Bop,2025-05-05,0,Latin Metal
+4ETxeNtqnw7rxwhYceCKtv,A Diestra y Siniestra,7KF3GrUdi7tm7DbvJZUEnC,Fauces Del León,5lYF5wXXmUBpLVvpkJKgyj,Ferite Aperte,2024-07-06,0,Latin Metal
+1cRnlNoZf5BDgnFGJBvcAT,Mi primer Amor,2ZQTiaW6odCGrLFucrYITo,Pablo san roman,7vOmSzREliaUMV49GwrDVu,Cuando el sol se oculta al alba (2015),2015-01-23,0,Latin Metal
+6ilMBv9gAhE5Bg6O5AiTvH,Era Lo Que Me Decías,0ZW47gKJNGOwK5PkM03osI,Señor Mamut,4L8Q6iVl8zi1xYLBNmppL8,Thomas Jefferson Y La Banda De La Bala Plateada,2013-12-15,0,Latin Metal
+1lupa8PB7AaKEis0O3zmIO,"Memorias, Desmemorias",4SKwutbOkJvYUVczlZqy84,Synesthesia,60WknE2UC1uTCCitu5nmCh,"Desde Cenizas, Sesión en Vivo @Sto Dgo",2017-04-28,0,Latin Metal
+3ov2BeXEGFjB8Q4Dtx2QHG,"Entre los Insectos, Pt. 2",3pXERhndNlLkgNkrVXS45l,Dios Revólver,1ywVyYjnThFmIG76i0p3x5,Entre los Insectos,2009-05-05,1,Latin Metal
+3RYsBMjRSzO0NVqRnIFxgL,US,0yjUvq99vHm9H0XkGJ4efX,Sicdoll,5k6URidmIgMSaf6gDQRRJl,US,2022-07-25,0,Latin Metal
+0inOZNi2TivH8VxGRQcmTz,Calling of the Flesh,04VgVgMiT2IPQOpbVSpRl8,Denial of Existence,5ljvzQqYxMOjRTk6siC44z,Beyond the Ocean,2023-01-02,0,Latin Metal
+5K9Rxo6VxIHzG4xtSDerFL,Marsch der Braumeister,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,5BaAZnLR0SvifnAUSKAiIS,Ein Prosit der Gemütlichkeit,2025-10-02,0,Latin Metal
+5WytBRCtDVKNB8xC4U4OIb,Lyrical an lo - Dirty Tighty Riddim,3tXOp5y82J23zer3ELj6iz,Da'Wa,0XE2AXTjY35FupjFX3geh2,"Dancehall Tracks, Vol. 2",2006,1,Latin Metal
+0SKckMSPBcxenB1WvQ3EYL,Frontiers,2BjfKKsHlMLr9XZ9qRDzJa,Crónicas De Elyze,4eUYQuDOJi7btk8tvYpH1G,Frontiers,2016-08-01,0,Latin Metal
+3zijFWZIIFtCt9Vuc8wT1z,Mirando al cielo,6dtfad7ohFD24HcRGbtbyd,CAUDILLOS,21Du5IKt5xE4Fn97Kb61O5,ENEMIGOS DEL MAL,2025-01-13,0,Latin Metal
+5pocgy2Y3DZHR8wO79Ngyj,Que Hay,5Y6fGMF2djr6YvS4Ksn0E8,angelazul,0CiUQCegzpZyeCLNlOHNzM,Que Hay,2024-02-05,0,Latin Metal
+0ZI99j82catgkVnjCDcZ0r,Pray for Me,0VxfCkajsP3N63IDbHSCp9,Savant,71ZMcrYwm8o2JxHNNJZcBw,The Blood of the Damned,2016-08-03,0,Latin Metal
+0ELGtMXfVzA1zhDrMnI3dv,Cold Desert,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,3FyHnNSwOMee3Es3b9vPGc,Chorus of the Bane,2021-09-22,0,Latin Metal
+7FD9IAwZ3c5ieR9HbOgABR,Awaiting,54rB3NXHq2j786lyxfGoQt,Drej Nil Zurago,4CVagOwjarHoRC9ym4b3An,Lights and Dreams,2021-02-07,0,Latin Metal
+08f0okojKf8MHpzNBLAHJO,Zona Trece Punto Zero F M,38uYobVqfeOPD3uWdliHMg,Zona 13,5BZjpi4RKewQJjYnSjPiJP,Zone Out,2004-06-05,0,Latin Metal
+17FFv5wVJqKCgLr6k3jfub,Introitus - Odium,046ILM81yXbcOn53ozzKhC,Burnkill,7yQn98AWnomabDRMnZynFZ,Introitus - Odium,2020-11-27,0,Latin Metal
+31wtNEj0Tv1GqFa1MRHNy9,Face of Lie - 2021 Remastered,2msWAhVnqkRNlWQGr8Rg0l,Sacrament,6WEUS1wZMpbTkpaL9SsClv,Face of Lie (2021 Remastered),2010-06-06,0,Latin Metal
+0zUjFOhACoLhKpyo8YB5mh,Quiero estar junto a ti I,2M7LpPL5OAwbpzgFKo7w89,Matasanos MX,7sqaTdZmPs0hv6oPRZtVhd,Alta Traición,2020-12-07,0,Latin Metal
+5cbnqdTRtFVgJbp26rxaoJ,Caminos De Energía,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,08XB4su2qCWsRo5g11GtiG,Ecos de Serenidad,2024-11-24,0,Latin Metal
+2rKTE3IRXCYcdPdDfIonS7,Contragolpe,2VFa1AZC5WVdW9pGyuhZa9,El Carril,6jx14Cs3mB5n9a4Kl7HMKi,Fue Mi Destino,2021-02-16,0,Latin Metal
+2YGetHNtZ1LepjDUEq1jZi,Cum-bia,7sSf4bh9XGmUiJdzIU8cIR,Cuux,36CTDwpvZFwYPR0eZ14Jhj,Cum-bia,2024-09-09,0,Latin Metal
+7rHdBUKep1TbvefJMKC5md,Fuego en Tierra,7HAiM71rzO3K471EGNYUJm,VMENCIA,3a8OSShDXdnwkvTryxK7RW,La Caida,2023-04-02,0,Latin Metal
+6zvBetO6Q78puJ0w7WPNdP,Rock Around the Clock 6,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,4jKtCsFMnkn0yqs6Dxvrj4,"Rock Around the Clock, Vol. 2",2018-12-14,0,Latin Metal
+5vfAw0XAMJBa2FzAWLICjj,El Interminable Desierto,3pXERhndNlLkgNkrVXS45l,Dios Revólver,1ywVyYjnThFmIG76i0p3x5,Entre los Insectos,2009-05-05,1,Latin Metal
+5KWpQWSqNT2js957Gp4lcT,Chooser of the Slain,0bjKAnrJAxHDQyLsY3h5zH,Your Epitaph,0ZRxLcNszleZoifOFRmtsu,Chooser of the Slain,2013-12-13,0,Latin Metal
+6CBVhHUFKYReB5t24nS4np,Eres Cosa Del Ayer,2H7BFc1rGUG9d6VSLqM3EM,Blauw,3FZe1OSNkXKtLnlJPgG0WL,Amar Y Odiar,2023-03-13,0,Latin Metal
+7cw4i5FxzvH9gsDDx2fjkk,Ascensão,1ovJ0R4SaaY2NQ0toNv2xZ,Verteres,5FI5MvaR5depDInIxwV6kW,"Fragmentos, Pt. 1",2022-01-26,0,Latin Metal
+7vXwEWoJFYPSF11wCSeyzj,En el Patio de la Mente,5LTUiMwmNlQsXfD7jQxyqY,Dramen,6IwLp1Se7SWrhooST2sqoK,Dramen,2016-11-17,0,Latin Metal
+0tGTVIGASLZU8xRjxgVPS9,Sudor y Sangre,4nz9udJjtll0zBXQtl0UE2,Nexoasis,6nks4XqGRJ1XpxZCoD4xDW,Sudor y Sangre,2021-07-23,0,Latin Metal
+4LRK58E7V39PDDv1ApPrib,Fuck off Mahoma (Anti-Islamic Propaganda,6RgsbKWKLBmJFwTNfQTpFk,Evil Nerfal,4HiFVExNBkxqzgFgUnEayZ,Sons of Chaos (Anti-Kosmic Dissonance),2022-03-25,0,Latin Metal
+1fu6gL3VrBkTMTv5TDnj0C,Rencor,4cFjJVP2f2XQN0RkS89z7Q,Nacion Disfuncional,2Ha6kBv5f2ciK8c2rrZ36j,"Politica, Futbol, Religion, Pendejadas y Mas...",2013-08-17,0,Latin Metal
+5om9ZBdIeGuLKLgRDveXDr,Por Siempre Persiguiendo el Arco Iris,7BJlOVWYvnG0xAy6VC6nBx,Razorblade,0uIGNF2bGGPVB1Ywnd0na1,Legado Metálico,2021-02-19,0,Latin Metal
+0QPrLu3Lf7gggA9aDptbw8,Scared As I Am,2K1doOtz4YqG3eiNGlpo1R,Sleight of Hand,1HNm5BBRUgysKTlbNzK8Ke,Secede,1995,0,Latin Metal
+5gJ9xvIyFBTkxIn5q0qnDW,Hombres de Hierro,44uHBk1RgqT6Rtc9Z87RvM,Stinkis,6bJRDleln45bpiPItR08HT,2011,2024-05-03,0,Latin Metal
+0iSCCdgFyR16EglME0Bf7T,Dunkelgeist,5jIt9DeVMoGuic5LPr833U,Milongeist,420mCnXKqxSGucNoesHSjY,Dunkelgeist,2022-08-10,0,Latin Metal
+60FbOVUIkZsoMBnWXjlvdV,Un Trago Más,0ZW47gKJNGOwK5PkM03osI,Señor Mamut,4L8Q6iVl8zi1xYLBNmppL8,Thomas Jefferson Y La Banda De La Bala Plateada,2013-12-15,0,Latin Metal
+5DA4nDq036DJ8mG98R5IDN,El Martillo De Dios,1vvqGCpXTBr4YTMjifNAVM,Deuterion,0Ojf4iZRYhuUUVJLRp2FdG,Alma De Hierro,2022-02-18,0,Latin Metal
+3NmVwkImXmZnisjO21yGuy,Nosce Te Ipsum Pt1. Tribal Percussion,5DXXRxLMYRgnD1wK3ECqxD,Kreeper,0IAVJC1081uLbGYmhKfYEZ,Crematory,2020-10-14,0,Latin Metal
+75yxq49UG75qGvOgbdAyig,Bujia Empastada,3oiI78GenGODRgSkN9cCvT,BUJIAS EMPASTADAS,7B7eyQDUos1HGzit00upzQ,Demo II,2019-12-13,0,Latin Metal
+0y461KErHOcXjzsmt0FuUM,Nunca Voy a Abandonarte,5jttFlWC47mpyZf09NCse4,Resurrección,4NFxvrto1WdGI7b3IccaF5,Lejos del Paraíso,2020-04-18,0,Latin Metal
+3HeOSXhwEDbUt4qro9jr51,Infernal - Intro,16shuBBKI2AkKjwWYIbboH,Death Craft,46eHg9V09SdY7VU0PWSbp4,Infernal,2020-02-03,0,Latin Metal
+5lYTswhOxU1wZUvuDI4bu6,Tranquilidad Profunda,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,08XB4su2qCWsRo5g11GtiG,Ecos de Serenidad,2024-11-24,0,Latin Metal
+4pyImwXTcWZKvGRXYc6wDj,Bell 6 - Instrumental,2cqkhRAy47cpoBD4ocDzbb,Off Silence,1GKFPwlSO7BaUt3hrQ6ESx,Bell 6 (Instrumental),2023-06-12,0,Latin Metal
+0WM4N2Rbe2pKm6KcjHzzsI,Prepárate,5OImtJcOmtdm3MkR1yLHkp,Obus,2S2QsjnyrywzcO2lJOuCxZ,Que vienen los Heavies!,2019-04-12,0,Latin Metal
+7KJXwMRIjt5f8RbYDEHEHX,Pléyades,3imZBy52xBs76LVqUtxwTF,Federico Spinosa,5sfjHrbnhmGocaXKOIqWNX,Pléyades,2025-04-09,0,Latin Metal
+6FnCnJdmyeIinVzSDXnjz5,Irabazi,0h4yZMHDM78jl7Ib2S5FjG,NX,7c363YjmkAmpZjFTxOsdjv,NX,2012-02-20,0,Latin Metal
+44LsBbHDz9T9ZTflSkFtZ9,Victoria sin A,7KF3GrUdi7tm7DbvJZUEnC,Fauces Del León,5lYF5wXXmUBpLVvpkJKgyj,Ferite Aperte,2024-07-06,0,Latin Metal
+25NNPdrtQnjXztd2QwA1Dd,Como Un Barco,4unbkLGVdcprRwymAarw0h,Dirty Harry HC,7MXDLKmOyT0ZOvTY3h1x47,Muevete O Nada,2020-11-20,0,Latin Metal
+0krVovIjG2ot4GG75Y7zA0,Thrasher-Geist,2amJMkL7rejRdZA8bo80Pl,Witch Birth,4PnuaHgn4qTCGpWLLmf11i,Thrasher-Geist,2025-10-03,2,Latin Metal
+5yOyWU9gaiCM0AtWZegIS1,Una Vez Más,7Gl3ogpbkaflnEzj4npfen,Overhead,6D1W9Zm7sZ9WuMzhIhb9aM,Overhead,2006-04-01,0,Latin Metal
+1PgXTgeS4NN2J1hkfnAhub,Vas a Pensar en Mi,2zYvE3Jt6DSDV6AQ0EflBH,Mass Histeria,7bjWTZr4aibZ7TOvTVUdrf,Vas a Pensar en Mi,2016-04-11,0,Latin Metal
+4rFOIGCENtLyXiSbV3uhmF,El Negro Blues,3oiI78GenGODRgSkN9cCvT,BUJIAS EMPASTADAS,7B7eyQDUos1HGzit00upzQ,Demo II,2019-12-13,0,Latin Metal
+7GHSpft0qQSi7ktRmgVKqJ,Fly Away,4CdE4gn0CQ9oqmBkckrage,The Crazy Therapy,3WOYJoVwNa5xWkVwEw8S16,Ways To Nowhere,2017-09-25,0,Latin Metal
+26vC06sBdbHUhxCB8nEnRw,¿De Qué Vale?,2H7BFc1rGUG9d6VSLqM3EM,Blauw,5fQ9CfoKfbPhnqPMhaLb0z,¿De Qué Vale?,2025-03-08,0,Latin Metal
+2G9jGpFJxUie6hGB5bHrV0,Yapame Casera,4sQ8LIYQVsdyiB4npSDuX6,HeadBangers,2FWUava4iO3P4UpkMbGR7F,Thrashing Alive 13 (En Vivo),2019-08-08,0,Latin Metal
+0Y6e3SVdqenHXTmOgS2wGV,Conciencia,5LTUiMwmNlQsXfD7jQxyqY,Dramen,0YshFwRM5YyyCKpxmjqkdy,Enfoque,2018-02-06,0,Latin Metal
+6wnVoxkDVzJahgAG6UtKwC,Cycle of Birth and Death,2AztJcP4GBEvmSrioSUkgV,Dust From Misery,6Z1LLZzewjTrfcjnAv2r8I,Dust from Misery,1999-01-31,0,Latin Metal
+7AafhOcURJDkiTGDV30TPb,Tu Recuerdo,1fPx62XxS01dK3Tdtgs2mS,M-Aguila,1p2stm8Mvyn7QgrQGEHYW6,Reloaded,2019-08-27,0,Latin Metal
+2nWPYa5QL8OWs1n5opblql,Rugen,1iJqQhVF6Px7if8jpa4X4d,Arsenik,7a6RT4pc6i9WXgk4bcevwl,Golpe de Remo,2022-06-10,0,Latin Metal
+7LeY1CJfoXBrdR8P8f4UK3,Jaulas,41y9rGC2v2vipPOnZX66t2,STOS Band,4TzJfUci8MtrZ1ECSymYtc,Jaulas,2024-03-01,0,Latin Metal
+5r3Hv1k9fM3GwLDiNua6Jz,Aves de Acero,1FQ70d7FW8hFrmXlRzcScU,Missing Bodies,34RERwnTxdLOZPc8uPqfX1,Aves de Acero,2025-03-21,0,Latin Metal
+0QSIvr1fI2WOtjwFluTtFe,Az-5,156UZoCqWAekH8fPVqhHal,Amoladora,6NY8nqd01nRfY08TliiaoW,Az-5,2025-06-02,0,Latin Metal
+7G6khhDaZsr0p2zzqCYcht,Ya no más,48xw9Hcx4BaYsYdqI8GWUI,Blitzzen,4lIjYnQXLPqLsPjKvFSvd1,Aferrado,2021-12-06,0,Latin Metal
+3a64OgxTYPp4pmyF0mJ8fs,Prensado,7MaoSCuHAqzV9EgoakB2F7,Amônia,4tN1imfpM49mPq1lm1wer4,Amônia (Full EP),2021-12-23,0,Latin Metal
+5NBExeVrpIJDQwHHdXXQap,Nor Acaecido,2BEZxC6YxkHThmkUWwLqHA,Norberto Arriola,5todKHCFND1FHgPMmortRf,Nor Acaecido,2018-12-21,0,Latin Metal
+2DSz9hGZ3xmby4B5C0gg4t,Long Live Machine,4eO2ZAc36I94nlK8TsSIKR,James Manson,67oedpBH6Qt3JCcYHHU3Xm,Subliminal Dead,2020-11-28,0,Latin Metal
+5e2NIg4pilzdz6QP2x5MPX,Through the Stillness,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,7c4KTNi4eIrDPqH02zwBK8,Meditation In The Darkness Of The Sky,2024-11-26,0,Latin Metal
+5HvaEii0hSsztRiXssGhqd,Eu Busco Esposa...Pão de Alho,0ht00jN83LLHqvkkdePlB7,Radio Everett,2oagkv9q2KOioVz9KLCJDz,O Conto da Simiologia Cosmica,2021-11-01,0,Latin Metal
+0rVW3HjTefhj0gelE9YWdy,El Extraño Retorno,608gdoM3tWIFE8dUp00QkP,JAMASNUNCA,0eP14p46iNofJgx7krH4cn,En La Orilla De La Luz,2021-12-24,1,Latin Metal
+2JEbIenGxyddQ5jKx5GuE7,Sangre En Mis Manos,6gv7K55o2qyiGD9u84TIsW,Muro,4KsF2WRHZSKMZ6lGq6zddM,Corazón De Metal,2017-03-30,0,Latin Metal
+3hmoqbZmUeTWzmGTXCic4e,Despierta,4kX7t0AnpXdevUMA6fNlhr,Animaverso,6bRFZi9VhlTAYi9Mxml16k,Despierta,2023-06-01,0,Latin Metal
+07BcXChdrnpoQtdoit9e9Z,El Bombillo,3gKrP9BTKDmmSLNPxT4NyK,El Panico,3SyyiwXE1n7QS9ET7ATkcG,El Bombillo,2023-09-01,1,Latin Metal
+25bvXNxBKSo5PMBmdf5AnK,Reino del Terror,16shuBBKI2AkKjwWYIbboH,Death Craft,46eHg9V09SdY7VU0PWSbp4,Infernal,2020-02-03,0,Latin Metal
+4O5eYOgmHXmfPqKdDy0XPY,Enfremo,7KF3GrUdi7tm7DbvJZUEnC,Fauces Del León,3TvThhnIOS6eYx5JQAHGfH,Enfremo,2023-07-08,0,Latin Metal
+10DgfBc6z6l8JfFpMhhoVZ,Prelude,3NgTUXGBs00Q1iiTx8dDkh,Robson Anadom,5wSEI6I3P920Kxni2aE5JZ,...and a New Story Begins,2021-06-25,0,Latin Metal
+5LKjmo1uj5xbM9ED7iVyiH,The Funeral March,5MgzyqXRsYzOla02ZxXqlZ,Sarkos,3WuFNteRTw4WJPtLCvwzyP,SELF INFLICTING MISERY,2020-09-28,0,Latin Metal
+7kWlC0frGsKwsE6OwAysju,Llegaste a Mi,2CtfK37zQCLtfik6iFmDKl,RIVO VARGAS,0Jn0Q8XdNDoqhELW21Gyp6,Llegaste a Mi,2020-12-25,0,Latin Metal
+2pUSr5ZII3cYYBWVCCIvDq,Toco Madera,6EgxQw86xdm3XPA9RCtiH3,Trotamundos,2iOLMxf1rW0tzGMWKiOzfQ,Hecho Bolita,2017-02-11,0,Latin Metal
+2n5wA9XAwtuwKLtA3pU7mX,Toll Trolls,48Lxy6Imv12GxZSFyn1H5b,Ea,6tnNo9fWn3E6iDTuZOqe0h,Plush,2014-06-14,0,Latin Metal
+6xbfJfplcTMc4ufMnIRF7l,Sometido,6jgHQ3529nt2uuuKsrQqXX,Matheu,7IwhnO6Fa5ZODrNSynjrNf,Nacido Aca,2023-01-27,0,Latin Metal
+3gbTAR3LrXb0Nb44hFbdoY,Ninar a Dois,5WpaOc2cHBJjRWNMI2dFYv,Boneca Voo Doo,6OMDjMNaklg2oEFz8OQ8Ak,A Bizarra Viagem Entre Céu e Inferno,2022-04-15,2,Latin Metal
+6nPDVMWPVR77HCuFs00vpK,Hasta Abajo,1fPx62XxS01dK3Tdtgs2mS,M-Aguila,1p2stm8Mvyn7QgrQGEHYW6,Reloaded,2019-08-27,0,Latin Metal
+5vTvHyuXOOHCbDDI5C8cQv,Just Another Day,4hHYK5rmy78Yzv2Mbl618z,Cahlis,4eCTIBwDShjfMZfdk3XA9c,REVOLUTION,2024-10-21,0,Latin Metal
+4mDzdIofU3nA1y7jOYdl1j,Mégegyszer,7ad7jJ6wh61UfknBqEKSy3,LAY,1YJU1IOAydu0v3dfmCkbyM,Laugh at Yourself,2014-10-07,0,Latin Metal
+6e4OD1d7A1Yl1tokxqoh1D,Ya Viene Yolanda,7xXmzVqPDcYmwoWAsyaoXH,LOS MARQUEÑOS,05saU9KJSbSKKsXGChR0yN,Ya Viene Yolanda,2025-01-03,0,Latin Metal
+7DQEF4p1PpbGEfoFnjCMbl,A Luz,7MXrfsN4W2uGmFEqWE0S5b,Engenheiros de Almas,1bXv2Z7e6L66it97Z8VHWm,O Diário de Rodolfo Kundera,2016-12-09,0,Latin Metal
+4zHsYLjm991LquDZYrQJrg,Entre Árvores e Túmulos,606UloYXTOACTHlplDAO1G,Banda Lúgubre,5Z3esiru2W5sa3pn2YS2L1,Como Portas Que Se Fecham,2022-07-22,0,Latin Metal
+483BB8WoRnG6apOkdOLa5M,Umbra,4gnoOEsX1PpclDg8p6B0Sw,PLC,5vVlFyUinM2OK1vIj34Q2Y,Singula Videntis,2023-10-05,0,Latin Metal
+0qikLbeD8lmt2g2lMaZEFo,Quasar,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,3V8c7pxcy04M85JMqilnwl,Music of the Celestial Kingdom,2024-12-07,0,Latin Metal
+5mgMIrP4mor0f8gC7rN87S,Do Batente A Fora,0AbdqXLoYFSHC2cY4pvEPT,Jose Marcos,4qncI5JyqrTtQLd7V43XUg,Um Show de Forró,2019-02-28,0,Latin Metal
+5FxgjX243U5ZTyrbtSabBC,Como Ninguém Viu,56ztr0qVjdCw7kyYNjLE0a,diaTrês,4FXMj7MQya96nLNBQIrdt4,Prólogo,2011-01-05,0,Latin Metal
+7kPHkLp2qs8hhi1MJPfonZ,El Dolor Es Mi Canción,1lTugD6Lto6jxWk5GPxPLn,Adriel Baeza,7wY10crDiO3d0USedqX9dE,Vacío,2025-07-25,0,Latin Metal
+36KXygA4udjfxMzgtt8mPo,Buenos Aires hora cero,4st9JhI7M45ZzQLxIDeGdg,Opus 3,0iwOljxGdNu5eljo7SoShU,Interpreta Piazzolla,1998,1,Latin Metal
+606uOyv6KQw1T4xK5za7QO,The Phantom of the Opera,60e9il1dIth7s8TnHJQLqZ,Susy Z.,0g42el2W5LDHRJpcBmlE8b,My Angel,2016-11-15,0,Latin Metal
+6VMzFKt5kxjFJRdYepwDOc,Pogo,0jKpGGcUH0zXBLXOTkOmnl,Pablo Bellucci,4A729rv6JSMXWjJiWvGrR3,Heavy Metal City,2023-09-15,0,Latin Metal
+6WnLLT0x1Q0mOZVqtDVAV1,Empezar de Cero,288Wy5823oo4SjvNipUIYm,Destino,4Z205LRLyRXEu1cDT7S19v,Empezar de Cero,2021-04-10,0,Latin Metal
+7AdcBYH7YTsnUZRY6S6Gzu,Hocico Lleno de Moscas ) - Instrumental,4fRNmE00HkaWSKDxB1uf49,Campeones De Nada,4l7hCdGo9qNzQayp01Aijh,Hocico Lleno de Moscas,2022-11-06,0,Latin Metal
+3zQ6nDRWAW1sSSBgAqGbf6,Holy Flow Addiction (Ncsh Remix) [feat. Ms. Crystal],7u08MTip1ey47RyRWvZ18u,J.O.T.,0lMyvm8r3bxL0N1WSnLVdo,"North Carolina Street Heat, Pt.3",2015-07-10,0,Latin Metal
+42JiREx4un0ogD3ZVAmJIq,De Donde Viene la Sangre,3pXERhndNlLkgNkrVXS45l,Dios Revólver,1ywVyYjnThFmIG76i0p3x5,Entre los Insectos,2009-05-05,1,Latin Metal
+2JHviF42L5ffuQYIq6Eoap,AHORA SÍ,1HPm6PlGLRQdgnmlJVd8lb,PERRO-TERMOTANQUE,3kniAeBq1icDOj9xoWU1Q3,"""De tal palo, tal chichón""",2019-12-25,0,Latin Metal
+1D0JCy2TJImBMTUBCsyHuP,Oracle,5jIt9DeVMoGuic5LPr833U,Milongeist,420mCnXKqxSGucNoesHSjY,Dunkelgeist,2022-08-10,0,Latin Metal
+1XwN4qr4zj1XVH5xzvR3dB,Luz de la Eternidad,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,57D2ABXFjlAsCaOmZBsRcO,El Mesías,2024-12-19,0,Latin Metal
+3v6QeqWg7xoQycNcACCtCG,2029,0jKpGGcUH0zXBLXOTkOmnl,Pablo Bellucci,5ku4YcK8h930oyl3Wc62Gb,El Mago y el Científico,2023-06-02,0,Latin Metal
+1u7lTjJhMKNJZsEdBPOJx9,Mild steel,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,1DbDeSw1YyxH63DBrfpYvn,Dance Alone,2024-08-12,0,Latin Metal
+7wOcsGqA80eJHIfZveDRZ6,Ángel de Luz,6NWSstdhwB8jsF9RtN9wKh,ANGELUZ,4IBEJaGzOH6LObPChIKvI8,Después de la Tormenta,2004-07-01,0,Latin Metal
+34MHex7JQG9wE1xFMHF6aD,Em Suas Mãos,56ztr0qVjdCw7kyYNjLE0a,diaTrês,0XnrwQUXdv2n0MoNwOVS5D,Quem Realmente Sou,2021-06-04,0,Latin Metal
+22jOop3a31KZRjWdkoagLl,Despierta,6fOaUtyRZ9PwKZCdGfYZlV,Reditio,07OL1xaJRRQJV59sLtISf5,Despierta,2021-03-25,0,Latin Metal
+1uTa4eXoTHwFyvlT9ujkxS,Preludio de Rock y Amor,4s5NJyZvCBrZvDEwmCCt15,X-Clama,3cJus4GsWzVtiLbUUlPQmM,De Rock y Amor,2022-11-11,0,Latin Metal
+5ZOBx99uNNy5STiXVOPf3h,Sobre Mi,0qy2K3V7CfqRSRCWabyQ7H,Timmy O'tool,2CMKPwtmge782wj07ofB8p,Sigo Aca de Pie,2007-12-06,0,Latin Metal
+0LDzg5Cmv11joaZEBhKzPL,Cortina de Humo,4hHYK5rmy78Yzv2Mbl618z,Cahlis,4xNh2amO9QiH7NSg5hI5XO,Historia de las Ideas,2022-08-17,0,Latin Metal
+5ppxR0HxZWHcAjQXnDylZ3,Atlantic Breeze (Coral Reef Remix),4hrtwKr7QcVw5PWzNMUqzI,Étienne,0fEphRbAzpC5bVUfvB4OeS,Atlantic Breeze,2021-06-22,0,Latin Metal
+03yU3x44WHoJ23HUabLNmR,Raigeki,0o741gsJLpuJY1q4yt1Hzu,Odd Potion,7LlJUp6uBVgq7NUxjqDsZZ,Impact,2023-10-28,0,Latin Metal
+7Cvo5Zbx8PP3DvBj5IlD0T,Insecto A La Luz,6VkNsFhZmMQRikmnir0oyk,Thrashammer,44hZItnV3a3UgriJWDJfgL,Potencial Humano Desperdiciado,2025-07-14,0,Latin Metal
+5W6EfG5RH1cL3ASfihwCwv,Alanna,7qyGog4qqX7xPqa5tMELze,Folkyou,5H11SkeMRvNhiR9CkCK9bj,Corazón de Guerrero,2015-10-04,1,Latin Metal
+0Maj2uAB83wHbJ5GTiZqYL,Cuban Dance (Trad),0KXLvbG9Jdwu4mIh242YeT,The Aberration,4fbDnc9PpNwMyaYUXDwsHl,The Aberration,2022-09-01,0,Latin Metal
+0wzyAkiGypoHALcqCp8nlG,Héroe,6NWSstdhwB8jsF9RtN9wKh,ANGELUZ,50xSs3HtIAQXrDbvcX1lmy,Memorias (Masterizado),2010-03-10,0,Latin Metal
+2knVixgvWZ2OQlq2Tpecil,Solitude - Remastered 2023,0WevzucgbPGokVrAjbYdJW,Kris Di Natale and Dragon's Fury,1Ewcg7QQW9l1Jwe0cNmtma,Solitude (Remastered 2023),2023-05-19,0,Latin Metal
+1r1pYu5GGcPe3xfrKTIfRh,Void,41LKcor8EVp8LHLCtJFL1d,Holy Hex,1LNOOvZ2PPhsf7BkmsO1iH,Behold Your Own,2021-06-04,0,Latin Metal
+59DkOwTWPZTTUsxOqv3Sic,Sin Corazón,1M4yW9KkMOMfzgmRvMCTvE,Madskyline,7xCWK2B9wZqXWFhE2SU9fC,Our Madness,2014-07-20,0,Latin Metal
+5cnge9SbI8gVGBenYVswUS,Trastornos y Visiones,51K7A0J9GRIFQEYVsHtoNV,A New Addiction,6IDDut00dS7OgDy07JjDpj,Entre Hemisferios: Exantropía.,2007-08-04,3,Latin Metal
+2fZPKZHSyjYFgStsXsqvNJ,Occult,5jIt9DeVMoGuic5LPr833U,Milongeist,420mCnXKqxSGucNoesHSjY,Dunkelgeist,2022-08-10,0,Latin Metal
+6THQoxoUkFYCL36ERK8zrb,Progreso,0jKpGGcUH0zXBLXOTkOmnl,Pablo Bellucci,2Yc5cR61rtN3IamMuH5QGO,También Hubo Guerra,2023-08-04,0,Latin Metal
+7N081ThAMtumXjEDfoS5Ao,Black Lantern Lullaby.,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,6mDvDPcu2g5dbDBw4RJypm,The Delta Tales (Fog Over Helena),2025-05-31,0,Latin Metal
+0EAspqwCA92a1HBnodlGlo,Electrocardiograma,7o5GWc1U4iid5HRmeJBAdt,Jerry No Vino,7r7jZZ3yfCi5LGa8aSgqwy,Cuando Vuelvas en las Nubes,2022-03-07,0,Latin Metal
+3ddcE1CTxSO5uGkTXGlpi9,Entre la Razón y el Afecto,0M9mPogyDbgCATbG0ewDt4,Errante,4kbyd6bqrvnkGEmBMEo3tG,Split (2017),2017-10-30,0,Latin Metal
+4Krw2phjJJ1BKCky2i1SB3,No Todos Ríen,4hHYK5rmy78Yzv2Mbl618z,Cahlis,4xNh2amO9QiH7NSg5hI5XO,Historia de las Ideas,2022-08-17,0,Latin Metal
+5523xSgRWiGT8TJTPLmqde,Feel the Road,4eO2ZAc36I94nlK8TsSIKR,James Manson,7Jo9ZXpGNNum6TPtmeDSRu,Broken Sky Light & Dark,2019-09-09,0,Latin Metal
+4Eqb1KZfqUfuUggYm7espV,Anticarro,4uMYAyqTA3xwvRyhmldJtp,Kräneo,3WrM0zQaCEnSVl3nEogrCk,Anticarro,2023-01-20,0,Latin Metal
+0eaIYQDtSDeVZFbdWaCLmR,El gran pais,5z2dUuH1zR21yjuByW3jhl,Surviving,28nl1B285Tgi4zvZaJTul5,Surviving,2023-06-23,0,Latin Metal
+29AiRix1ZLGYK5rUR2kdBg,Cacharpaya del Carnaval,1TC7Vl4ftQWLcntwfP932j,Raices del Ande,4VpnjrTMVBuPhJZ1FcqARB,Raices del Ande,2013-08-17,0,Latin Metal
+3O3LppmAH3KXY8vPKvV5W7,Histeria (Maqueta),6EgH748kZXEGcpMNdRKaYV,Finestra,6TcrwoUcIE7K7iQmNnWWcs,Histeria (Maqueta),2009-07-01,0,Latin Metal
+41a1qhs4LCErFKAaAjhFf3,Libre En El Peor De Los Sentidos,608gdoM3tWIFE8dUp00QkP,JAMASNUNCA,0eP14p46iNofJgx7krH4cn,En La Orilla De La Luz,2021-12-24,0,Latin Metal
+0L2hYGZDer09yTCrNbHEVf,Manchado,5WpaOc2cHBJjRWNMI2dFYv,Boneca Voo Doo,2J5jkz8fQdzlye6f8ah0CI,Boneca Voo Doo,2019-10-31,2,Latin Metal
+3A8WUq56LdMFCnQvPtk5BT,In Time,1izpLUcrSXQ40xQDebp8TY,Reche,1EgV4z6GCdNPwMnBWFflvL,"Origin, Vol. 1: 1978",2015-04-13,0,Latin Metal
+71s7x8Kk528t2ApUiySWfT,Beijinhos,5WpaOc2cHBJjRWNMI2dFYv,Boneca Voo Doo,6OMDjMNaklg2oEFz8OQ8Ak,A Bizarra Viagem Entre Céu e Inferno,2022-04-15,1,Latin Metal
+5y8FUrermRtEOhvh59l1MN,Verdadeiro Amor,0AbdqXLoYFSHC2cY4pvEPT,Jose Marcos,4qncI5JyqrTtQLd7V43XUg,Um Show de Forró,2019-02-28,0,Latin Metal
+1DY24EB2usDiiZmPrMA5KI,El Mujeriego,3Qck2YBnU4NlzhQ5toacao,Vendaval,20X49Ob7pI3Igybwx311Tp,El Folklore Andino - Music Of Latin America 2,2015-08-24,0,Latin Metal
+4aSYolf5zcIpNAVDtoCB0t,Aceptación,2jQ7JUx0GHDxvYmcPRlFPo,A nosotros el miedo,7fd2jk4IGSA7aqasK9M6vS,No Tengo Nada Interesante Que Te Pueda Decir,2020-06-04,0,Latin Metal
+3fVOotvUAkIiDhzA8CeSaQ,En la Casa,1bludzHSBjKrlJHx7T8eQx,S.P.I.T.,2neShtdamVd2U8kT8roCJ5,S.P.I.T.,2022-02-28,0,Latin Metal
+4NaTG30k8VGb8RnZoL2VwL,Funky Moon,2waq8g1CdExKVE5JJLJb3M,Lecquian,39JAYK5sX5Qk8BhJeTLus2,Funky Moon,2024-06-01,2,Latin Metal
+4mVb0RjwVY184zaePEgJGY,En Tarima,4xLl6dO32yK7VnXOd0jGnW,Zapatea Gancho,0oC8qVHKbPZPdMir9dBPLa,"Sin Rodeos, Vol. 2",2009,0,Latin Metal
+0Ob6McDg4XBhNVzjowVUxi,Por Entre Trevas Que Meus Olhos Se Escondem,606UloYXTOACTHlplDAO1G,Banda Lúgubre,0wDI3b8ZEX1askdbu9qI3U,Ecos de Sombra e Luz,2025-07-14,0,Latin Metal
+0470JpWXt4rbyZRzzVkenY,Enferma,4CdE4gn0CQ9oqmBkckrage,The Crazy Therapy,3WOYJoVwNa5xWkVwEw8S16,Ways To Nowhere,2017-09-25,1,Latin Metal
+1mJpksiUarF5pwKZszfmNJ,Terror (Intro),0U35haUtdPwcL2NGZhj2X1,Kemuel E Os Desgraçados,5LTGJJK9LzxEIga7bWiYaL,Kemuel e os Desgraçados,2020-10-17,0,Latin Metal
+20v994lYAmFY8s5NcblypH,Aonde Se Vai,5WpaOc2cHBJjRWNMI2dFYv,Boneca Voo Doo,6OMDjMNaklg2oEFz8OQ8Ak,A Bizarra Viagem Entre Céu e Inferno,2022-04-15,2,Latin Metal
+1IbnBTvRz5fOhwH2faj34A,La Tropidanza,4aiZ6gqikY13W8pEy73ENH,SuperZ,5ctScvsF7WPg9J7x6WDq5L,Cumbia De Los Narcos,2005-02-01,0,Latin Metal
+3MNCbxYmEZKGvnNqGCRSah,Nota Blue - Remix,5MsiD70HvC3EUWc3c34Vrq,Plaga,71IWZNuu3l4Ys9eBBrEKpG,Nota Blue (Remix),2021-05-11,0,Latin Metal
+56Ffv3lG1mh1GgflLblGeb,Triste Realidad,1lTugD6Lto6jxWk5GPxPLn,Adriel Baeza,7sLTG4WQAdR3fulxvaKbU8,Vacío - EP,2025-06-27,0,Latin Metal
+7GcmS34St11Q2X6gNjycQH,Quien me ama muere.,6xNMK5RF8Xo7qqeoaP7HrI,Dios Está Muerto,0qDOzcqBmsUAwbH8QOaUQT,El hombre que se ha perdido a si mismo.,2020-06-22,0,Latin Metal
+2XDqo5vKiCS9uW8RFBSgU2,Madness,3XCtVkUbV1Q02oOvuMC73W,VANONGOR,4xSpypEQyab6AqJ5GjeoKB,The Art of Murder,2020-10-22,0,Latin Metal
+4IN2pGtIw5kRrLmM9sfdPp,Delirio Colectivo - En Vivo,4hHYK5rmy78Yzv2Mbl618z,Cahlis,3cHhmdP6h3lt2Y8I6ExwsF,Una Parte de la Historia,2023-04-08,0,Latin Metal
+5Q9aKgx2BVEbp6ngjD6UZ1,Miseria,6fOaUtyRZ9PwKZCdGfYZlV,Reditio,7oOELaZXrAkKkxBH1cBMYB,La Virtud del Pecado,2016-11-29,0,Latin Metal
+0fFYhPZo27Crh4t3p8QzCB,Жажда,4l4sdMXfwR3RwThv0Yvo9a,Toy Fabrique,2VibtD5TZe1QPTnRceTimg,Прятки,2011,0,Latin Metal
+6xrfwbE56Eo97CryksUBnm,Ataduras,3Y5TENt7FdheJiaST619BX,Andrea Barrera,0R7v9knUatcLLHXdUkd8r8,Capítulo No.1,2025-07-08,1,Latin Metal
+03qciCccv8pSv08FmVV4y2,Violent Cradle,3ZBTIAVhhICURDr6li6nts,Godhelmet,35taddAM7Pf25bazjm1WGs,Runaway World,2013,0,Latin Metal
+1mOfivUq7ShX8QGOo8QJJT,Mediterranean Serenade,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,0U2SoUDBBEiwFOZJRh5d8M,Relaxation,2024-08-07,0,Latin Metal
+0mnaxeR1kxKWPXCbi5swVc,10/13,3rQsVjRHgaFQxDwKw9cWqw,Porpet McQueen,5teanaJYYXm1MmZqo7Po9G,Instrumental Instrumentalista,2023-11-08,0,Latin Metal
+1RiiPDViBbzRoO2SlsBwRL,Twilight Dawn,4cwRlZUZ7gH0mobLpSgg69,Shadowings,6aQOLNjMoSpt0dqJC9Td9G,New Beginnings For Old Tales,2024-08-30,0,Latin Metal
+1z7H2qtMmbcHjwT4kwBVoe,Sons of Chaos (Anti-Kosmic Dissonance,6RgsbKWKLBmJFwTNfQTpFk,Evil Nerfal,4HiFVExNBkxqzgFgUnEayZ,Sons of Chaos (Anti-Kosmic Dissonance),2022-03-25,0,Latin Metal
+0LR55GDTS2vv52s7X8I7fK,Hasta Que La Disco Explote,7x40F1q6Vw5PqTt31dhkTK,CHEO FT. RUBEN SAN,1qZNetLzt936GNlwxmU1rs,21 Crew Reggaeton Vol. 1,2006-12-14,0,Latin Metal
+4YUo74Ennn6MFXDsfNUKG6,Al Final,1VsLvsLzVoBjPcNcnCTLO6,Quizás Mañana,1tm0Qi5LxpVUWLxDc5ffGk,En Directo Desde Shamrock,2024-07-25,0,Latin Metal
+5QZYK9AInZOxRRkZf2rPkm,El Umbral,3s33dx76LwaaHU5eRybljD,Stendhal_,1DcmuutBS0guTeBhaz91z0,Volver El Tiempo Atrás,2019-05-04,0,Latin Metal
+6FyyJ576ImQx04wQ3QPTcW,Innocent Fall,4ZdkfYYVRUcuCvhnDhCm7Q,threat,1ygb12ry7wwFX0gRcKt2Rx,With Hate,2025-07-04,0,Latin Metal
+5cdsj9U9zPRFR2N6G4q1Mw,Empty Souls,0DzP0HhPBGLSF8uSv5fxdl,Scarlet Wizard,4TDKtDYbp1dYaPucoWXDjn,Pay For Your Sins,1998-01-01,0,Latin Metal
+2ANwDY9FQ6yHieCqy4cgYD,Perseveran,2sRr1S7zVATnQK888AJcUT,Por Mi Causa,5vUCJos1AJbpVpYk0TniQo,Mirando Horizontes,2018-05-10,0,Latin Metal
+0BSK1N0T7YJm6iUf1f3tDd,Recuerdos,288Wy5823oo4SjvNipUIYm,Destino,4Z205LRLyRXEu1cDT7S19v,Empezar de Cero,2021-04-10,0,Latin Metal
+4JYo8Kw3hYD8qcEm0DNhgE,Libérame,34a82vBn6vTzDR1hUxnTNr,Myzis,7aUxnEMwVGNFXp0RkvHQGD,En Mi Mente Las Arias,2020-04-04,0,Latin Metal
+3L5bnPfTq3MFj5OvuZhvrI,Echoes in the Swamp,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,0gNmbDzRYVAwTDnN57v8x5,The Delta Tales (Crossroads & Spirits),2024-10-30,0,Latin Metal
+3MC1e2UYMKZ2ErDAoH1c9j,Nicole,6rjRdTqjgetkMkehPaXbFy,"Chava ""Drago"" A.H.",3SrvENJoVDQQfrcT8OApMe,Rapsodia Apocaliptica,2011-10-01,0,Latin Metal
+7n9TxOVGknBewn8Hhmk6NK,Reaper from Crypt,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,4YUiN00FKTqEqIsecwXpOv,Reaper from Crypt,2022-01-01,0,Latin Metal
+4x3IqhkBtxSqCNhJMpPXlP,Lacra,3EwDYlRxK4e9C4f7Xpw4t3,Avemanthra,60KoucoSrvMQmqlAU30s8e,Manthra,1997-05-15,0,Latin Metal
+0YWuDuPQOevU5f6GZKgj71,Albricias,5a6VYjdopw3kkPAmJ2uVhj,CVA,4DKCP1dB6sdxzcnMORveWJ,Refugio Solaz,2021-03-31,0,Latin Metal
+0WIR7HoHnPoR0udpTrkEIp,Neurose,7yQ6J5Ew7mE4vlGiLSgNkf,Newrox,7MPEmK8Se777kR9ZqBwueu,NEWROX,2023-12-15,0,Latin Metal
+2i1tIykIiDzU4MY2gqq7Nk,Epílogo y +,7Ics5krcvY2yfQAbhXps6o,Dkuajo,184R0JkpEu7MzQjhdDmqfk,Buen Viaje,2006-05-01,0,Latin Metal
+2CWLO9nxpG6ncl5QI4yoT2,What's Pulling Me Down,4kTFyFT85yh0PcFw2LtLvm,Iorius,4nWeWUiWIDYTNFKYuoHtRO,What's Pulling Me Down,2022-12-28,1,Latin Metal
+71uG9vb8WjNM5VorilM9n9,Preso del Dolor,5sYNqU4mqjhNhvPcINWXmH,kill the monkey,67awksvp4EyqlM6xY7SiR3,Basta,2004,2,Latin Metal
+6gqCaXIv0UATex8TlXP1Mg,Shut Your Mouth,3y3UMRpgDjqWsehUptxwO2,Only Resist,2IBQXqcJZUMck7QlxmXb4N,Shut Your Mouth,2023-06-04,1,Latin Metal
+7dcCf9yrbACKVtIrFmVsoC,Fields of Snow,7hwJJdBnSCLWWsu8QxTQZ5,Winterlunium,1NZoEktK7d8CFHD1edbG5F,March of Winter,2018-12-30,0,Latin Metal
+4gOD2G3x23ItrOjHlwl5ZN,Delirio Estremeciente,1f1ozy6Fpbvy2RYId45EoS,Alas del Dragon,1I15ILt9asvue4wXhLw9kZ,Tomenlo o Dejenlo,2022-01-05,0,Latin Metal
+2dFPDo1NJAmcLkA5CSWzH1,NN,18uJNEs33Z2aBXROL7nHBx,Shaka,0f0DA3CjhLve0mW1DEMz09,Shaka,2017-03-08,0,Latin Metal
+62TvYRgMcs4eSoMzCvCpbU,Caminos Invisibles,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,1gzZIiu2SxnsUK707ZrLBP,Música Zen - Ecos del Infinito,2025-05-19,0,Latin Metal
+6DOVtwify9EYcLLijCWNJo,Praudy,3bIwjpAkircjbSAOL7oheO,PLEBS,32eFkit82tkosOlNpMTeoz,24/7,2021-12-30,0,Latin Metal
+69cHcxJbfvRfJqOIHiHrK6,Não Vá Se Contaminar,5WpaOc2cHBJjRWNMI2dFYv,Boneca Voo Doo,6Eo0Ddsf05VPxt1ERrfwBN,Não Vá Se Contaminar,2020-12-25,3,Latin Metal
+4K4x48qtuxJS1NPdWLPUhC,Pitax (Memento Mori),5a6VYjdopw3kkPAmJ2uVhj,CVA,4DKCP1dB6sdxzcnMORveWJ,Refugio Solaz,2021-03-31,0,Latin Metal
+5KHOLqsbQJoGqtvRsXnsSy,Ciclos,4WTrz9PQr8JB7lvyqQHtKI,Sombra RM,0p2zQ89EfmV7LVjBo5YPbg,Ciclos,2020-12-31,0,Latin Metal
+0rCrlE47C7Sh7Ql3SmYjNN,Hollow,7zekxCl357SbzXIArvoqFF,Christ Vel,5GseVpVfC4uViiMLX6Y0Oo,Resurgence,2022-04-25,0,Latin Metal
+46gOCXMXxZL45Vjr3G9HBM,El Zoologico De Moctezuma,4fRNmE00HkaWSKDxB1uf49,Campeones De Nada,5JdDam15bdBWCbOLL2YO7B,Anomalias Humanas,2022-05-06,0,Latin Metal
+4mNM2kMFT9QXrsDiGWDsYX,O Mano Que Tudo Vê,3dHeuiZh7w4C4LsmjSrlJS,Cabel00do,1EWFYztce4V8UlUzIiCDG5,Genesis,2024-07-02,0,Latin Metal
+6twM3W0F1YJbpb9lcr4i8d,Querube,0i0Qpv0hdV3ssndktfZ95Z,"Alejandro Vargas ""Colita""",2rzISvdKagoso7rlNuclYV,"Alejandro Vargas ""Colita"" (Instrumental)",2014-10-24,0,Latin Metal
+4etpYVaYrdf6vnGTlCJcne,Cuando el sol se oculta al alba - 2015,2ZQTiaW6odCGrLFucrYITo,Pablo san roman,7vOmSzREliaUMV49GwrDVu,Cuando el sol se oculta al alba (2015),2015-01-23,0,Latin Metal
+1cauTZwBJjLZ9X5CqCdHgZ,Melodic Obsession,0LeSk1qKOVc4kYwrFFU9o8,Fer Silva,26thRwDcYaPvyrM8iC9bwy,Fer Silva,2025-02-09,0,Latin Metal
+50lnGF7UzzFopezJgwtkyD,Oro Negro,50y48SoZ2ytBk53DlLcF27,Splinter,2ntOkYul4BfppBANP858Je,Estado Primitivo,2016-11-30,0,Latin Metal
+2HmRzsDzsfUsLSOOpLGSrC,Tudo ou Nada,2Xog4NpTwU0JX0KMvb7pI8,Requesth,5RbevdSq5VU8NhzSVNFgMR,Despertar,2015-10-06,0,Latin Metal
+4QBViPg22aHZ7gYDXRjGGF,Our Soil,5U3hWIUobhzov9jCpmmQq4,Healing Harm,2L0V6aKCSq0xsM6o7u42Sy,Shapes of Alienation,2021-11-08,0,Latin Metal
+3qXOC42hkmqRLJbrxcA7RD,Eridanus,5Wo3PkTXEz5uasFEhbi9as,Gliese,5kStn3JE894XQOJOA5iP7X,Líneas de Vida,2023-04-30,0,Latin Metal
+2HyNEIJxTv7Sn5KcUuydtt,Gravidade,5kit2k6DU7EpPpSJRRmC67,Infinit,17CiA8amAyfrF73o1T7kIp,Arranhacéus,2017-08-01,0,Latin Metal
+2u2G3iDkCGe5gZ6afvKu5e,Kon La Mierda En Los Talones,4LTwdcKstFxndHxEHkTmxn,Trauma,0CeDp6AsuGRD5RPZzfJCsh,Destino Oscuro,1994-04-01,1,Latin Metal
+3H0yTFxV0yG8alvtlAR8I6,Una Sonrisa +,7Ics5krcvY2yfQAbhXps6o,Dkuajo,7kKZ40T76JbfIhXj1SVnSJ,S.S.S. (Simple Sencillo Supercontundente),2009-05-01,0,Latin Metal
+39V3t4u43Ho8GaqckNAJEE,Missin Me,4Uof8izbeLUmEzu5NGl8Y0,Zenobia Salik,7cz4OOrVPDzvNx8zIZyoNJ,Mixed Emotions,2021-08-18,0,Latin Metal
+3MuO8MP5RYatrOmJ7WyBbM,Sueltate,2zYvE3Jt6DSDV6AQ0EflBH,Mass Histeria,5rMVXlvsxOFMwL1iAQnMzh,Mi Publico,2014-12-19,0,Latin Metal
+033O1yJbssQrabPfgTyWbd,Quebrar e Seguir Incerto,2Xog4NpTwU0JX0KMvb7pI8,Requesth,3GBBiRgMTe06zeCCZRJZzm,Deluxe Edition,2018-11-16,0,Latin Metal
+0kSE6xEXtLn1fHp1cF4zis,Caricatura (Banda),60WsmiuEmusAJhAjYI5SNb,Banda Tierra Santa,54b5RROZUh5CKazGgkCpvE,Baila Con La Banda (Banda),2024-01-19,0,Latin Metal
+24TQPOpUDj4v9EdADcryio,Subyugación,29I9yl5yCLtaYuPXoXb6aA,Vendaval CL,3M6b0Yd3DGQGuq4wIqfps8,Trascender,2024-09-01,0,Latin Metal
+3394UeURo2iEcgH5LftgjF,Pílulas,5WpaOc2cHBJjRWNMI2dFYv,Boneca Voo Doo,2J5jkz8fQdzlye6f8ah0CI,Boneca Voo Doo,2019-10-31,1,Latin Metal
+7zsCkBxY5AmttKvC1gILaL,Lost on Gloria,6I91WSYpi7lVGNC1QfRph1,Zaderic,1lkBlj8dnQdHFeJMFzIq4l,Inheriting the Decadence,2020-01-08,0,Latin Metal
+6skLSqIwiAKLTeP1k3UXBn,"Otoño, cruel.",6VkNsFhZmMQRikmnir0oyk,Thrashammer,44hZItnV3a3UgriJWDJfgL,Potencial Humano Desperdiciado,2025-07-14,0,Latin Metal
+2d02ZjJbuWVXLoeuPJ8HRe,Almas Flamantes,6HkQUnkMSumCFAQQqgLWst,Toti Guerrero,3QBwdWxC2HxWLWQa0GlBEl,Almas Flamantes,2023-09-06,0,Latin Metal
+4TGW5Op1IXtlIwS7oik1sC,Carnaval Total,0gTzXSt7l2m2xg9LUbK5Gz,La Garza,3AjX8mIT2bRlJLyhX7OY4l,Vuelo de Fuga,2021-05-02,0,Latin Metal
+1wXyS5MK5XNcbtDAYcdmAD,Y que,156UZoCqWAekH8fPVqhHal,Amoladora,71eUPmayKchTI2z45nYsC1,Y que,2023-11-03,0,Latin Metal
+1XuzxbDuNcH1Zd3YmN7l0N,White Tunic,0fUxFyxlCsIerOpW7Xjdyn,José Angel Navarro,70tFRA91GTbTnz40Ty95Rx,My Metal Heart,2007,0,Latin Metal
+3oLjzUFuyNqVrwZrFPMaS6,Beyond the Horizon,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,5NkJUutcPH72NEMkOzd07s,Rhythms of the Cosmos,2024-10-29,0,Latin Metal
+2aMeNlcrDhzD7KOumqHyLP,Na Estrada,74X980VHqqUvI2XfLsZFH6,Radio Mutante,6EIvQkp8xbafSOfdrm8zUu,Rock da Montanha,2025-04-25,0,Latin Metal
+3DZcY1WPTskQR3hWabGjRf,The Bat Signal,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,3FyHnNSwOMee3Es3b9vPGc,Chorus of the Bane,2021-09-22,0,Latin Metal
+3ZrswumjetNp7O4xyoL8uH,Sueños,5Y6fGMF2djr6YvS4Ksn0E8,angelazul,05StwZ0mD8R0y8CFer69Fm,Sueños,2024-08-29,0,Latin Metal
+3K4MavTTvZF9mJVu0KDLMx,Vientos Del Sur Sala Master,36BBSAGLvZBRrYaHwjFcqz,Vitius,06IJ2VZoeuXUNmr1Z9uLbp,12 años,2022-10-29,0,Latin Metal
+3epcr9Vdpz9mfei1MJyYRY,Belcebú,4vCUwR5gkbMCq2ZxsyIw9s,Mors MX,5LbfKvrvof6ktp28KT38Uv,Funeral,2021-10-19,0,Latin Metal
+1uOr0HIH8fcVqkMSiDZh75,Maiêutica,56ztr0qVjdCw7kyYNjLE0a,diaTrês,5PhdvIzFi3hIVU1loaEuza,Deus e Eu,2025-10-01,0,Latin Metal
+4ckIZYMQ6M71vddaOWyoTl,Invasion of the braineater,3M0G9Qbcry4DZZCz0BxYjv,Zebra,7A804MrmFhXj7dQve7AP7w,Zebra,1995-01-01,0,Latin Metal
+2Yb9L5PKf5Fj4gPF7MskKx,Bardo,74X980VHqqUvI2XfLsZFH6,Radio Mutante,6EIvQkp8xbafSOfdrm8zUu,Rock da Montanha,2025-04-25,1,Latin Metal
+0SEBqz57CT1lDHc5OYuS8l,Réquiem,3NgTUXGBs00Q1iiTx8dDkh,Robson Anadom,5wSEI6I3P920Kxni2aE5JZ,...and a New Story Begins,2021-06-25,0,Latin Metal
+0ceTK8sKKKW852ycQlRtGi,Redención,36BBSAGLvZBRrYaHwjFcqz,Vitius,2W0UubcxkXY2MRePPkLXoz,Lucha,2015-01-29,0,Latin Metal
+3DUUaaKjoBZmwPtGLcNcvd,Abismo,3drW5J5aMWUZlA8Oqrd0TX,Fugindo da Realidade,5t7bzdpSUBWFtpmda770l6,Abismo,2020-01-01,0,Latin Metal
+13zZA59ePWPndCVXGgTBtl,King of Sorrow,4LucP9AY3BM4MaWsOfePNU,CLAVEL Project,2yIGowNW7VV1hfTcraMxok,King of Sorrow,2021-12-10,0,Latin Metal
+6hTHJKm4MCfZrhAJnZD4BP,Desde el Cielo Hasta el Suelo,7o5GWc1U4iid5HRmeJBAdt,Jerry No Vino,7r7jZZ3yfCi5LGa8aSgqwy,Cuando Vuelvas en las Nubes,2022-03-07,0,Latin Metal
+2TrqSaI0bLNYuCq21tAga8,Recuerdos Desoladores,2mWU70XhYWgnMF2HjNI0Ff,Fatal,4LPEzoCDYZXwbpqA5YbtXe,Fatal,2020-12-12,0,Latin Metal
+2ldU2qJwFmAxx7BxerwNNJ,Power Rock,2waq8g1CdExKVE5JJLJb3M,Lecquian,1c50XqgO2M6tJL2u4Ow1PG,Power Rock,2021-08-05,4,Latin Metal
+3h5TGGsDG27egxsvXT0tSv,Dulce Ansiedad,2qE8fdNurVtKRd8mlnVfoE,Sangre de Copihue,2UY3rE7OSWkeD4vfOBUAeC,Dulce Ansiedad,2024-02-14,0,Latin Metal
+3nkeBT7ygvDd6QdO46oqyt,I Am Nowhere,726ZG1OrJINOfVCg3BqGwi,Abbyssal Swim,0JDVgkxhO9gcQIuTFZIUaN,Lantern,2021-03-26,0,Latin Metal
+0fBp0HfvuV3pnGkNi0Kxt4,Hatred,4AmfB6HFUfq8fr4jyaYUpP,Fixated,4JEJc4OkKImhfBHaDFKqX9,Hatred,2024-09-16,0,Latin Metal
+6fnoJbPLUtfAPLfi6wvaRn,FARSA,6tHAHnjJvg95I2u6EW9CVN,Big Guap,49rRzqPqQIrFWcqSk4NEt6,963,2025-06-20,1,Latin Metal
+5uVUnRqD3JQwexJrt4LcJP,Echo,2547q8NbctDXW6H2i8j0AE,Horage,3MT818y1v96aWpq5I1pf4d,Si j'appelle,2024-08-16,0,Latin Metal
+3hqF6x6uohqy6ErpfqcdcS,"Young Miko: Bzrp Music Sessions, Vol. 58 - Metal Version",2dv9l1dbPyT8YgbFHQgQGq,Yony Guti Music,2YdUIXNAxckFsRxEVLC24s,Yony Guti Metal Covers Volumen 2,2024-09-09,0,Latin Metal
+0rSj8atTtkIa07ewAcp2l5,Suggar,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,1DbDeSw1YyxH63DBrfpYvn,Dance Alone,2024-08-12,0,Latin Metal
+02ts4isou1VRj5xYrPTPO6,Sendero de Paz,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,08XB4su2qCWsRo5g11GtiG,Ecos de Serenidad,2024-11-24,0,Latin Metal
+0hWlV1MJugua6MKukepTNd,Внутри себя,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,32kB96qKIKB8QQF0Hc0KRd,Discuss For Peace,2007-09-03,0,Latin Metal
+04qwo6B5pSsEtJK1KjL2h2,Habladurías,1FnKdKN52MEdpHATDBDK3l,Serpiente Original,4W4rmjin89pUCcEehc14Gx,Verdades bajo sombras,2018-01-01,0,Latin Metal
+57mUluHVGxZwZXZwF4nZrB,...E Cura Todas as Feridas,5xigPOivUQldHqn6dhOgg1,Moitará,0iiRm52j7RolabvUcJTmFY,Sublimação,2020-02-25,0,Latin Metal
+50jlP92ToQKJKgD7wRc3E7,URANO,5Ov6I3sTyfrDyBlgtn7E8c,GROTTO'S,4et6f4mlME2FskgCnbWmXF,GROTTO'S,2023-09-15,1,Latin Metal
+6vf89bB8Ighs2Jv6pHjshp,Iluminación,3vfmQ2dv3INnixTs9bRR45,Tusk,0jrc7WE7BuXq3pfK2LCFgZ,Sin Tiempo,2016-10-12,0,Latin Metal
+3hBVBjse0oX7lcNBoSdbdv,Cycle Of Tension,2Ny3QxaDVhwVaViJGaRyIu,Low Traction Box,1PrKpSmZhx1nL8A5oiBLgG,Cycle Of Tension,2025-01-09,0,Latin Metal
+0dKiMKcD1UxlT5kyhTOISL,Progreso,0jKpGGcUH0zXBLXOTkOmnl,Pablo Bellucci,4A729rv6JSMXWjJiWvGrR3,Heavy Metal City,2023-09-15,0,Latin Metal
+5jEWHNH198v86liLCz2i1y,Monopoly Party,2Ul9UtqBw2GGfJxI6UYKVI,Shadowrive,7s3UgpB0F7tmfDBmSl2U4E,Monopoly Party,2025-02-13,1,Latin Metal
+6jT8MYrb5zsF2Lh57dsVAq,Qué Sabe La Humanidad Sobre La Libertad - Sesión En Vivo,1JKfwm92miIyI0s6h1aAIE,Sinapsis21,38v0zHMErPFo5hyfftHt6B,Sesión En Vivo: Tonantzintla,2025-08-02,2,Latin Metal
+4kNHve8MSYBNusTjUZOzOD,Sinfonia da Boca do Lixo,7MXrfsN4W2uGmFEqWE0S5b,Engenheiros de Almas,1bXv2Z7e6L66it97Z8VHWm,O Diário de Rodolfo Kundera,2016-12-09,0,Latin Metal
+7kqGRgbQvHvoqNIkQYYOQv,Prevalecer,5NM0MSWDrs5VuZeulql806,Nuestra Revancha,1BHxzSTzQRg5I2QXtCHdqQ,Restaurando El Valor,2021-07-02,0,Latin Metal
+36dXrcV3vizFppOaRMjXwZ,El Cadaver De La Novia,3Y5TENt7FdheJiaST619BX,Andrea Barrera,0R7v9knUatcLLHXdUkd8r8,Capítulo No.1,2025-07-08,2,Latin Metal
+06AyOx5s0fX5zJb5N4tcMo,Estéril,7o5GWc1U4iid5HRmeJBAdt,Jerry No Vino,7r7jZZ3yfCi5LGa8aSgqwy,Cuando Vuelvas en las Nubes,2022-03-07,1,Latin Metal
+3TYLlgHEN4fd8fFeBiFgqL,El Sonador,6S8u86T53hTy38WKqtcYf8,Los Glgantes de Trinidad,26Rx6McCl0lwDGQLLgVxoJ,Fantasma Mis Verdaderos Exitos 2006,2018-04-01,0,Latin Metal
+6jjpAnVK552YBBqVFj4qyE,POESIA DE RUIDO Y CANCION,1io9L03BhEIEjrZLF4eP0u,Nicolás Amato,54KXzvSD6Mbtj0URXwDEkb,POESIA DE RUIDO Y CANCION,2024-02-13,0,Latin Metal
+6SZ39SxCCHgZTyLmZ5fxix,Voices In My Head,4eO2ZAc36I94nlK8TsSIKR,James Manson,67oedpBH6Qt3JCcYHHU3Xm,Subliminal Dead,2020-11-28,0,Latin Metal
+7zaz2kZgfQWPumPIsEkzaX,Into the Fray,0KXLvbG9Jdwu4mIh242YeT,The Aberration,66CwxW4axuNwvRcMPO5kZU,Don't Poke the Bear,2019-02-17,0,Latin Metal
+0zLFkjK3hQ0FcB6hUKMHef,El vigilante,0TqUp1nF8SIkNjxLaWP71u,Alpha Centauri,3x7so5u8MFD5Ab1qb0tsKH,Incertidumbre,2021-09-29,0,Latin Metal
+6dK1E0be7IRO77KVB9aOPV,Jamas (Banda),60WsmiuEmusAJhAjYI5SNb,Banda Tierra Santa,0YUgALsSy7bGbv2x9GZVrn,Canciones A Toda Banda (Banda),2022-02-15,1,Latin Metal
+4gCdHUC8BUtHDO43Av3dLX,A Night to Remember,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,3M3I0Yd6JgdsAP8Vl50hJp,Nights In Velvet,2024-11-10,0,Latin Metal
+6uIb3HrHWl7Cq891eOBv8Q,God Among Us,521qlE5arKLGRJZdGccxzX,Chaos Garden,5MRwqMraD7gQAn3wx6aqAP,God Among Us,2020-11-02,0,Latin Metal
+24j2dEoahKZldz73dHbygv,Directo Hacia el Fin,2FDdlVR6RINULXII77EV8y,Metalmorfosis,2lR5rOQJLMJPLEok58nBww,Humano Industrial,2025-01-01,0,Latin Metal
+41mnaxP7jNfnzMWkCae1sd,Plaga,7q3O9cH3vRKLOMU2OCkVPr,Terra Omega,6MVhAYtkZePSBgWiIlHxFi,Plaga,2022-12-08,0,Latin Metal
+7m7cSt4xhPx0KIAla93QPb,Heraclito (Griego),2rc04PUrzartth6TBrt5vk,Filosofia para seres humanos,0QY1eg9D35pabN6rfpsqWD,Reflexiones Filosóficas,2025-03-20,0,Latin Metal
+6LEr2MkdNkeevMoc83qurL,Black Raven Station,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,6rqY5ThdCJWdvwJtLE4m5Y,Black Raven,2023-09-07,0,Latin Metal
+3HFPs2PDPvKf5RLqdCGyZD,Punch Out!,3xvsIneKwYf1nVb5yKC11Q,Kymeera,7DJSMbXwWQh0mn2pQ4gFMN,Rebirth,2024-04-26,1,Latin Metal
+0Itm1oyo33zmkCLU1ChNXE,Ashes on the Dash,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,4b3SA5fwycwm39Ci9VqfNX,Midnight Slides,2025-08-09,0,Latin Metal
+6LLOA1WCjoJMRxbZq2KP0p,Bunch of Liars,0f9eP3tTyRfa1dgfQhlTdD,Full/SIN,2ncs4uu8uphWakJYawSdPP,demo 2013,2013-04-16,0,Latin Metal
+5Zv2MVskRp85V0FPSSSbKp,Agonía,5KrC3Vb3yC3st1inp6fHQB,V.I.L.,6F3fAgMVSRtLkHaSdIKBRC,Pecados,2020-07-24,0,Latin Metal
+5OMp4G5bulHrZ7VjCWYjPW,Asgard,4gnoOEsX1PpclDg8p6B0Sw,PLC,0GKyH1q72kR3Xz8IqvHLR5,Asgard,2021-06-08,0,Latin Metal
+08f07rBZTtoD54zN9cefKY,Voodoo Stove,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,5dhoXAAT5hGgOJYtR1lnQw,The Delta Tales (Mojo & Dust),2025-06-04,0,Latin Metal
+0RVqHvMHr51yp8Ugsth0wM,Agony,3fnj6UvcPYJEPXZ5I2Flr8,SplatterHead,5ctZMIuedOmXWgTuzOUBny,Our Land,2022-10-31,4,Latin Metal
+2WhY0I9rJ1jyy6dqWAy9Ld,Horizon,6tY4vvO2hJQVxclYYAOA02,Doombia,7nBp8FPTQ60xWbBcKbCN3N,Doombia: En Vivo,2024-06-07,0,Latin Metal
+6zc2HOzxOw4Khg5NHOHoJ7,Jealous,0o741gsJLpuJY1q4yt1Hzu,Odd Potion,7LlJUp6uBVgq7NUxjqDsZZ,Impact,2023-10-28,0,Latin Metal
+3xzJwi7qjbRCwigoGzTK8Z,1:57,4NYOXciMWHi0glR6jmssbK,Demori,38cERQiDSumoUkrMA0OKPr,1:57,2025-05-15,2,Latin Metal
+2Ncv96bqcyPjcYPSnbLxHG,Hay Que Luchar,4efnqtLfAMFEqCnDLKYvZA,Tiburón Negro,0XHdXmTKuTMVieYee59mQP,Desde el Más Allá,2024-04-02,0,Latin Metal
+3klUmJEpnynkVRCLyLktpW,Имена,4l4sdMXfwR3RwThv0Yvo9a,Toy Fabrique,2VibtD5TZe1QPTnRceTimg,Прятки,2011,0,Latin Metal
+6OEnfX3eIfKD1aatvwBptF,Budky,3bIwjpAkircjbSAOL7oheO,PLEBS,32eFkit82tkosOlNpMTeoz,24/7,2021-12-30,0,Latin Metal
+7n1CJNfUfHQawUfRwzsrWC,666,31TLGeY2UspUFUtZm6aA7c,Habacuc,0ZtHRDnR5DQwLH2oad6AHM,Lamentaciones,1999,0,Latin Metal
+0KgZ6Ese08abQtEMg10xPs,Perdonarnos y No Hablar,2jQ7JUx0GHDxvYmcPRlFPo,A nosotros el miedo,7fd2jk4IGSA7aqasK9M6vS,No Tengo Nada Interesante Que Te Pueda Decir,2020-06-04,0,Latin Metal
+1VsTWVWgldBsgYTLDvxrfx,Rock Around The Clock 22,5VsYLjnIq65PUzODOxkajD,Soundtrack 4 Life,4mk7lHIVoZfHicrEgqYa1a,Rock Around The Clock Vol 4,2018-12-14,0,Latin Metal
+6KEnex4B8MYaUr52X0UBiu,Tomás de Aquino - Entrevista,2rc04PUrzartth6TBrt5vk,Filosofia para seres humanos,0QY1eg9D35pabN6rfpsqWD,Reflexiones Filosóficas,2025-03-20,0,Latin Metal
+3RWe2eYiBiGasgMiicpxLe,El Juego Más Codiciado,0jKpGGcUH0zXBLXOTkOmnl,Pablo Bellucci,50CQj5IBiZFQf2BQy8l5Oy,Heavy Metal City,2023-09-15,4,Latin Metal
+5RRVmyZL6F4JX0kc8RUDSA,Ascender: The Ascent Into the Light,2BFvRgmJlxNSiLRSroD3QH,Incantation,3J86L4ddHnGgMyV3DYCtlg,"Atacama (""Estamos Bien"" / The Chilean Miners)",2012-06-04,0,Latin Metal
+2HQPkShTzGmhwzFGyRvEuH,Baila,38uYobVqfeOPD3uWdliHMg,Zona 13,5BZjpi4RKewQJjYnSjPiJP,Zone Out,2004-06-05,1,Latin Metal
+5QFbMEGfaCmwOOVZptqGt5,Santo Tomás de Aquino (Primera Via),2rc04PUrzartth6TBrt5vk,Filosofia para seres humanos,360WMcSyTHemSYZ4v9Iypz,"Capítulo II - ""Sin música la vida sería un error""",2025-03-15,0,Latin Metal
+2dKIcNm9G55qdrfz2GyXVV,Conspiracy Theory V.1.0 (The Beginning),5JG9K2Tt5faVslnnQY5txF,Code Blue,41W1CNmtrnnxWuWYHNu3NG,Premature: Ahead of the Times,2008-11-11,0,Latin Metal
+4o4qIAkRLYG2A8Q8Ypzybo,Capo,5CjSfZN385ZURm90nUeGsN,Sen Dog,6ZPXPj2JDVCVBbPoHUVXaL,SRH presents In Spade We Trust,2010-01-05,4,Latin Metal
+1Qmrh1bOEwtUbQK2m8XFtC,Intro,2BjfKKsHlMLr9XZ9qRDzJa,Crónicas De Elyze,6Knn8BhvvRPnnifUEelgDy,Hi Demmacrada's,2007-01-15,0,Latin Metal
+58x3EgFABnYfHYsOseN87l,Correr Para Ganar,2sRr1S7zVATnQK888AJcUT,Por Mi Causa,5vUCJos1AJbpVpYk0TniQo,Mirando Horizontes,2018-05-10,0,Latin Metal
+6afYP4R1mFDieoEjiGFJYW,El fin del infortunio,0TqUp1nF8SIkNjxLaWP71u,Alpha Centauri,3x7so5u8MFD5Ab1qb0tsKH,Incertidumbre,2021-09-29,0,Latin Metal
+2DYSEfNvreCx9yifQoycjN,Voltage,47nqXSCA5ZjinZJpdPTRbL,Kilotips & Warlord,6h5UxKs1pgAYC2E9I56C2C,Fullclip To The World,2009-08-03,0,Latin Metal
+0rk6Q3YNXPidfmbHn0AdNe,No Aguanto Mas,1f1ozy6Fpbvy2RYId45EoS,Alas del Dragon,1I15ILt9asvue4wXhLw9kZ,Tomenlo o Dejenlo,2022-01-05,0,Latin Metal
+3zFEfuT3thLp6VDitEMbGI,The Dance Of The Wizards - Remastered 2023,0WevzucgbPGokVrAjbYdJW,Kris Di Natale and Dragon's Fury,21pGBDQsP6FlJyY60aAzd7,The Dance Of The Wizards (Remastered 2023),2023-05-05,0,Latin Metal
+2YWVSJnN387TBBKsv4DYzw,Perfect Devil,7j81Aa2VdZ5uG1JGqd0QwT,Ravenøus,0d8RIlKTNLlBZm7MZ5vuf9,Ravenøus,2020-01-20,0,Latin Metal
+1iM28EVYiIjMx99RYXLLRA,Tecnodesorden - instrumental,2qcKQLFvse7ZkXDkEZg7oY,Vengator,0HCrRveCDJRL8Me6sMAreF,Vengator,2021-02-01,0,Latin Metal
+5gFqmWZLF6kadF2APUBAiq,Whispers of Dawn,5YEA1YWFQgUyswszwavNfn,The Virtual Music Band,33uN3RCacLrXaKrRnB5oJY,Serenity In Ivory,2025-02-22,0,Latin Metal
+3uqDZYbKvdupUxOr6ukcc5,Estrada para o Amanhã,3WBBsLM4r9w7EmRcJyfx6h,Versares,55Ik3rMSuE9l89pTST3FgQ,A Discórdia e a Redenção,2018-03-09,0,Latin Metal

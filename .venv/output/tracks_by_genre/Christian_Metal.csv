@@ -1,0 +1,900 @@
+track_id,track_name,artist_id,artist_name,album_id,album_name,release_date,popularity,genre_query
+1WtuhwrmV5N4XycakHfzKe,Between Us,0OgdRTPItr9dw4XYp4JJUx,Fit For A King,2Xxkietvt0COre6jAvs6OW,Lonely God,2025-08-01,56,Christian Metal
+6f6UcIjhlh3JCi8HVYIzfV,Light Up the Sky - Reignited,6GfiCQDFYANz5wUkSmb3Dr,Thousand Foot Krutch,4x5TeDqa72QQVgBAq5p00s,Light Up the Sky,2024-07-26,19,Christian Metal
+2qw9qgcPNCnq18WJLAm83x,Calling On You,6lE1ly8K8H7u8k2ej2plvv,Stryper,4LAVjeUmJl3h3U44sMRrfm,To Hell With The Devil,1986-01-01,41,Christian Metal
+0oN8z6RbSKshyC3egmJ9ot,Lux in Tenebris,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,72F34PcCbfdRCdUxbJ86sd,Holliest Thunder (The Best of Holy Thunder),2025-06-11,17,Christian Metal
+1V3nhpLg5UepiukewU3q6C,Carnival of Souls,2eXM6plUGS4TET0MuIy0hT,Saviour Machine,2ZlkX4MYjpc13hNyCV0CSz,Saviour Machine,2004-01-01,21,Christian Metal
+24gsIjAjzMJ6D0Sdc7UzfM,Power of Respect,6wkcDg1ZWTbCGW5cUPdZ4A,Soul`s Cry,7gyMaFyqt8eT3R2QFmsTkl,Power of Respect,2025-10-05,21,Christian Metal
+4LMcuLjmdNDsYQlu3B1GSY,Wing of Salvation,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,72F34PcCbfdRCdUxbJ86sd,Holliest Thunder (The Best of Holy Thunder),2025-06-11,17,Christian Metal
+0VdFJsLHyBZrA5G2R32JIj,Ashes to Ashes,6lE1ly8K8H7u8k2ej2plvv,Stryper,5ReMXko8PPw0Om5O6PZsRy,The Final Battle,2022-10-21,26,Christian Metal
+7enwrAn9lqYV46g5hXOPJ6,Titan,0JSfR2jTpDwwPu11K3tzRo,Micah Ariss,1AO5sZvkbSaZyv2cq5QhYP,Titan,2023-11-17,31,Christian Metal
+1CNnvWXstr1uLgm7oS5kRn,Tandem Dimissi - Remastered,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,3toD2UkNYv1qKsYrbcHetb,Liber Exodi: Servitus Aegypti (Remastered),2025-05-30,17,Christian Metal
+2nkA5H4RB8lzWc3xRmEbBd,When Angels & Serpents Dance - 2022 Remixed & Remastered,6KO6G41BBLTDNYOLefWTMU,P.O.D.,0CjJ3F1RJfx7IH003BpCZ9,When Angels & Serpents Dance (2022 Remixed & Remastered),2022-10-14,40,Christian Metal
+0Ym47ZB4UNa5DUGHnaW3hc,Aqua Contradictionis,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,72F34PcCbfdRCdUxbJ86sd,Holliest Thunder (The Best of Holy Thunder),2025-06-11,18,Christian Metal
+1pGjlGkksd0Cda3h1WtSYe,Falling Apart,1AwgzbRMGMwExrORY0Levk,Set the Sun,6mwecwuFQweVa6OKUChOBj,Falling Apart,2025-02-07,38,Christian Metal
+02KS93L0i9PxtP17FAfDCN,Counterfeit,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,6L8gLKCluioceYP7WNmcol,Eclipse,2019-07-26,36,Christian Metal
+0FICAcXmIfEb2sJqXu4jae,In Spinis Et Sudore - Remastered,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,3toD2UkNYv1qKsYrbcHetb,Liber Exodi: Servitus Aegypti (Remastered),2025-05-30,20,Christian Metal
+0PEiRgBtYPpqUJJS3PhlGc,Ascendant Majesty,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,4z1eVL3zMmVmhrhuNwRatY,New Testament,2025-10-10,6,Christian Metal
+0l9wePi3meE2BwgRjEtEhB,Not Gonna Die,0JSfR2jTpDwwPu11K3tzRo,Micah Ariss,1a5B2LiulHFjUdQCVpb0DA,Not Gonna Die,2023-07-07,31,Christian Metal
+1DiBsi6wIgUaXPEerMvW6k,Healer's Hand,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,4z1eVL3zMmVmhrhuNwRatY,New Testament,2025-10-10,6,Christian Metal
+4t8OmZERfkdkRr4aoYa2h1,To Hell with the Devil,6lE1ly8K8H7u8k2ej2plvv,Stryper,4LAVjeUmJl3h3U44sMRrfm,To Hell With The Devil,1986-01-01,45,Christian Metal
+1aS8IBaxchEzl6KNFM95Zy,Infantem Salvatoris,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,72F34PcCbfdRCdUxbJ86sd,Holliest Thunder (The Best of Holy Thunder),2025-06-11,21,Christian Metal
+1UJGgtUFroQf5DK4jVMJnZ,Light Up the Sky - Reignited,6GfiCQDFYANz5wUkSmb3Dr,Thousand Foot Krutch,16MNeZcjwtkgTEFhzH8uWH,The End Is Where We Begin (Reignited),2024-07-26,30,Christian Metal
+4PBUOEpfL9mLr45gu6Fm6p,DEFILER,0JSfR2jTpDwwPu11K3tzRo,Micah Ariss,6DN1T34dHix3z031bSgWAr,DEFILER,2023-02-17,41,Christian Metal
+3Da8sKYIyTX5pX4fKtfF5t,Angels Weep,4ZSPmjprPFZwIn2yiL5SgG,Serenity's Soul Music AI,5CVuRLLnwaLtA9pSzvuuA5,Angels Weep,2025-09-05,36,Christian Metal
+5j8kaS86dJ7u0uXgkGhu2P,Seeds of Truth,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,4z1eVL3zMmVmhrhuNwRatY,New Testament,2025-10-10,5,Christian Metal
+7ngiOjCeAmwkLB38YHKsx3,Redeemer's Reign,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,4z1eVL3zMmVmhrhuNwRatY,New Testament,2025-10-10,4,Christian Metal
+6UbKqH7Q0c1imf3kAkGktK,Dawn of the Third Day,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,4z1eVL3zMmVmhrhuNwRatY,New Testament,2025-10-10,7,Christian Metal
+79I9Ni4Hyn2gSfVn8uWgCR,Gloria Crucis - Remastered,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,2VStN9mQgKgLMBfHaNgBXB,Divinum Et Mortem (Remastered),2025-05-09,21,Christian Metal
+5Kqq16dLYPsk1k4q3sGY83,Dying Light,0JSfR2jTpDwwPu11K3tzRo,Micah Ariss,1qQwmaaEuKsLDw9q14ZjTP,Dying Light,2023-03-31,43,Christian Metal
+5UZk9NUgN0L4HoxiXsvxpR,Veritas Et Umbra - Remastered,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,2VStN9mQgKgLMBfHaNgBXB,Divinum Et Mortem (Remastered),2025-05-09,21,Christian Metal
+4gbpCqJWVYnLBbMCyeShKI,Dust and Breath,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,6y0XLLFxmMrQsNh2WbdyCa,"The Book Of Genesis, Pt. 3",2025-06-20,23,Christian Metal
+5Lc7iMDwsEkMtyJ5LVXh0L,Buried Beneath,01crEa9G3pNpXZ5m7wuHOk,Red,3mCFgW3TWFsRTD1Kc1yEtO,Until We Have Faces,2011-02-01,37,Christian Metal
+5ilfZ2WiotlljAU6tTUUwg,DARKNESS BEFORE THE DAWN!,6jDwZUFYUH1dC4xWzOd8QU,Caleb Hyles,1W2qSFrMum6lsFIfs4fDCT,DARKNESS BEFORE THE DAWN!,2024-05-31,39,Christian Metal
+3znk6OxNGmxxNoN4bVfy6T,Breathe Again,3pzvk3yrObZeEDM2wPwcBG,Exiles of Eden,59Fe9JdTNWXiIJDxJd1wEp,Breathe Again,2025-09-01,37,Christian Metal
+1EdYRoz5nqheYTSCMC32fA,I'm Done,6f3a43i1MJZwdjEpV1M0oH,Demon Hunter,5xisd8Wfd4ZHFLJgSSh7Cg,There Was A Light Here,2025-09-12,46,Christian Metal
+2FQoesDbAPrdX7KydaMzXg,Seven Days Of War,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,6o5fyj67MSHECyeasCBc4q,"The Book Of Genesis, Pt. 1",2025-05-16,22,Christian Metal
+3DnFSIQHAclH1u1Fg1rIvr,I Am,627g4H0WzOhvuRRsbdBR6T,Theocracy,5L4OquprTIFcpKYEgUkjcy,As the World Bleeds,2011-11-25,38,Christian Metal
+2TRCXH1RCQKi6jhYO8Cfmu,I'm Done,6f3a43i1MJZwdjEpV1M0oH,Demon Hunter,0qgFmorqdP4mfdCYG4sXLS,I'm Done,2025-05-02,43,Christian Metal
+58EE3rSkWjefq3W8quNu4u,Praecatio Liberatoris,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,72F34PcCbfdRCdUxbJ86sd,Holliest Thunder (The Best of Holy Thunder),2025-06-11,22,Christian Metal
+44A5lJ2EtTLIetAjnmCGBI,Nailed,627g4H0WzOhvuRRsbdBR6T,Theocracy,5L4OquprTIFcpKYEgUkjcy,As the World Bleeds,2011-11-25,32,Christian Metal
+07mulrb7GK0NJDd4L8UOH2,On My Side,6f3a43i1MJZwdjEpV1M0oH,Demon Hunter,4aX6QZ7DPGNCr7K0lNPi51,War,2019-03-01,43,Christian Metal
+3gEJ9qf3r0zYJsVfDPo7Fu,Sorrow Light The Way,6f3a43i1MJZwdjEpV1M0oH,Demon Hunter,5xisd8Wfd4ZHFLJgSSh7Cg,There Was A Light Here,2025-09-12,48,Christian Metal
+2fWwuMDaul090y5svVt0CM,Passio Et Redemptio - Remastered,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,2VStN9mQgKgLMBfHaNgBXB,Divinum Et Mortem (Remastered),2025-05-09,24,Christian Metal
+29ZdWRzPbZEDYU01yepnMo,The Pain In Me Is Gone,6f3a43i1MJZwdjEpV1M0oH,Demon Hunter,5xisd8Wfd4ZHFLJgSSh7Cg,There Was A Light Here,2025-09-12,45,Christian Metal
+0onHfBADSdUhmnLP7SICpt,Puppet,6GfiCQDFYANz5wUkSmb3Dr,Thousand Foot Krutch,1f0DLNSb2vQcZq9Qb8F6Of,Set It Off,2000,36,Christian Metal
+70k1gjR2AuAaq9uFSH49le,Adveniat Rex - Remastered,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,2VStN9mQgKgLMBfHaNgBXB,Divinum Et Mortem (Remastered),2025-05-09,21,Christian Metal
+4Gt1whqbhtLdvITB8czN4N,Via Dolorosa,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,72F34PcCbfdRCdUxbJ86sd,Holliest Thunder (The Best of Holy Thunder),2025-06-11,22,Christian Metal
+0YuDfrgm5o9orfuCvAqaWt,Tenebrae Servitutis,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,72F34PcCbfdRCdUxbJ86sd,Holliest Thunder (The Best of Holy Thunder),2025-06-11,21,Christian Metal
+3VQ9NBYE3BFUU2VvPYDVSe,Sorrow Light The Way,6f3a43i1MJZwdjEpV1M0oH,Demon Hunter,1Ux4NmtgeByS8O2kPcdxbb,Sorrow Light The Way,2025-07-04,47,Christian Metal
+5sMD6aeVE8z5mdbGYXH9JY,Too Well,0xDqVY7j4jW3pnzU03N5m4,SireWolf,5eSSQbFutJ1IciyeWFbA6j,Too Well,2025-09-07,40,Christian Metal
+75wO5FxvaNkX37XKSN4sEa,The Pain In Me Is Gone,6f3a43i1MJZwdjEpV1M0oH,Demon Hunter,3oanuZuwtp5OIL79obalaZ,The Pain In Me Is Gone,2025-08-06,40,Christian Metal
+0gXpANlPWhSRHfIUA08t15,Jesus Christ,2eXM6plUGS4TET0MuIy0hT,Saviour Machine,2ZlkX4MYjpc13hNyCV0CSz,Saviour Machine,2004-01-01,18,Christian Metal
+2i4IqGrwURGrrdQYvWUP1k,Here I Am,4uOFEWy9mIcvQbr03IbPcL,Manafest,4d5yB6uYRMPPJYnFXXCVmZ,Here I Am,2024-04-19,17,Christian Metal
+3ZdBffplKeP40A74IDBYi1,Return to Dust,627g4H0WzOhvuRRsbdBR6T,Theocracy,7alHdo9QOz20T403gySW20,Mosaic,2023-10-13,28,Christian Metal
+3f0UPs0FxUNt4MOCnRlhpa,UNREST,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,3DoK95Nd0E2FLRE4uUNzsW,Wasteland,2025-05-30,32,Christian Metal
+2az8H53U5hNFsRpVaqmCxY,Ghost Ship,627g4H0WzOhvuRRsbdBR6T,Theocracy,0bej9yySALDbCmz1ph58pY,Ghost Ship,2016-10-28,31,Christian Metal
+4XGIM3eFyzFbG81tuc78wN,(The Wasteland) PAIN,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,3DoK95Nd0E2FLRE4uUNzsW,Wasteland,2025-05-30,32,Christian Metal
+52xagLF1l93mNPFQvSDwzx,SYNTHETIC SUN,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,6LQsfCqegKFqkeRNdOds8J,SYNTHETIC SUN,2025-03-28,29,Christian Metal
+0nDEoSAP6Yc934zgepdKrm,What Have I Become,0JSfR2jTpDwwPu11K3tzRo,Micah Ariss,0qmIg09kKsNfwc08xFQEth,What Have I Become,2022-05-20,32,Christian Metal
+6wNLBTtIr1DXtzm6znL4Uz,Bury My Flame,1uaz4cRw5clcnWJIswU6Jy,Glasslands,5q9TNY7JhF7rZGXM8JZ7Kk,The Deep,2022-04-08,24,Christian Metal
+7mn7PNvDdXUR7W3PwYXIfX,Bring a Sword,1GJGNeGkrvwld8xjU99XwR,Stands on Sapphires,5Q1NxljdOeCNSJ4parzedi,Anhedonia: Death & Resurrection,2025-08-22,9,Christian Metal
+5PXw4OvBYa0wwgBvnIF9fr,Weight of Glory,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,2rJa8wFBmhoPzqw4Xn0acJ,Eulogies,2022-03-11,31,Christian Metal
+3GDGBicHo5vRMYOEvqSURs,Peace That Starts the War,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,0OATjVGmqFTN2tNFzqxsSk,Peace That Starts the War,2022-02-11,22,Christian Metal
+4XKUz6Rta3cPKlGVXYzD5S,Evil Are the Kings,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,6L8gLKCluioceYP7WNmcol,Eclipse,2019-07-26,23,Christian Metal
+0nER4VGgRAjyxtM9f1H43I,Counterfeit,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,7DRM9OMs2RaWF0i43OF4BP,Counterfeit,2019-07-12,20,Christian Metal
+3z6L83ksZw4ZAkKFyC0Zm8,Peace That Starts the War,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,2rJa8wFBmhoPzqw4Xn0acJ,Eulogies,2022-03-11,30,Christian Metal
+3zlqFHiuLAUra9MsJ85l4v,On My Side,6f3a43i1MJZwdjEpV1M0oH,Demon Hunter,4aZLBj1jYJ63pjDZgtA69K,On My Side,2018-12-14,29,Christian Metal
+4N6ORHkNjBtXrsBam2CZPX,PARASITE,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,5NGsQ6v7j9IIvREEpQ7Gtw,PARASITE,2025-03-07,30,Christian Metal
+3hmMhRO4KG7R1twaVl60AJ,Tragedy,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,6hZbVdFSxbsXeZx5hLRn5i,Perfectly Preserved,2021-02-12,16,Christian Metal
+3UPLBUbJmz9jb020jEFQsg,Ash Of Eternal Flame,3n2dDAtQ8u71AlBfs44ZC9,Innerwish,0bR3px2dU1439EctpsufJw,Ash Of Eternal Flame,2024-11-08,13,Christian Metal
+6EQNrYNdxUOHN0e2mj5Ltn,DEATH CLOCK,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,3DoK95Nd0E2FLRE4uUNzsW,Wasteland,2025-05-30,34,Christian Metal
+4gHTFh2GRTOQcHCdYMSNmc,By the Way,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,3bv8Jyb4hRw9hopgdPfuOR,Between Here and Lost,2013-01-22,29,Christian Metal
+5dZvCU36j5QDmAt3Pb5IVr,DEATH CLOCK,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,4oOhJNqVse155Pc3GRLIid,DEATH CLOCK,2025-05-09,28,Christian Metal
+4ykK4OjxrdIe4GKapc20XP,Flicker,627g4H0WzOhvuRRsbdBR6T,Theocracy,7alHdo9QOz20T403gySW20,Mosaic,2023-10-13,29,Christian Metal
+2lZR2qreyqQBreAuzSHpIz,Laying the Demon to Rest,627g4H0WzOhvuRRsbdBR6T,Theocracy,4HXYsnJBXBwFrq4bweT9Hp,Mirror of Souls,2008-11-21,33,Christian Metal
+3ellS0dqQZEbZ8StFnd5tI,No Stranger To The Pain,4uOFEWy9mIcvQbr03IbPcL,Manafest,5jBEVtt4jCX6u4euU8JTWy,No Stranger To The Pain,2024-01-19,11,Christian Metal
+14i2Zn3mLAzP86OAYkajKJ,Slow Fire,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,6hZbVdFSxbsXeZx5hLRn5i,Perfectly Preserved,2021-02-12,13,Christian Metal
+05CwTrtN59LNtoLHcniEx1,Meltdown,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,3bv8Jyb4hRw9hopgdPfuOR,Between Here and Lost,2013-01-22,31,Christian Metal
+14FV0Ztls1XhObQixrDKLG,Set Your Eyes to Zion,6KO6G41BBLTDNYOLefWTMU,P.O.D.,3m4tEvOqwOSk3Yy5apKaFq,The Fundamental Elements of Southtown,1999,36,Christian Metal
+5jcz1xGmjwzMFxtgMss1jx,Washed by Blood,4Dd4L5XTvf8rjyfxhCdwsu,"Brian ""Head"" Welch",5lVhhjKdgtz7qS1uOoZS9D,Save Me from Myself,2008,27,Christian Metal
+3sRjqOpAsh2StqiYUXIDyw,L.O.V.E.,4Dd4L5XTvf8rjyfxhCdwsu,"Brian ""Head"" Welch",5lVhhjKdgtz7qS1uOoZS9D,Save Me from Myself,2008,28,Christian Metal
+5816D1lDC38vTQMtIV8V0i,Via Dolorosa - Remastered,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,2VStN9mQgKgLMBfHaNgBXB,Divinum Et Mortem (Remastered),2025-05-09,14,Christian Metal
+5jl8iC4QC8GFFUR0Uae1tN,Break The Habit,4uOFEWy9mIcvQbr03IbPcL,Manafest,68FghP1QWbbmmmVcIKYKNM,I Run With Wolves,2022-05-06,19,Christian Metal
+39xcUmVIl9joB5EQVlngrx,When Everything Means Nothing (Cinematic),0OgdRTPItr9dw4XYp4JJUx,Fit For A King,1YzifcxmauqYL9BXr0rkKs,Dark Skies,2018-09-14,30,Christian Metal
+5E10Tq93lSG3gP6usfKAT6,Boom (The Crystal Method Remix) - 2021 Remaster,6KO6G41BBLTDNYOLefWTMU,P.O.D.,0ShPWwAwhOYolkaEiboDOr,Boom (The Crystal Method Remix) [2021 Remaster],2021-08-27,21,Christian Metal
+6dejQcprVX004JdnZJ3w61,This Ain't No Ordinary Love Song - 2022 Remixed & Remastered,6KO6G41BBLTDNYOLefWTMU,P.O.D.,0CjJ3F1RJfx7IH003BpCZ9,When Angels & Serpents Dance (2022 Remixed & Remastered),2022-10-14,27,Christian Metal
+0xMt4QalAuiVVp6kdg21Bn,The Way You Move,1KegaXKSIGYGi4JOHsRtTX,Since October,4G1CZhBikDaSTBwJpBabUR,"Life, Scars, Apologies",2010-01-01,26,Christian Metal
+3kgayC8Hx5cttRwhxeOuyz,PARASITE,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,3DoK95Nd0E2FLRE4uUNzsW,Wasteland,2025-05-30,36,Christian Metal
+0itmYEyuCmeGL1oxz4ZUoT,SYNTHETIC SUN,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,3DoK95Nd0E2FLRE4uUNzsW,Wasteland,2025-05-30,35,Christian Metal
+3FmiLfVXfhKnIUNIlgmSrz,Deadweight,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,2rJa8wFBmhoPzqw4Xn0acJ,Eulogies,2022-03-11,28,Christian Metal
+4FymZiNMy5kAW1tGwA5epa,Memory Relapse,695H7ZBBO6pKUjuHEuyqsP,Saved by Skarlet,7KYKiXsQQ4FZlji3PdYBwR,Memory Relapse,2025-09-19,25,Christian Metal
+41MbjzYy5asQYTWPyOUpG4,Bring the Rain,5yzkBSLrjOxyMDqLu7Dpc2,Remedy,3WuDi6yHaNN95NkkW6ufbO,A Light in the Darkness (Deluxe Version),2024-12-20,32,Christian Metal
+4Jt04IPE3qVitC8YQDf4f7,The Master Storyteller,627g4H0WzOhvuRRsbdBR6T,Theocracy,5L4OquprTIFcpKYEgUkjcy,As the World Bleeds,2011-11-25,34,Christian Metal
+6tLXmeB6muuU0PJfzcAThx,New Devils,2acrck3HDdaoi27MsI0xG5,Blood of Lions,2EUs5GSQIVvClnBYL9pcQM,New Devils,2025-10-15,26,Christian Metal
+13upk5GQMXh9nHMLx2FM6F,Die Alone,1uaz4cRw5clcnWJIswU6Jy,Glasslands,02QsKVvhAeaUuIb8XFBsrL,Die Alone,2025-07-15,32,Christian Metal
+4ZOREvpqSJGmD61YAMNoJU,Learning How To Be Human,4uOFEWy9mIcvQbr03IbPcL,Manafest,5CUMwKLT0Ic6pRNCxtlWHS,Learning How To Be Human,2024-04-05,19,Christian Metal
+1mLusDQmxIcRZVDWHGMICI,Hide in the Fairytale,627g4H0WzOhvuRRsbdBR6T,Theocracy,5L4OquprTIFcpKYEgUkjcy,As the World Bleeds,2011-11-25,33,Christian Metal
+6IFLq6fAxDJsdu7aOKx2Ec,I Can't Bend,1uaz4cRw5clcnWJIswU6Jy,Glasslands,5q9TNY7JhF7rZGXM8JZ7Kk,The Deep,2022-04-08,39,Christian Metal
+66ohz8sYtRkVBftnS9mGPp,It Can't Rain Everyday - 2022 Remixed & Remastered,6KO6G41BBLTDNYOLefWTMU,P.O.D.,0CjJ3F1RJfx7IH003BpCZ9,When Angels & Serpents Dance (2022 Remixed & Remastered),2022-10-14,36,Christian Metal
+3unH1E4aXE0bW48RDUsP1X,The Abandoning,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,3bv8Jyb4hRw9hopgdPfuOR,Between Here and Lost,2013-01-22,33,Christian Metal
+0Z2SbIiFi1a9R50sPADSSu,Take My Life,12A5ksM0yYvX6ULrJmIvQN,As The Structure Fails,65GpysGFZircjbBqTaeKpr,Take My Life,2025-04-25,24,Christian Metal
+4n4K8ee5x2JTTNXM4oxsY1,Ichthus,627g4H0WzOhvuRRsbdBR6T,Theocracy,7mEoP6eBRHXNUDuyAA2Llq,Theocracy,2013-11-19,22,Christian Metal
+017xV4tIMZT6fpS4s6uXfy,Pharaonis Imperium - Remastered,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,3toD2UkNYv1qKsYrbcHetb,Liber Exodi: Servitus Aegypti (Remastered),2025-05-30,8,Christian Metal
+0YjQh4L0LIswMrkAp9rLQw,Around the World and Back,627g4H0WzOhvuRRsbdBR6T,Theocracy,0bej9yySALDbCmz1ph58pY,Ghost Ship,2016-10-28,24,Christian Metal
+0BbZ4t4PiaDEZ4OU9MqSd2,Lights & Fire,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,0OATjVGmqFTN2tNFzqxsSk,Peace That Starts the War,2022-02-11,9,Christian Metal
+4aOVJDvyb1D0f0zbrZtx0Y,Through The Dark,2EuebfbkzYI5uKw6CfMpyT,Silence The Echo,4x8yQRDOJA3uf4I9ddbjHB,Liberation,2025-09-12,20,Christian Metal
+3cG6nfEPCZLvb1b0ehLI0O,I W8 4 U,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,3bv8Jyb4hRw9hopgdPfuOR,Between Here and Lost,2013-01-22,23,Christian Metal
+4KQiF3OQvDg4UiyCIQmxc2,Find a Way to Fight,4uOFEWy9mIcvQbr03IbPcL,Manafest,5hAjCIs2CxrREJ5RlKEvkx,Stones,2021-01-01,15,Christian Metal
+4jHnVRWCAwbW9s5IWPvhnL,Blood from Above,6lE1ly8K8H7u8k2ej2plvv,Stryper,2CpmnoJPot6fpKKq2xVYJt,Even the Devil Believes,2020-09-04,24,Christian Metal
+1SlOs4l9WvJ4bITuyZXHqc,Lights & Fire,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,2M1MruXHvS7YndZJ2jgDUD,Lights & Fire,2022-01-21,22,Christian Metal
+0qBV126MzAUvM5uYqblfMG,Insight,6yypkt0xYByvs7j8RUTIW5,Kohllapse,4sNetuWrBlccbg6E7oHnI6,Distant Mind Alternative,2005-01-01,0,Christian Metal
+5KH3BIIIQXyD7dDxZWktYu,Paper Tiger,627g4H0WzOhvuRRsbdBR6T,Theocracy,0bej9yySALDbCmz1ph58pY,Ghost Ship,2016-10-28,26,Christian Metal
+6MU3pr2X9sgHciRGBj5g1e,Money,4Dd4L5XTvf8rjyfxhCdwsu,"Brian ""Head"" Welch",5lVhhjKdgtz7qS1uOoZS9D,Save Me from Myself,2008,22,Christian Metal
+2o6nje99p5vCwAnVa9UXBz,Rhime Animal,6GfiCQDFYANz5wUkSmb3Dr,Thousand Foot Krutch,1f0DLNSb2vQcZq9Qb8F6Of,Set It Off,2000,19,Christian Metal
+5sxnuSgnJ3jsDep7bp8GNy,Wake,5oF791JGXaog3Z0luS9Iik,East West,5J3lByUZqXqpIeMYXPNic5,The Light In Guinevere's Garden,2001-08-14,8,Christian Metal
+51VFMF3AMVX3zDRMVer0Kh,Save Me from Myself,4Dd4L5XTvf8rjyfxhCdwsu,"Brian ""Head"" Welch",5lVhhjKdgtz7qS1uOoZS9D,Save Me from Myself,2008,27,Christian Metal
+5no6aVqvfibusrpse1FQtV,The Writing In the Sand,627g4H0WzOhvuRRsbdBR6T,Theocracy,4HXYsnJBXBwFrq4bweT9Hp,Mirror of Souls,2008-11-21,24,Christian Metal
+6t9yJORChdOMXdUArHT6Ni,A New Beginning,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,6y0XLLFxmMrQsNh2WbdyCa,"The Book Of Genesis, Pt. 3",2025-06-20,6,Christian Metal
+1Uvov3AmjVpr7HT85DgmDa,30 Pieces of Silver,627g4H0WzOhvuRRsbdBR6T,Theocracy,5L4OquprTIFcpKYEgUkjcy,As the World Bleeds,2011-11-25,30,Christian Metal
+0OZnkFEWbTjp4oyT9bIpqe,Holding On,6lE1ly8K8H7u8k2ej2plvv,Stryper,4LAVjeUmJl3h3U44sMRrfm,To Hell With The Devil,1986-01-01,26,Christian Metal
+6nfR0btI1wAlJFlYLG1tH3,Ridiculous (Demo) - 2021 Remaster,6KO6G41BBLTDNYOLefWTMU,P.O.D.,7fZcJiON0dNa4iE2miGmhw,Satellite (Expanded Edition; 2021 Remaster),2021-09-03,13,Christian Metal
+4BGo6OQZIQ0yGMLXEBcBkz,In The Beginning,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,6o5fyj67MSHECyeasCBc4q,"The Book Of Genesis, Pt. 1",2025-05-16,4,Christian Metal
+4D7kT4UhJBnd9yNoE6pOpd,Sanction the People,4sk3eiZeK99D0iG52ggI6z,Zerough Deigh,5VUVGgF2ovVmA5j0jeZnUc,Sanction the People,2025-10-08,0,Christian Metal
+3WKIJkjgNoWvo2NM501kwR,Воедино,1JNdofMBfiBtuTbXBlr7yB,ORDERTOLIFE,04W1HSTMuYIsjrSQ6XObsw,Pain armor,2025-10-10,2,Christian Metal
+4jSnMx3RFblPCItTtqOTri,Ранен,1JNdofMBfiBtuTbXBlr7yB,ORDERTOLIFE,04W1HSTMuYIsjrSQ6XObsw,Pain armor,2025-10-10,2,Christian Metal
+6bpPyymYraBvWkpVEyylFd,Watching the Bottom Fall,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,1OdpPzA65csASF5g6Ghzay,Between Here & Lost (Expanded Edition),2013-09-17,10,Christian Metal
+1JaA7rqI4UkexY7hDP9GyW,King Lazer,5foy0C3uRKsbKh7HsftCST,Fallstar,60mGyO79l5tzOQl0yW0lrk,Sunbreather,2021-02-12,10,Christian Metal
+5FtSStkfgWaSbf7vN1CPR5,Deadweight,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,2rDc9fiNUDMFsvBdTCjWDK,Deadweight,2022-03-02,17,Christian Metal
+6KHBAQaFkpkmUdzB71kPt8,Matter Of Time,5byg90wTxATnhB6kK253DF,Fight The Fade,4n1Y8Djpo0xnuhuPWcKYbR,APOPHYSITIS,2022-07-22,28,Christian Metal
+69aeIl6OlqNyE5otAgdeh1,Teeth Eater,2FeTFqLD7rngYYCh2V4RyX,Magdalene Rose,7MEsDPFVmfsCocZXcx0lEH,The Heart That Bloomed After Death,2025-08-22,18,Christian Metal
+3g5XSYduDvlgstpGhxjoMb,Unbelievable,6GfiCQDFYANz5wUkSmb3Dr,Thousand Foot Krutch,1f0DLNSb2vQcZq9Qb8F6Of,Set It Off,2000,26,Christian Metal
+30iAFjsgsYTOCLOQu7vces,Set It Off,6GfiCQDFYANz5wUkSmb3Dr,Thousand Foot Krutch,5njAxKASvYBhOEByLb3hw0,The Ultimate Collection,2014-11-10,7,Christian Metal
+3K77eVgg7uSGLREflgTaX8,Supafly,6GfiCQDFYANz5wUkSmb3Dr,Thousand Foot Krutch,1f0DLNSb2vQcZq9Qb8F6Of,Set It Off,2000,25,Christian Metal
+5QGcpzI9y7W7DcwMwduQd7,Intro.,6GfiCQDFYANz5wUkSmb3Dr,Thousand Foot Krutch,1f0DLNSb2vQcZq9Qb8F6Of,Set It Off,2000,19,Christian Metal
+6KnkTHZvKL2UkSVVnK2T4a,Beneath the Rain,6wkcDg1ZWTbCGW5cUPdZ4A,Soul`s Cry,6u4Np2owep0yCzyJx6LgCy,Beneath the Rain,2025-09-03,19,Christian Metal
+39H85mM3qbjTw3ZMxeJIgJ,Free,6lE1ly8K8H7u8k2ej2plvv,Stryper,4LAVjeUmJl3h3U44sMRrfm,To Hell With The Devil,1986-01-01,38,Christian Metal
+53uleXtyJGuMLcFKSaVtpt,Twist of Fate,627g4H0WzOhvuRRsbdBR6T,Theocracy,7mEoP6eBRHXNUDuyAA2Llq,Theocracy,2013-11-19,16,Christian Metal
+7rQhpgaXstEC1yPoNVrCPt,Bruises,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,1OdpPzA65csASF5g6Ghzay,Between Here & Lost (Expanded Edition),2013-09-17,8,Christian Metal
+7w4rDTkAhdzS0RsP88ntdU,The Ether,1uaz4cRw5clcnWJIswU6Jy,Glasslands,0kcZXUlx61ivfpM9tP0RRV,The Ether,2023-06-13,26,Christian Metal
+4HVTLRew4toKS5vux8lS7L,Breathe,5oF791JGXaog3Z0luS9Iik,East West,5J3lByUZqXqpIeMYXPNic5,The Light In Guinevere's Garden,2001-08-14,6,Christian Metal
+2vtgRDBgjf9Y08ptORA8dq,Superman,0Uj2hge2fxypJ7f4ik6lpr,Blindside,5xgbGurx8ggWhQmy4yiy1r,Blindside,2011-06-05,15,Christian Metal
+4hmT4Dmrj45kUTcPdeqvfm,No One,4yMIEw1F5ALRIv7bZz0jid,Late Night Savior,2PySo2wK6JkC2qWAJZN2d7,No One,2025-02-28,30,Christian Metal
+7dmpBulL6AADuVmmJgVR6P,UNSTOPPABLE,4uOFEWy9mIcvQbr03IbPcL,Manafest,2V5zW16bE79VHpK5aQXxXG,Doomsday,2024-03-22,6,Christian Metal
+6ZrJjrRQdOyx4f13PbGdcj,Through The Dark,2EuebfbkzYI5uKw6CfMpyT,Silence The Echo,0P2Jtomq8gF9J2C0P888bc,Through The Dark,2025-01-29,16,Christian Metal
+6O4IS3aJE36u04LBhyNVW0,Puppet,6GfiCQDFYANz5wUkSmb3Dr,Thousand Foot Krutch,5iOJrDnETq7mPgJErkR0xW,The Ultimate Playlist,2016-08-05,20,Christian Metal
+2OSr28Hl7uwhSK2CwlbBXy,Son of the Rain,2eXM6plUGS4TET0MuIy0hT,Saviour Machine,2ZlkX4MYjpc13hNyCV0CSz,Saviour Machine,2004-01-01,13,Christian Metal
+2kJmyyjyJ95VXqsCP4khjo,PARASITE,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,6LQsfCqegKFqkeRNdOds8J,SYNTHETIC SUN,2025-03-28,13,Christian Metal
+7nEioptyhsRMgC84JY97pu,Not Alone (High Without Background Vocals) - [Performance Track],01crEa9G3pNpXZ5m7wuHOk,Red,4nzpNHVZU80jBXzFyOGXL4,Not Alone [Performance Tracks],2011-04-08,2,Christian Metal
+6AlR28ZygNCmyz9xN5M7zP,Die Religion Die,4Dd4L5XTvf8rjyfxhCdwsu,"Brian ""Head"" Welch",5lVhhjKdgtz7qS1uOoZS9D,Save Me from Myself,2008,22,Christian Metal
+0hGEhAAfGyL3GhHkJmc8OA,Secret Weapon,1buKzJRsNqt1ZZGitqgFXx,Divinefire,43Gv4JncNRNw0Ej7KWkliy,Hero,2005-01-01,14,Christian Metal
+1XqU6weyWUDEH9Gf869tXr,Sinner's Paradise,4l8QsZ0KAngipngYUbA7sA,Faith Frenzy,5SsueoU7tVN4rrWvopeVRz,Sinner's Paradise,2025-10-11,2,Christian Metal
+7xUVn2Zg1Zl40IXGblKXg8,The Creature,1uaz4cRw5clcnWJIswU6Jy,Glasslands,5o9gu5zA8B85W9nzuMnOWr,The Creature,2023-10-27,17,Christian Metal
+6XzJjPItUMP9CelKiY8nFv,Serpent Crusher,4KcLdMaw3ai9gReju7aAaZ,Pastor Brad,6xf2Mq9zFkx6FQqCX06Wwu,Serpent Crusher,2025-07-01,7,Christian Metal
+34XQzyEcijHBaz15PpNRDR,Chemicals,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,1OdpPzA65csASF5g6Ghzay,Between Here & Lost (Expanded Edition),2013-09-17,10,Christian Metal
+1xTIgKBRtFQulEmhn6JYi7,Robotic Salvation,1ylEDHzEWkGPqdW9ZlEmsk,Neon Crown,1Z0WB2Tq2m8gEfI9ZM5faI,Oblivion,2020-03-11,6,Christian Metal
+30Ld6dZ4FDanacWBCCdn6s,Man with a Mission,0xxD4XGSICjmlWybbgJLHz,Golden Resurrection,3zgfCsjIojyZ9BgXjMIxx8,Man with a Mission,2011-10-28,18,Christian Metal
+1sgINNcxXjmv51Urc8Fgm3,The Way Out,2GFH65OfEiNfR6TgZ8b3eL,Vinicius Cavalieri,3LG6v76h4WjsbtvgOVjb1g,The Way Out,2021-10-01,9,Christian Metal
+2S6pOb2Q94SB7Dy46Qkv1a,Menace,7bDRi5oVA2qSBeoIpULbTl,Two Dimensional,1qzzRgQc9U1HoHVuMwMF4z,Menace,2025-10-17,4,Christian Metal
+5Mk6HkZHQDS3xl28poGVgQ,Re-Bel,4Dd4L5XTvf8rjyfxhCdwsu,"Brian ""Head"" Welch",1FSUCh91pzrC3DGhTTpc3H,Save Me From Myself,2008-11-18,2,Christian Metal
+7uFVi1GsyY1OU2gMoMUSg1,Forever,4uOFEWy9mIcvQbr03IbPcL,Manafest,55Clui94La9sI2ncpFcjer,I Run With Wolves,2021-12-31,9,Christian Metal
+5IXfKaC9qMaTBZDVS0hQ67,"Liar, Fool, Or Messiah",627g4H0WzOhvuRRsbdBR6T,Theocracy,7alHdo9QOz20T403gySW20,Mosaic,2023-10-13,22,Christian Metal
+1LaOSPeZzi3da9ITI2EqTA,Who Am I?,7iKsdIqgy2s5xMbKiVafjv,38th Parallel,1gTvrOuCP6SjwS8aCFiFBo,Turn The Tides,2002-04-30,13,Christian Metal
+2hp7EIZmItRPZhuBZtZNuH,I Am,6KO6G41BBLTDNYOLefWTMU,P.O.D.,7AAaNM2EiM1Yr7YMiNUyIO,Murdered Love,2012-07-10,22,Christian Metal
+5rPZ0ZHMuSRhhCQk7GNNQC,Follow Me,22oyZI0CrBWBe7eHVd9LP1,Allos,09t6kCdmtHDnWMwCxk8jtu,Strong Delusion,2024-10-04,6,Christian Metal
+3eHLstCzSSTsPA5EQDW4u7,(i am) disgusted,0hJKWC6BzF5hERHGSZ1CXW,Heartbound,0PkHaGiRFCnGl5Fc6GscPn,(i am) disgusted,2025-07-25,13,Christian Metal
+4LsG88IhWYB1j3txxNPfou,Darkness Defeated,4KcLdMaw3ai9gReju7aAaZ,Pastor Brad,6xf2Mq9zFkx6FQqCX06Wwu,Serpent Crusher,2025-07-01,20,Christian Metal
+3683jFNqjyT3ogRosTOUw4,Oh Bravo,0FguhfqSypXh6FuYJHkI6w,Children 18:3,0tRcSkWMGSvfVC3j5zaMDt,Rain's A Comin',2010-01-01,20,Christian Metal
+7vfj7SAFe4cGibso62wvbq,Lights & Fire,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,2rJa8wFBmhoPzqw4Xn0acJ,Eulogies,2022-03-11,34,Christian Metal
+3LaIMq4k3zx4EbWRFQzHkL,Chains of Depravity,4KcLdMaw3ai9gReju7aAaZ,Pastor Brad,6xf2Mq9zFkx6FQqCX06Wwu,Serpent Crusher,2025-07-01,13,Christian Metal
+2kUWu087DOazx7lnKYugML,Come to Light,0JSfR2jTpDwwPu11K3tzRo,Micah Ariss,1u7BH1ls4VYJLwAvtuQrdW,Come to Light,2023-01-13,28,Christian Metal
+1tI8UaqBSNLtLuKDaLvRxD,Still Haunted,3XxTiLhFGMsWvVfpZ7KlF9,Confessions of a Traitor,0zFhgMSkt98VDHVEPqQeE6,This Pain Will Serve You,2025-05-16,36,Christian Metal
+3XXOlfyQkJ0nBPPGheiwv0,Burnout To Fade,0dgnITyIAN4NrmUVisvxHU,Tesla,1EgrNhKaK58fiWGqxmvGh1,Simplicity,2014-06-10,11,Christian Metal
+4il1GBerEw51VHGNjYD84B,WILL YOU SEE GOD?,0sxW2BJTemkPy8tDeO1s0t,Impending Doom,74PmqmD3b2Eo3rlHEihPz9,TOWARDS THE LIGHT,2025-02-07,28,Christian Metal
+4sZpJj1xNVXerHgzgXt3Z7,EMO,335YtjytwdaP71X8N8eKQ4,Little Limbo,4eeSbKN390wBozakkL0ksZ,EMO,2025-09-12,8,Christian Metal
+5Nl2kFy9filktYZu4tgPwU,Loyalty,4Dd4L5XTvf8rjyfxhCdwsu,"Brian ""Head"" Welch",5lVhhjKdgtz7qS1uOoZS9D,Save Me from Myself,2008,21,Christian Metal
+2pyqf0ZPe1v7lOsYrdSix5,Composure,5byg90wTxATnhB6kK253DF,Fight The Fade,4n1Y8Djpo0xnuhuPWcKYbR,APOPHYSITIS,2022-07-22,24,Christian Metal
+0jVjJxSlZcX4jpkzePpRdD,Heavy Metal,4uOFEWy9mIcvQbr03IbPcL,Manafest,3ZHPDFdLiHctzZhdYEwlyB,Walking Into Fire,2025-08-15,16,Christian Metal
+2h1tE5xHFlYbFcvu5ZXJgd,i dont know where to start,2FeTFqLD7rngYYCh2V4RyX,Magdalene Rose,7MEsDPFVmfsCocZXcx0lEH,The Heart That Bloomed After Death,2025-08-22,25,Christian Metal
+2rbPP8O45bjkWoHovvGuLN,Отдай мне боль 2 (outro),1JNdofMBfiBtuTbXBlr7yB,ORDERTOLIFE,04W1HSTMuYIsjrSQ6XObsw,Pain armor,2025-10-10,1,Christian Metal
+6ssuYos7u5kjulrSvG6Upl,A Voice in the Violence,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,6L8gLKCluioceYP7WNmcol,Eclipse,2019-07-26,31,Christian Metal
+3Sn8Tb0vDPcbJ0bFVMw3KO,1000 выходок,1JNdofMBfiBtuTbXBlr7yB,ORDERTOLIFE,04W1HSTMuYIsjrSQ6XObsw,Pain armor,2025-10-10,2,Christian Metal
+30CD32XgMIY81nuN2QgN2Z,You Are Loved (feat. Brandon Saller),1NvOTUSmxzZhPLoEALmXCc,Alarcon,6GueGVl4KvBzEQgVa4E1MI,You Are Loved,2013-06-01,3,Christian Metal
+1S0rqQYThwSwBQbUKxxcLd,Want It All,6KO6G41BBLTDNYOLefWTMU,P.O.D.,3ileNPLE1vlimaNhDXtEzs,The Awakening,2015-08-21,17,Christian Metal
+6S1loL2QWuZVk9LeOT062C,Boom (The Crystal Method Remix) - 2021 Remaster,6KO6G41BBLTDNYOLefWTMU,P.O.D.,7fZcJiON0dNa4iE2miGmhw,Satellite (Expanded Edition; 2021 Remaster),2021-09-03,21,Christian Metal
+5BZRB4kozUMCcRxv0K91wF,Imminent Destruction,30Jl6qHkTGpc3obxBp8fE8,Eternal Decision,2p0r7ovqSh0rcGZ2cdZo6z,Eternal Decision,1996-01-01,11,Christian Metal
+0WXg4UXALms9mEmba6LdF4,Falling,4VOJeueV4U0wHcqnEmBOqI,Monarchs to Oblivion,20hJ5mX9HK5Lxo1MDQ8lAT,Testimony,2025-08-08,3,Christian Metal
+7A61G3HRgUWZJEgcuS05n6,"See No Evil, Hear No Evil",6lE1ly8K8H7u8k2ej2plvv,Stryper,1h0WWO7QEbyIztxbalxp23,"See No Evil, Hear No Evil",2022-07-21,12,Christian Metal
+4Iybq2dWZTf1OypWTPmP9y,Crowned by Mistake,0VxEkJyHqpsYabj1Br8dck,Phantom Verse,2JwrNL1yrodHdvQLyVFCa4,What We Swore,2025-10-17,2,Christian Metal
+70L0T8m5MYQbwp3Ck6MIGx,Tethered in the Storm,0VxEkJyHqpsYabj1Br8dck,Phantom Verse,2JwrNL1yrodHdvQLyVFCa4,What We Swore,2025-10-17,2,Christian Metal
+6LXLKGLW50uh5pGJ6dnnyI,Stop the Bleeding,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,5XoZwlDILgQhaWORW8gyei,Stop the Bleeding,2021-07-07,12,Christian Metal
+4Rgv50ICunPIrl7V64x8RZ,UNSTOPPABLE,4uOFEWy9mIcvQbr03IbPcL,Manafest,4d5yB6uYRMPPJYnFXXCVmZ,Here I Am,2024-04-19,2,Christian Metal
+3pPMeP8oJBfYf4a2otmv9R,Bread or Blood,1Phg6Pos87VQuqS7biMod8,Eowa,73uDqdAk8OjMSofGJQPNGx,The Year Without a Summer,2025-08-15,2,Christian Metal
+1neBPpMcq3MXU9qgoZymjq,The Serpent's Kiss,627g4H0WzOhvuRRsbdBR6T,Theocracy,7mEoP6eBRHXNUDuyAA2Llq,Theocracy,2013-11-19,17,Christian Metal
+2AVp9Cs20KdHS56TE05pBi,Cleanin' Out My Closet,4uOFEWy9mIcvQbr03IbPcL,Manafest,2V5zW16bE79VHpK5aQXxXG,Doomsday,2024-03-22,13,Christian Metal
+1DB8DrMv53cPgeO06BEGiV,Final Sacrifice,39O9SXi3YbIXCCn7kCBHhU,Soul Unveiled,5TyC2Hy9ilZrYBuGpEZiQy,Wake The Nation,2025-09-05,13,Christian Metal
+1kCmdyXFUJ37hclNwNfBvG,Levy Your Soul from Hate,6xItVyqP617Z4goLPhiWny,Seventh Avenue,7sCo80Lxyz2sW2KVvE4f7q,Between the Worlds,2003-01-27,9,Christian Metal
+1yhQ90SGl8guDhAKmE3GDJ,My Better Half,4ZzzHw45mYOuu6yvYhJZQh,Full Metal Hollow,7wHhaCqZRkV47yZcW47876,Getting Left Behind,2025-10-07,3,Christian Metal
+5phBoAljuEBTKlPDLhGs2V,On Eagles' Wings,627g4H0WzOhvuRRsbdBR6T,Theocracy,4HXYsnJBXBwFrq4bweT9Hp,Mirror of Souls,2008-11-21,31,Christian Metal
+28tACbaeqQcWDqOv4gMekt,Sing-Along Song,6lE1ly8K8H7u8k2ej2plvv,Stryper,4LAVjeUmJl3h3U44sMRrfm,To Hell With The Devil,1986-01-01,28,Christian Metal
+53InJGKQcALFNQhdbc6dbq,Good Things Run,0VxEkJyHqpsYabj1Br8dck,Phantom Verse,2JwrNL1yrodHdvQLyVFCa4,What We Swore,2025-10-17,3,Christian Metal
+1NfBaowd8VVzuIsBGQN58E,Fire and Ice,0VxEkJyHqpsYabj1Br8dck,Phantom Verse,2JwrNL1yrodHdvQLyVFCa4,What We Swore,2025-10-17,3,Christian Metal
+0VStEUngQ9vXyEM7We1S4Q,For Us Always,6fR3cK9RhHLWCFWWnAY1nY,Survos Music,0fptnGyxGdEnss8aRDEYS8,T.G.I.S.,2025-10-17,0,Christian Metal
+1uKPTJtuZi2FRp0gYDO1cU,Left Behind (Kirk Cameron),6kFLnclYFc3gzpNt13wim5,Seventh Day Slumber,3i9lKVT1lPe4LFY9e3kNYZ,Fractured Paradise: Garden of Shadows,2025-05-16,40,Christian Metal
+13i27HOd0s8jigHb36aUWl,Hellhounds,7bDRi5oVA2qSBeoIpULbTl,Two Dimensional,1qzzRgQc9U1HoHVuMwMF4z,Menace,2025-10-17,5,Christian Metal
+668e8j4keedeYmntYpnRmi,Doomsday - Armageddon Remix,4uOFEWy9mIcvQbr03IbPcL,Manafest,2V5zW16bE79VHpK5aQXxXG,Doomsday,2024-03-22,12,Christian Metal
+6yHTqRo68TyI5nB2a6qjt0,Currency in a Bankrupt World,627g4H0WzOhvuRRsbdBR6T,Theocracy,0bej9yySALDbCmz1ph58pY,Ghost Ship,2016-10-28,21,Christian Metal
+4mCpwesK836EKPebq4v5lZ,Just A Little Further,4ZzzHw45mYOuu6yvYhJZQh,Full Metal Hollow,7wHhaCqZRkV47yZcW47876,Getting Left Behind,2025-10-07,2,Christian Metal
+72lhV85Cnu57whkfrVZFEE,Empty,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,1OdpPzA65csASF5g6Ghzay,Between Here & Lost (Expanded Edition),2013-09-17,22,Christian Metal
+2Hbl7aD7tcqNkaovmnGUmB,PITCH BLACK,79xXlDgit62vmf8ZEZOCpv,Vampyro Crimson,0HJfYF0mYOKKWAiAGi0VF5,PITCH BLACK,2025-08-29,7,Christian Metal
+0YC1fSoq40jPHjOxhCJfnv,Set Your Eyes to Zion - 2006 Remaster,6KO6G41BBLTDNYOLefWTMU,P.O.D.,1i3YXOzNkaykTt6CxWGOOU,Greatest Hits (The Atlantic Years),2006-10-27,23,Christian Metal
+33E6IQQMdHbu0HhCrxu3IJ,By Grace Alone,09ugXTLp98AztQi7BRgo3c,Saint World,3oKYss9jdtmevUurWwnuLS,I am & By Grace Alone,2021-08-20,16,Christian Metal
+1trkderv9iP4v49rvRNZhH,Determination,6kYiDgxX4t2TRCcXLJ164o,A Life Aligned,1zy3m9P7yk6opInOQ6fOu8,The Light That Failed To Cease,2025-09-05,16,Christian Metal
+6dJ5aDIIMGDyJL2srJSF0E,Shake,4Dd4L5XTvf8rjyfxhCdwsu,"Brian ""Head"" Welch",5lVhhjKdgtz7qS1uOoZS9D,Save Me from Myself,2008,20,Christian Metal
+4YLdjHhX2XnfgGwwUrDJqt,SAVAGE! - HYPED REMIX,0Sw1p3kopd0Qjeyk2PdKx4,Kelly K Ministries,2kAiEeCgnxJRHs4PzZUi2p,SAVAGE!,2025-09-16,15,Christian Metal
+1UgUo5c9H6UrqB79Nmh1N0,Cinis ad Crucem,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,72F34PcCbfdRCdUxbJ86sd,Holliest Thunder (The Best of Holy Thunder),2025-06-11,2,Christian Metal
+3KHuq6Nkur7mEkWInWejtG,East Of Eden,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,3fpTH67V9OkvTxR3Sz4X1X,"The Book Of Genesis, Pt. 2",2025-05-23,5,Christian Metal
+0xQy2ZH3dGljnH6EhdoNua,I Built This With My Dad,4ZzzHw45mYOuu6yvYhJZQh,Full Metal Hollow,7wHhaCqZRkV47yZcW47876,Getting Left Behind,2025-10-07,3,Christian Metal
+60Tu71bQ9jaYkOPny1pVoA,Brain Bleed,4ZzzHw45mYOuu6yvYhJZQh,Full Metal Hollow,7wHhaCqZRkV47yZcW47876,Getting Left Behind,2025-10-07,3,Christian Metal
+44M5mTG1sePde9375YjQFw,Arder,2wwzFSrbJhmL5XEt5igLVf,Valor Interior,4UW34VFLLeDIfGPs1keZD8,Arder,2024-12-18,10,Christian Metal
+403SqEXjWZdHKKPtjAabyL,Forever,1ylEDHzEWkGPqdW9ZlEmsk,Neon Crown,0A5Wy7EYNpmn2Gh6yFAJZ9,Awaken,2024-12-17,6,Christian Metal
+5VrrIapnLo0rulVbQDmDJQ,The Truth,36mWpZpU8lKS4iQrBs0p6r,Vertilizar,2XqEqYJM9YbF4NKLIwh1RS,Vertilizar,2018-09-21,2,Christian Metal
+3eUHgQINhOwLqKvwvglNDZ,CRY WOLF,72U0KtKTsqWZeYC83Tw8b3,Damien Darhk,3FxL2lkFUZNgSYJyaRXOwe,CRY WOLF,2025-10-08,17,Christian Metal
+21UQjkxvo8kzYJeqlAguZz,Life Is A River,0dgnITyIAN4NrmUVisvxHU,Tesla,1EgrNhKaK58fiWGqxmvGh1,Simplicity,2014-06-10,9,Christian Metal
+23T2BU3KhPlaI3xLBCcUpc,1789: Terror revolucionário,1BpfZ7wZdmW6bx5SS7LcfH,Flegetonte,4Vo4nehelyQaZXI13L85ji,1789: Terror revolucionário,2025-10-07,11,Christian Metal
+5obLUSfcFLq4k4awPTgsZE,Doomsday - Armageddon Remix,4uOFEWy9mIcvQbr03IbPcL,Manafest,4d5yB6uYRMPPJYnFXXCVmZ,Here I Am,2024-04-19,3,Christian Metal
+5HycBF8Re7KnHDUZPHzDt5,Break Of Dawn,0dgnITyIAN4NrmUVisvxHU,Tesla,1EgrNhKaK58fiWGqxmvGh1,Simplicity,2014-06-10,9,Christian Metal
+4xQoLsuIFijyeVrHe1waOb,I W8 4 U,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,1OdpPzA65csASF5g6Ghzay,Between Here & Lost (Expanded Edition),2013-09-17,10,Christian Metal
+5UTJwLrJ5zkneaabimgrUJ,Geisha`S Mask,6wkcDg1ZWTbCGW5cUPdZ4A,Soul`s Cry,2mV6xFCNWXJt653x0FuML3,Geisha`S Mask,2025-09-07,23,Christian Metal
+3kkVhDfAHu1bgo3yRDl7yt,Fake,170qLAyfpGyLLTCu1QcDhL,XIII Minutes,6GfoPxOMPqbSAz0bXg2Om8,Fake,2025-10-03,16,Christian Metal
+5cDWHTVTnKNWQ3ddnB8mj2,Re-Bel,4Dd4L5XTvf8rjyfxhCdwsu,"Brian ""Head"" Welch",5lVhhjKdgtz7qS1uOoZS9D,Save Me from Myself,2008,24,Christian Metal
+1bsO2k2LMltwBr7fWH7Z9Q,Cleanin' Out My Closet,4uOFEWy9mIcvQbr03IbPcL,Manafest,3tCanfjt34tr6C1kkT5MdY,Cleanin' Out My Closet,2023-11-10,12,Christian Metal
+4S3dVi7jePgWjRqkhr2qZA,Pain armor,1JNdofMBfiBtuTbXBlr7yB,ORDERTOLIFE,04W1HSTMuYIsjrSQ6XObsw,Pain armor,2025-10-10,3,Christian Metal
+0KcF2blxq8Rm2Yjow5eRLB,All The Way Live,6GfiCQDFYANz5wUkSmb3Dr,Thousand Foot Krutch,1f0DLNSb2vQcZq9Qb8F6Of,Set It Off,2000,18,Christian Metal
+1ZMcoNiKhTvSlUZIfnujKg,Rise And Fall,0dgnITyIAN4NrmUVisvxHU,Tesla,1EgrNhKaK58fiWGqxmvGh1,Simplicity,2014-06-10,10,Christian Metal
+7EDMkXjmGO6oZjbZ5JYV1x,New Jerusalem,627g4H0WzOhvuRRsbdBR6T,Theocracy,7mEoP6eBRHXNUDuyAA2Llq,Theocracy,2013-11-19,20,Christian Metal
+1nCffFQOjdwv7zk4rBSh6p,Devil in My Hand,1G1ydIK5hbb1RGollGVgL7,Feverhill,5SiyFkCiLpAEgzKz69c25F,Follow Me (Down),2023-05-19,16,Christian Metal
+5Gy4JkAA6Z2tmMfmuoRHbV,Wishing Well,627g4H0WzOhvuRRsbdBR6T,Theocracy,0bej9yySALDbCmz1ph58pY,Ghost Ship,2016-10-28,20,Christian Metal
+0IIuhgoduGxcE32CD81heh,Turn The Tides,7iKsdIqgy2s5xMbKiVafjv,38th Parallel,1gTvrOuCP6SjwS8aCFiFBo,Turn The Tides,2002-04-30,17,Christian Metal
+0hbeUMrMp4VMhM5c8Qq068,See My Commands,0xxD4XGSICjmlWybbgJLHz,Golden Resurrection,1tr0XijEzFZZLZZyxi2jhY,Glory to My King,2010-12-03,21,Christian Metal
+5wg8Xeu37OTXbrmWfqmXdt,The Cure,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,7DRM9OMs2RaWF0i43OF4BP,Counterfeit,2019-07-12,3,Christian Metal
+3TgFPyi6SnsqiQ1OyypMjH,United Friends,6wkcDg1ZWTbCGW5cUPdZ4A,Soul`s Cry,0tdx2czKE8TpIs3tTyA82r,United Friends,2025-09-26,12,Christian Metal
+3osAPVGn9cip7zm0DZCZEZ,The Great Eternity,3WRrj4KRDVU9yP43hZETxo,Majestic Vanguard,2osQv8PbDbhaDuem3zNGdH,Beyond the Moon,2005,15,Christian Metal
+2U1VI3H2KFgdWxBN6EmDlH,The Victory Dance,627g4H0WzOhvuRRsbdBR6T,Theocracy,7mEoP6eBRHXNUDuyAA2Llq,Theocracy,2013-11-19,20,Christian Metal
+5aIYJj6IDjn4OtHQl50Twk,STILL BLESSED,335YtjytwdaP71X8N8eKQ4,Little Limbo,4MFRg1tPC1EztdLQzuAtqi,STILL BLESSED,2025-10-10,13,Christian Metal
+3bimN1JcQkbLWcUJexAEyh,The Cure,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,6L8gLKCluioceYP7WNmcol,Eclipse,2019-07-26,31,Christian Metal
+36tNTRCnbncjQ2cd8GmljF,Anonymous,627g4H0WzOhvuRRsbdBR6T,Theocracy,7alHdo9QOz20T403gySW20,Mosaic,2023-10-13,23,Christian Metal
+6hLJLwif22Ra9Em5LwRDk9,Walking Out,5qgkCJ1zLU8UWtwsB3U9Mn,Versus Angels,7Cyt1bD8JwimQzJfLEdMGT,We're Only Human EP,2012-10-31,2,Christian Metal
+4uYDNB15GMJwcOatePg3e5,Death of Us,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,6hZbVdFSxbsXeZx5hLRn5i,Perfectly Preserved,2021-02-12,15,Christian Metal
+0TVRc7VgXMQjfA2ZNx3kNx,"Holy, Holy, Holy",2rsRJ62cUExMrFjCzBBqce,Reign Of Glory,6TLicJvlJHhhT27iFD8gZg,Slingshot,2025-07-18,5,Christian Metal
+3OzBsTYpopjRDRwcoC0Cpw,Blood from Above,6lE1ly8K8H7u8k2ej2plvv,Stryper,1nbTmFgmG415Yl9bZlMMII,Blood from Above,2020-06-26,17,Christian Metal
+5MqQZrlRh18Km0QfOy0X9u,Watching the Bottom Fall,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,3bv8Jyb4hRw9hopgdPfuOR,Between Here and Lost,2013-01-22,26,Christian Metal
+7Ahg1LkE2NYNi64ZzLBWiq,Adonai,4Dd4L5XTvf8rjyfxhCdwsu,"Brian ""Head"" Welch",5lVhhjKdgtz7qS1uOoZS9D,Save Me from Myself,2008,26,Christian Metal
+0ROoDlWFRS1o6jp1X0xD6i,Soldier,4uOFEWy9mIcvQbr03IbPcL,Manafest,2JJncY95C2vQFY5MywRGWx,Soldier,2024-05-31,15,Christian Metal
+0ry02y6pp2OEYAH5VpKaCx,Southern Depression,4ZzzHw45mYOuu6yvYhJZQh,Full Metal Hollow,7wHhaCqZRkV47yZcW47876,Getting Left Behind,2025-10-07,3,Christian Metal
+3H8n2Gk7uF7L9dMF3LILR9,A Voice in the Violence,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,5uMdAkXGqM6dgVVFEjnbFC,A Voice in the Violence,2019-05-17,15,Christian Metal
+5IHqeKzDuJvv8gspyPECVu,The Sixth Great Extinction,627g4H0WzOhvuRRsbdBR6T,Theocracy,7alHdo9QOz20T403gySW20,Mosaic,2023-10-13,20,Christian Metal
+5kPa2yW7u2Hk56hEe8aRsh,The Eye of the Seraphic Voi,5KAQSgjdK9UpJNU25JQ49V,Dunes Of Ash,5l6JWiUcc0W95HSrhOVUcm,The Fall of the Seven Sisters,2025-09-26,4,Christian Metal
+36Bd6nKLsf1Sytdf7ImNOl,I Saw A Fucking Dragon!,2DGqTV4FmA9d4X1McoWoKa,Echoes From Tomorrow,3F7YcniUsdtmItHozK5GXF,Flames and Dragons,2025-03-09,10,Christian Metal
+1w0RTlgJHOTyRBpHTZJvlc,Infantem Salvatoris (Reprise) - Remastered,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,2VStN9mQgKgLMBfHaNgBXB,Divinum Et Mortem (Remastered),2025-05-09,2,Christian Metal
+140G2FeF3Xv74YaSbRHIUc,The End of the World - 2022 Remixed & Remastered,6KO6G41BBLTDNYOLefWTMU,P.O.D.,0CjJ3F1RJfx7IH003BpCZ9,When Angels & Serpents Dance (2022 Remixed & Remastered),2022-10-14,26,Christian Metal
+1HisG6ZxPMESR9Hb8XNrUy,Clamor Oppressorum - Remastered,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,3toD2UkNYv1qKsYrbcHetb,Liber Exodi: Servitus Aegypti (Remastered),2025-05-30,5,Christian Metal
+6fh2JUL0P4jZDH53vyqNsv,Stop the Bleeding,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,5ErcF7s72FxrRVMAehTN7h,Stop the Bleeding,2021-04-16,19,Christian Metal
+0ccy0wc88k8L0D15r9xCjQ,Transgressor,6lE1ly8K8H7u8k2ej2plvv,Stryper,5ReMXko8PPw0Om5O6PZsRy,The Final Battle,2022-10-21,24,Christian Metal
+5026kZ2J5416BcaJIRtcYO,Mosaic,627g4H0WzOhvuRRsbdBR6T,Theocracy,7alHdo9QOz20T403gySW20,Mosaic,2023-10-13,26,Christian Metal
+44V66dzNwJ9iAXJf6HgAp0,Makes Me Wanna Sing,6lE1ly8K8H7u8k2ej2plvv,Stryper,4jFuX4WUDkdnkBjGY5NWuf,Soldiers Under Command,1985-01-01,27,Christian Metal
+3P10L9jnFgAAfdhgTWAuER,My Disaster,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,3bv8Jyb4hRw9hopgdPfuOR,Between Here and Lost,2013-01-22,21,Christian Metal
+6DcKyeXU0LQjexMUqtEbdg,Armor of Gideon,0sIMTPLcxhN4QMbSYBbBSj,Intexesor,5IUcj3xgD9JkgrfU40WquS,Battle and Exemption,2025-10-03,6,Christian Metal
+5XTSycusXrl9C919Xr5xHp,Heavens Above,1ylEDHzEWkGPqdW9ZlEmsk,Neon Crown,0A5Wy7EYNpmn2Gh6yFAJZ9,Awaken,2024-12-17,6,Christian Metal
+2nUCluDEK6tlatODqFQWAz,Infamy,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,6hZbVdFSxbsXeZx5hLRn5i,Perfectly Preserved,2021-02-12,9,Christian Metal
+053pvu9DVDa8d4V5sEpw7O,Lo Lamento,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,1lfltcIzzPJ8FlYxLO0N7E,Lo Lamento,2016-07-01,23,Christian Metal
+4xy0KfNbk4jrq5dpcht0dm,Death to Self,4Itk1IfMFqOn355b8Uxzrx,Death to the Flesh,0eynfi8kaeY69oy3vEpeJW,Theosis,2024-08-06,3,Christian Metal
+0EwP7a765ksITEQkSHhyDc,More Than Scars,33YlH12u3OqPWKd2hyp0UQ,Millennial Reign,1vD9ZnsR7R5QiKhlpsMyU2,The Great Divide,2018-05-25,10,Christian Metal
+0ZOFfJEdUPYmXkrcplS9a7,Blood on the Covenant,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,6y0XLLFxmMrQsNh2WbdyCa,"The Book Of Genesis, Pt. 3",2025-06-20,5,Christian Metal
+0n2FyH81XwRBN2P5p4nlaf,SAVAGE! - LoFi Remix,0Sw1p3kopd0Qjeyk2PdKx4,Kelly K Ministries,2kAiEeCgnxJRHs4PzZUi2p,SAVAGE!,2025-09-16,11,Christian Metal
+6wgYcqzYyTuhh37HroI0tY,Meltdown,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,1OdpPzA65csASF5g6Ghzay,Between Here & Lost (Expanded Edition),2013-09-17,11,Christian Metal
+0S5LOvoV9IT2fABibOWE96,Home,4Dd4L5XTvf8rjyfxhCdwsu,"Brian ""Head"" Welch",5lVhhjKdgtz7qS1uOoZS9D,Save Me from Myself,2008,21,Christian Metal
+7ouseolvhq0a139XOzJyUr,LAW OF THE (Waste) LAND,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,37Dzx21zFhJpdWB1herMb2,LAW OF THE (Waste) LAND,2025-04-18,27,Christian Metal
+1MgBjc6MsSWtPA0O7l3Xxg,Road to the Paradise,3qeklOq9OkE7FdJB0rjgXY,Within Silence,0zUoqwtZz90Ddh0Rhv09bF,Gallery of Life,2015-05-08,16,Christian Metal
+7K74Z7k7bKenOWPLLclFT1,Acidic Monsoons,1Phg6Pos87VQuqS7biMod8,Eowa,73uDqdAk8OjMSofGJQPNGx,The Year Without a Summer,2025-08-15,2,Christian Metal
+7FTp2QYPS8uwmgV4JM7B7x,Unstoppable,4uOFEWy9mIcvQbr03IbPcL,Manafest,1lfroNXoxUsuWqiKSqKakh,Unstoppable,2023-12-29,10,Christian Metal
+6JLw6bxbQvjCbDgExqjA9C,Frequency,1ylEDHzEWkGPqdW9ZlEmsk,Neon Crown,0A5Wy7EYNpmn2Gh6yFAJZ9,Awaken,2024-12-17,6,Christian Metal
+2gn1r5zCUuUvXziZQWHedK,The Abandoning,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,1OdpPzA65csASF5g6Ghzay,Between Here & Lost (Expanded Edition),2013-09-17,11,Christian Metal
+0Lkm4HRTCFv425t8zdVgYv,The Ether,1uaz4cRw5clcnWJIswU6Jy,Glasslands,5o9gu5zA8B85W9nzuMnOWr,The Creature,2023-10-27,6,Christian Metal
+3OHYcYMZyeGWnDPtsu975K,Mountain,627g4H0WzOhvuRRsbdBR6T,Theocracy,7mEoP6eBRHXNUDuyAA2Llq,Theocracy,2013-11-19,21,Christian Metal
+1LCAtxrwJubof09PDrczDj,Sinsidious (The Dogs of War),627g4H0WzOhvuRRsbdBR6T,Theocracy,7alHdo9QOz20T403gySW20,Mosaic,2023-10-13,22,Christian Metal
+0KvGS9KMFzSuiRu8uPKZRg,As the World Bleeds,627g4H0WzOhvuRRsbdBR6T,Theocracy,5L4OquprTIFcpKYEgUkjcy,As the World Bleeds,2011-11-25,24,Christian Metal
+7ugV68MFiDhVLcHtNZX8yX,Priests of the Eternal Flame,4KcLdMaw3ai9gReju7aAaZ,Pastor Brad,6DAnSYyFTWcUF0OQtGevXX,Holy Priest Metal,2025-06-03,18,Christian Metal
+07pC1eMhw6yQixRwQRTT8f,Blinding Lines,0VxEkJyHqpsYabj1Br8dck,Phantom Verse,2JwrNL1yrodHdvQLyVFCa4,What We Swore,2025-10-17,2,Christian Metal
+15sQYQWyufD1Hr8syHUCRM,Aeternum Sacramentum - Remastered,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,2VStN9mQgKgLMBfHaNgBXB,Divinum Et Mortem (Remastered),2025-05-09,7,Christian Metal
+7M1YagFnJXikPrYk9vQv1X,Someone to You,0VxEkJyHqpsYabj1Br8dck,Phantom Verse,2JwrNL1yrodHdvQLyVFCa4,What We Swore,2025-10-17,3,Christian Metal
+7qzD2Ud3Rybf6qMOKdsQol,Deified,627g4H0WzOhvuRRsbdBR6T,Theocracy,7alHdo9QOz20T403gySW20,Mosaic,2023-10-13,19,Christian Metal
+3GUQcTnuDVtyeH6Pnh0TCp,I Wanna Be A Good Dad,4ZzzHw45mYOuu6yvYhJZQh,Full Metal Hollow,7wHhaCqZRkV47yZcW47876,Getting Left Behind,2025-10-07,3,Christian Metal
+2DrOloJSsBOJhwE46N6KVb,My Disaster,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,1OdpPzA65csASF5g6Ghzay,Between Here & Lost (Expanded Edition),2013-09-17,9,Christian Metal
+5g7jp3O07vClc2a9Na4JMx,Chemicals,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,3bv8Jyb4hRw9hopgdPfuOR,Between Here and Lost,2013-01-22,23,Christian Metal
+1pDSzGuEQKshxRWbK9iWT0,The Painting,4SWgMzSiWoSEhEN54jg1tz,Avalon,1C9FascF03C3b766m9w8gB,Eurasia,2000,0,Christian Metal
+3GpWKTqpAd8XeuBXzIEDUB,Doomsday - Armageddon Remix,4uOFEWy9mIcvQbr03IbPcL,Manafest,3VeyUPjz688xgL01XFUSjt,Learning How To Be Human,2024-06-14,8,Christian Metal
+29qMEsbyMXcz7wkc8Jj2Ki,The Meek,1uaz4cRw5clcnWJIswU6Jy,Glasslands,7ywbcy2Ry5UaJ7BxnWHsEX,The Meek,2024-03-28,21,Christian Metal
+1VwunlxThtHIrHEkjBxWHD,upside uʍop,7jI685LOYB0OMXpilyR6vq,Refiner,0lramT99U6zfCD98T8mSPn,Self-titled,2025-09-26,3,Christian Metal
+05yqk2DmCWMM9Q9KGOa0fF,faDe,0coOP6mkOgps3tGarV40n4,bødyWash.,13zwzA5TDYNAinhRtBKEdo,faDe,2025-07-18,15,Christian Metal
+4ZtAkRcrSJySkjpgFlv9La,No One,4yMIEw1F5ALRIv7bZz0jid,Late Night Savior,6xtoThPtbeLA4slHsXz2Uj,Rebirth,2025-06-20,22,Christian Metal
+1UjfrhCTDhfbm1tA9ryzWd,Praecatio Liberatoris - Remastered,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,3toD2UkNYv1qKsYrbcHetb,Liber Exodi: Servitus Aegypti (Remastered),2025-05-30,5,Christian Metal
+6XdsFxwd034GWy5CogN7bj,Battle Hymn,3qeklOq9OkE7FdJB0rjgXY,Within Silence,3cZCDWA6M83hpS141p3WNo,The Eclipse of Worlds,2024-12-06,17,Christian Metal
+1EUIqT0sQsTMhb7cS2isVE,Affliction,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,6hZbVdFSxbsXeZx5hLRn5i,Perfectly Preserved,2021-02-12,10,Christian Metal
+6GBKwj6P3QCQLrQrasUslG,Forever,4uOFEWy9mIcvQbr03IbPcL,Manafest,68FghP1QWbbmmmVcIKYKNM,I Run With Wolves,2022-05-06,13,Christian Metal
+1UCN6sYR2qcTicALxsqRw7,Soldier,4uOFEWy9mIcvQbr03IbPcL,Manafest,3VeyUPjz688xgL01XFUSjt,Learning How To Be Human,2024-06-14,12,Christian Metal
+0mg62yCdyYtkWChDHsRG94,Weeping (Bonus Version),733om6iiemJgpY0BXazl15,Tierra Vacía,3LlDgNHcfTwkEE2lCJ0V5u,Rumble,2024-03-01,4,Christian Metal
+7JvKogYTKpPMx6nZumApxI,The Thing That Will Not Die!,2TfAUCW5sTA8LoYpeSNrf8,Warpriest,0zwrQZPCOprKnRmUvDZ10I,The Thing That Will Not Die!,2025-10-03,3,Christian Metal
+0z84GxzzYL7Lae4SinTxWi,Stronger Than This,4ZzzHw45mYOuu6yvYhJZQh,Full Metal Hollow,7wHhaCqZRkV47yZcW47876,Getting Left Behind,2025-10-07,2,Christian Metal
+5pkXlKPeqifQTJrfhMxE7d,Leave It All Behind,2MxDhfgFrkmv6fDiCI0fcH,In Your Distress,43Zt1sMo41FDfYew9zKC7z,Shackles & Shadows,2024-03-08,3,Christian Metal
+1dmIe8NDPBsamVd2RocmUJ,The Gift of Music,627g4H0WzOhvuRRsbdBR6T,Theocracy,5L4OquprTIFcpKYEgUkjcy,As the World Bleeds,2011-11-25,23,Christian Metal
+32kMET84T95T9k13UpB95L,My Own Worst Enemy,0JSfR2jTpDwwPu11K3tzRo,Micah Ariss,6U6dd02sCoUt1wuDD6iYym,My Own Worst Enemy,2020-09-07,26,Christian Metal
+4dn8uJPSLE9CreDePGOWye,Master of All,6MghUSu5JVbS6KikpxjlR6,Martin Simson’s Destroyer of Death,0vL4VL7IbPf7Rjmc7e351g,Master of All,2021-07-02,5,Christian Metal
+0zRDK3EHNtW59n6aBSJBr0,In Search of New Soils,1Phg6Pos87VQuqS7biMod8,Eowa,73uDqdAk8OjMSofGJQPNGx,The Year Without a Summer,2025-08-15,2,Christian Metal
+3dGbDJ4MrsX9wZA3jPiB6T,Crown of Grace,4KcLdMaw3ai9gReju7aAaZ,Pastor Brad,1i0zzB0iR5zOesLGWeAf3X,Crown of Grace,2025-08-06,24,Christian Metal
+59AuAbar56e7KdUnjwXQp4,He is living,7BrRirZ8SrfgrNOL1qpG15,Gloriam Dei,7agn2OuLrib9YMddzDo7RE,He is living,2025-08-15,17,Christian Metal
+1kRguNpOF4WiqJBn732Rvx,Bury My Flame,1uaz4cRw5clcnWJIswU6Jy,Glasslands,2xbuGSzEAtxnR8mv2lci00,Bury My Flame,2022-02-08,15,Christian Metal
+0HP199fGq6IV1oXLwr4S0Y,The Greatest Hope,627g4H0WzOhvuRRsbdBR6T,Theocracy,7alHdo9QOz20T403gySW20,Mosaic,2023-10-13,18,Christian Metal
+7KN6eoLjqxIKCGl2MHXtgW,Force of the Entity,2eXM6plUGS4TET0MuIy0hT,Saviour Machine,2ZlkX4MYjpc13hNyCV0CSz,Saviour Machine,2004-01-01,15,Christian Metal
+73W9opqCO0iMJXgicAvbxT,The Pain Is So Much,4ZzzHw45mYOuu6yvYhJZQh,Full Metal Hollow,7wHhaCqZRkV47yZcW47876,Getting Left Behind,2025-10-07,5,Christian Metal
+1cJ7axajhnmnJkxXqqspqQ,Roots Encased in Frost,1Phg6Pos87VQuqS7biMod8,Eowa,73uDqdAk8OjMSofGJQPNGx,The Year Without a Summer,2025-08-15,2,Christian Metal
+6N93sz3b1Bt9fsOWKeOTzk,TOWARDS THE LIGHT,0sxW2BJTemkPy8tDeO1s0t,Impending Doom,74PmqmD3b2Eo3rlHEihPz9,TOWARDS THE LIGHT,2025-02-07,27,Christian Metal
+1FfSuNoIF8lO03RXvTn1KQ,3 Times Denied,7iKsdIqgy2s5xMbKiVafjv,38th Parallel,1gTvrOuCP6SjwS8aCFiFBo,Turn The Tides,2002-04-30,12,Christian Metal
+675elGs2edC3lsFJDqFHp4,I Got Left Behind,4ZzzHw45mYOuu6yvYhJZQh,Full Metal Hollow,7wHhaCqZRkV47yZcW47876,Getting Left Behind,2025-10-07,2,Christian Metal
+3DAs5bbzvOGEduNn8bksi9,Upcomesdown,6GfiCQDFYANz5wUkSmb3Dr,Thousand Foot Krutch,1f0DLNSb2vQcZq9Qb8F6Of,Set It Off,2000,18,Christian Metal
+4jcdUhp9YM38jMR2VIRUBl,Lo Lamento,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,6hZbVdFSxbsXeZx5hLRn5i,Perfectly Preserved,2021-02-12,11,Christian Metal
+37k7oUdbsmraPNLFvIIm7B,The Blighted,1Phg6Pos87VQuqS7biMod8,Eowa,73uDqdAk8OjMSofGJQPNGx,The Year Without a Summer,2025-08-15,2,Christian Metal
+1kGKIx6aeTYC60OUnHW1tw,Still Running,3CVvsxQWhgI7RoIPQZbjY2,The7method,4zJCcZeqUPViGp6lLT94T0,Roses Like Razorblades,2005-11-04,7,Christian Metal
+37aPcXyESjFN9M4lOJFjm0,Martyr,627g4H0WzOhvuRRsbdBR6T,Theocracy,4HXYsnJBXBwFrq4bweT9Hp,Mirror of Souls,2008-11-21,26,Christian Metal
+2YHuqJrAh28hIeY3tt9Psf,Praying For Better Days,4ZzzHw45mYOuu6yvYhJZQh,Full Metal Hollow,7wHhaCqZRkV47yZcW47876,Getting Left Behind,2025-10-07,4,Christian Metal
+1jZNo32rox2vKZp7b6SNt2,Rumble (Bonus Version),733om6iiemJgpY0BXazl15,Tierra Vacía,3LlDgNHcfTwkEE2lCJ0V5u,Rumble,2024-03-01,5,Christian Metal
+78B9kIPmPKKiW10eFIPxXJ,Stop the Bleeding,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,2rJa8wFBmhoPzqw4Xn0acJ,Eulogies,2022-03-11,24,Christian Metal
+34oXr39PhOOuumit9kO2fH,Mandatum Domini - Remastered,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,3toD2UkNYv1qKsYrbcHetb,Liber Exodi: Servitus Aegypti (Remastered),2025-05-30,7,Christian Metal
+5w2HfKZHWdklQvMFQy9yyp,Ride in a hell,1JNdofMBfiBtuTbXBlr7yB,ORDERTOLIFE,04W1HSTMuYIsjrSQ6XObsw,Pain armor,2025-10-10,3,Christian Metal
+24FB9iplsN3nda8A3rbOem,When Everything Means Nothing (Cinematic),0OgdRTPItr9dw4XYp4JJUx,Fit For A King,2fxRDNk2jcbb6nxWEDS4WR,When Everything Means Nothing (Cinematic),2021-10-15,23,Christian Metal
+44DFwq4vjQF8XdvHYqusku,By the Way,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,1OdpPzA65csASF5g6Ghzay,Between Here & Lost (Expanded Edition),2013-09-17,11,Christian Metal
+4BS8dmIrGB7IZh9dHyJgGU,Everlasting,1ylEDHzEWkGPqdW9ZlEmsk,Neon Crown,1Z0WB2Tq2m8gEfI9ZM5faI,Oblivion,2020-03-11,6,Christian Metal
+533Al1XsGVeelb3X6n24oE,Always Been You,0VxEkJyHqpsYabj1Br8dck,Phantom Verse,2JwrNL1yrodHdvQLyVFCa4,What We Swore,2025-10-17,2,Christian Metal
+798o5T4YJUHhIvOztGwhBu,Prey For Peace,3a12I8AbL2eRHypx17bucR,Classic Disaster,37phkLxDBgDlJUwNwr1x94,Prey For Peace,2025-10-10,15,Christian Metal
+2dZs1u7zUQzOEmysNrfwIB,Rubus Ardens - Remastered,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,3toD2UkNYv1qKsYrbcHetb,Liber Exodi: Servitus Aegypti (Remastered),2025-05-30,6,Christian Metal
+2mkJJ3e3HHkB6OICoKU2q7,Marked by Another,276HJDBmyLhSS2nMGLrs18,NEXTERA,1UdBabxXvQXWmVvKjKpDqf,Marked by Another,2025-08-29,12,Christian Metal
+481Q49lSLu9t0CawxOvj3m,People of the Bloodred Cross,5bodTAJqKphEDB3ItIq4Hc,Narnia,2Naf7gapNYLt2J8omrZ5UI,Enter the Gate,2006,14,Christian Metal
+3xioE9KWdfqPThtKbD7BQz,TOWARDS THE LIGHT,0sxW2BJTemkPy8tDeO1s0t,Impending Doom,6P9Mr53p0wDq6qZ3sHgm0u,TOWARDS THE LIGHT,2025-01-31,25,Christian Metal
+5wV1dqMnU84NRR1QX5ENFG,Noble Bloom,3XxTiLhFGMsWvVfpZ7KlF9,Confessions of a Traitor,6I3E6b39DePAgKcSVm8ZmP,Noble Bloom,2025-04-10,14,Christian Metal
+7Llh3AdjfuJCYRoXevfS4v,Twilight Of Our Time,7BYlJ8veKCyEC1VDKgJMb7,The Backroad Collective,1ckhkOqUVS5uq7b2ysGrKw,Twilight Of Our Time,2025-10-12,4,Christian Metal
+6PrgURMPMwvPClo83K5uDm,Absolution Day,627g4H0WzOhvuRRsbdBR6T,Theocracy,4HXYsnJBXBwFrq4bweT9Hp,Mirror of Souls,2008-11-21,27,Christian Metal
+3VyXBY6QIg8pcBhDSPGiwW,Echoes in the Static,0VxEkJyHqpsYabj1Br8dck,Phantom Verse,2JwrNL1yrodHdvQLyVFCa4,What We Swore,2025-10-17,2,Christian Metal
+1Pb5s6313I5fcviw14daXM,Darkest Dawn,4Itk1IfMFqOn355b8Uxzrx,Death to the Flesh,04QorE3I9foRo6Mb33SstN,Darkest Dawn,2025-05-31,1,Christian Metal
+6VEsYi7w2bEZYAOrJSUIqS,Tu Perdón No Tiene Límites,7vxilqzn4ZvE6nStJqiNN7,Charly FuerzaDeFe,73WV8e7d1BQ4QVMUtqVJpU,Gloria a Su Majestad,2025-03-07,17,Christian Metal
+202mJkUGOA14NYGJHovKhQ,Ay Si Te Veo,3ljzJhnWWhb7ciML9uP4hb,nelson gonzalez,3xa2dwDSA578h13d3VYR1Q,Mundo Callejero,2025-02-21,16,Christian Metal
+4ELFCGa5PMR9fgyh7UFKuT,Pila De Mami En Alta,3ljzJhnWWhb7ciML9uP4hb,nelson gonzalez,3xa2dwDSA578h13d3VYR1Q,Mundo Callejero,2025-02-21,16,Christian Metal
+2AEaRNleeWVXLrDa1J6xHc,Bike Life,3ljzJhnWWhb7ciML9uP4hb,nelson gonzalez,3xa2dwDSA578h13d3VYR1Q,Mundo Callejero,2025-02-21,16,Christian Metal
+1KpO74w7YHlt14SbO314Mw,Me Lo Dejaste Seco,3ljzJhnWWhb7ciML9uP4hb,nelson gonzalez,3xa2dwDSA578h13d3VYR1Q,Mundo Callejero,2025-02-21,16,Christian Metal
+1eMqXIdhuC5rqITWEOFwxU,Move,5yzkBSLrjOxyMDqLu7Dpc2,Remedy,3fQbK5CQOYRr90gwOYCyV8,Move,2024-06-07,17,Christian Metal
+52U30Ot4CO6VchloW0tM6k,Built Different,0Sw1p3kopd0Qjeyk2PdKx4,Kelly K Ministries,1Zx0oJC7p54ZRMgCNdXiyl,Built Different,2025-09-10,18,Christian Metal
+2l3SUdUmrFlrHBxJOLmd01,Bodies,5XIE35eMDOvXmZPHyE0mGE,Living Scars,47Pm48ip5f4bbWpHc8AXwh,Bodies,2025-04-04,18,Christian Metal
+6P9ry1Sk2P3wDNovNzOkVt,Free,6lE1ly8K8H7u8k2ej2plvv,Stryper,53X4wLROtXIUvVbubdkkhq,Can't Stop The Rock,1991-01-01,18,Christian Metal
+3xzNnGng0A0XT6K1k0tXLa,Sanador de mi Alma,7vxilqzn4ZvE6nStJqiNN7,Charly FuerzaDeFe,73WV8e7d1BQ4QVMUtqVJpU,Gloria a Su Majestad,2025-03-07,18,Christian Metal
+37qkTIVBBm0ivNONbceoMc,"Mi Voz Te Exalta, Jesús",7vxilqzn4ZvE6nStJqiNN7,Charly FuerzaDeFe,73WV8e7d1BQ4QVMUtqVJpU,Gloria a Su Majestad,2025-03-07,18,Christian Metal
+76vPfTz0exGdWiOiLwaONg,PRETTYGIRL!,72U0KtKTsqWZeYC83Tw8b3,Damien Darhk,5iQSV8cLOyQG14VM35p5UA,PRETTYGIRL!,2025-09-24,18,Christian Metal
+3tJowWorLYH788JCJfh7Pq,Castaway,627g4H0WzOhvuRRsbdBR6T,Theocracy,0bej9yySALDbCmz1ph58pY,Ghost Ship,2016-10-28,18,Christian Metal
+2FfXvZItJ7rd0b8iJvAo2s,Left Behind (Kirk Cameron),6kFLnclYFc3gzpNt13wim5,Seventh Day Slumber,4p540UUXKXtCVD8VIwmhr1,Left Behind (Kirk Cameron),2025-05-15,19,Christian Metal
+0hptCuze1ZkUD2qdiOnHCG,Matthew 25:45,3mmIYQi9wrQnA9mRPXHAWg,Deus Metallicus,2JvZmPGYlAfmd90sIg98Wp,DIFFERENT,2025-08-14,19,Christian Metal
+06jf5eiEcKgZeWAOZQceEL,Two Bodies (One Mind One Soul),6lE1ly8K8H7u8k2ej2plvv,Stryper,2j7vAVSvsC3BsWVagKt7P0,Against The Law,1990-01-01,19,Christian Metal
+54B2oXkg4H8PyxukwMZHFi,Think You Got It,3BcuUq1rwq2xlcyab2w3lu,Relent,6jnRsK6HHmSL12NuVL1ygi,Heavy,2021-10-01,19,Christian Metal
+5PPi6xTdEw6XmhPRYInwne,Stained Glass - Live in Pomona,70dru8oehK8CwnNzANx6CJ,HolyName,62NyRAgL1bqgZsQUJ5YJaE,Rock Against Traffic (Live In Pomona),2025-03-07,19,Christian Metal
+46oHCXh4ytWmhR6fUEJiHV,Stir the Embers,627g4H0WzOhvuRRsbdBR6T,Theocracy,0bej9yySALDbCmz1ph58pY,Ghost Ship,2016-10-28,19,Christian Metal
+7Au7dHNAYk2gjmAmPp5T4z,Be Aware,5qfIlzlkNbkDXt2GJZoXAH,HB,04q61H15LN4WdFNsO8PJ3N,Frozen Inside,2008-04-23,20,Christian Metal
+6WiEYqfhszUy86jQCegB1V,Ghosted by God,7hffEChY9wWnnsew1MRb8z,Call Me Christian,4X0srXoLTZSJi78j5ZOzhg,The Playlist of God,2025-05-30,20,Christian Metal
+3UOBu90AyNydfr4S3wl3dm,Move,5yzkBSLrjOxyMDqLu7Dpc2,Remedy,3WuDi6yHaNN95NkkW6ufbO,A Light in the Darkness (Deluxe Version),2024-12-20,20,Christian Metal
+6Z2AHiIJU1JW9cZCbmpkqE,Gastar 10k,3ljzJhnWWhb7ciML9uP4hb,nelson gonzalez,3xa2dwDSA578h13d3VYR1Q,Mundo Callejero,2025-02-21,20,Christian Metal
+0eDYYx1acdCWkuIJtsen5t,Sagrado Sangue de Jesus,7n6TjQJSasmQm3LB5XCfsL,Ailton,2Wa3jIs6uT6FcH4O0aFTj9,Sagrado Sangue de Jesus,2025-07-30,20,Christian Metal
+2GXWiQLE3F2Tke0fZ0Pf9a,My Heart Is Bleeding,4ZzzHw45mYOuu6yvYhJZQh,Full Metal Hollow,7wHhaCqZRkV47yZcW47876,Getting Left Behind,2025-10-07,10,Christian Metal
+34xELloMnIZqBBawD0AmV8,Pa Lo Cuero,3ljzJhnWWhb7ciML9uP4hb,nelson gonzalez,3xa2dwDSA578h13d3VYR1Q,Mundo Callejero,2025-02-21,20,Christian Metal
+4CiH1ToH5sXELBCHauW3RA,"Vivir para Ti, Señor",7vxilqzn4ZvE6nStJqiNN7,Charly FuerzaDeFe,73WV8e7d1BQ4QVMUtqVJpU,Gloria a Su Majestad,2025-03-07,21,Christian Metal
+6bYAhxoKJ1kBgJF9EcdZkm,"Amén, amén",7vxilqzn4ZvE6nStJqiNN7,Charly FuerzaDeFe,73WV8e7d1BQ4QVMUtqVJpU,Gloria a Su Majestad,2025-03-07,21,Christian Metal
+5zFPZ6Kn0ZdU9fMHOFJHy6,Don't Waste Your Life,0Sw1p3kopd0Qjeyk2PdKx4,Kelly K Ministries,2pQp33Qd32RjvZFovONkMd,Don't Waste Your Life,2025-10-08,7,Christian Metal
+32SXxmX1qnq2mt0jo8MdSn,Alabaré al Señor en la madrugada,7vxilqzn4ZvE6nStJqiNN7,Charly FuerzaDeFe,73WV8e7d1BQ4QVMUtqVJpU,Gloria a Su Majestad,2025-03-07,21,Christian Metal
+3N4Nz5wig3o84NMykzQpBU,Niveles,3ljzJhnWWhb7ciML9uP4hb,nelson gonzalez,3xa2dwDSA578h13d3VYR1Q,Mundo Callejero,2025-02-21,20,Christian Metal
+5Ay3wLEH48wN5C7mCOT9rO,I Always Prayed I'd Meet You,4ZzzHw45mYOuu6yvYhJZQh,Full Metal Hollow,7wHhaCqZRkV47yZcW47876,Getting Left Behind,2025-10-07,2,Christian Metal
+0lJOgvOD0rMZ1wDenZ15C1,Bendiciones diarias,7vxilqzn4ZvE6nStJqiNN7,Charly FuerzaDeFe,73WV8e7d1BQ4QVMUtqVJpU,Gloria a Su Majestad,2025-03-07,21,Christian Metal
+6wCq6NKoLCEu4q2w7haROJ,Rockin' The World,6lE1ly8K8H7u8k2ej2plvv,Stryper,4LAVjeUmJl3h3U44sMRrfm,To Hell With The Devil,1986-01-01,27,Christian Metal
+19zXMoMzQZeTcvpJnc1y0d,Womb of the Abyssal Dawn,5KAQSgjdK9UpJNU25JQ49V,Dunes Of Ash,5l6JWiUcc0W95HSrhOVUcm,The Fall of the Seven Sisters,2025-09-26,3,Christian Metal
+0jtXNgscdXxM9jZB8ZvMU9,Nari Choco La Pasola,3ljzJhnWWhb7ciML9uP4hb,nelson gonzalez,3xa2dwDSA578h13d3VYR1Q,Mundo Callejero,2025-02-21,21,Christian Metal
+1K6ZJjj8knegQGPFMnbI7d,Bring the Rain,5yzkBSLrjOxyMDqLu7Dpc2,Remedy,2Hy9wqzgltpqc5Wvp2e1oA,Bring the Rain,2024-01-26,25,Christian Metal
+3loTkeSWmxGdX344AiOMTn,To Hell with the Devil,6lE1ly8K8H7u8k2ej2plvv,Stryper,53X4wLROtXIUvVbubdkkhq,Can't Stop The Rock,1991-01-01,24,Christian Metal
+2BUxJUNtipnjLxBPRbS7jb,Que Nos Paso,3ljzJhnWWhb7ciML9uP4hb,nelson gonzalez,3xa2dwDSA578h13d3VYR1Q,Mundo Callejero,2025-02-21,20,Christian Metal
+0jLA2utrzHSZbBm6GhMXai,Don't Let Go (Metal Mix),3ZqLiAbz7w88lp0vOhnGyv,Daniel Flores,7BEf8fhPUGQC7BmjOJ95aD,Don't Let Go (Metal Mix),2024-04-26,24,Christian Metal
+1VoB2mdJoHXkCckhK87TYS,Noble Bloom,3XxTiLhFGMsWvVfpZ7KlF9,Confessions of a Traitor,0zFhgMSkt98VDHVEPqQeE6,This Pain Will Serve You,2025-05-16,24,Christian Metal
+2eMmRDzP5dm6osXavBVD9w,Manhattan Pal Bronx,3ljzJhnWWhb7ciML9uP4hb,nelson gonzalez,3xa2dwDSA578h13d3VYR1Q,Mundo Callejero,2025-02-21,22,Christian Metal
+2tS4rFdp8KbhnvE0WYNCwr,Tú eres mi luz,7vxilqzn4ZvE6nStJqiNN7,Charly FuerzaDeFe,73WV8e7d1BQ4QVMUtqVJpU,Gloria a Su Majestad,2025-03-07,22,Christian Metal
+4elhbZdfNGgMAhcaYrKG3t,El Amor de Cristo en Nosotros,7vxilqzn4ZvE6nStJqiNN7,Charly FuerzaDeFe,73WV8e7d1BQ4QVMUtqVJpU,Gloria a Su Majestad,2025-03-07,20,Christian Metal
+6uzbNlKUHOnGOteQnxwx6e,Adoración a Mi Señor,7vxilqzn4ZvE6nStJqiNN7,Charly FuerzaDeFe,73WV8e7d1BQ4QVMUtqVJpU,Gloria a Su Majestad,2025-03-07,21,Christian Metal
+2fsi5QoMsocy2fWp2jE6rp,Te Alabo con Todo mi Ser,7vxilqzn4ZvE6nStJqiNN7,Charly FuerzaDeFe,73WV8e7d1BQ4QVMUtqVJpU,Gloria a Su Majestad,2025-03-07,21,Christian Metal
+4ErNyDAgx3Vc9Oo2LDHYy4,Te entrego mi corazon,7vxilqzn4ZvE6nStJqiNN7,Charly FuerzaDeFe,73WV8e7d1BQ4QVMUtqVJpU,Gloria a Su Majestad,2025-03-07,21,Christian Metal
+0VCNH6Be7qlgl7OVAHmF0G,A Call to Arms,627g4H0WzOhvuRRsbdBR6T,Theocracy,0bej9yySALDbCmz1ph58pY,Ghost Ship,2016-10-28,21,Christian Metal
+5o4wTBhsGDss2mBvUyJ7Ft,Mis Oraciones Antes De Dormir,7vxilqzn4ZvE6nStJqiNN7,Charly FuerzaDeFe,73WV8e7d1BQ4QVMUtqVJpU,Gloria a Su Majestad,2025-03-07,21,Christian Metal
+4eRpnYxRWcU4NVDkeqXC6L,Free Like an Eagle,1buKzJRsNqt1ZZGitqgFXx,Divinefire,4ehddy61j8hXBSmJJLcSB0,Into a New Dimension,2006-01-01,14,Christian Metal
+7ieQJx4oE89YZuXpWyWGS6,The Death Is Dead,7EJ6pr0QLxA2mR0B8c8uFZ,No More Death,2vDD1qzGT4Z9HuWyFbLG1C,The Death Is Dead,2025-07-04,14,Christian Metal
+4TVEUT6InpWqdUAXnsd4Uv,Rise to the Call,6lE1ly8K8H7u8k2ej2plvv,Stryper,3v0BOWMnf9wrExM0vXl4xb,Rise to the Call,2022-06-24,15,Christian Metal
+6NwGIAteDmUHPo9u15lVp2,Annihilate,5yzkBSLrjOxyMDqLu7Dpc2,Remedy,3WuDi6yHaNN95NkkW6ufbO,A Light in the Darkness (Deluxe Version),2024-12-20,14,Christian Metal
+4lB1z6WjM9Eukhql3dRSbW,Golden Resurrection,0xxD4XGSICjmlWybbgJLHz,Golden Resurrection,437JaFaiG0I6x7U7yDRlCM,One Voice for the Kingdom,2013-01-18,14,Christian Metal
+458PuQ8onP3CDH3yfQRagj,Teeth Eater,2FeTFqLD7rngYYCh2V4RyX,Magdalene Rose,0Ec08IPeSxyN2vot5aSOBi,Teeth Eater,2024-09-06,13,Christian Metal
+6hwYK8vW01GBAmS8oKnFWE,Invert,0Uj2hge2fxypJ7f4ik6lpr,Blindside,5xgbGurx8ggWhQmy4yiy1r,Blindside,2011-06-05,15,Christian Metal
+6ejp5wHeYrXc91b7IZsWoY,The Eclipse of Worlds,3qeklOq9OkE7FdJB0rjgXY,Within Silence,3cZCDWA6M83hpS141p3WNo,The Eclipse of Worlds,2024-12-06,15,Christian Metal
+1lihR7QKbMuUuEipheflxT,Hear My Cry,7iKsdIqgy2s5xMbKiVafjv,38th Parallel,1gTvrOuCP6SjwS8aCFiFBo,Turn The Tides,2002-04-30,15,Christian Metal
+48Yqpokn035uavJO3dhqaN,Ghost,3BcuUq1rwq2xlcyab2w3lu,Relent,6jnRsK6HHmSL12NuVL1ygi,Heavy,2021-10-01,14,Christian Metal
+5upfnYDhdYB7QmQLWABtVk,Cloud Chamber,5foy0C3uRKsbKh7HsftCST,Fallstar,60mGyO79l5tzOQl0yW0lrk,Sunbreather,2021-02-12,14,Christian Metal
+6kqa54aXHOSLUlQ76Nkk03,Dark Cold Night,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,42fwK8CU4k8YMq2d0rVxOO,Lowborn,2022-11-18,13,Christian Metal
+5QxmsFwGh1lhq73ixrJzu9,The Cure,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,03NkQ6o9xqRypHP9eXG06F,The Cure,2019-04-26,13,Christian Metal
+5G9ONUHn7jFKGLpruKdYNU,Come Out Swingin',7nmV3jEDBv0n4C0et61Xg7,Leviticuss,3gTWvzLsiaoHW84dpfLeTx,Come Out Swingin',2025-03-25,13,Christian Metal
+3BEMJtMnopJ3MlMIRbUqpT,Breathe,5oF791JGXaog3Z0luS9Iik,East West,2PZ755rTzK2kfwEXVtzM2g,Worship Extreme,2005-03-14,13,Christian Metal
+1T1sqV18xHV61YRBaygKEJ,Stay,170qLAyfpGyLLTCu1QcDhL,XIII Minutes,6gMad0CM0uxJQZy5tzFfte,Stay,2025-03-14,15,Christian Metal
+7gJCV66UzReSqjvnR9g4MA,The Dawn,5yzkBSLrjOxyMDqLu7Dpc2,Remedy,3WuDi6yHaNN95NkkW6ufbO,A Light in the Darkness (Deluxe Version),2024-12-20,15,Christian Metal
+6qeTTOL4kvRXKEJmNLW9j4,Ravens,2SXZ6TgQLXxJTCwz1VVnAM,While We Were Sinners,5vzAnPvlc5IOFkQAbNKgSH,Ravens,2025-07-04,14,Christian Metal
+77jjJDPjKSTtniGmHBATEW,Love's Got A Trigger,0Sw1p3kopd0Qjeyk2PdKx4,Kelly K Ministries,35VD71rGRvyfwjsS5i4YKU,Love's Got A Trigger,2025-09-19,14,Christian Metal
+52oIkqJzNDYx1KxEl3DRCm,You Are My God,7iKsdIqgy2s5xMbKiVafjv,38th Parallel,1gTvrOuCP6SjwS8aCFiFBo,Turn The Tides,2002-04-30,14,Christian Metal
+6d5MlZLYGAYjoAwKD7qO0d,Finally Free,0xxD4XGSICjmlWybbgJLHz,Golden Resurrection,3zgfCsjIojyZ9BgXjMIxx8,Man with a Mission,2011-10-28,14,Christian Metal
+3d4qM2OfaUY7kk4ot6sLfT,Lit Up!,0Sw1p3kopd0Qjeyk2PdKx4,Kelly K Ministries,0WnWVN58btJ5Y0QHLJRafn,Lit Up!,2025-09-11,14,Christian Metal
+7wcLpVs8r53wwNyHsoGIpH,Transgressor,6lE1ly8K8H7u8k2ej2plvv,Stryper,2EZ73ukSfYcB9vURLEB4Vl,Transgressor,2022-09-15,13,Christian Metal
+6v5Ly6qr83zcYmk5HdRVMj,Vices,5yzkBSLrjOxyMDqLu7Dpc2,Remedy,3WuDi6yHaNN95NkkW6ufbO,A Light in the Darkness (Deluxe Version),2024-12-20,14,Christian Metal
+2s0zesTRGKsCCoWFy5Xedv,TV god,1ki4Aa5iyczGWVypkkWLzi,The Path of Great Resistance,2pUVk7r7jEDtUBjniCPVon,TV god,2024-05-04,14,Christian Metal
+26UwnR0mG1TMIkMtBRZcIi,To Live,519oIMv6syoTc46qquVbNB,Justifide,6hZ47i8Bd5pbTJiQOU2Da8,The Beauty of the Unknown,2002-12-24,13,Christian Metal
+02yCRUDrHWO8MJ1SC0ybww,LAW OF THE (Waste) LAND,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,4oOhJNqVse155Pc3GRLIid,DEATH CLOCK,2025-05-09,13,Christian Metal
+36Bcu5nST30NnGvOjSp4XN,Um Dia Você Aprende,4j77GitOXpFIGlWJnFLQTy,O Monge,7vGl3q5uyDtXyci3QDoiSm,O Monge,2025-08-01,13,Christian Metal
+3ZMEH7HyZZHERKdqtp4U3W,Prisoner of Pride,0UNAFOShoComAV8MzAxzGU,Balance Of Power,5Y8w93NApBTnRPucTAa4EW,Ten More Tales...,1999-01-01,15,Christian Metal
+1qvttGqvHlLnXVPFyDlg5g,Fubbickar och Kålhuven,070G8LbL6QlepvXaIWMetI,Dödens Kaga,6OJfNKnTeScxVIPpITjrG6,Fubbickar och Kålhuven,2021-04-02,14,Christian Metal
+5ycF8Pvu092LB0N2CNoAwO,"Gud, Jesus och Jultomten",070G8LbL6QlepvXaIWMetI,Dödens Kaga,0bQRFTmtnu66pkl04itShO,"Gud, Jesus och Jultomten",2021-12-10,14,Christian Metal
+22bu9PHGDnZag4j1BCM7Dm,Stoję dziś - Metal Version,4p3gSTNY1trFC8DFeLk54q,Riffs Of Faith,6ACjzvcTZ4kHwyEbfufoPq,Stoję dziś (Metal Version),2025-08-23,14,Christian Metal
+2qZVMhiZuR0AchpMUBUpJW,"Through the Desert, Through the Storm",0ikl8u2xTTRCUeanIAW1mt,Signum Regis,5u6pIHogktHvv7rtcQQ23Q,Through the Storm,2015-05-08,14,Christian Metal
+2n7L4YsnfeXN1wgxZpwNoz,Dor de Parto - Está chegando o fim - Live,2qpB1WowoOAToLgk1ch3ww,Torres,4Nr1u35wfqm2itm7UO0Unz,Dor de Parto - Está chegando o fim (Live),2025-09-17,14,Christian Metal
+66p0W3DTGJhC6lAaDDfK9f,A Light in the Darkness,5yzkBSLrjOxyMDqLu7Dpc2,Remedy,3WuDi6yHaNN95NkkW6ufbO,A Light in the Darkness (Deluxe Version),2024-12-20,15,Christian Metal
+1wpzj4ZyIqy7jynTLMiwfl,Soldier,3BcuUq1rwq2xlcyab2w3lu,Relent,6BoF503UxfqBUHGe6jluQx,Soldier,2023-03-24,15,Christian Metal
+2ZbRr0Dplezuk31h8IIaqk,Point Fingers,519oIMv6syoTc46qquVbNB,Justifide,6hZ47i8Bd5pbTJiQOU2Da8,The Beauty of the Unknown,2002-12-24,15,Christian Metal
+1j6XiBVtGKYA4VP8lInWLu,Inner Peace,4KCXMeWpjVCJyyBABxX5z8,Harmony,2dueXE1zkvDE7GB7PqvmNY,Chapter II: Aftermath,2008-10-31,15,Christian Metal
+6UjKQdvoaCODENvTxS5BNc,Make Love Great Again,6lE1ly8K8H7u8k2ej2plvv,Stryper,2CpmnoJPot6fpKKq2xVYJt,Even the Devil Believes,2020-09-04,16,Christian Metal
+7DGjj5Wj9PqNqklJPttAB2,Out My Way,77JuhnpOBW0tatc1nJg6qB,House of Heroes,6Q6FW3TGvD0nU96RZntaHd,Cold Hard Want,2012-07-10,16,Christian Metal
+78wk0SM2sjirWjwIp2IpJM,Calling On You,6lE1ly8K8H7u8k2ej2plvv,Stryper,5labXtxyJGkNSyKeVV8610,Jesus Music (Original Motion Picture Soundtrack),2021-12-03,16,Christian Metal
+5CczT0Kf4g0xCWMptdNaWV,BABILON.EXE,3kRrBURGbkOVyQdSTgK9NN,kaw kaw christian metal,1bIVmB49vzbH55DtZ59N2f,ECOS,2025-08-12,15,Christian Metal
+3yyeZK1CY4O5Xz6tBOlnFn,Best for Me,0xxD4XGSICjmlWybbgJLHz,Golden Resurrection,1tr0XijEzFZZLZZyxi2jhY,Glory to My King,2010-12-03,16,Christian Metal
+6bo3jVcGWNG0oEO20xV00z,Chase,3ljzJhnWWhb7ciML9uP4hb,nelson gonzalez,3xa2dwDSA578h13d3VYR1Q,Mundo Callejero,2025-02-21,16,Christian Metal
+0GK6aGQP0Nn4T2oIlgbDgZ,"El Camino, La Verdad, La Vida",7vxilqzn4ZvE6nStJqiNN7,Charly FuerzaDeFe,73WV8e7d1BQ4QVMUtqVJpU,Gloria a Su Majestad,2025-03-07,17,Christian Metal
+10CooaGGn5OmTargEgmUde,Lluvia de Bendiciones,7vxilqzn4ZvE6nStJqiNN7,Charly FuerzaDeFe,73WV8e7d1BQ4QVMUtqVJpU,Gloria a Su Majestad,2025-03-07,16,Christian Metal
+0XAYkFJ28NHJSyErh3Dtjr,La Ciudad Nos Llama,3ljzJhnWWhb7ciML9uP4hb,nelson gonzalez,3xa2dwDSA578h13d3VYR1Q,Mundo Callejero,2025-02-21,16,Christian Metal
+2vrlFoo3tihxl2rkGrpNac,No Te Lo Hace Mejor Que Yo,3ljzJhnWWhb7ciML9uP4hb,nelson gonzalez,3xa2dwDSA578h13d3VYR1Q,Mundo Callejero,2025-02-21,16,Christian Metal
+71rbvjfw3FYKhH16COenJz,Rumble,733om6iiemJgpY0BXazl15,Tierra Vacía,3LlDgNHcfTwkEE2lCJ0V5u,Rumble,2024-03-01,16,Christian Metal
+2yh8dAGNIiaJMzBlO1xnsj,HASHTAG GLORIA,3kRrBURGbkOVyQdSTgK9NN,kaw kaw christian metal,1bIVmB49vzbH55DtZ59N2f,ECOS,2025-08-12,16,Christian Metal
+7zaas7R304gGB7Smz2m6v5,New Testament,6kYiDgxX4t2TRCcXLJ164o,A Life Aligned,1zy3m9P7yk6opInOQ6fOu8,The Light That Failed To Cease,2025-09-05,11,Christian Metal
+1CYtp8lFIZUfLlRJReYx98,Pitiful,170qLAyfpGyLLTCu1QcDhL,XIII Minutes,7sOJK9zZnobktulTZvyltn,Pitiful,2024-11-01,10,Christian Metal
+75iagvyrKpgxa08iDLRaTi,No Middle Ground,0ikl8u2xTTRCUeanIAW1mt,Signum Regis,2XmBtfew5oSoNFvY4jJlum,No Middle Ground,2024-04-05,10,Christian Metal
+4EYThdk5SW0ogAftyZRrrV,Crooks & The Damned,5foy0C3uRKsbKh7HsftCST,Fallstar,0kAO5MDpHTRIKMw1McWmNX,Sacred Mirrors,2023-07-14,11,Christian Metal
+0zaI1vGpqMCAmRoWlgK420,Pop,2LwDHLihGNKfkWKl1DOAc7,Staple,733EbKeMNVacCAYMi7yEEm,Staple,2004-02-22,10,Christian Metal
+5VmMGxOs4sgQwHMretQji7,You Know What To Do,6lE1ly8K8H7u8k2ej2plvv,Stryper,53X4wLROtXIUvVbubdkkhq,Can't Stop The Rock,1991-01-01,11,Christian Metal
+5xtRGTFDtCckLwJj5xukhM,Seele / ゼーレ,4Tmc5u5jRJanYKDke2Ahi0,All For Love,4kyb3ERB2zbyPRM1Ha1lw0,Ikigai,2024-11-19,11,Christian Metal
+6wUS8bQlmcFowEz9aabSMu,Love Is Immortal,7EJ6pr0QLxA2mR0B8c8uFZ,No More Death,2vDD1qzGT4Z9HuWyFbLG1C,The Death Is Dead,2025-07-04,11,Christian Metal
+26lzj5hGsf2EZ0cUrNJ2Mb,Sete Selos,3kRrBURGbkOVyQdSTgK9NN,kaw kaw christian metal,1bIVmB49vzbH55DtZ59N2f,ECOS,2025-08-12,10,Christian Metal
+0spIJcAE1rb3C9jsdKjzBS,Hold On,2rsRJ62cUExMrFjCzBBqce,Reign Of Glory,6TLicJvlJHhhT27iFD8gZg,Slingshot,2025-07-18,10,Christian Metal
+53gajMquwKCxHlmq4r1aOh,Christians and Lunatics,2eXM6plUGS4TET0MuIy0hT,Saviour Machine,2ZlkX4MYjpc13hNyCV0CSz,Saviour Machine,2004-01-01,10,Christian Metal
+40EfU7W5QpkPTa3MVl0k9o,Battlefield LIFE EN-US,7qwRbu9Lqzbq2HK3AgUNU9,Mauro Torres,5ut2gjl50sUtTEa7KRJrje,BATTLEfields,2025-01-12,10,Christian Metal
+1Jtb4wsIM7gclLMNU4hZyW,World War Me,3BcuUq1rwq2xlcyab2w3lu,Relent,7kNXZgyGkLx9pcVXUbh2GR,World War Me,2023-04-07,11,Christian Metal
+1thClCjI7vUxuEdQZnaQN1,Hellhounds,7bDRi5oVA2qSBeoIpULbTl,Two Dimensional,6nvPm5jbP2SCAVAlujKUyX,Hellhounds,2025-09-19,11,Christian Metal
+1qFPpdc7TAWTxLff9qDRGc,Waiting,5foy0C3uRKsbKh7HsftCST,Fallstar,60mGyO79l5tzOQl0yW0lrk,Sunbreather,2021-02-12,10,Christian Metal
+4pooMbSwIBJFi11uOJ9zf1,Proverbs 31 (Grace in Your Eyes),5TSF8RbbuVIN16D6LTEd61,Eternal Reign,4qvjxPppizlWOnTXZCFyvv,Proverbs 31 (Grace in Your Eyes),2024-11-27,10,Christian Metal
+6ahLawKM6HsLLagwCuU676,Storyline,3qeklOq9OkE7FdJB0rjgXY,Within Silence,3cZCDWA6M83hpS141p3WNo,The Eclipse of Worlds,2024-12-06,11,Christian Metal
+17d3BZd9gOGzBXrh63MxVj,Pode Vir,2u9r4LqbCAmh5NSWPXnGcv,Projeto Chara,4sRzORvKhqZAJQi9sJEjHM,Pode Vir,2024-07-13,10,Christian Metal
+4gCzpE0nBgV4RFo15smyAd,Set Free,7nmV3jEDBv0n4C0et61Xg7,Leviticuss,2deXXqePtuX23Z1StT3dr0,Set Free,2023-06-30,10,Christian Metal
+0S9SqqLChIGkE5aRy69ZyE,Perfect Harmony,39MW76CvphlBo8oEhPVNaY,Germán Pascual,688u8A0po4hG6JnGFIAZnr,Perfect Harmony,2025-06-17,10,Christian Metal
+7nETJhJe3bAKDsfIS2mmRv,Love's Got A Trigger - Punk Remix,0Sw1p3kopd0Qjeyk2PdKx4,Kelly K Ministries,35VD71rGRvyfwjsS5i4YKU,Love's Got A Trigger,2025-09-19,10,Christian Metal
+1y5jc5TgS9icWPOpxLXHbf,Divinefire,1buKzJRsNqt1ZZGitqgFXx,Divinefire,43Gv4JncNRNw0Ej7KWkliy,Hero,2005-01-01,11,Christian Metal
+5TQwh3zsuNMW8ujLaBU3R6,Soldier,3BcuUq1rwq2xlcyab2w3lu,Relent,7kNXZgyGkLx9pcVXUbh2GR,World War Me,2023-04-07,10,Christian Metal
+0lpHriLQZuA6yJ7DsK6nlE,Crowd in the Dark,6xItVyqP617Z4goLPhiWny,Seventh Avenue,41N30dbszde0p12inHTeBF,Terium,2008-03-28,10,Christian Metal
+7KYtCkHnH6byacSyCVIqZ5,Change,519oIMv6syoTc46qquVbNB,Justifide,3zsSZ3Yn9G1g1nSO6NiV8R,Life Outside the Toybox,2001-04-24,11,Christian Metal
+4AKZNL2kdQ0RLoGRtMt1SM,Battle Cry of the Righteous Volume 1,4KcLdMaw3ai9gReju7aAaZ,Pastor Brad,6gYWVkMxSyqwxHuplzXXHr,I Get Back Up,2025-04-29,13,Christian Metal
+7Kl3Ko4XoAKi3HrfguiwFM,Water,4aSeHOXeb2B0c8niPxLckC,Solus,50VnbXIjY63w6qOIOlXupq,Forsaken,2025-07-29,11,Christian Metal
+4PQ3IcfggEteJxcCzDvIWE,Repent,72wqGXiEJmvm4SSRMTnXIU,Angel Machine,4YikXa5o0IO8AcZCq9b79M,Repent,2020-10-30,12,Christian Metal
+6s7v2ysXUESbbJ2IFpzOTa,RED SUNDAY,72U0KtKTsqWZeYC83Tw8b3,Damien Darhk,0ta5HpXbUJ8f6mHtQaF8JM,RED SUNDAY,2025-09-17,13,Christian Metal
+08wlOiysBrjs5eWRtcMMKm,The Way,519oIMv6syoTc46qquVbNB,Justifide,3zsSZ3Yn9G1g1nSO6NiV8R,Life Outside the Toybox,2001-04-24,12,Christian Metal
+6GJMhyZcGt9DRxVvQv4mL5,PARASITE,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,4oOhJNqVse155Pc3GRLIid,DEATH CLOCK,2025-05-09,12,Christian Metal
+3ulBfC4RhHhwebgZ5egl2V,This Is Not A Test,7daHmbrOXII2bIjlmfnFsQ,Will LoNigro,7j4TGxG29wQQP7lcWvkcKa,Based On A True Story,2020-01-26,11,Christian Metal
+3RtoZp0iT8o6WWFvHXjGgn,Standing on the Rock,0xxD4XGSICjmlWybbgJLHz,Golden Resurrection,3zgfCsjIojyZ9BgXjMIxx8,Man with a Mission,2011-10-28,12,Christian Metal
+3qm7WGGqP53gveaTI1LBI3,Emanuel Deus presente,3kRrBURGbkOVyQdSTgK9NN,kaw kaw christian metal,1bIVmB49vzbH55DtZ59N2f,ECOS,2025-08-12,12,Christian Metal
+7aWSGl0eX9vtiWUQuI9nqL,Gorilla Warfare,2FeTFqLD7rngYYCh2V4RyX,Magdalene Rose,79Gi4MwGGp6ZdqCFvyrkZp,The Prelude,2023-11-10,12,Christian Metal
+2vaJ0Fodh5F9Y0gsy1RFSI,Youth Of The Nation (Mike$ki Remix) - 2021 Remaster,6KO6G41BBLTDNYOLefWTMU,P.O.D.,7fZcJiON0dNa4iE2miGmhw,Satellite (Expanded Edition; 2021 Remaster),2021-09-03,12,Christian Metal
+0M2oXg2L4HaEkVEDQHM2Ep,Eternals,6xItVyqP617Z4goLPhiWny,Seventh Avenue,4kDbWdpjOEFlJollU8HrMR,Eternals,2004-10-25,12,Christian Metal
+3Y64Ood2UWfNSZNrjxbVpU,Forget You,6wkcDg1ZWTbCGW5cUPdZ4A,Soul`s Cry,6bEjZFJndMbwLvGnr9v3Fb,Forget You,2025-09-11,12,Christian Metal
+5qKsoV8OX5UBrQyOYpUmUJ,No Place Like Home - Pax217 Album Version,52BrJWa29mZPy5hgDIs6d0,Pax217,5ULVqJFwZ8AQ1Dldq9ZDby,Two Seventeen,2000-01-01,12,Christian Metal
+6vBwDndZ1KAKqTkLej6zo1,A Step Between the Worlds,6xItVyqP617Z4goLPhiWny,Seventh Avenue,7sCo80Lxyz2sW2KVvE4f7q,Between the Worlds,2003-01-27,11,Christian Metal
+6K2JzObHtG7qil0arZCZoA,Breaking,30Jl6qHkTGpc3obxBp8fE8,Eternal Decision,2YK7PrdYgjZbsMWTgFulBi,Ghost In The Machine,1999-01-01,12,Christian Metal
+1Jl0n0yjTiu9DEW6kSDlkc,Honestly,0dgnITyIAN4NrmUVisvxHU,Tesla,1EgrNhKaK58fiWGqxmvGh1,Simplicity,2014-06-10,12,Christian Metal
+0IYRilWkPmTkZezBEpFK9E,Anxious Creatures,72wqGXiEJmvm4SSRMTnXIU,Angel Machine,6EmWjBA3a5shuX5s1f0FbS,Anxious Creatures,2021-02-26,12,Christian Metal
+1uEbM7dgJA3osLw4xs0MrZ,Great White Throne,7EJ6pr0QLxA2mR0B8c8uFZ,No More Death,2vDD1qzGT4Z9HuWyFbLG1C,The Death Is Dead,2025-07-04,11,Christian Metal
+2Gy8xxu7AwGvJwIEqC4VcN,SYNTHETIC SUN,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,37Dzx21zFhJpdWB1herMb2,LAW OF THE (Waste) LAND,2025-04-18,11,Christian Metal
+6Obxom3RrglUd3t6HDgW9h,Daughter,0Uj2hge2fxypJ7f4ik6lpr,Blindside,5xgbGurx8ggWhQmy4yiy1r,Blindside,2011-06-05,12,Christian Metal
+4boUjx9jMZW3pN3mvW9cz0,Golden Flames,0xxD4XGSICjmlWybbgJLHz,Golden Resurrection,1tr0XijEzFZZLZZyxi2jhY,Glory to My King,2010-12-03,12,Christian Metal
+4mZkWkzveFC00DIQNbroLe,Eternal Light,3ppxHOYEYU5QbL2ZmfHbsx,Fire on the Horizon,5hDJtzYVWlrGsVtOlimull,Eternal Light,2022-02-17,12,Christian Metal
+4YJaRA6WwQemrcI3KMSsxQ,Undivided,0ikl8u2xTTRCUeanIAW1mt,Signum Regis,5owAFtvJ7bOhWfbaE1Iem5,Undivided,2023-11-17,12,Christian Metal
+24DW2x9lE7L1uX4xWbka4p,Other Than Me,0dgnITyIAN4NrmUVisvxHU,Tesla,1EgrNhKaK58fiWGqxmvGh1,Simplicity,2014-06-10,8,Christian Metal
+4TCrcB9H3GqHyiv53pIRcW,Never Satisfied,5W9D5JaQL3u0FJJQwx4h6q,Wisdom Call,0BglsYh3MySsi5LwAcCboa,Wisdom Call,2001-01-01,8,Christian Metal
+0z8EcfBaled5hVUJoLIstj,Blameisionists,6kYiDgxX4t2TRCcXLJ164o,A Life Aligned,1zy3m9P7yk6opInOQ6fOu8,The Light That Failed To Cease,2025-09-05,9,Christian Metal
+1gelVnqGGh6cB2Y86Kre8F,Master of All,6MghUSu5JVbS6KikpxjlR6,Martin Simson’s Destroyer of Death,4lwDG70YSxQLFGK40nrm92,Eternal Reign,2023-09-29,9,Christian Metal
+75AndrOgdspuDXSZ9fvd1g,Egress,6Z0TOok4QlwXg3TeRhExyv,Hospital,6N1ZNTYzVg0BYS4wjljycg,Thunderborn,2023-10-20,9,Christian Metal
+1MFj7z7kJyXcVMZ1F1sQK5,REPENT,72U0KtKTsqWZeYC83Tw8b3,Damien Darhk,5Kx8RoAYVcpgduGB6RahbL,REPENT,2025-09-10,9,Christian Metal
+1OQqNHcGbJ6O22JYfRYv4J,Doing It Again,5Sp6Am849lTEgAtaWBnnfi,Baru,6FFEasr2mC0KqA5nFLTmpP,Doing It Again,2025-07-05,8,Christian Metal
+76qykzIJl8NxN4VmRYmNVx,The Mist,3qeklOq9OkE7FdJB0rjgXY,Within Silence,3cZCDWA6M83hpS141p3WNo,The Eclipse of Worlds,2024-12-06,9,Christian Metal
+2BT3dsCdWRr0ztGVKYm15a,The Broken Thorn,3qeklOq9OkE7FdJB0rjgXY,Within Silence,3cZCDWA6M83hpS141p3WNo,The Eclipse of Worlds,2024-12-06,8,Christian Metal
+02Dyf19hdGf6FYGMXx919e,The Ether,1uaz4cRw5clcnWJIswU6Jy,Glasslands,7ywbcy2Ry5UaJ7BxnWHsEX,The Meek,2024-03-28,9,Christian Metal
+6eObmI8f8bllRZFr8VBEoC,Reign of Fire,0Uj2hge2fxypJ7f4ik6lpr,Blindside,3o4tydKkkPPGQKY0w8le89,About A Burning Fire (20th Anniversary Edition),2004-02-24,8,Christian Metal
+6dkB8mKV6cHhOsgSGBP9Nf,Insight,5foy0C3uRKsbKh7HsftCST,Fallstar,0kAO5MDpHTRIKMw1McWmNX,Sacred Mirrors,2023-07-14,9,Christian Metal
+6WSruy0jP1BYFHnAuNjDwT,CallOfDuties,7qwRbu9Lqzbq2HK3AgUNU9,Mauro Torres,47ju6LiG3FwGYW5QbhcScD,CallOfDuties,2025-01-04,9,Christian Metal
+3k7zsde8rK8x83AM6UpmRB,Into a New Dimension,1buKzJRsNqt1ZZGitqgFXx,Divinefire,4ehddy61j8hXBSmJJLcSB0,Into a New Dimension,2006-01-01,9,Christian Metal
+7ooCR7fx4CZXgluXEVjBEA,"Let Go, Let God",4KcLdMaw3ai9gReju7aAaZ,Pastor Brad,0U2maBVNFmCa2Qo0z6FK1L,Heaven's Metal Soldiers,2025-01-06,8,Christian Metal
+1lKxjRPUYT9h5Z9mRvE1Ab,Make-Believe,6kYiDgxX4t2TRCcXLJ164o,A Life Aligned,1zy3m9P7yk6opInOQ6fOu8,The Light That Failed To Cease,2025-09-05,9,Christian Metal
+0JR7lig3rgLXwcgtpMreIB,Silencios,3k2pjmkNtnrV3B2ruVqeQq,Lazaro,1r3B35R8Kxo6i5CREp6mzL,Volver a Unir,2020-12-01,8,Christian Metal
+3409wsXfl56hgq1R9bFKOb,Fading Away,4nrzg6bzMCRGsdQ5eD4d19,Love and Death,1OdpPzA65csASF5g6Ghzay,Between Here & Lost (Expanded Edition),2013-09-17,9,Christian Metal
+0Ab7TrzPvSOv0bZKz7wPSu,Die Gedanken sind frei,5WErvdBRHEyq7O422zdYk6,Fuchs,74wZLLBA4xRKPHio3Apygu,Märchen und Wahnsinn,2024-12-31,8,Christian Metal
+5rtgBTfhhKjeqLWdfcPqq9,Gott der Gescheiterten,6ugoqsjm7FsOLXNTwKY4U5,UNITED TALES OF A MIRACLE,20tWlWzhNQ1Eqt8Rjn7GoP,Gott der Gescheiterten,2022-02-08,9,Christian Metal
+2mGIZSh3mn5bYMu1JYgY1y,Hellhounds,7bDRi5oVA2qSBeoIpULbTl,Two Dimensional,0vMPMmNCPxP5e1D7vQdcV0,Menace (Single),2025-10-03,8,Christian Metal
+3pPsgVnvGpPVbHjSSEpUHP,SOLD OUT,4jSibkj7qFNn1EhM1647WH,Grant Evans,10U2xGUNakzV7DCkXDo1f4,SOLD OUT,2024-07-15,8,Christian Metal
+1SnmuXOZPQK39GSx74VoQJ,Old Self,6kYiDgxX4t2TRCcXLJ164o,A Life Aligned,4B5cTKLrX4uJYREwaSTwY7,Old Self,2023-02-17,8,Christian Metal
+05H4xasYwiUuNif0TBMF3W,Through Everything,05JhIlERfUreBCGTRAG6vO,This Heart I Surrender,0JCJlIJdqc4H4jnM2QF8BB,Through Everything,2020-08-14,8,Christian Metal
+5RpmC63L5Y0ETpkyYZw8yD,C.T.G.,30Jl6qHkTGpc3obxBp8fE8,Eternal Decision,2p0r7ovqSh0rcGZ2cdZo6z,Eternal Decision,1996-01-01,9,Christian Metal
+4FlUgBIyhuiqUqiQMg0rO0,RED,72U0KtKTsqWZeYC83Tw8b3,Damien Darhk,476yXTMxdwAkVjXAtYxKpd,RED,2025-09-24,8,Christian Metal
+71J8c5LkhP9xI9zFKlQb33,Ssri Feel Better Already,5foy0C3uRKsbKh7HsftCST,Fallstar,60mGyO79l5tzOQl0yW0lrk,Sunbreather,2021-02-12,9,Christian Metal
+2wceJm0UEK4sLbhwpMeApi,All Signs Point South,7daHmbrOXII2bIjlmfnFsQ,Will LoNigro,7j4TGxG29wQQP7lcWvkcKa,Based On A True Story,2020-01-26,9,Christian Metal
+4nxPRFdhUzOhwoAtBOnH0B,To Love and Forgive,1buKzJRsNqt1ZZGitqgFXx,Divinefire,3jCkgGGINbEwauAvXgJfIE,Eye of the Storm,2011-03-25,9,Christian Metal
+1C2vtDqRo1QIS4TKERq7Pa,The Widow and the Bride,2eXM6plUGS4TET0MuIy0hT,Saviour Machine,2ZlkX4MYjpc13hNyCV0CSz,Saviour Machine,2004-01-01,8,Christian Metal
+3rtsqI9tj2MzEIiqAi11oq,Your Love Will Never Fail,5TSF8RbbuVIN16D6LTEd61,Eternal Reign,7FPEH1hD4Pu84pxq4OEZPa,Your Love Will Never Fail,2025-03-14,8,Christian Metal
+6IWBCRL3Nty9c9gjXmuzb9,Sinner's Player (Confissão),2qpB1WowoOAToLgk1ch3ww,Torres,4GHZ8AzyXYocrVSGKHIf8L,Street Caramelo,2025-05-09,8,Christian Metal
+1B1y2ZVYN9AHTgnatYcJLr,Warzone Guerra dos Consolas,7qwRbu9Lqzbq2HK3AgUNU9,Mauro Torres,0azunVbp3YPbVazXq7KCLK,Warzone Guerra dos Consolas,2025-01-03,8,Christian Metal
+3FhVDaxsAOvoLqeN1fUAW3,Druga Pieśń Sługi Pańskiego,6nhYgT1z4RT2zKdRhRefGA,"2TM2,3",4iRVAPJ8tuORZPgabeWpvM,"2TM2,3",1999-09-06,9,Christian Metal
+4RnCr2B5VqUZXv8XiTBC3z,Fixed Fight,0Sw1p3kopd0Qjeyk2PdKx4,Kelly K Ministries,7DX39L8YO6e8Dd5j58y8CN,Fixed Fight,2025-09-15,8,Christian Metal
+1aIK7o9xfuxqphEQZI8dsZ,God's Grand Hotel,0xxD4XGSICjmlWybbgJLHz,Golden Resurrection,1tr0XijEzFZZLZZyxi2jhY,Glory to My King,2010-12-03,9,Christian Metal
+1pWW2zmmPDgkOI2kkfe3X9,SOZO,0Sw1p3kopd0Qjeyk2PdKx4,Kelly K Ministries,0Vt7xPLJiruywFbHSWfc8b,SOZO,2025-10-03,9,Christian Metal
+0c6hhHdLqZFW1NRYCjyL6i,Ghost,3BcuUq1rwq2xlcyab2w3lu,Relent,2FW6zMnZvyTFB7bquBYh9T,Ghost,2021-06-11,8,Christian Metal
+6HiIePYHVOrOEFPJyYbtIC,Meaningless,1uaz4cRw5clcnWJIswU6Jy,Glasslands,2jgnwjTqWZJqJg3xpz27vW,Meaningless,2014-06-10,9,Christian Metal
+7hfsdT6Wz8ygLDwPCbSBjr,Time to fight back,66A6X2wa7sY2y1zYg297kY,Social Outcast,5rvmH8B5EbdABw3F4G7e6n,Time to fight back,2025-09-25,8,Christian Metal
+0r92qAOKBB8GAS07BJ4wgq,Timebender & The Jet Engine,5foy0C3uRKsbKh7HsftCST,Fallstar,0kAO5MDpHTRIKMw1McWmNX,Sacred Mirrors,2023-07-14,9,Christian Metal
+4TQqEeISI5e7lCsmo12eA0,Cross My Heart,0dgnITyIAN4NrmUVisvxHU,Tesla,1EgrNhKaK58fiWGqxmvGh1,Simplicity,2014-06-10,11,Christian Metal
+5N0tothMMMgdX01EFhoLfU,Two Bodies (One Mind One Soul),6lE1ly8K8H7u8k2ej2plvv,Stryper,53X4wLROtXIUvVbubdkkhq,Can't Stop The Rock,1991-01-01,11,Christian Metal
+7tBCM8wgIOOOzjQjS0VNeA,Send Down,2g9YrYe0cG2UBvcvGbX0hT,Crimson Trace,4C9EOhWIK9rXUCQ97yYoaX,Take My Stand,2025-07-04,10,Christian Metal
+2n27DxVOEYSvzSDzUoexxa,Old Wounds,5byg90wTxATnhB6kK253DF,Fight The Fade,6UNle5CEVB16XGZKVfCCBZ,Old Wounds,2021-03-24,11,Christian Metal
+3BJFJIXLScukOnBVGpEUMa,The Hill,1potlLW7hgiJHPQ1en1RGu,Nesdam,6pd3NfQ7SvMlnwhAGhKeBz,Find The Truth,2025-01-17,11,Christian Metal
+2ABVI4RDYwxwlAqXfD1JfB,Emotions of a Picture,3WRrj4KRDVU9yP43hZETxo,Majestic Vanguard,2osQv8PbDbhaDuem3zNGdH,Beyond the Moon,2005,10,Christian Metal
+5HjEqcWs97IYAQKshloXCP,The Hour of the Son,05w0yASPYbEZ05m1CWfF0p,Mary Oz,0EAIHi99OxpJ2p7jSfqSot,The Hour of the Son,2021-04-16,10,Christian Metal
+1L9mDyBQUM8iJrN5uBqAi5,Faith Is the Victory,5MX93pcbXRh5zWyVhJHDnY,Redeemed Forever,726YXWymkvHNbSXjQUEbT5,Reignite,2025-09-13,10,Christian Metal
+5uBTNI8JJTygoRqft45etU,We Ride,0xDqVY7j4jW3pnzU03N5m4,SireWolf,7xsGvNar7gr78Mc05ftLNe,We Ride,2025-09-17,10,Christian Metal
+4tkeisjLXauaKc5TlGqGKR,Heavy Metal,4uOFEWy9mIcvQbr03IbPcL,Manafest,3cWaWlaKC5uFVNjpZunFZh,Ready To Go,2025-07-18,8,Christian Metal
+1vdT1d02EKHdY7311rukrB,Born for the Strangers,0xxD4XGSICjmlWybbgJLHz,Golden Resurrection,437JaFaiG0I6x7U7yDRlCM,One Voice for the Kingdom,2013-01-18,7,Christian Metal
+4Xef4kFZfLl6ENRMEKNuXl,Oblivion,2JpzcXChqTJM6pjnlTKvWt,Asfirefalls,1LkBBOpy2JH0wvY3K7kbaT,Catatonic Misery,2024-06-14,6,Christian Metal
+6QDAtZnKv0X0hnY1Z3VS7u,Hold Us Down,519oIMv6syoTc46qquVbNB,Justifide,3zsSZ3Yn9G1g1nSO6NiV8R,Life Outside the Toybox,2001-04-24,5,Christian Metal
+3ziexEuMJv4uJ4FovRDQOj,OFF ME!,3aLcVrsfmRq8O8yzluIAcR,KXINGXCLUTXCH,3Ppv163KLktfjmkZTkOmm6,OFF ME!,2024-04-08,6,Christian Metal
+2dBw2KAgnCDP6jje4HtBMf,Jehovah Jireh,5cEH5RxcfFRJLqEDuQqjsz,Testament Of Steel,3Pc3PzYsy6Dq1hnqB8VzZn,Jehovah Jireh,2025-09-27,6,Christian Metal
+2DzgBc4WzHDPim2MsJAAtR,Raise My Hands,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,6vNAYSxajNVjjnBC7ebSqD,Through It All,2021-06-04,5,Christian Metal
+12PBfgUwPdRol5rCeazz90,My Confidence Is in You,5Sp6Am849lTEgAtaWBnnfi,Baru,5WlFiVkLSHMqbfAZWWiziu,My Confidence Is in You,2025-06-29,6,Christian Metal
+2ysmBqacXJq6gmMALh0ypZ,Chains Will Break,60OpTP3KX9BfczqDN08v5t,Project VII,4JvQJW8Bd9J57qhmwHPopq,The Fall and Redemption,2025-09-28,5,Christian Metal
+69bhCEfaa1wYU9byidUJNa,Hän pitää kädestäs kiinni,5qfIlzlkNbkDXt2GJZoXAH,HB,4vn49km56o6XE0aIrLrKR5,Piikki lihassa,2008-05-11,5,Christian Metal
+5ooVV1dsxH87P0q1459GiB,Dark Cold Night,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,4xqqxUADqm9jlQyG874oUv,Lowborn (Instrumental),2024-11-08,6,Christian Metal
+6OD0WhFGuXaU3NWOipKmTr,Are the Light,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,5hAZGfHwVZphDPiX3980TA,Light to the Darkness,2020-02-17,5,Christian Metal
+6xIaJuJwcFgyAzGfMo5zRc,Liberty,0Uj2hge2fxypJ7f4ik6lpr,Blindside,5xgbGurx8ggWhQmy4yiy1r,Blindside,2011-06-05,6,Christian Metal
+1i3TCkCnF3PW9m599gpULw,Dayz Shoegaze,7qwRbu9Lqzbq2HK3AgUNU9,Mauro Torres,2VLITU7IRf5y8xytBw3Bw1,Dayz,2025-01-07,5,Christian Metal
+0ti3fprO20Bxinn47yxqSJ,Kein Schöner Land,5WErvdBRHEyq7O422zdYk6,Fuchs,1xbv7b09Rb4GFFYrnUivDW,Kein Schöner Land,2025-01-15,5,Christian Metal
+0bMSp5qm0CPKb5pGjk6H1U,The Greatest Love,0q9dJ3PCHPPXvweUxr06Id,Ivoryline,1WrpqHR8WOi8kjB8WezA2O,Vessels (Deluxe),2010-01-01,5,Christian Metal
+2RLHALTnT5dd6bn25AgYuc,Breath of Creation,60OpTP3KX9BfczqDN08v5t,Project VII,4JvQJW8Bd9J57qhmwHPopq,The Fall and Redemption,2025-09-28,6,Christian Metal
+5SVAFe69f6z1pd4v2J88tt,RE-DEMONICIADO,3kRrBURGbkOVyQdSTgK9NN,kaw kaw christian metal,3uIzp4ua0j4RfRSWLherFl,RE-DEMONICIADO,2025-10-03,6,Christian Metal
+7memPBjBcmb1YitnhNMox1,God Is Our Help,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,7GgKuk3IlaMZtHRIZRY3LV,There May Be Days,2024-09-09,5,Christian Metal
+5sFEuuZYkqleNdy9fO5Yev,Just My Way,4PtdbgfQ9Yj0jEcYb1Clte,Last Freak,5nzZeXugR5qz8Op93mJtfH,Just My Way,2022-11-06,6,Christian Metal
+5gP1UMJxQEvUKxO99kGLg3,I Still Believe - Remastered 2021,5bodTAJqKphEDB3ItIq4Hc,Narnia,16D4iZrK7DpJiBpgxlcra6,Soli Deo Gloria,2021-11-05,5,Christian Metal
+0LK30J3ogzhQad8wjhkHvX,System Reboot,7daHmbrOXII2bIjlmfnFsQ,Will LoNigro,20PJztisL8GteoPmEeDO7H,"Life, Death and the Space Between",2019-07-13,5,Christian Metal
+0efVpNP43Ih9rCk3nBAlOF,In Jhon 3:16 (You Saved Me),2kdCOXVfW77OyRlHRAE4vP,Juninho Vitório,1HXVuGCWyY4K97wjbR4aV0,In Jhon 3:16 (You Saved Me),2025-06-03,6,Christian Metal
+0ENOUk0BraJHcWS8L0HEP1,Perplexed,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,5hAZGfHwVZphDPiX3980TA,Light to the Darkness,2020-02-17,5,Christian Metal
+7DesZv1rcHu3hZauPLzIxJ,Who You Are,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,7GgKuk3IlaMZtHRIZRY3LV,There May Be Days,2024-09-09,5,Christian Metal
+0hXcurvuEiC9Adu6QSMRGZ,Pump Up The Space Suit,7zxpUqN9tW9eJPlS9aRrgz,Galactic Cowboys,3V7RnggDu1jFzWvo7HWedX,Galactic Cowboys,1991-01-01,5,Christian Metal
+7MMU3m3XnipaAEz3jgfuf3,The Fifth Branch,4sk3eiZeK99D0iG52ggI6z,Zerough Deigh,4gnS74UPxagmaAGkBEUvR7,Shadow Games,2025-08-14,7,Christian Metal
+6Cza1d3ld8BqyKi2PkgdOp,Following Jesus,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,7GgKuk3IlaMZtHRIZRY3LV,There May Be Days,2024-09-09,5,Christian Metal
+1nfmYmdddtpxJn8Wfu6Psg,Escape,519oIMv6syoTc46qquVbNB,Justifide,6hZ47i8Bd5pbTJiQOU2Da8,The Beauty of the Unknown,2002-12-24,6,Christian Metal
+5Se60g63yDzNyoi0Rkw5iN,Bright Morning Star,1buKzJRsNqt1ZZGitqgFXx,Divinefire,3jCkgGGINbEwauAvXgJfIE,Eye of the Storm,2011-03-25,8,Christian Metal
+1xR8WQdTc43O1NRReWwemy,Filho Amado,5hjYSU2lOCnXGU2rtwwSGt,Jasiel Lima,5LhBxbhw7C54LHd27k3IT4,Filho Amado,2025-08-28,6,Christian Metal
+7cprRuJta2fHqKpgS1yGIr,The Hill,1potlLW7hgiJHPQ1en1RGu,Nesdam,4pkHIhJm02NjaGUVII5Alv,The Hill,2024-09-04,5,Christian Metal
+0slrjOlpn1eJV0sqZQKAwV,Closure,5oF791JGXaog3Z0luS9Iik,East West,5J3lByUZqXqpIeMYXPNic5,The Light In Guinevere's Garden,2001-08-14,9,Christian Metal
+77ZwjgDSIqTdkORTWCmqLG,The Creature,1uaz4cRw5clcnWJIswU6Jy,Glasslands,7ywbcy2Ry5UaJ7BxnWHsEX,The Meek,2024-03-28,8,Christian Metal
+4wGeNpnXTdPdLGzfLimccj,Chandan Singh New Pabuji,4ntt3rmYzBxnj7v4lruv0T,Chandan Singh,5VGuOr6zDERhnbe4mKxJSC,Rajasthani (DJ Song),2020-03-03,5,Christian Metal
+3jNrenP4XYJqXwzPDvfQ8w,Here I Am,4uOFEWy9mIcvQbr03IbPcL,Manafest,3VeyUPjz688xgL01XFUSjt,Learning How To Be Human,2024-06-14,8,Christian Metal
+4pjCY757W1U6PsOin7JL3K,Circles In The Fields,7zxpUqN9tW9eJPlS9aRrgz,Galactic Cowboys,5iztj1KHosewOw7PE8EkjR,Space In Your Face,1993-06-08,9,Christian Metal
+47Sszt41L8kdOPOotc11iv,Never Surrender,0ikl8u2xTTRCUeanIAW1mt,Signum Regis,3ycTP5mWfzaZAdhaytBkta,The Seal of a New World,2019-11-22,7,Christian Metal
+3pJpZXubu9YpNksGe1WWO7,RE-DEMONICIADO,3kRrBURGbkOVyQdSTgK9NN,kaw kaw christian metal,6P1FYm30ZkiiHXELqvRX1h,RE-DEMONICIADO,2025-09-13,8,Christian Metal
+6sfKFBstnFGgBqr8qm7q50,The Word Made Flesh (John 1:14),1cz6ohoCzkc04pfrJUYgUg,The Good News Music,65gYiTC1avdBbeGJwpAnwb,The Word Made Flesh (John 1:14),2025-10-16,9,Christian Metal
+4f224occfJwVGqKb4bxBCI,There Is Power in the Blood,5cEH5RxcfFRJLqEDuQqjsz,Testament Of Steel,3oXr3cUgWf7AuyzbhdP0eU,Children of the King,2025-03-19,9,Christian Metal
+464JZBlsM1tcq1rJ37dOgP,Unchain My Soul,1buKzJRsNqt1ZZGitqgFXx,Divinefire,3jCkgGGINbEwauAvXgJfIE,Eye of the Storm,2011-03-25,5,Christian Metal
+3gUGIYwFDEvSSEA7aiCL5e,Ripped into Exile,3kVmVUXVBhH9DCXnkNzKtg,Flood,0FRW16xsMZFL2SL7lTKYSZ,Ripped into Exile,2024-03-27,5,Christian Metal
+6vvL7T6FPQtomwpJAY8Xis,Never Surrender,1buKzJRsNqt1ZZGitqgFXx,Divinefire,31zRKxoZ240MWqSM5ybN81,Glory Thy Name,2005,7,Christian Metal
+3Fe0QFsMXY0gbeJo4exiNo,Heart of Metal (Remix),2h6Pq9WnRGxJRt4u7oljIe,Ultimatum,0JldsdWTR4lL95m4UPU1wb,Heart of Metal: 20 Years of Ultimatum,2012-10-30,6,Christian Metal
+3BdwsgUEqRTSPJRyrpEYtg,Radio Static,72U0KtKTsqWZeYC83Tw8b3,Damien Darhk,2Hxn0XXJpfbzVhMuWgcl6u,GLITCHED,2025-09-01,5,Christian Metal
+6nJNVqdCEvUqi9Nowf89bH,Annihilate,5yzkBSLrjOxyMDqLu7Dpc2,Remedy,4ePsnuGOZjpcGYvpbtnP2b,Annihilate,2024-05-10,5,Christian Metal
+6rzmTpdLEIZp59YMo7g3PD,Where Are You Now?,7zxpUqN9tW9eJPlS9aRrgz,Galactic Cowboys,5iztj1KHosewOw7PE8EkjR,Space In Your Face,1993-06-08,5,Christian Metal
+44Rw811u0RII1Y7srR2TxR,The Sign,1buKzJRsNqt1ZZGitqgFXx,Divinefire,31zRKxoZ240MWqSM5ybN81,Glory Thy Name,2005,6,Christian Metal
+1FRP9sC7HQm2unk6W9C2ag,Make Love Great Again,6lE1ly8K8H7u8k2ej2plvv,Stryper,2HqRklh1UedWEjkYvI9IhK,Make Love Great Again,2020-07-31,6,Christian Metal
+0pc644J6aXnKTnsGzmyRrb,Reason to Jump,2Um0Sd3YcLx5i6gpathkUn,Crushead,3zh6BX8prApmKoebLWu9Zj,Explicit Content,2014-10-31,7,Christian Metal
+09vi52OyGJV4Zb3SEVZWcD,GLITCHED,72U0KtKTsqWZeYC83Tw8b3,Damien Darhk,2Hxn0XXJpfbzVhMuWgcl6u,GLITCHED,2025-09-01,5,Christian Metal
+4LmTIORAib0U5UsYczxCsw,Til That Day,0dgnITyIAN4NrmUVisvxHU,Tesla,1EgrNhKaK58fiWGqxmvGh1,Simplicity,2014-06-10,7,Christian Metal
+2zswOcPQcJrXxWouKiRNBb,Correntes da Religião,6482q0B8HLLdADLjwFCF4c,Saldo Zero,3E92l7Ys8sHBzS4USAJIPi,Correntes da Religião,2025-09-16,7,Christian Metal
+6F1Awg8nulqxvYxbd0NdCi,Time Bomb,0dgnITyIAN4NrmUVisvxHU,Tesla,1EgrNhKaK58fiWGqxmvGh1,Simplicity,2014-06-10,7,Christian Metal
+5AYoX0Um01ayxs9eylXyG7,Yeshua,5hjYSU2lOCnXGU2rtwwSGt,Jasiel Lima,5qY107XINklLrDV5z7PAJA,Vozes de Adoração,2025-09-06,5,Christian Metal
+0OAl3vbAoXOICKqETgeGZO,No Problems,7zxpUqN9tW9eJPlS9aRrgz,Galactic Cowboys,5iztj1KHosewOw7PE8EkjR,Space In Your Face,1993-06-08,5,Christian Metal
+67MO2KmrE8Q3R4o5mhF2QS,Miracle,4J0DizPomwqytQhajTy9EX,King Jesus,2qIn83OPlyiIdsA0k4Bdbh,Miracle,2025-08-03,5,Christian Metal
+1Gga9engxY9UYWLHiC7UT1,Amazing Grace,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,5hAZGfHwVZphDPiX3980TA,Light to the Darkness,2020-02-17,5,Christian Metal
+6sX3iUCO3KKwk2j3BKj34c,Passion and Fire,1buKzJRsNqt1ZZGitqgFXx,Divinefire,4ehddy61j8hXBSmJJLcSB0,Into a New Dimension,2006-01-01,5,Christian Metal
+7b6UuHKTgXx0uooAvQv4Iq,Três Palavrinhas só.,2qpB1WowoOAToLgk1ch3ww,Torres,4GHZ8AzyXYocrVSGKHIf8L,Street Caramelo,2025-05-09,7,Christian Metal
+1GJkFz2ccEmZJCZZXNlO7O,I Am the Way,4KcLdMaw3ai9gReju7aAaZ,Pastor Brad,6fxM1D6iqkQzZLeyvfeg9p,Into The Fire,2024-09-01,5,Christian Metal
+6yXTcnbg5g0thQJAJmK60m,Eternal Engine (Die Up),5foy0C3uRKsbKh7HsftCST,Fallstar,0kAO5MDpHTRIKMw1McWmNX,Sacred Mirrors,2023-07-14,7,Christian Metal
+33dIxGnLBmZQOZM4tHCsTl,9 out of 10,519oIMv6syoTc46qquVbNB,Justifide,3zsSZ3Yn9G1g1nSO6NiV8R,Life Outside the Toybox,2001-04-24,6,Christian Metal
+4dIqoxMAmwPonMxAOmJJar,Blind,7zxpUqN9tW9eJPlS9aRrgz,Galactic Cowboys,5iztj1KHosewOw7PE8EkjR,Space In Your Face,1993-06-08,6,Christian Metal
+5zJWCtBrrKqmqSFusOqHIl,Lookin' For Love,6DHKrV1tmyV6dxN7fmPm9w,Islander,1PQNS7uitlx8MAfVmHImtz,It’s Not Easy Being Human,2022-04-01,6,Christian Metal
+3UBgWwYVS0v9ejJr2OHeRi,In One Accord,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,6vNAYSxajNVjjnBC7ebSqD,Through It All,2021-06-04,5,Christian Metal
+6uoaKmPKoovNlOvWfgeK75,Tu Fuego,4lklPdEl1FXHMKVsbU8PFL,Marck P,5ssEPjtRG1Y6apJRSiquUJ,Tu Fuego,2021-08-15,5,Christian Metal
+48UWYIBb5SKaKc6WouvMqB,Blood of Jesus,0PwcX0kb5jwvot1V4JEp5g,Place of Skulls,4urn48ATBFJsYC77JUW3h5,Love Through Blood,2016-06-17,5,Christian Metal
+6GEuMZy1P8bynWAbq3Hi1b,Think You Got It,3BcuUq1rwq2xlcyab2w3lu,Relent,6GtuR27XJzp0Y84FQS8fre,Think You Got It,2021-01-29,7,Christian Metal
+6aPWyFujar1mBuZU1TheDw,Battlefield Da Depressão,7qwRbu9Lqzbq2HK3AgUNU9,Mauro Torres,5ut2gjl50sUtTEa7KRJrje,BATTLEfields,2025-01-12,6,Christian Metal
+3TBYAIES81MPGsstovvS67,Why,519oIMv6syoTc46qquVbNB,Justifide,3zsSZ3Yn9G1g1nSO6NiV8R,Life Outside the Toybox,2001-04-24,6,Christian Metal
+65RxVNgkaZkjrdc5NGINmg,OP,4Tmc5u5jRJanYKDke2Ahi0,All For Love,4kyb3ERB2zbyPRM1Ha1lw0,Ikigai,2024-11-19,7,Christian Metal
+1Htzvnv1sfm6uLvUFjQpk0,Crushing Darkness with Holy Light,4Itk1IfMFqOn355b8Uxzrx,Death to the Flesh,0eynfi8kaeY69oy3vEpeJW,Theosis,2024-08-06,5,Christian Metal
+23qKufsttv1DeCISv97h2E,Ridiculous (Demo) - 2021 Remaster,6KO6G41BBLTDNYOLefWTMU,P.O.D.,4tZpETTA8Uz87LDI0jGAm8,Ridiculous (Demo) [2021 Remaster],2021-07-23,5,Christian Metal
+50gLQLIFDn6VLqq6EntZZp,Higher Ground,2rsRJ62cUExMrFjCzBBqce,Reign Of Glory,6TLicJvlJHhhT27iFD8gZg,Slingshot,2025-07-18,6,Christian Metal
+4EtOI6wX24ToN8jzshEpDp,Pecado Inevitável,7n6TjQJSasmQm3LB5XCfsL,Ailton,6dBXaGrEsMGkhmo10EKBTF,Música Cura,2021-04-25,5,Christian Metal
+7H6mBNbaEwei5fUCNMTJNl,Drop Him,335YtjytwdaP71X8N8eKQ4,Little Limbo,71ZuKD4Mwk35jmmOLk3XLj,Drop Him,2021-04-13,5,Christian Metal
+7kkNi74wLKDv1BmV9R1d5H,Weary,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,7GgKuk3IlaMZtHRIZRY3LV,There May Be Days,2024-09-09,5,Christian Metal
+7BOn14SZ7MgsVhoYqw7Mjt,Lay It All Down,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,5hAZGfHwVZphDPiX3980TA,Light to the Darkness,2020-02-17,5,Christian Metal
+6xETMA1vIdaMvrAmG90eFj,Cotton Fields,0dgnITyIAN4NrmUVisvxHU,Tesla,7AQOyPpyggqttJKTDWIZqK,Gold,2008-01-01,7,Christian Metal
+31H6Tqq2vaSjolsmHW8Ivb,Thrasher Double Rock,7qwRbu9Lqzbq2HK3AgUNU9,Mauro Torres,4Gc69ZyBNcUniDxW9CWKbg,Thrasher Double Rock,2025-02-12,6,Christian Metal
+3jcM9sPK3gnME2MdJlxxtZ,Light of Love,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,6vNAYSxajNVjjnBC7ebSqD,Through It All,2021-06-04,5,Christian Metal
+4CqtljWkUxaL2YnAbCYIc9,Wings of Dawn,6xItVyqP617Z4goLPhiWny,Seventh Avenue,7sCo80Lxyz2sW2KVvE4f7q,Between the Worlds,2003-01-27,5,Christian Metal
+1Uf9gt4KETILyKqIVngWSu,Break The Walls,29rDIfVE0cpUywl1LDwJE1,Motivik,0HlEir2Rq7kE8oMKG8CIv9,Renouncement,2024-07-01,7,Christian Metal
+2A94N1wkCpitXAgJezMzjv,Witness,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,5hAZGfHwVZphDPiX3980TA,Light to the Darkness,2020-02-17,5,Christian Metal
+06017LXiZlzTrRsIlaLxOg,Tornado dos Sonhos,7n6TjQJSasmQm3LB5XCfsL,Ailton,6dBXaGrEsMGkhmo10EKBTF,Música Cura,2021-04-25,5,Christian Metal
+4zBGR4h3PM0QEHMRrSrR25,Oblivion,2JpzcXChqTJM6pjnlTKvWt,Asfirefalls,0IYTYWCF7NnbWutDP8j0LS,Oblivion,2024-01-31,6,Christian Metal
+5lLqtJd8CUe0S8VzSLkGLQ,Ps27,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,7GgKuk3IlaMZtHRIZRY3LV,There May Be Days,2024-09-09,5,Christian Metal
+2ko531ywkxCjBD44teLupA,Menace,7bDRi5oVA2qSBeoIpULbTl,Two Dimensional,0vMPMmNCPxP5e1D7vQdcV0,Menace (Single),2025-10-03,7,Christian Metal
+5cFmkrCg1CU8iRNF0x3PU3,Formas da Natureza,7n6TjQJSasmQm3LB5XCfsL,Ailton,6dBXaGrEsMGkhmo10EKBTF,Música Cura,2021-04-25,5,Christian Metal
+6YSfMmYXg4hJKzI8K0uZaa,Crown of Ashes,60OpTP3KX9BfczqDN08v5t,Project VII,4JvQJW8Bd9J57qhmwHPopq,The Fall and Redemption,2025-09-28,6,Christian Metal
+3TqmHaGq04eIL25506UTDY,There is Power In The Blood,5cEH5RxcfFRJLqEDuQqjsz,Testament Of Steel,2nRv3SGfdisCKAMxHudXWJ,There is Power In The Blood,2025-02-16,5,Christian Metal
+75HAYfi3lWOXPRdsx8zGPl,Ranch On Mars Reprise,7zxpUqN9tW9eJPlS9aRrgz,Galactic Cowboys,3V7RnggDu1jFzWvo7HWedX,Galactic Cowboys,1991-01-01,5,Christian Metal
+3ybIzYCQ4PwWF97GejIdHv,When I Drift Off,7daHmbrOXII2bIjlmfnFsQ,Will LoNigro,20PJztisL8GteoPmEeDO7H,"Life, Death and the Space Between",2019-07-13,5,Christian Metal
+7mBSqAE9lMBu09azA27vd5,Faintest Call,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,5hAZGfHwVZphDPiX3980TA,Light to the Darkness,2020-02-17,5,Christian Metal
+5wvr0YrevfShdjN6ni8orj,A New Home,7daHmbrOXII2bIjlmfnFsQ,Will LoNigro,20PJztisL8GteoPmEeDO7H,"Life, Death and the Space Between",2019-07-13,6,Christian Metal
+5swoDzZrakT8qrOnejvlzU,UNSTOPPABLE,4uOFEWy9mIcvQbr03IbPcL,Manafest,3VeyUPjz688xgL01XFUSjt,Learning How To Be Human,2024-06-14,5,Christian Metal
+11S8Hnlyma0aOwguKdtjpu,I.C.E.,66A6X2wa7sY2y1zYg297kY,Social Outcast,5RJe9PCZfzIKmvpKHHiliB,I.C.E.,2025-10-04,7,Christian Metal
+1CzCRqpLkyHy3DdFu874BG,The Kind That Could,1oCixaAiw3DOG1ni50zLLG,Rod Laver,1KPTwQL2e2XbipxtGUvhD4,In A Perfect World,2001-01-01,7,Christian Metal
+3Bs4FLIHIQKnue7jbDVpYu,3 Down 1 to Go,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,7GgKuk3IlaMZtHRIZRY3LV,There May Be Days,2024-09-09,5,Christian Metal
+1p1nPtobScRB8qJGQ9XxP9,Hero,1buKzJRsNqt1ZZGitqgFXx,Divinefire,43Gv4JncNRNw0Ej7KWkliy,Hero,2005-01-01,6,Christian Metal
+6hEnHpbVyzXu5NSEIxQWFr,Your Joy,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,6vNAYSxajNVjjnBC7ebSqD,Through It All,2021-06-04,5,Christian Metal
+7lh49fhR0t9GiHPA5CqOJy,Blameisionists,6kYiDgxX4t2TRCcXLJ164o,A Life Aligned,2ydmyGwFYzCnEcAr9SV3C1,Blameisionists,2025-02-27,7,Christian Metal
+6uEVGWwlbXc2CxfnMrrek7,Dias de Dor,6evPViYPVqrknINn3qocAH,Michel Oliveira,2l325QOwvs7Tng9eN28QFj,Vida - Uma Campanha Contra a Depressão e o Suicídio,2020-03-09,5,Christian Metal
+0dy0ixuJUQhLOEkLxJQ58Z,Light It Up,695H7ZBBO6pKUjuHEuyqsP,Saved by Skarlet,3B2vmCc8PbDmI53VT8cCOW,Out of Darkness,2019-07-25,5,Christian Metal
+6rINjJukmw5uRhwT3hbz41,Lados,7n6TjQJSasmQm3LB5XCfsL,Ailton,6dBXaGrEsMGkhmo10EKBTF,Música Cura,2021-04-25,5,Christian Metal
+5GhEYpzGQHWvRYL2juv69J,Ephemeral,6kYiDgxX4t2TRCcXLJ164o,A Life Aligned,1zy3m9P7yk6opInOQ6fOu8,The Light That Failed To Cease,2025-09-05,7,Christian Metal
+65BX0byndd2kLt4bL6qfI0,Circles,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,5hAZGfHwVZphDPiX3980TA,Light to the Darkness,2020-02-17,5,Christian Metal
+3PvCIk8zDsP2EOMJCy8v6A,Blood of the Innocent,4KcLdMaw3ai9gReju7aAaZ,Pastor Brad,6xf2Mq9zFkx6FQqCX06Wwu,Serpent Crusher,2025-07-01,6,Christian Metal
+4ZXbuWRvdnnYrqCsSumoL0,Sea of Galilee,0ikl8u2xTTRCUeanIAW1mt,Signum Regis,5owAFtvJ7bOhWfbaE1Iem5,Undivided,2023-11-17,5,Christian Metal
+11UiZpUZt1TU9Wd0NRzhW6,Live Free,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,6vNAYSxajNVjjnBC7ebSqD,Through It All,2021-06-04,5,Christian Metal
+6b6PlfVv5dgqAd7pfR4DWC,Battlefield VIVE,7qwRbu9Lqzbq2HK3AgUNU9,Mauro Torres,5ut2gjl50sUtTEa7KRJrje,BATTLEfields,2025-01-12,5,Christian Metal
+6itr827Br26TVETqIZJlTY,Resurrection,7nmV3jEDBv0n4C0et61Xg7,Leviticuss,79xYpQ6QwOjSAkYdUguMdt,Resurrection,2023-09-08,6,Christian Metal
+6xKlvjXrHREroKn7SXKSPz,Comunhão de Fogo,2u9r4LqbCAmh5NSWPXnGcv,Projeto Chara,3zNoRpl93FrG0lW03lEZmy,Comunhão de Fogo,2024-08-15,7,Christian Metal
+7K1LuVkqeWt0tQRZy0kbgn,Shout,2rsRJ62cUExMrFjCzBBqce,Reign Of Glory,6TLicJvlJHhhT27iFD8gZg,Slingshot,2025-07-18,5,Christian Metal
+1ntroBmk7fOzljgf60qu2w,Nephesh,5oF791JGXaog3Z0luS9Iik,East West,5J3lByUZqXqpIeMYXPNic5,The Light In Guinevere's Garden,2001-08-14,5,Christian Metal
+2jndiEP1MOSKWpCLpvEIqK,Naruto Corre Atrás,7n6TjQJSasmQm3LB5XCfsL,Ailton,6dBXaGrEsMGkhmo10EKBTF,Música Cura,2021-04-25,5,Christian Metal
+3W0CBds42jDx92DCkzgpgg,Another Tongue,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,6vNAYSxajNVjjnBC7ebSqD,Through It All,2021-06-04,5,Christian Metal
+2Sy94DPtd4vgPKOHn7AFGl,The Price He Paid,4tvjTVfWkmfYeo9zCe3atX,Forged in Faith,5a2isSiqxAPKkmELgeBHFB,The Price He Paid,2024-12-27,5,Christian Metal
+11b5bCUZfJQYOaMpFJ4v2A,Joyride,1potlLW7hgiJHPQ1en1RGu,Nesdam,5gxE2Pv7oCpK6gGMHQr0Wg,Joyride,2024-10-09,5,Christian Metal
+4fhAqq8FBTHVGmoR1etQ3h,So I Can Stand,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,7GgKuk3IlaMZtHRIZRY3LV,There May Be Days,2024-09-09,5,Christian Metal
+28Vx7f06Xtpwf0Lht3oWSX,Eyes on You,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,7GgKuk3IlaMZtHRIZRY3LV,There May Be Days,2024-09-09,5,Christian Metal
+2H5LJiwgdlBX8MFlSZrl69,Peace That Starts the War,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,2rDc9fiNUDMFsvBdTCjWDK,Deadweight,2022-03-02,6,Christian Metal
+3zhYS4xhVI8ttgYuFxMRjp,Still Good,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,6vNAYSxajNVjjnBC7ebSqD,Through It All,2021-06-04,5,Christian Metal
+4EzrKTYOaEHFMBB7yJ1uC3,Final breath,5Tf1Yt9etDTi0HmlNrXDOL,Altarive,400agulPwmavOljnpDQEOz,Final Breath,2015-05-23,5,Christian Metal
+3zX3bPoAxfYRcaD6tmbmtY,Leia a Bíblia,2qpB1WowoOAToLgk1ch3ww,Torres,4GHZ8AzyXYocrVSGKHIf8L,Street Caramelo,2025-05-09,6,Christian Metal
+0BacesXcSXNim3f9KgFMpB,Trumpets and Horns,60OpTP3KX9BfczqDN08v5t,Project VII,4JvQJW8Bd9J57qhmwHPopq,The Fall and Redemption,2025-09-28,6,Christian Metal
+0eO8O5sCrkdAZZTI9B5E4Z,Sky Symmetry,5foy0C3uRKsbKh7HsftCST,Fallstar,0kAO5MDpHTRIKMw1McWmNX,Sacred Mirrors,2023-07-14,6,Christian Metal
+2wofserm1sEUTpW1UjB6yd,Be Glorified,1bJddy5f1hR0GT4uIzUSVQ,James/Melody,7GgKuk3IlaMZtHRIZRY3LV,There May Be Days,2024-09-09,5,Christian Metal
+4VXrHUEzoQHEDYvBn7qgZ4,Blindsided,30Jl6qHkTGpc3obxBp8fE8,Eternal Decision,2YK7PrdYgjZbsMWTgFulBi,Ghost In The Machine,1999-01-01,6,Christian Metal
+0rpQgP9S5wXCKNiENoB3aE,Psalms 23,60OpTP3KX9BfczqDN08v5t,Project VII,1M3AnoI7yePOgh8aBiMqfT,Spiritual Warfare,2025-09-24,5,Christian Metal
+5JjmKIJ4p3Y2oDxNXydDw1,Safe And Sound,2Xksh9z8iD6OoLYZkTGDbx,YKC,4xTFse4wIpHvfWCy3J0qAZ,Safe And Sound,2025-01-10,5,Christian Metal
+1d6jTnzCBlrpde23sm87MI,Shield My Soul,0ikl8u2xTTRCUeanIAW1mt,Signum Regis,5owAFtvJ7bOhWfbaE1Iem5,Undivided,2023-11-17,6,Christian Metal
+3uKCclZHELWtVC61Jm3kWk,Cleanin' Out My Closet,4uOFEWy9mIcvQbr03IbPcL,Manafest,3VeyUPjz688xgL01XFUSjt,Learning How To Be Human,2024-06-14,6,Christian Metal
+0OKyrgIPz0jZhvF3BdUuUA,La Torre de Babel,5JPvfB42GzloPAxmiD9YrZ,Las Hijas del Eden,1K7ngdzv3LdAkDQqHb2iMa,La Torre de Babel,2025-05-01,7,Christian Metal
+0uTkpAYU8NytlD6CUzL6xX,Esplendor,7n6TjQJSasmQm3LB5XCfsL,Ailton,6dBXaGrEsMGkhmo10EKBTF,Música Cura,2021-04-25,5,Christian Metal
+5hZ0rwOKiK8ItOGcaHkwQJ,Partidas e Retornos,7n6TjQJSasmQm3LB5XCfsL,Ailton,6dBXaGrEsMGkhmo10EKBTF,Música Cura,2021-04-25,5,Christian Metal
+0dpcEdOd1Gbl3waUP0vgn4,Pra Começar O Dia Bem,7n6TjQJSasmQm3LB5XCfsL,Ailton,6dBXaGrEsMGkhmo10EKBTF,Música Cura,2021-04-25,5,Christian Metal
+76jqfF6Ff2FRFeREtCbaQl,No Stranger To The Pain,4uOFEWy9mIcvQbr03IbPcL,Manafest,2V5zW16bE79VHpK5aQXxXG,Doomsday,2024-03-22,6,Christian Metal
+4CepCyLwegd7i172kO8FFI,Afterword,5rHzbJKL6WvER8ubF6y738,Marston Music,75HA7OCDqVvitj2Q8FPrRC,Always There,2024-10-04,5,Christian Metal
+2OkCw9kbea58ziOIp5vkHI,¡Tibios!,5JPvfB42GzloPAxmiD9YrZ,Las Hijas del Eden,7EeGgrrX9H6LU9YvSj5Wfl,¡Tibios!,2025-05-15,6,Christian Metal
+3GHdjc6h27teViemYqlRMq,Sympathy,0dgnITyIAN4NrmUVisvxHU,Tesla,1EgrNhKaK58fiWGqxmvGh1,Simplicity,2014-06-10,7,Christian Metal
+3di2tanvYvtMss1tcg1BEr,Float,0Wbm1dUddzRPlUhvz40QPP,LIONFIGHT,3IG5yvWsoVkcJKpMAQf2Qt,An Investigation Into Perceived Heaviness,2021-03-05,5,Christian Metal
+3c7HzDt01pkcSGsBstMzKn,Song X,5oF791JGXaog3Z0luS9Iik,East West,5J3lByUZqXqpIeMYXPNic5,The Light In Guinevere's Garden,2001-08-14,5,Christian Metal
+5mxxHS8ulQmembzQRiPh5h,Sacred Warrior Spreading Light,4KcLdMaw3ai9gReju7aAaZ,Pastor Brad,760vnVvA3TEMnt5CGbNZLH,Metal Thunder,2025-03-18,7,Christian Metal
+7A4N0sxDitqPjKX5tHZ8RP,Are You Ready for the Power,0xxD4XGSICjmlWybbgJLHz,Golden Resurrection,3zgfCsjIojyZ9BgXjMIxx8,Man with a Mission,2011-10-28,7,Christian Metal
+2qRTdbM9KNGoHvNOgBCVFL,This Is Not A Test (Acoustic),7daHmbrOXII2bIjlmfnFsQ,Will LoNigro,20PJztisL8GteoPmEeDO7H,"Life, Death and the Space Between",2019-07-13,5,Christian Metal
+7gB1YpAFSe2RufPBOVuMHK,The Dawn,5yzkBSLrjOxyMDqLu7Dpc2,Remedy,17puGHAkBrOd3YlVdu4sJg,The Dawn,2024-03-01,6,Christian Metal
+2DVBJtD8RQdnOvdhrVuIug,ROTTEN,72U0KtKTsqWZeYC83Tw8b3,Damien Darhk,4egz24Lni7BL0gf2ttIBF5,ROTTEN,2025-10-01,6,Christian Metal
+5OGWUqOnS3KgMUlR3aOyGV,Kaptain Krude,7zxpUqN9tW9eJPlS9aRrgz,Galactic Cowboys,3V7RnggDu1jFzWvo7HWedX,Galactic Cowboys,1991-01-01,5,Christian Metal
+7jfylNzReFnKIwZh8lf8JB,Rage of Angels' Holy Call,4KcLdMaw3ai9gReju7aAaZ,Pastor Brad,760vnVvA3TEMnt5CGbNZLH,Metal Thunder,2025-03-18,6,Christian Metal
+7gQljys0ulJlgYa35KgSYn,Um Mundo de Séries,7n6TjQJSasmQm3LB5XCfsL,Ailton,6dBXaGrEsMGkhmo10EKBTF,Música Cura,2021-04-25,5,Christian Metal
+0loJwXm9twKkEaLyJ23RjC,The Fire,5yzkBSLrjOxyMDqLu7Dpc2,Remedy,1ozHcbocDMqeC9vm6dvmge,The Fire,2022-07-15,5,Christian Metal
+0gmKX6iqtUJwWu9TX2Wz95,Heaven's Metal Soldiers,4KcLdMaw3ai9gReju7aAaZ,Pastor Brad,0U2maBVNFmCa2Qo0z6FK1L,Heaven's Metal Soldiers,2025-01-06,6,Christian Metal
+1xSNUaEDPlwVonvhL3wEGA,American Babylon,2eXM6plUGS4TET0MuIy0hT,Saviour Machine,5DJKTZRA0fie6KPE9o210w,ll,1996-01-01,7,Christian Metal
+0k4cD3N3rIgFDRaONFFTq0,Changes,4uOFEWy9mIcvQbr03IbPcL,Manafest,6l79mXBD5HLOHbYGqf67az,Epiphany Deluxe Edition,2021-01-01,3,Christian Metal
+6BcBJcg5IcDH4Yb1MHkzap,Deus Criador,1fjd682Fz1sI8VwpwDNiaK,Band Reação,5v7l5HmoAMJMsyWBRwS70x,Nasci para Fazer História,2023-07-28,1,Christian Metal
+49q7jpw3TcVe9WRKuqkDSy,Holocausto Social,622zyazAqSl0c9gCeiUdaA,Desertor Hardcore,5TDWnFK9ZJ444BMcTTWa4n,Suspiro,2013-06-01,0,Christian Metal
+3x2fd01NSZC5VIjcHKaPVx,Hours,5foy0C3uRKsbKh7HsftCST,Fallstar,47uHbtL1pUcwesWfV4xdjL,"Lost Songs, Vol. 1 ""Summer Cats""",2024-12-13,1,Christian Metal
+0TEr7RbvQ5aInsSW3xLy9n,That's Why I Rock,2vrwzO8VpebaGk1KUkmBR3,The Grafted,6LD8MF1ibQJesLO6SXjeG6,Messianic Rock,2022-11-08,0,Christian Metal
+4Q2ZukUi1aqrUfYP3lqWPP,Mi Salvador Eres Tú,2Jhw1ZKsuVry9mLD09Mdeh,Pablo Panguinao,0dxbsMLpENip5EGTIqDhn2,Mi Salvador Eres Tú,2021-08-18,1,Christian Metal
+28zySnqA6PYLYtKe0W59Ch,Sarkin Kabira Na Galadima,3ku9YzSxsyOYqyoHIFrmZb,Alhaji Mamman Shata and His Group,0ncAehluAXaFZFRPsE1RHC,Sarkin Kabira Na Galadima,2018-05-01,0,Christian Metal
+343LccU5AVQBXzGUMzcfjL,Obey!,6hWrm794JlYc6hvbkVWQYo,Latex Angels,1epwo6e2For09JH5lS0s9V,Dark Desires | Pt. 1,2024-04-17,1,Christian Metal
+1129AGH2gJtGOMoFVWe5yB,Arrow,7zxpUqN9tW9eJPlS9aRrgz,Galactic Cowboys,6LdmAyVw4nUlqmyEKCwzSf,Machine Fish,1996-01-30,1,Christian Metal
+32JdD1NAzdlVAb05VFU0wG,Not Silenced,06Px6Q2GHKtaeyNRtgVKMX,Confessions in Agony,32UnWWnABu65aTr36R7UZT,"Sacred Silence, Broken",2025-08-29,1,Christian Metal
+49A6CXERkoQoDzgciwrU1u,Tu Vida - Demo,3RvLn3RVqSOny6sXB0DQCr,Sin Paredes,3i7xHuUqkQ8oREhSAwr2c7,Demo 1 (Remasterizado),1995,1,Christian Metal
+0zEw1Z59TPGr38fzkiPNU0,Desire Of The Son Of Morning - Freesignal Album Version,0wlvfBwKQYnTA6uWCtZ30J,Beanbag,2a4EHmiQ4VkLno01XufSqp,Free Signal,1999-01-01,4,Christian Metal
+1mkRqBHSCK7EDx9vDxLZxE,No Love Like His,3kmxBsJ6mTujJtWSa38YXV,Firecloud Rock,5IZRJByaqjl153Hb5I5ePo,No Love Like His,2025-03-07,0,Christian Metal
+22dyxWIkQuiV08MDPitpY6,Sabot Aged Society,46cDzpEcg4Sq1xq4HdRER9,Aaron Pearson,5qQZfptVnQ05llXu2d7Moc,Y-Not 2K,2021-04-02,0,Christian Metal
+6g24DkP6CrwWiPNqBTOZL9,ARREBATAMENTO,3WIkndJeUejHHXp47hly1R,Harpazo,3LDuiK9EBLOiBtMSp5h8RE,REVELAÇÃO DA MORTE,2024-12-30,2,Christian Metal
+6YFfWTtqtubtdpJV0o5tTD,Welcome You,1GSnB1rntTlpYHilrgL9ca,Crosslight,1vLvdmiPwnToDnilUSpjny,Welcome You,2025-06-13,0,Christian Metal
+0cCLs45sykz6MSSbHNkRQa,Vuelvo a Comenzar - Remasterizado,42prfC2D5IVaukUZB94y5l,Sentido a la Tragedia,10wmuMBMzftCpxyeEult73,Sentido a la Tragedia (Remasterizado),2011-07-25,0,Christian Metal
+66Zp1l5CMACQ0mK1QC7Y4x,Strength Through The Fire,4tvjTVfWkmfYeo9zCe3atX,Forged in Faith,71SUzsg7Xw3rRqRRAP4d2e,Strength Through The Fire,2024-11-22,0,Christian Metal
+1bFAkfB72xx85UVTtNgVwR,The Phalanx,4uEvsanKD8dURSgjw5iUsQ,Catacumba,69dN0zHRfVsXa6J7Rnh1F4,Decano,2025-07-08,2,Christian Metal
+5cFMKT8HjiKaGZdS0sigWg,Renascer,4PtdbgfQ9Yj0jEcYb1Clte,Last Freak,0vy5NItITUbsYckcJa1t9J,Renascer,2025-03-31,1,Christian Metal
+1uu19s9azRm2OFofWPYR1Y,Chasing Monsters,0cWrtgYKGgfw6LIMosC3J7,Eric Clayton,1OyuiVtcUPxt35AypQVZ2g,A Thousand Scars,2020-05-08,4,Christian Metal
+5HTeUjsFSt3CFXmrHQfzi5,Aozé,0Sx3uE6XrYq1BnEGI5u3di,Saahsal,5EtRO1wvH6BDS1wlyG4fW5,Aozé,2025-09-23,0,Christian Metal
+50KVrrmAAnKSM6lgCAjo72,Human Decline,57ezLA3tBObyrHY8s5i4VC,Jesus Freaks,2zLVnZtjmUprW62Ghor6SW,Jesus Freaks,1996-03-18,2,Christian Metal
+68F4gDoLqYFrDCX0jixgzs,Closer To You,05msGQxB9i4aSDHxt8ujnd,Lost Pilgrim,7cWBY0gEfoBXgBWCBvz6ed,Back Home,2024-05-25,0,Christian Metal
+25GkUfjXnkYAl0ORuqXPvs,Adormece,3H6YXyTOk0BTtnumjyeQBP,KROSHER,7AAorA0n83PpDbAKgG2WUc,Entorno,2021-09-24,0,Christian Metal
+1NZxoIFxUUDwKMTVUkJBj7,I'm Free,6evPViYPVqrknINn3qocAH,Michel Oliveira,2l325QOwvs7Tng9eN28QFj,Vida - Uma Campanha Contra a Depressão e o Suicídio,2020-03-09,5,Christian Metal
+1BW27eLm9vJT8go8mfKyWJ,It Can't Rain Everyday - Commentary,6KO6G41BBLTDNYOLefWTMU,P.O.D.,1oncoFrsVi2xsmJge6sHbp,SoCal Sessions Commentary,2014-11-18,2,Christian Metal
+54ecfNlxWXA3iXu4hXMMsp,e. Never Understand,7zxpUqN9tW9eJPlS9aRrgz,Galactic Cowboys,1eXoU8UhMGJXsp1dTZR8HF,At the End of the Day,1998-09-22,2,Christian Metal
+5Y8MYGeV1DoLHQSlovcTOn,Shattered Chains,2rsRJ62cUExMrFjCzBBqce,Reign Of Glory,6TLicJvlJHhhT27iFD8gZg,Slingshot,2025-07-18,7,Christian Metal
+68ICHWjUWJFBkUGhFLiszV,Killer Instinct,3ZqLiAbz7w88lp0vOhnGyv,Daniel Flores,2tqKjAzSVRDCDeUCy0h5KZ,Killer Instinct,2025-08-15,3,Christian Metal
+5K7iixvqGapzwsZLiQrzMx,Reach,0Pw00Rt7m9M5HiBAIgWTPk,Torment Ridden,5k0v4a3BJsepFE3sbCcKc3,Declaration,2011-04-22,0,Christian Metal
+1dgZDzucMQDQ3xQlFc2Rec,Cartoon,6hWrm794JlYc6hvbkVWQYo,Latex Angels,56mnm6Z4tcxueLEQppSICO,Cartoon,2024-04-26,0,Christian Metal
+3Q0ArEWAWSb0T4LTKSSMch,On the Run,0pB5DhUgBouH1tLYSEKmMX,Sinbreed,2wO77rbVFD8KQ96OnejXxC,Master Creator,2016-02-26,4,Christian Metal
+0GcLCamcF8slW1SDfQkcNu,Cracks in the Sky,365nrr30oUTyUdSgrdvyi4,The Cunning Reaper,6fvPgGCzGnZ4XuhCZgFQSC,From on High,2018-08-08,0,Christian Metal
+71uf2bqOFFsGcKMkhWH3sg,Sleep,5foy0C3uRKsbKh7HsftCST,Fallstar,47uHbtL1pUcwesWfV4xdjL,"Lost Songs, Vol. 1 ""Summer Cats""",2024-12-13,1,Christian Metal
+4UWCFyxZMAoaQGd3UtnAch,Mental Enemies,1HHOVz0gumeBpzhNfAZOA0,Flayed Alive,4BMOSbou34062E7YwwQTwJ,Eye To Eye,2021-08-21,0,Christian Metal
+6CqiWXIZgQcOoUdo4Ga7TA,Wake Up World,4HNE1Pg6LBYW20qqELpsoR,Frank.Files,1EmEbFqqUygMzKGxajZiP9,Wake Up World,2025-06-07,4,Christian Metal
+6dQ9ROLQLuoP1lSS5M9wuU,Flesh,6VP6cQ8PKgQtYxaDgMG4XJ,Bond Of Iniquity,0qCCALp3PGjXS4buohRS8B,"Let Us Also Go, That We May Die With Him (John 11:16)",2024-09-13,0,Christian Metal
+4EyeNjSDT33yIdz3XvLoOU,El Último Día,6XFFOukPXi3rCTqI7Ho48O,Follder,61R6f9vOML5tUbtbQL9v5W,Abominación,2013-04-12,0,Christian Metal
+1diEv7x3jtird1seLrV8Wx,Mitzvoth,4LLfCQimJCfI12M4K5jaUs,Dynasty Of Metal,1pZHK2cJ47ksJ5VpdMaaLX,Motus Perpetuus,2004-05-15,1,Christian Metal
+651LNwHOSm0dumpUlJilzH,Desperate Serenade,4eQY3cqWVAZF9fBB11Ou67,agawae,273XX9ryvDiV7XdXmImdgW,Desperate Serenade,2025-02-17,3,Christian Metal
+6uVXLMfTdNW0OTC4Kc8F1V,Blaze of Glory,4eQY3cqWVAZF9fBB11Ou67,agawae,53NddCdQ2rKROxyB5nAqZq,Blaze of Glory,2025-02-11,3,Christian Metal
+77FP4VGqdEy2IkaXRmh1me,Through the Dreams - V1,7I2I3ZwTNJuTyZdgKvyOCX,Jonesy Amlap,2Tf5o8gVlDTwRqndi7PttB,Through the Dreams (V1),2024-10-18,0,Christian Metal
+6yEm6Cs5R71IJ4dEEADHwK,Apocalypso,3AAKxv2wUjHn3z7iekJxzq,French Car and the Bulimic Wizards,0W7vHfkOV3gMNkRCt94CTC,Refuse To Believe,2004-12-01,0,Christian Metal
+2E6TXBqZ0t0z5dTkaGlqsc,Jazzed Odd Horsey (Outerlude),7zxpUqN9tW9eJPlS9aRrgz,Galactic Cowboys,3V7RnggDu1jFzWvo7HWedX,Galactic Cowboys,1991-01-01,2,Christian Metal
+3HP1TCmROSYJ9YDrA13S4k,O Agora,5sVdhYIR8bv2n5vgOKokRJ,Banda O Plano,3GmIoRElR2a6hJAS8mci9o,Não É Tempo de Brincar,2022-01-14,1,Christian Metal
+1Icjtsiyy8oYp2Zquolynk,Element,5hutk27muJqNAjWdTLZ0CN,I-Exist,1eGAgoPe05FdwSU8SZ0e8p,Within Imagination,2009-10-17,1,Christian Metal
+661o5vBfXzLPgyD4K5qqh7,The Embers,5sjavVXVNO86dtS1uW7LVg,Where Fire May Fail,4QBzQ7mVJmHq3jVYfOU6On,The Embers,2018-07-09,2,Christian Metal
+2ffrtjPFX61IIEEfuydA9j,Eu Quero!,3vhnoynMVlVX48I7TDu1GX,Auryah,2RkisBAfnk0DuzUgxLrAzG,Ordem E Progresso,2023-04-27,0,Christian Metal
+1hPKrDjBeur9HALMILN9Bu,Guerrero Inmortal,4AkCopeKeV9zKv3Vexm7T7,Guerreros Del Metal,20k0mS7DAOm7F9injDlno9,Esclavitud Mortal,2019-05-17,2,Christian Metal
+338UQcRTcx1WSg4IyJ863v,Desecration,7iKsSlrf4lVd6tucKsKMoz,Dissidence,63yQ304oPBkRcmaCSneKxn,Seven Crosses Impaled,2025-06-27,1,Christian Metal
+0fEtGdkmtMOiy2lNbGOvNi,Guerreiros do Rei,24bVG1KIfXZdl12MmyGi9t,Whiteblade,2Q9nX4wZ15tWZrh3Dv8ZiS,Guerreiros do Rei,2022-07-15,0,Christian Metal
+6RUHa1DrRwtxvLc7pxaSHH,Resistir,622zyazAqSl0c9gCeiUdaA,Desertor Hardcore,0QdwPeYNmfzoUHQee6qZ8w,Cadeira de Rodas,2006-07-01,1,Christian Metal
+6dfZ7B8j3PIYxTsuwigLbL,Take This from Me,4qHHbYJEHpw3OF2av23ehy,Minute 2 Midnight,7ivEO97gadndkmJsMti4B7,Take This from Me - Single,2012-08-28,0,Christian Metal
+2mQjfJKQjCMIgEpthte3Ds,Quiero Estar Contigo,13cfJB5sxLt6Hu2e4DlgFT,Armadura,1LJJTCXI3EW8p6RCzgmtAD,Regálame las Llaves de Tu Corazón,2006,4,Christian Metal
+6xf3AG8xwHsKZfqLJJMO80,Inoculation,46cDzpEcg4Sq1xq4HdRER9,Aaron Pearson,5qQZfptVnQ05llXu2d7Moc,Y-Not 2K,2021-04-02,0,Christian Metal
+6cS86O8izBDV2K6WJAyTFB,The Son of God,4Y4Vr74DmOsD4omvpJJ5x4,AMOS,6lh68gUbsUdKBGUg1td6PY,Gothic Soul,1999,0,Christian Metal
+00Pwfu13AVhovKCTiBT9KE,Harbinger,2bLV1z02HhS2ovrzzurPx3,Bred 4 War,5MPs6vn5ApRtuIOgGwt2bK,Awaken The Harbinger,2021-08-02,1,Christian Metal
+6SmM3jJlQoU8cin90feYpV,Cashmeet,6hWrm794JlYc6hvbkVWQYo,Latex Angels,7LgtwYC2k8JYd4dWBrMmiq,Findom: Pay to Play,2025-05-02,0,Christian Metal
+1FnrupMakxX6LFSoEcUb2C,Sphincter,2DP3fuRkm9Tm6iIPqrKrfg,Deluge,2OcxzD90DNy6yhixpQ0BtE,The Last Friday the 13th of the Millennium,2014-01-09,1,Christian Metal
+0UoS891rzF5OIM9ovi8N1A,Branded,46II3PKJi3UVZSeGw3NnL1,Chains of Pleiades,4l3ZzdZMX9JYAsD0WVgdT4,Branded,2025-06-23,1,Christian Metal
+6ffE0ealikqFxKDAnbweJZ,Open Your Mind,6xItVyqP617Z4goLPhiWny,Seventh Avenue,7sCo80Lxyz2sW2KVvE4f7q,Between the Worlds,2003-01-27,4,Christian Metal
+1PEn0XlFlQihNQcVutTbTE,Hamba Nami,1sF71M0DGhNMlh04ZvxmtY,Exodus,5MPqj55zstqHTP1IEtSpBD,Bayavuya,2009-07-06,0,Christian Metal
+7KUrBHX7Ga4ATJHB1Q7v6W,My Fall,6XomoFBjtuNoBpCwMans2V,Fades Away,7lRJujeCeHF8ZpyK2v7UBH,You'll Never Take Me Alive,2008,0,Christian Metal
+123ZHD29AwpJXV3KzbdJ70,Golgotha,14yhPnJDymMjkxSqEdlVTs,Behold the Dawn,0gZsBpWvjnaWpaDCGaP3hb,This Is Between Me and God Remetaled,2021-07-28,0,Christian Metal
+5xGYWQdPEKKFld020eM6h0,Tuhlaajapoika,4rl7zWur3dEAdEoVaysYX3,Pelastava Tekijä,3HuPJ9QLER7oxKhvY69595,Tuhlaajapoika,2019-06-29,0,Christian Metal
+1JwGVfx6e39CUJwdPmzoGW,No olvides,7ncI4z1qVDxGi4H0Sx50VK,Behind Your Face,1e5uZZHf8ndot0GIzsemq1,Sin control,2025-04-19,1,Christian Metal
+5710Caw3xC9yHNc1x42ARA,ARMOR FOR SHEEP,5Shc4Sxfmky8bpkkatiNG2,Gone D'arc,7AODPS5vlCgVmKCOlF0spV,FEARxWONDER: THE FIRST RELIC,2025-03-14,1,Christian Metal
+6awuxV6V76nyCLVb2vqeJz,Quase uma Oração,0AZi2lWxlIKZgliFmRDoIa,+ Pesado Que O Céu,7KQ7Qu5JAjYMcvEisRtE3T,Quase uma Oração,2024-10-05,1,Christian Metal
+4UulURJxo8xd5AvferWII8,Ballbuster,6hWrm794JlYc6hvbkVWQYo,Latex Angels,6hrWbuuMy3iGyAecivpYXQ,Dark Desires |Pt. 2,2024-07-05,1,Christian Metal
+6vhZkOuhbcbtAjrJv0t47R,Pockets,6uBYfDnIom1Zb6Essy1qkz,The Havenites,507zlLMA9uiMhChlQdSQuQ,Spearmint,2009-05-15,0,Christian Metal
+6q7FwrEDDOddrRDjl85n9t,Follow the Light,0ikl8u2xTTRCUeanIAW1mt,Signum Regis,48TL1gh2AknDAcZTVyrCol,Signum Regis,2008-08-29,2,Christian Metal
+6Kxmrk9mjnwEJgE73wvuD7,Listen To My Voice,6evPViYPVqrknINn3qocAH,Michel Oliveira,4etUzZHM29A3xwTnR1UCgP,2008 / 2018 Collection,2018-06-08,0,Christian Metal
+5QdchYKKHurnpvUo80Ioxp,A Shimmer of Light,4eQY3cqWVAZF9fBB11Ou67,agawae,0LQQpO2BUQRrd8R0ommrJh,A Shimmer of Light,2025-02-07,3,Christian Metal
+5TjL9AymznxChmKi29pncw,God Rest Ye Merry Gentlemen,2LJt12tnxq3TIGjMWrSlNX,Marty Rakaczewski,5I3hxXZAqhWJfR5flbgzZt,Rockin' The Christmas Hits,2010-11-04,0,Christian Metal
+6Dr9s9zXuByHCPtx0usmdv,Bright Days of Glory,0ikl8u2xTTRCUeanIAW1mt,Signum Regis,48TL1gh2AknDAcZTVyrCol,Signum Regis,2008-08-29,2,Christian Metal
+30uSb0CxluHboGe6Wjfd0m,Чайна Таун,1JNdofMBfiBtuTbXBlr7yB,ORDERTOLIFE,3BWnK9Y31koF5hRua9IJ1c,ABYSS OF EMOTIONS,2025-09-12,0,Christian Metal
+4lnxTVjBv6TgVqwY7FVCSQ,Move,5yzkBSLrjOxyMDqLu7Dpc2,Remedy,0C6cXWlde8n7o49G9dCKR2,A Light in the Darkness,2024-06-08,4,Christian Metal
+2p5fGzELqh1LSj34JSknm8,Du Ga Mæ Et Helt Nytt Liv,3UWgnJpi450r1XevpxuyW1,Exodus,2Wqa95ogUthPy0OAjocVv4,"Sangene Fra Musicalen, Exodus",1984,1,Christian Metal
+5T1szEjIFedxAQLRD8LUbz,Summoning the Evil Spirits,4uEvsanKD8dURSgjw5iUsQ,Catacumba,69dN0zHRfVsXa6J7Rnh1F4,Decano,2025-07-08,1,Christian Metal
+5W1bFL9nNuByoYLvXblbZP,The End Is Just the Beginning,6SA5d7S32DcSKcRQu2osxl,Perpetual Legacy,26OrdYBtXwfRaJ73WDM81p,Teodrama,2024-09-20,1,Christian Metal
+5BYT1vCV86ZBzWFwOfczTJ,Shallow Graves,1gkj2iirvS02OA7AELr5b3,Poetic Descent,5UKO2BZBk25LqAxtl2ni7K,Shallow Graves,2020-07-24,2,Christian Metal
+06QtV8ctJC0jNAg24hC1Ql,Jude 1 | Enoch Prophesied | Heavy Worship,08by7GlEo0sQBO9E3qoC5W,Day of the Lord,40C5MGe1nk0KGikyN0VrU0,Jude 1 | Enoch Prophesied | Heavy Worship,2024-11-12,0,Christian Metal
+2KSC8UCGyiD3VTbM90FWyP,Sin Mirar Atrás,5T5J7eZZzWJj8MJmTTMtyx,Aleana,7lMcHnPYtAKDBcooS6UZPm,Sin Mirar Atrás,2017-10-16,0,Christian Metal
+4RGCu6Btws2KFdJEojpwCY,2 Peter 3 | Finish Your Race | Melodic Worship Grunge,08by7GlEo0sQBO9E3qoC5W,Day of the Lord,4RmJcVPUS108uCPDnFa2di,2 Peter 3 | Finish Your Race | Melodic Worship Grunge,2024-10-18,1,Christian Metal
+6Fiyr3VDQoANJq7BZi0Kuf,Glory,51GMucACCcJ7JPms6jiimI,Rapture's Resound,6Zf96D8V13M05E8GU9ZD5x,Glory,2024-12-01,0,Christian Metal
+0gNccVhDdGKVyXHEVrR9vA,León de Judá,7aBGhF6M8JiV4GG4IB01dm,Obadía,0eHSuqi6V1yH1Z0kQZy3mq,León de Judá,2023-09-12,2,Christian Metal
+1aHlCRe1cFQPdPDSqjRlef,Victorious,5WWIkeSu0emkTFcGqwissC,Here I Am,4rwkB6M5a5J5y27VJ4lGuE,Victorious,2012-05-28,0,Christian Metal
+34CiFAXcr1E5u8GAulOjyU,The Armor of God,12h8BGWgsm47NBA6n63z15,Words of Life Music,4saVCAsgM3538dNoWuJtjN,The Armor of God,2024-09-03,0,Christian Metal
+5xAYvsheHjoTvQmoxEJnUT,Three Nails,5ZYjbt88yAmb8HYxA7JTEM,Svältfödd,4w6Rme0hPPHzUmypiVa3SF,"Martyr & The Butcher, Pt. 1",2024-07-27,0,Christian Metal
+1UKb855RBjLCwPsWyYy1eD,I Can't Feel the Evil,60xWTyPT58Om8JMtu5aagH,Álef Hylliel,5MKqncsgiTCOsWy31sqxjV,夜はただの闇じゃない,2021-03-06,0,Christian Metal
+47ynLyI5yKt8iXDtfOR4sU,Dios Es Mi Conductor,2Tljx2jYWl8z2KINe3Zybj,Alvaro Trinidad,29z0I2f4QOoYpUM7m4Bpd7,Verzionez para el Rey,2018-03-15,0,Christian Metal
+2idSgw60QhK0sEleECzamz,Thuma Mina,05agOk1faYC5W7VkOVaZI5,Mzansi Strings,7x8iiqcw8vKIOGfFYy8naD,Ndikhokhele,2015-03-23,1,Christian Metal
+5mhB03tuH5PFMfN6y4tojI,Expose Me,6hWrm794JlYc6hvbkVWQYo,Latex Angels,6hrWbuuMy3iGyAecivpYXQ,Dark Desires |Pt. 2,2024-07-05,1,Christian Metal
+5wZpcQFlibDoJBDb7jLYza,psychosis,4hF1lXVx9pdgQL5Wq9ZYpM,hey wynn,4EAQJ97ihKKI7gvyw95P2Q,ihatewynn,2025-03-30,2,Christian Metal
+36AGY4GCG8cRXGCReuLkYF,Speed Demon - Commentary,6KO6G41BBLTDNYOLefWTMU,P.O.D.,7qlQDJFf0GKDRJKcEdCcEn,The Awakening (Commentary),2015-08-20,2,Christian Metal
+3xGL9Kl0N6LL6yYGnKe2Lo,Divided,0hHu7KOo4GN4Rvp7VO2BVa,Headstone 118,5Fb32Y2dkTIQLslRXAuZFu,Headstone,2009-05-01,0,Christian Metal
+728C7OsBYWtLt62WnF7aU0,Machaira,170qLAyfpGyLLTCu1QcDhL,XIII Minutes,2fAMLAZ8Eu88FWjyoUjqKe,Obsessed,2019-04-05,2,Christian Metal
+2jy0RYiesK2fZ8uzMh9PtM,Indústria Bélica,622zyazAqSl0c9gCeiUdaA,Desertor Hardcore,0QdwPeYNmfzoUHQee6qZ8w,Cadeira de Rodas,2006-07-01,0,Christian Metal
+5nKk1yfd8a7HgcPIoKDzKc,Don't Turn Away,4uOFEWy9mIcvQbr03IbPcL,Manafest,1hYdDWyEklAyRHh3vfmrl6,Glory (deluxe Edition),2021-01-01,1,Christian Metal
+5jorM2H0rWPKIIlrh2J0eI,Seppele,6Y9xcvvbhJ7un322d7KkLG,Seppele,5g2rDGDQiv7JFlTI8Rwp40,Seppele,2024-05-08,2,Christian Metal
+5P7sBkZ13PVNHAyiSIYseK,Concierto de Metal,4AkCopeKeV9zKv3Vexm7T7,Guerreros Del Metal,50EqXLi6C2qPHXFTejvC3v,Concierto de Metal,2020-10-16,1,Christian Metal
+1O2ztNJPUo1rcHyr7Vg7jK,First,2QIvuXioyJeuRmT1cm6uvc,Torquetto,5ZeCbdgzcRIKDzmi44znh9,First,2024-02-23,1,Christian Metal
+5ahvtHqloaqRCZechBJSia,THE RECKONING,2vsb6a4OjfH73uu3rck6tF,Judson Roy,4sEfEWh10DJcZW31qexY8T,THE RECKONING,2024-02-23,1,Christian Metal
+6t4jLC5VnYefCDklR1D61x,Spring Calls,2A1GtQPcVcPiIbjMmBlYm9,XIA-3,6l5zNfCT1kS1N2nQjLDbof,Interworlds,2025-02-28,0,Christian Metal
+0i1pCUWTMQPrr6f267D1iW,The Trees Are Burning,0mIj7nO9fa6oMYoQqKKSFG,Shadow Codes,7rIJL2R4CVj3oWtOELspcl,The Trees Are Burning,2025-05-30,0,Christian Metal
+2DNfJPAp4mS5Dg1Lv2kA6y,Beginning of the End,2FrXWgNXPBtVTaryY9qb0Q,Bride,5p4kHgp22q0IhUbw8NLKqI,Fist Full of Bees,2001-06-01,3,Christian Metal
+3zuB0rIa2Mtmvgy3iKeIXU,Remnants of my soul,66A6X2wa7sY2y1zYg297kY,Social Outcast,5nxoDyUP2L6v4wFzO1n6Oa,Remnants of my soul,2025-09-24,4,Christian Metal
+4KIBciBY6MhApkzgSOLGDO,Ropes and Dreams,5hutk27muJqNAjWdTLZ0CN,I-Exist,1eGAgoPe05FdwSU8SZ0e8p,Within Imagination,2009-10-17,2,Christian Metal
+6oOKtIfoha8Q4M2DpSQ3Qt,Out of Time,7nmV3jEDBv0n4C0et61Xg7,Leviticuss,3Bb92RcDxB6fSolFlsKpaK,Out of Time,2023-02-24,4,Christian Metal
+6L1QJ4LBcTDTm0ZSDFvewu,Others,3kVmVUXVBhH9DCXnkNzKtg,Flood,0FRW16xsMZFL2SL7lTKYSZ,Ripped into Exile,2024-03-27,4,Christian Metal
+1Cx67OFPSfCeDeBBTDGHP9,Mitti,54SAMt9wUWsYy1O0zEFFlH,Revival,6Ms57cmtUWv160E0Ybn6hN,Mitti,2017-01-26,1,Christian Metal
+3RkMJnDyDUGbV2UrZznPY2,In Your Hands,5eVIKVPXZCk6dBCIqG58dF,Acacia,6PCDpSmRZArtwelv5If08Y,In Your Hands,2023-06-02,0,Christian Metal
+5mscnUSQOqH4AxCUYFSJOG,Watermelon Blood,5foy0C3uRKsbKh7HsftCST,Fallstar,47uHbtL1pUcwesWfV4xdjL,"Lost Songs, Vol. 1 ""Summer Cats""",2024-12-13,1,Christian Metal
+5fdnHYD04ynUGItpeUd5aJ,Angel Of Lust,6hWrm794JlYc6hvbkVWQYo,Latex Angels,1epwo6e2For09JH5lS0s9V,Dark Desires | Pt. 1,2024-04-17,2,Christian Metal
+1B1s58LsrEV7mYy8TCaEl6,Angel or Demon?,6hWrm794JlYc6hvbkVWQYo,Latex Angels,1epwo6e2For09JH5lS0s9V,Dark Desires | Pt. 1,2024-04-17,0,Christian Metal
+0SejUPIQg2CyvQHzMoJmvQ,Lift Me Up,3rQvgpTIv23yvK4WxLNHhE,Brad Smith,6cWAZU9wbjHkZ2yvhCQOAS,Broken Bones and Bullet Holes,2024-11-01,1,Christian Metal
+6cI3C5i381AYa0jKwbfoSQ,Arder,7xMttSfwh4bC4pgVwF29PO,Blessong,6epR7FFHHYzXL9nb3Vb1mF,Un Nuevo Comienzo,2023-09-16,1,Christian Metal
+1h7NIT9U9tCcVOurI20aWa,Mark 14 | Supper Hymn | Heavy Worship,08by7GlEo0sQBO9E3qoC5W,Day of the Lord,0h8EDcR0lTgHBgcdWvr0nG,Mark 14 | Supper Hymn | Heavy Worship,2025-02-15,1,Christian Metal
+7AMZbrsjuNINOGCOC3koll,Alright Alright,4gL3vIurktoJgKfCExLlAQ,Stillwell,2AwP4lYAafvmq8bM9vVEVG,Supernatural Miracle,2020-09-18,1,Christian Metal
+2W20bRxgQCjEPEXqRTEqGM,Nocte Exodi - Remastered,4dKXrXlEIHVsLjjJGEM0m3,Holy Thunder,3toD2UkNYv1qKsYrbcHetb,Liber Exodi: Servitus Aegypti (Remastered),2025-05-30,1,Christian Metal
+4OdgyfDNu6g4SdT6Ot8HVz,Hybrid,05EFmzfG7BQpx8OuHkVQMz,Scars Over,2nzthMrHTUSSoCeN2Ke0dh,Hybrid,2025-01-17,1,Christian Metal
+5KhOFQdeMvWmKhAb53aI1k,Writing's On The Wall,6lrFA9FfJnrNcIpdoGgO5a,Carl Bailey,4AoWTs1v2udUnPrDg9s86W,Writing's On The Wall,2025-03-10,3,Christian Metal
+4daqiByNUBZchhDNAzFdLI,Follow Me - Alternative Version,22oyZI0CrBWBe7eHVd9LP1,Allos,3dkgGfwlqDaKKWe0cQCJ3F,Follow Me (Alternative Version),2025-06-19,2,Christian Metal
+5AXRjasS0m6uywjbFhJs6b,I Bite Tonight,6hWrm794JlYc6hvbkVWQYo,Latex Angels,1epwo6e2For09JH5lS0s9V,Dark Desires | Pt. 1,2024-04-17,0,Christian Metal
+0mj7tsIwO8uH3DIY3Z2zQM,Cleanin' Out My Closet,4uOFEWy9mIcvQbr03IbPcL,Manafest,4d5yB6uYRMPPJYnFXXCVmZ,Here I Am,2024-04-19,3,Christian Metal
+2EjWysCODU0RPrfrdx1YlM,Terdiam,4eQY3cqWVAZF9fBB11Ou67,agawae,5HvoiRK4WKDyU4uqFdqdrw,Terdiam,2025-05-21,2,Christian Metal
+6nDyjCDYvFj1g1gdxUo8rf,Govern Me Harder,4l8QsZ0KAngipngYUbA7sA,Faith Frenzy,6cuV6uRfg55MOnXJ6faRPJ,Govern Me Harder,2025-07-19,1,Christian Metal
+2bU7ag6O1KL2NxQOxVwzDT,Not Alone (Low Without Background Vocals) - [Performance Track],01crEa9G3pNpXZ5m7wuHOk,Red,4nzpNHVZU80jBXzFyOGXL4,Not Alone [Performance Tracks],2011-04-08,2,Christian Metal
+0uBRqw3ggNigJOg1Sftiq7,Strength Of My Life - Commentary,6KO6G41BBLTDNYOLefWTMU,P.O.D.,1oncoFrsVi2xsmJge6sHbp,SoCal Sessions Commentary,2014-11-18,2,Christian Metal
+7uB0CdEWe46QvsMgUOngSg,Bloodstained Redemption,4eQY3cqWVAZF9fBB11Ou67,agawae,2siIfeCnt582PZ5CvmgsvJ,Bloodstained Redemption,2025-02-08,0,Christian Metal
+2nXWLGVuBIghryW5gdlxPL,Burning Down the House,4SWgMzSiWoSEhEN54jg1tz,Avalon,1PxwpdhwAiVx3iPo1Ryq0h,Mystic Places,2011-05-16,0,Christian Metal
+6YkVk0P9Uslsssn2RZV9Qm,Revelação da Morte,3WIkndJeUejHHXp47hly1R,Harpazo,3LDuiK9EBLOiBtMSp5h8RE,REVELAÇÃO DA MORTE,2024-12-30,2,Christian Metal
+14vGn4wkRUewVoJN5tqgJ4,Plagues of Wrath,4KcLdMaw3ai9gReju7aAaZ,Pastor Brad,1W6uduOI73w3CHGyhcPwh9,Sinai's Sacred Metal Thunder,2025-02-06,3,Christian Metal
+5psCRdw2kM23REGYsE1x8y,Above The Clouds,5Tf1Yt9etDTi0HmlNrXDOL,Altarive,2zJXonqcjUxrjHsnVS3Vw3,Above The Clouds,2016-02-22,1,Christian Metal
+3JIsr03oWicxqvcpWW0Pyv,Reverie,5qoFVoJdlZMeWZ1wUHZPJP,The Grave Denial,55qXpw33gS5LhUnrR8I0ls,Reverie,2024-02-14,1,Christian Metal
+5CHWRsmJcEEqme93omp003,Apostasia,0LW4TsOaVb6yDtygsuyt6u,FERMER,5ZH183GFqa1ZvKP5rQP6Qp,Apostasia,2024-06-07,1,Christian Metal
+1SMAQB6aGNRVdhNQRRcYS7,No Compromise,4l8QsZ0KAngipngYUbA7sA,Faith Frenzy,0fN68c86045Dkqv4tTo1R7,No Compromise,2025-07-26,1,Christian Metal
+4QQGdqQ2HWII8fPGC6L57b,Indefinitely,5hutk27muJqNAjWdTLZ0CN,I-Exist,1eGAgoPe05FdwSU8SZ0e8p,Within Imagination,2009-10-17,1,Christian Metal
+7gPxD8JdgDTMK0nhEJSP32,You Are Highly Lifted Up,5Sp6Am849lTEgAtaWBnnfi,Baru,6m0Yl1plKCMTVhRNioTdX6,You Are Highly Lifted Up,2025-06-29,4,Christian Metal
+5nD2ie5lc2KgBA4uLHqQBY,Un nuevo comienzo,2Tljx2jYWl8z2KINe3Zybj,Alvaro Trinidad,2w6eXLzxAXegy5BffHFNzu,Un nuevo comienzo,2024-12-30,0,Christian Metal
+2fe3B9wT6jdvbDNFbhRFIS,Pernahkah,4eQY3cqWVAZF9fBB11Ou67,agawae,4LJQ2ldwdekytmZqX5zgpa,Pernahkah,2025-05-21,2,Christian Metal
+22Ga3wWTKTRMTspkpzlUuI,Holi Me Budhawa Mehar Khoje,4ntt3rmYzBxnj7v4lruv0T,Chandan Singh,5iieSyTF3kRZwCk4Mzp4PL,Holi Me Budhawa Mehar Khoje,2022-04-15,3,Christian Metal
+3VegHwbsG1Z6Omv8dismbQ,La Séptima Copa,1etnONogpnjlmN8AgrFQH4,Mefiboseth,5CNsSx00bmslZrMgkO30lG,Hora Novena,2017-10-31,1,Christian Metal
+5ugkrIJHF4tiH82eSHwzSx,SEEKING GRACE,3aLcVrsfmRq8O8yzluIAcR,KXINGXCLUTXCH,7FWnqZJfgAZTylRMXMRTyb,SEEKING GRACE,2024-05-18,2,Christian Metal
+2pxCxQmJGODyD0QAZTzPS3,Whole Lotta Love,4gL3vIurktoJgKfCExLlAQ,Stillwell,3LZ4hC6L9bLjGmvRD1oaFS,Dirtbag,2011-05-10,1,Christian Metal
+0MGy7cSZTjGYcDQsO9OQwt,Lights & Fire,0Z88iXWc4YVhtu1eFtsGk6,Wolves At The Gate,2rDc9fiNUDMFsvBdTCjWDK,Deadweight,2022-03-02,4,Christian Metal
+5NNeSG106tEVeCnxItGg3L,Black Hole Wisdom,4SWgMzSiWoSEhEN54jg1tz,Avalon,1C9FascF03C3b766m9w8gB,Eurasia,2000,1,Christian Metal
+3XkX3R0d20f4uKgdRac7kM,Day of Requiem - Shorter Version,4vcGqoiAShFKaawyxOOd9X,He Leadeth Us,4vkDj3gJptF2XbNXtimopw,Day of Requiem (Shorter Version),2024-10-23,2,Christian Metal
+6b4azvrElXFcMkNJXcenRy,g. How Does It Feel?,7zxpUqN9tW9eJPlS9aRrgz,Galactic Cowboys,1eXoU8UhMGJXsp1dTZR8HF,At the End of the Day,1998-09-22,1,Christian Metal
+0oyseKRgsboltEQZY55laS,Amores de verão,2uSgFUnFbpvxpwVVfjOCP2,Caio Goltare,4L9Y0ZjivMotTsXoLM32C2,Amores de verão,2024-07-06,0,Christian Metal
+6QG556FXCJFrQbfj7Vr2Vw,Ihmisen jälki,5Vjz4a6ZZTS5LTTBRpcIeM,Sotahuuto,4Qu8bO3oeQNG4BZRzIWMql,Ihmisen jälki,2007-05-01,1,Christian Metal
+0BPYBExH8S9vz6CzFCvyYu,Miresere (Mercy),4vcGqoiAShFKaawyxOOd9X,He Leadeth Us,47cKXkdQDgI73l8mDr0Y02,Miserere (Psalm 51),2025-04-15,1,Christian Metal
+3TZXZuNVM3PqeCdY97YrvT,Golden Rule,2lhMv1RF5oWdks5kuzloRn,Embodyment,5QeqBV506xHy9qjeSxnrFr,Songs for the Living,2018-03-28,4,Christian Metal
+3FEzfB3RpktGRj3cnHoiUC,Te Encontrar,4FJHiPSU9K1ktCirUSlMvh,Anjo Sudário,5zpUUAdflPtqoREc6SBXla,Anjo Sudário,2019-04-11,0,Christian Metal
+6AHPBp6h3RIs258UYNrUGg,PEEL MY SKIN,3aLcVrsfmRq8O8yzluIAcR,KXINGXCLUTXCH,6hH1xb5svfYz8a80THjoxO,PEEL MY SKIN,2025-10-02,4,Christian Metal
+1PG2kUtgXQ3H8MnDgFx7rS,REMADE IN OUR IMAGE,5Shc4Sxfmky8bpkkatiNG2,Gone D'arc,7AODPS5vlCgVmKCOlF0spV,FEARxWONDER: THE FIRST RELIC,2025-03-14,1,Christian Metal
+6aUu03VwSRpf3wcPcm5NTW,Transmission,2A1GtQPcVcPiIbjMmBlYm9,XIA-3,6l5zNfCT1kS1N2nQjLDbof,Interworlds,2025-02-28,0,Christian Metal
+1aaNwliOFVLaGh1LDai2pj,Sacred Silence Broken,06Px6Q2GHKtaeyNRtgVKMX,Confessions in Agony,32UnWWnABu65aTr36R7UZT,"Sacred Silence, Broken",2025-08-29,1,Christian Metal
+2u6uuTqgEiiylfDcHjFeRz,Kohti Golgataa,6c1eZx2DzuiIQdDex8Cccj,Totuus,310U6WIRU1U2jLuOBmMXhn,Kohti Golgataa,2023-11-03,1,Christian Metal
+7iqyOzzGgxNfniPiaozzwf,Cursed,79xXlDgit62vmf8ZEZOCpv,Vampyro Crimson,5oHeFBKhBRnQEU8o0k7MHq,Asylum 1783,2024-09-19,0,Christian Metal
+4srRJgm36wqXTz365IlIdj,Severed,3ZBOhGwMMG8ZxWCxQHZ9Mt,Crimson Overtone,2Bmuryzso3xnJoUcw5amxu,Assimilation,2022-07-15,1,Christian Metal
+3DwVXMLfPNRQCoLXxrkiaL,Repent,72wqGXiEJmvm4SSRMTnXIU,Angel Machine,6bHAuwmHgzX7Hb46dHorEW,Of No Reputation,2022-06-25,4,Christian Metal
+0wGbzxHvFIbercLMbFXty4,Weeping Unplugged,733om6iiemJgpY0BXazl15,Tierra Vacía,2sqv3g2c13w2FxdJUZSagq,Weeping Unplugged,2025-04-11,2,Christian Metal
+4UJ2xTvZ8pFVUEp9qZTh8O,First Blood,4eZzrrWBQvaZd52SwFoMWt,Desyre,277lyWodDTpxCE2o1HTY4C,Glamtron,2013-10-09,0,Christian Metal
+2A5VONLn9JTkWzkqXvY9i2,In Your Eyes,6bbd20Oegijng0wKz34n8T,Cries of the Fallen,7EjoI7mb3FTlpGrS4lpHbC,Cries Of The Fallen,2023-02-24,1,Christian Metal
+3LRm5yU32dIC2uGMCyTcph,MANIPULATOR,1potlLW7hgiJHPQ1en1RGu,Nesdam,4UNZDxbEhWfJJaSfNrxghi,MANIPULATOR,2021-09-16,1,Christian Metal
+649YWZCLsfmySepiNzKjy1,Time,36mWpZpU8lKS4iQrBs0p6r,Vertilizar,2XqEqYJM9YbF4NKLIwh1RS,Vertilizar,2018-09-21,1,Christian Metal
+4IPximBC11jdIPRu9PSfKy,Repent,1U34kqAhfzfPFgkMMGv6zs,Saved Strength,0hfwD1pdr4otrB8XhYi39j,Repent,2025-09-23,1,Christian Metal
+0Gd11k3t3xokODf682Jxup,Broken System,3a12I8AbL2eRHypx17bucR,Classic Disaster,2AzRol83IfYRckoz0XuHrP,Broken System,2024-01-26,3,Christian Metal
+7GlLst2M9zrdvVq60tBsJX,Children of War,4SWgMzSiWoSEhEN54jg1tz,Avalon,6AuSIBYP1d1d1jLrDRgrgz,Vision Eden,1998,1,Christian Metal
+2RMVxtCkCx31LxJjeOV0Fi,Captors,49oKGCgTJYcOZq9BScORs5,To No Avail,0BC5CuJrMlBJlBfQl827Lq,Captors,2025-09-07,3,Christian Metal
+6kXLzsLk8WBOm5FCvoNV12,Conflito,4PtdbgfQ9Yj0jEcYb1Clte,Last Freak,5cG0JNAposCzNt0mQmKGTs,Conflito,2025-06-09,1,Christian Metal
+1w2XcbpdPUNplaMDOv3rmb,"Too Little, Too Late",06SejZwOCPynjqUjKyFGdC,The Darksiders,5dNJwcKDB0ACPbojTagLE9,They're Just Notes,2024-10-31,0,Christian Metal
+5gxGFU9zR4s88q2jiAP79g,Malas Decisiones - Live,2OlLG0EvmsgJIXEHD19SCM,Capitán Ríos,243l5HtHdn0yPreIFjxlaN,Psicogeografía,2022-10-14,1,Christian Metal
+36fejmt8cXX0Gca0cxcDUf,Blood in the Sand,3zhU4FA8j4z1u1v3u6hS7x,Thee Final Chaptre,3e7fc3ciFiFU7rdS9vcRWV,So Let It Be Done,2021-12-24,1,Christian Metal
+5R2sqwQ6qqO8VlKp3TTe8i,All for One,1buKzJRsNqt1ZZGitqgFXx,Divinefire,4ehddy61j8hXBSmJJLcSB0,Into a New Dimension,2006-01-01,3,Christian Metal
+5ae6kkNP3CSUCV2OkT5Cgb,It Sucks,4KlV4zqdtiN9aHFUAqki5r,Kill Authority,6amn69a5R1EiQYCt6quwZJ,1994+,2019-02-18,0,Christian Metal
+7h5dmjHwupYi1HS1QkXHn7,Masquerade,1buKzJRsNqt1ZZGitqgFXx,Divinefire,3jCkgGGINbEwauAvXgJfIE,Eye of the Storm,2011-03-25,3,Christian Metal
+5EprzJRIxf1zbF9h6nKMY8,Imundo,2H0Hxd1BEVwSXR5263BGGx,Antiochia,1n0jE4o5HuRnywk6UGjLHP,Confissões,2020-07-04,0,Christian Metal
+4vJX2OPqJJENNo83e2hRni,Abismo da Solidão,6BTKk372SLF7DCSJ1dUEXI,Days Of Glory,4Iq7FuOM5uj43BGNCEbzoG,Days Of Glory,2012,2,Christian Metal
+3LL9KM4iLg5yRHPiIsuJu2,Apocalypse Warehouse,09tSpEfvzz4D8s2C6EvOb2,DJ Aljur Gomez,1IfWpRHGuDFvTr9USWbUW8,Apocalypse Warehouse,2025-07-06,0,Christian Metal
+3SnBzEQ1uliJI8okMgJUhm,All In,6BTKk372SLF7DCSJ1dUEXI,Days Of Glory,4Iq7FuOM5uj43BGNCEbzoG,Days Of Glory,2012,1,Christian Metal
+2NYelBHPI0JblxldOvpCHR,Geest,5Vy1UZdYqjxm4UBa6bis56,Wapenveld,71Rbd4KTGt2D5i8OBSZgEs,Beneveld Door De Mist,2021-09-26,1,Christian Metal
+1XbtLxJnPwepyj3CYZ9k9B,The Wrath of God Packaged Aka Tactical Nuclear Warfare,3AAKxv2wUjHn3z7iekJxzq,French Car and the Bulimic Wizards,68BpvAc70EKvkNU0gZwTZr,Religion Is Good For You,2004-10-01,0,Christian Metal
+3M6TVYP9URdyAV9xbMgaiM,The Stand,2eXM6plUGS4TET0MuIy0hT,Saviour Machine,5DJKTZRA0fie6KPE9o210w,ll,1996-01-01,4,Christian Metal
+5ulijBUhayFdbZLCnP9078,Torture,7dPci6f1wSaMR2McjBdb4C,XXI,0HTdySLOpbnykzxoN4BcTB,The Hard Part About Growing Up,2024-10-18,3,Christian Metal
+0uVPjEa5DF5w1XNqbYjIM2,Indignant,2sbYRMeu9y2hjVsdKO2Wp1,Vitamin F,1vTTm08oiwi1g4V4jrqYvS,Flow,1999-04-13,1,Christian Metal
+5JZoHhJa8GCcNFNxF2LCWx,What a Joke (Live),4LNTVBzAyLZFhrxZqxi3LV,Lordchain,3UsiG3DfzXDwlUmwwaG0It,Will You Heed the Call,2025-08-29,1,Christian Metal
+7aQQB0oIwFyRMGmczMXXNV,Feed Me Your Poison,1pD0FuXGzQo0dHaof8BpW4,Dan Platinum,3t4cNLzBd6CA6FBWcK9Zk9,Clash 2.5,2024-08-23,1,Christian Metal
+6oUOihOApJgKwwVHzUNJwO,Aira & Aidan,4eQY3cqWVAZF9fBB11Ou67,agawae,6LFomkBrtX9PlGr8bcaOK5,Aira & Aidan,2025-06-15,3,Christian Metal
+1BLKGXFBjKqSQHlxmvKAOu,Your Kingdom Come,2Xksh9z8iD6OoLYZkTGDbx,YKC,1tbxYKGgIViMk2GyXC0TjA,Your Kingdom Come,2025-04-25,2,Christian Metal
+1ZGR9nToQHzDevBjwmZqox,Skeptic - Instrumental,3zRchZh9lLY41lWJRZw6e5,Theody,1HFVoazahaXCAks3sBTENz,Skeptic,2021-04-20,1,Christian Metal
+3idsGHS6URDFXlzJtuwg9S,Naufrage,6271yMaS5qu81E5fZJP741,Richard Lyonheart,5BRf2PxHwpGTL0LYd1lA7b,Naufrage,2025-09-25,1,Christian Metal
+5NO1v0c5YiS0NH1nj2CJFh,The Stone of Sinai,4KcLdMaw3ai9gReju7aAaZ,Pastor Brad,1W6uduOI73w3CHGyhcPwh9,Sinai's Sacred Metal Thunder,2025-02-06,1,Christian Metal
+6hFzBudIk45cdHJvxdA8D6,"Hil Dig, Frelser og Forsoner",22hXHMtmxbEBHtgzhpQVkN,At The Mountain,4hyNZK1cjDYryVGmpsFTyM,Savior and Redeemer,2025-05-28,3,Christian Metal
+2uxKbXDwJyyGZcOosKYtMA,Matter Of Time,5byg90wTxATnhB6kK253DF,Fight The Fade,5pBdaEW6xyJeNbByPPSWNr,Matter Of Time,2021-05-26,1,Christian Metal
+6dMDzFBFvLyz0byL4nca8g,Tha Pain,6evPViYPVqrknINn3qocAH,Michel Oliveira,4nut5gG5QExEcyhYNlfvZQ,"M.O Archives, Vol. 1",2022-03-17,2,Christian Metal
+4QFNHMKQqccOPVF4WzXNXB,Lijken in het Leuvenumse Woud,5Vy1UZdYqjxm4UBa6bis56,Wapenveld,71Rbd4KTGt2D5i8OBSZgEs,Beneveld Door De Mist,2021-09-26,0,Christian Metal
