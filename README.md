@@ -1,3 +1,10 @@
+Hey! This is the repository for a data analysis project I worked on during the Fall 2025 semester.
+
+I've always been curious about the actual differences between metal music subgenres (like Folk, Death, Black, Gothic, etc.), so I decided to analyze their acoustic features on Spotify to see how they differ and if those technical features actually affect a track's popularity.
+
+This repo includes everything from my custom data extraction scripts to the final statistical analysis and the LaTeX report.
+LaTeX report is in the docs report.
+
 What's inside?
 1. Data Collection (Building my own dataset)
 Instead of just downloading a ready-made Kaggle dataset, I wanted to build my own from scratch. I wrote custom Python scripts (like vericek.py) using spotipy and the Spotify Web API to pull acoustic metadata (danceability, energy, loudness, valence, etc.) for thousands of tracks. Note: I also ended up using redis for caching to handle the API request limits smoothly.
